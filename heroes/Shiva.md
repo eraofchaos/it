@@ -3,12 +3,12 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva è nata da una famiglia dedita da sempre alla domesticazione e l'addestramento dei Roc. Ha rinunciato a questa tradizione per arruolarsi come mercenaria nell'esercito di Krewlod."
 heroID: 60603
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: it
 ref: "Shiva"
 toc: true
 ---
- **Description:** Shiva è nata da una famiglia dedita da sempre alla domesticazione e l'addestramento dei Roc. Ha rinunciato a questa tradizione per arruolarsi come mercenaria nell'esercito di Krewlod.
+ **Descrizione:** Shiva è nata da una famiglia dedita da sempre alla domesticazione e l'addestramento dei Roc. Ha rinunciato a questa tradizione per arruolarsi come mercenaria nell'esercito di Krewlod.
 ## Details
  **Profession:** Barbaro
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia del Fuoco
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
 ### 2 Spell: Scudo d'Aria
- **Description:** Aumenta la Schivata delle unità alleate nell'area d'effetto ({($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>%) e le rende immuni ai danni degli incantesimi di tipo Aria per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Descrizione:** Aumenta la Schivata delle unità alleate nell'area d'effetto ({($buffaddattr12+$buffaddattr13*($sklevel-1))/20}<(($buffaddattr12+$buffaddattr13*($sklevel-1))/20)*($a124+$a126+$a134+$a136)>%) e le rende immuni ai danni degli incantesimi di tipo Aria per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 3 Spell: Elementale dell'aria
- **Description:** Evoca 9 Elementali dell'aria di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> nell'area bersaglio. Gli Elementali dell'aria rimangono in campo per 20 secondi, attaccano a distanza e hanno <span style="color: #48b946;font-size:20px">{220+60*($sklevel-1)}</span><span style="color: black"><(220+60*($sklevel-1))*$talent14+$talent13> ATT e <span style="color: #48b946;font-size:20px">{3900+1694*($sklevel-1)}</span><span style="color: black"><(3900+1694*($sklevel-1))*$talent14+$talent13> PF.
+ **Descrizione:** Evoca 9 Elementali dell'aria di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> nell'area bersaglio. Gli Elementali dell'aria rimangono in campo per 20 secondi, attaccano a distanza e hanno <span style="color: #48b946;font-size:20px">{220+60*($sklevel-1)}</span><span style="color: black"><(220+60*($sklevel-1))*$talent14+$talent13> ATT e <span style="color: #48b946;font-size:20px">{3900+1694*($sklevel-1)}</span><span style="color: black"><(3900+1694*($sklevel-1))*$talent14+$talent13> PF.
 
 ### 4 Spell: Tempesta
- **Description:** Evoca una Tempesta nell'area bersaglio che infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria ogni 0,5 secondi a tutte le unità nell'area d'effetto e ne riduce la Vel ATT del 15% per {$olast11/1000} sec.
+ **Descrizione:** Evoca una Tempesta nell'area bersaglio che infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria ogni 0,5 secondi a tutte le unità nell'area d'effetto e ne riduce la Vel ATT del 15% per {$olast11/1000} sec.
 
 
 ## HERO Biography
@@ -51,7 +51,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Volo sulle ali della tempesta. Il cielo è il mio terreno di caccia! </span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Volo sulle ali della tempesta. Il cielo è il mio terreno di caccia! </span>
 
 
 

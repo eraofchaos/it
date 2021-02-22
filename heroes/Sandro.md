@@ -3,12 +3,12 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro è un negromante che ha esplorato ogni angolo di Enroth e dell'Erathia. Attualmente combatte per Finneas Vilmar, Signore dei negromanti di Deyja."
 heroID: 60501
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: it
 ref: "Sandro"
 toc: true
 ---
- **Description:** Sandro è un negromante che ha esplorato ogni angolo di Enroth e dell'Erathia. Attualmente combatte per Finneas Vilmar, Signore dei negromanti di Deyja.
+ **Descrizione:** Sandro è un negromante che ha esplorato ogni angolo di Enroth e dell'Erathia. Attualmente combatte per Finneas Vilmar, Signore dei negromanti di Deyja.
 ## Details
  **Profession:** Negromante
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia della Terra
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> danni da Terra alle unità nemiche nell'area d'effetto e le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 3 secondi.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> danni da Terra alle unità nemiche nell'area d'effetto e le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 3 secondi.
 
 ### 2 Spell: Anima morti
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> danni da Terra alle unità non Necropoli nemiche nell'area d'effetto e cura di <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> PF le unità Necropoli alleate.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> danni da Terra alle unità non Necropoli nemiche nell'area d'effetto e cura di <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+0.4*$a130+0.4*$a131)+$a101> PF le unità Necropoli alleate.
 
 ### 3 Spell: Implosione
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> danni da Terra alle unità nemiche nell'area d'effetto, con una probabilità del 50% di <span style="color: #e07c44;font-size:20px">stordirle</span><span style="color: black"> per 2 secondi.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> danni da Terra alle unità nemiche nell'area d'effetto, con una probabilità del 50% di <span style="color: #e07c44;font-size:20px">stordirle</span><span style="color: black"> per 2 secondi.
 
 ### 4 Spell: Momenti bui
- **Description:** Infligge danni da Terra pari a <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> più il 5% dei PF massimi a tutte le unità non Necropoli nemiche e applica <span style="color: #e07c44;font-size:20px">Morale basso</span><span style="color: black"> per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec. Inoltre, le unità Necropoli alleate recuperano PF pari a <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, e subiscono <span style="color: #e07c44;font-size:20px">Morale basso</span><span style="color: black">.
+ **Descrizione:** Infligge danni da Terra pari a <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> più il 5% dei PF massimi a tutte le unità non Necropoli nemiche e applica <span style="color: #e07c44;font-size:20px">Morale basso</span><span style="color: black"> per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec. Inoltre, le unità Necropoli alleate recuperano PF pari a <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, e subiscono <span style="color: #e07c44;font-size:20px">Morale basso</span><span style="color: black">.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Description:** <span style="color: #ffffff;font-size:20px">La morte è nuova vita; le mie menzogne non sono che trappole costruite per sconcertarti. </span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">La morte è nuova vita; le mie menzogne non sono che trappole costruite per sconcertarti. </span>
 
 
 ### Skin 2: **Intrigo fatale**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Una sola goccia basterebbe a rovesciare interi regni. </span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Una sola goccia basterebbe a rovesciare interi regni. </span>
 
  **Skin features:** 
 

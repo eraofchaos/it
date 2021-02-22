@@ -3,12 +3,12 @@ title: "Cassanbel"
 permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Pur avendo perso il proprio "padre" a causa delle azioni degli umani, Cassanbel ha scelto di aiutare tutti coloro che vivono sul mare."
 heroID: 61701
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-22
 locale: it
 ref: "Cassanbel"
 toc: true
 ---
- **Description:** Pur avendo perso il proprio "padre" a causa delle azioni degli umani, Cassanbel ha scelto di aiutare tutti coloro che vivono sul mare.
+ **Descrizione:** Pur avendo perso il proprio "padre" a causa delle azioni degli umani, Cassanbel ha scelto di aiutare tutti coloro che vivono sul mare.
 ## Details
  **Profession:** Creature oceaniche
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia del Ghiaccio
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> danni da Acqua alle unità nemiche nell'area d'effetto e le <span style="color: #e07c44;font-size:20px">rallenta</span><span style="color: black"> per 8 secondi.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> danni da Acqua alle unità nemiche nell'area d'effetto e le <span style="color: #e07c44;font-size:20px">rallenta</span><span style="color: black"> per 8 secondi.
 
 ### 2 Spell: Benedizione dell'oceano
- **Description:** Cura di <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))> PF le unità alleate bersagliate nell'area d'effetto.
+ **Descrizione:** Cura di <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))> PF le unità alleate bersagliate nell'area d'effetto.
 
 ### 3 Spell: Scudo di Ghiaccio
- **Description:** Rende le unità alleate bersagliate in un'ampia area immuni ai danni da Acqua per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s. Le unità nemiche che attaccano le unità così protette vengono <span style="color: #e07c44;font-size:20px">&lt;rallentate&gt;</span><span style="color: black"> per 3 secondi.
+ **Descrizione:** Rende le unità alleate bersagliate in un'ampia area immuni ai danni da Acqua per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s. Le unità nemiche che attaccano le unità così protette vengono <span style="color: #e07c44;font-size:20px">&lt;rallentate&gt;</span><span style="color: black"> per 3 secondi.
 
 ### 4 Spell: Maremoto
- **Description:** Scatena un Maremoto che colpisce tutte le unità nemiche, infliggendo <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> danni da Acqua e causando <span style="color: #e07c44;font-size:20px">Impedimento</span><span style="color: black"> per 10 secondi. Inoltre, ha una probabilità del 20% di <span style="color: #e07c44;font-size:20px">congelarle</span><span style="color: black"> per 2 secondi.
+ **Descrizione:** Scatena un Maremoto che colpisce tutte le unità nemiche, infliggendo <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> danni da Acqua e causando <span style="color: #e07c44;font-size:20px">Impedimento</span><span style="color: black"> per 10 secondi. Inoltre, ha una probabilità del 20% di <span style="color: #e07c44;font-size:20px">congelarle</span><span style="color: black"> per 2 secondi.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Proteggerò le Terre sommerse indifese e spazzerò via quei pirati arroganti!</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Proteggerò le Terre sommerse indifese e spazzerò via quei pirati arroganti!</span>
 
 
 ### Skin 2: **Estate da cardiopalmo**
 
- **Description:** <span style="color: #ffffff;font-size:20px">La calura estiva non mi ferma! Io voglio donare dolcezza a tutto il mondo!</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">La calura estiva non mi ferma! Io voglio donare dolcezza a tutto il mondo!</span>
 
  **Skin features:** 
 
