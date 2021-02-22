@@ -20,7 +20,7 @@ description: "Era of Chaos Wiki portal: Units, Heroes, Artifacts, Events and mor
 keywords:           EraOfChaos Units Heroes Artifacts Events HeroesMightAndMagicMobile
 language:           "it" 
 url:                "https://eraofchaos.github.io/it/"
-logo: "/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
+logo: "https://eraofchaos.github.io/assets/images/HMM_EraOfChaos_Wiki_Logo.png"
 google_ad_client:   "ca-pub-3093097053913638"
 # theme: minimal-mistakes-jekyll
 
@@ -82,7 +82,7 @@ analytics:
 
 author:
   name   : "MisterX"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://eraofchaos.github.io/assets/images/bio-photo.jpg"
   bio    : "Camel is Horse designed by committee"
   links:
     - label: "Website"
@@ -198,56 +198,6 @@ defaults:
       read_time: false
       sidebar:
         nav: "docs"
-  # RU
-  - scope:
-      path: "ru"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_ru"
-  # FR roes
-  - scope:
-      path: "fr"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_fr"
-  # DE heroes
-  - scope:
-      path: "de"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_de"
-  # IT heroes
-  - scope:
-      path: "it"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_it"
-  # ES heroes
-  - scope:
-      path: "es"
-      type: pages
-    values:
-      layout: single
-      author_profile: false
-      read_time: false
-      sidebar:
-        nav: "docs_es"
   # Alchemy Workshop
   - scope:
       path: "Alchemy Workshop"
