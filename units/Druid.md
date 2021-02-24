@@ -3,7 +3,7 @@ title: "Druido"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Druido"
 toc: true

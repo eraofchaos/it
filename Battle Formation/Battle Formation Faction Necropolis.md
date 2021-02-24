@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Necropoli"
 permalink: /Battle Formation/Battle Formation Faction Necropolis
 excerpt: "Formazione di battaglia Necropoli"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "BattleFormationFactionNecropolis"
 toc: false

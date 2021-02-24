@@ -3,7 +3,7 @@ title: "Leprecauno"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Coperti da vesti di un verde brillante, i Leprecauni erano un tempo semplici figli della foresta e vivevano liberi e spensierati sotto l'egida dell'Albero del Mondo. Tuttavia, i corni di guerra che risuonano in tutta l'Erathia hanno donato loro il coraggio necessario a proteggere l'Albero."
 unitID: 909
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Leprecauno"
 toc: true
@@ -196,10 +196,10 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Pugno possente
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è affetto da &lt;Combustione&gt;, inoltre, la sua DIF viene ridotta del 2%. Ciascun debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è affetto da &lt;Combustione&gt;, inoltre, la sua DIF viene ridotta del 2%. Il debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
 
 ### 2nd Skill (or 1st): Colpo diretto
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è &lt;congelato&gt;, inoltre, la sua DIF viene ridotta del 2%. Ciascun debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è &lt;congelato&gt;, inoltre, la sua DIF viene ridotta del 2%. Il debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
 
 ### 3rd Skill (or 4th): Numero fortunato
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sorte&gt;</span><span style="color: #645252;font-size:18px"> Gli effetti delle tecniche del Leprecauno sono cumulabili da 5 a 12 volte in più.</span>

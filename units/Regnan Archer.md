@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Arciere di Regna"
 toc: true
@@ -170,7 +170,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Descrizione:** 
+ **Awaking Descrizione:** Gli occhi rossi delle piratesse incutono un grande terrore nel cuore degli uomini. Gli stolti ne sono subito irretiti, ma coloro che dimostrano di essere veramente intelligenti non si lasciano mai catturare dal loro terribile sguardo.
 
 ### Awaking Tasks
  1. 

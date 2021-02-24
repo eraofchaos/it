@@ -3,7 +3,7 @@ title: "Anima"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Anima"
 toc: true
@@ -160,7 +160,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Spettro
 
@@ -184,16 +184,16 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Invisibilità&gt;</span><span style="color: #645252;font-size:18px">: resistenza magica data da &lt;Invisibilità&gt; raddoppiata. Quando subisce danni magici dai nemici, l'Anima lancia una &lt;Benedizione fatale&gt; che aumenta la Rid DAN delle unità Necropoli alleate del 10% fino al termine della battaglia. Cumulabile fino a 3 volte.</span>
 
 ### 3rd Skill (or 4th): Panico assoluto
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Strillo raccapricciante&gt;</span><span style="color: #645252;font-size:18px">: le unità colpite da &lt;Strillo raccapricciante&gt; hanno resistenza magica ridotta del 50% per tutta la durata del &lt;Silenzio&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Strillo raccapricciante&gt;</span><span style="color: #645252;font-size:18px"> Le unità colpite da &lt;Strillo raccapricciante&gt; hanno RES magica ridotta del 50% e DAN ridotto del 20% per tutta la durata del &lt;silenzio&gt;.</span>
 
 ### 4th Skill (or 3rd): Urlo incontenibile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Strillo raccapricciante&gt;</span><span style="color: #645252;font-size:18px">: aumenta del 50% la resistenza magica delle unità Necropoli alleate nella stessa fila per 25 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Strillo raccapricciante&gt;</span><span style="color: #645252;font-size:18px"> Aumenta del 50% la RES magica e del 20% il DAN delle unità Necropoli alleate nella stessa fila per 25 secondi.</span>
 
 ### 5th Skill (or 6th): Anima tremante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incarnazione dell'orrore&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe alleato lancia un incantesimo di tipo Terra, l'Anima ripristina 5 mana agli eroi e riduce dell'8% la resistenza magica agli incantesimi di tipo Terra delle unità nemiche fino al termine della battaglia. Cumulabile fino a 20 volte. Questo effetto non può essere rimosso.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incarnazione dell'orrore&gt;</span><span style="color: #645252;font-size:18px"> DIF dell'Anima aumentata del 10%. Quando gli eroi alleati lanciano incantesimi di tipo Terra, l'Anima restituisce 5 mana agli eroi e riduce del 4% la RES magica alla Terra e del 2% il DAN di tutte le unità nemiche. L'effetto dura fino al termine della battaglia, è cumulabile fino a 20 volte e non può essere rimosso.</span>
 
 ### 6th Skill (or 5th): Immagine orribile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incarnazione dell'orrore&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe alleato lancia un incantesimo di tipo Terra, l'Anima ripristina 5 mana agli eroi e riduce del 16% la resistenza magica agli incantesimi di tipo Terra delle unità nemiche fino al termine della battaglia. Cumulabile fino a 6 volte. Questo effetto non può essere rimosso.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incarnazione dell'orrore&gt;</span><span style="color: #645252;font-size:18px"> DIF dell'Anima aumentata del 10%. Quando gli eroi alleati lanciano incantesimi di tipo Terra, l'Anima restituisce 5 mana agli eroi e riduce dell'8% la RES magica alla Terra e del 4% il DAN di tutte le unità nemiche. L'effetto dura fino al termine della battaglia, è cumulabile fino a 6 volte e non può essere rimosso.</span>
 
 ## Technical info
  **runart:** 0

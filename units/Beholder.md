@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Osservatore"
 toc: true
@@ -102,7 +102,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">Quando l'Osservatore è sul campo di battaglia, il mana iniziale degli eroi nemici è ridotto di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando un'unità nemica muore, riduce di 10 il mana degli eroi nemici.</span><span style="color: black">
 
 ### Tecnica normale 3 : Raccolta di energia
- **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Osservatore aumenta i PF (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) di tutte le tue unità in un'ampia area. L'effetto dura fino al termine della battaglia.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">At the beginning of battle, Beholder units increase the HP of all friendly units within a large range by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> throughout the entire battle.</span><span style="color: black">
 
 ### Tecnica speciale fazione : Conflitto oscuro
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">

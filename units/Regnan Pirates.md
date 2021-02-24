@@ -3,7 +3,7 @@ title: "Pirati di Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
 unitID: 9901
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Pirati di Regna"
 toc: true
@@ -164,7 +164,7 @@ toc: true
 
  **Awaking Name:** Re dei Pirati
 
- **Awaking Descrizione:** 
+ **Awaking Descrizione:** Levate l'ancora e salpate! Distruggete ogni cosa! Saccheggiate e conquistate ovunque andiate! L'oceano diventerà il nostro parco giochi personale!
 
 ### Awaking Tasks
  1. 

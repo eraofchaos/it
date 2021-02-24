@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Sanguinamento"
 permalink: /combination/Bleeding/
 excerpt: "Informazioni combinazione - Sanguinamento. Units and Heroes Formation."
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Sanguinamento.md"
 toc: false

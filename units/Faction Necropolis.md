@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Units"
 permalink: /units/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Faction Necropolis"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 2 | [Campione oscuro](/units/Dark Champion/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1029.5 | 9504 |   -   |
   | 3 | [Scheletro](/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Scheletro guerriero  |
   | 4 | [Morto vivente](/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombi  |
-  | 5 | [Anima](/units/Wight/) | Incantatore | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spettro  |
+  | 5 | [Anima](/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spettro  |
   | 6 | [Vampiro](/units/Vampire/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Signore dei Vampiri  |
   | 7 | [Cavaliere nero](/units/Black Knight/) | Incursione | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 910 |  Terrore in marcia  |
   | 8 | [Lich](/units/Lich/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 228.7 | 1581 |  Lich potenziato  |

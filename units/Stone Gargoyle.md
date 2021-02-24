@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Stone Gargoyle"
 toc: true

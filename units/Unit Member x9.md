@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Unit Member x9"
 toc: false
@@ -31,7 +31,7 @@ classes: wide
   | 17 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
   | 18 | [Scheletro](/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Scheletro guerriero  |
   | 19 | [Morto vivente](/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombi  |
-  | 20 | [Anima](/units/Wight/) | Incantatore | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spettro  |
+  | 20 | [Anima](/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spettro  |
   | 21 | [Druido](/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 844 |  Arcidruido  |
   | 22 | [Goblin](/units/Goblin/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 82.7 | 761 |  Hobgoblin  |
   | 23 | [Domatore di lupi](/units/Wolf Rider/) | Incursione | + | R | x9 | <i class="fas fa-star"/> | 72.8 | 860 |  Signore dei Lupi  |

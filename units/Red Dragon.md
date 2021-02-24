@@ -3,7 +3,7 @@ title: "Drago rosso"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Signore Supremo dei Draghi. Il suo ruggito, unico per potenza e solennità, richiama i suoi simili alla battaglia."
 unitID: 708
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Drago rosso"
 toc: true
@@ -185,7 +185,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Squame magnetiche
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Immunità alla magia&gt;</span><span style="color: #645252;font-size:18px">: ogni <Soffio del Drago> fornisce 1 buffnieri.
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
 
 ### 2nd Skill (or 1st): Armatura di magma incandescente
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Immunità alla magia&gt;</span><span style="color: #645252;font-size:18px">: ogni &lt;Soffio del Drago&gt; fornisce 2 buff al Drago nero, fino a un massimo di 4 cariche. Questi buff non possono essere rimossi.</span>

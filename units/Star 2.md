@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Star 2"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 20 | [Pirati di Regna](/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Re dei Pirati  |
   | 21 | [Guardia Dendroide](/units/Dendroid Guard/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  Soldato Dendroide  |
   | 22 | [Elementale tempesta](/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Tempesta di fulmini  |
-  | 23 | [Anima](/units/Wight/) | Incantatore | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spettro  |
+  | 23 | [Anima](/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.5 | 662 |  Spettro  |
   | 24 | [Unicorno](/units/Unicorn/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Unicorno da Guerra  |
   | 25 | [Elementale del ghiaccio](/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  Spirito della neve silente  |
   | 26 | [Vampiro](/units/Vampire/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.4 | 910 |  Signore dei Vampiri  |

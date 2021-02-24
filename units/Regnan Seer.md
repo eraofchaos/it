@@ -3,7 +3,7 @@ title: "Veggente di Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore."
 unitID: 9907
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Veggente di Regna"
 toc: true
@@ -171,7 +171,7 @@ toc: true
 
  **Awaking Name:** Elementale delle maree
 
- **Awaking Descrizione:** 
+ **Awaking Descrizione:** Levate l'ancora e salpate! Distruggete ogni cosa! Saccheggiate e conquistate ovunque andiate! L'oceano diventerà il nostro parco giochi personale!
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Schiera una Naga e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Torre e supera il livello Campione (o superiore) dell'Utopia dei dragoni almeno </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> volta. (I raid non sono considerati nel conteggio della missione.)</span>

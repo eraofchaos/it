@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Baluardo"
 permalink: /Battle Formation/Battle Formation Faction Rampart internal
 excerpt: "Formazione di battaglia Baluardo"
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "BattleFormationFactionRampart"
 toc: false

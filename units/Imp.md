@@ -3,7 +3,7 @@ title: "Folletto"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina."
 unitID: 501
-last_modified_at: 2021-02-22
+last_modified_at: 2021-02-24
 locale: it
 ref: "Folletto"
 toc: true
