@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Supporto
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1660
 

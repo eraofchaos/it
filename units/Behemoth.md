@@ -180,7 +180,7 @@ toc: true
 
  **Awaking Name:** Behemoth antico
 
- **Awaking Descrizione:** It's the leader among many wild creatures, and there is nothing as terrifying as it that walks the earth. Great creatures mean nothing to him. Any strong creatures are decadent in its eyes. The mountains will also give their offerings, and it's the king in the cruel wilderness.
+ **Awaking Descrizione:** È a capo delle creature selvagge, e non v'è nulla di più terrificante che cammini sulla terra. Le grandi creature non sono nulla dinanzi a lui. Al contrario, tali esseri sono espressione di decadenza, ai suoi occhi. Le montagne gli offrono i propri doni, poiché egli è il re delle aspre terre selvagge.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Schiera un Behemoth e un minimo di </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unità Roccaforte e supera il livello Campione (o superiore) dell'Utopia dei dragoni almeno </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> volta. (I raid non sono considerati nel conteggio della missione.)</span>

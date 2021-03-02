@@ -74,7 +74,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Coda di scorpione](/Exclusive/Manticore Scorpion tail/) 
+ **Name:** [Coda di scorpione](/Exclusive/Manticore Scorpion Tail/) 
 
  **Item to Rango ↑:** -
 
@@ -103,7 +103,7 @@ toc: true
 ### Tecnica suprema: Veleno paralizzante
  **Descrizione:** <span style="color: #645252;font-size:20px">La Manticora attacca l'unità bersaglio ogni 20 secondi, infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e alle unità nemiche circostanti e riducendone la DIF del 30% per 10 secondi.</span><span style="color: black">
 
-### Tecnica normale 1 : Tactical Decision
+### Tecnica normale 1 : Scelta tattica
  **Descrizione:** <span style="color: #645252;font-size:20px">L'attacco base della Manticora ha una probabilità del 25% di ridurre la Rid DAN delle unità da mischia (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando affronta unità a distanza o incantatori, l'attacco base ha una probabilità del 25% di aumentare il CRIT delle unità alleate di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> per 6 secondi. Cumulabile fino a 8 volte.</span><span style="color: black">
 
 ### Tecnica normale 2 : null
@@ -150,7 +150,7 @@ toc: true
 ### Bonus eroe
 * [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

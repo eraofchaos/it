@@ -19,10 +19,10 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Gnoll](/units/Gnoll/) | [Spada](/Exclusive/Gnoll Sword/) | - | Carica | - | - |
   | 2  | [Uomo lucertola](/units/Lizardman/) | [Arco lungo](/Exclusive/Lizardman Long Bow/) | - | Carica | - | - |
-  | 3  | [Mosca serpente](/units/Serpent Fly/) | [Cantico arcano](/Exclusive/Serpent Fly Arcane Chant/) | - | Carica | - | - |
+  | 3  | [Mosca serpente](/units/Serpent Fly/) | [Cantico arcano](/Exclusive/Serpent Fly Arcane Chant/) | + | Carica | - | - |
   | 4  | [Basilisco](/units/Basilisk/) | [Coda di Basilisco](/Exclusive/Basilisk Basilisk's Tail/) | - | A distanza | - | - |
   | 5  | [Gorgone](/units/Gorgon/) | [Corno di Gorgone](/Exclusive/Gorgon Gorgon's Horn/) | - | Supporto | - | - |
   | 6  | [Viverna](/units/Wyvern/) | [Coda di Viverna](/Exclusive/Wyvern Wyvern's Tail/) | - | A distanza | - | - |
   | 7  | [Idra](/units/Hydra/) | [Testa di Idra](/Exclusive/Hydra Hydra's Head/) | - | Supporto | - | - |
-  | 8  | [Erbavespa](/units/Waspwort/) | - | - | - | none | none |
+  | 8  | [Erbavespa](/units/Waspwort/) | [Foglia d'Erbavespa](/Exclusive/Waspwort Waspwort Leaf/) | - | A distanza | - | - |
   | 9  | [Tigre bianca](/units/White Tiger/) | - | - | - | none | none |

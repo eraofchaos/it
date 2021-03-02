@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodita](/units/Troglodyte/) | [Spada](/Exclusive/Troglodyte Sword/) | - | Carica | - | - |
-  | 2  | [Arpia](/units/Harpy/) | [Carica onoraria](/Exclusive/Harpy Knight Pike/) | - | Carica | - | - |
+  | 2  | [Arpia](/units/Harpy/) | [Carica impetuosa](/Exclusive/Harpy Knight Pike/) | - | Carica | - | - |
   | 3  | [Osservatore](/units/Beholder/) | [Sguardo oscuro](/Exclusive/Beholder Dark Gaze/) | - | A distanza | - | - |
-  | 4  | [Medusa](/units/Medusa/) | [Arco della Medusa](/Exclusive/Medusa Medusa's bow/) | - | A distanza | - | - |
+  | 4  | [Medusa](/units/Medusa/) | [Arco della Medusa](/Exclusive/Medusa Medusa's Bow/) | - | A distanza | - | - |
   | 5  | [Minotauro](/units/Minotaur/) | [Scudo dell'Iride](/Exclusive/Minotaur Iris Shield/) | - | Carica | - | - |
-  | 6  | [Manticora](/units/Manticore/) | [Coda di scorpione](/Exclusive/Manticore Scorpion tail/) | - | A distanza | - | - |
+  | 6  | [Manticora](/units/Manticore/) | [Coda di scorpione](/Exclusive/Manticore Scorpion Tail/) | + | A distanza | - | - |
   | 7  | [Drago nero](/units/Black Dragon/) | [Squama del Drago nero](/Exclusive/Black Dragon Black Dragon's Scale/) | - | Supporto | - | - |
-  | 8  | [Drago rosso](/units/Red Dragon/) | - | - | - | none | none |
+  | 8  | [Drago rosso](/units/Red Dragon/) | [Annientamento](/Exclusive/Red Dragon Annihilation/) | - | Supporto | - | - |
   | 9  | [Strega malvagia](/units/Evil Sorceress/) | - | - | - | none | none |

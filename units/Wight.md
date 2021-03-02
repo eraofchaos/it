@@ -29,7 +29,7 @@ toc: true
 
  **Short description:** Applica Silenzio ad area. Schiva gli attacchi. Rigenera il Mana.
 
- **Position :** Causes Silence to your enemy right ahead, causes silence to all enemies when dying.
+ **Position :** Causa <Silenzio> al nemico di fronte, e a tutti i nemici quando viene ucciso.
 
  **Recommend:** Creature con PF ridotti e ATT elevato. Ricorda di guarirle per approfittare del loro potere offensivo.
 
@@ -182,7 +182,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Anima nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wight and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Schiera un'Anima e vinci </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> battaglia del Duello dei Campioni.</span>
 
 ## Awaken Skills
 

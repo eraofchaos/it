@@ -2,7 +2,7 @@
 title: "Emblema sacro - Avarizia"
 permalink: /Emblem/Greed/
 excerpt: "Era of Chaos Avarizia. Avarizia. Era of Chaos Emblema sacro Avarizia. Era of Chaos Caos Avarizia"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Greed.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Dungeon"
 permalink: /Battle Formation/Battle Formation Faction Dungeon internal
 excerpt: "Formazione di battaglia Dungeon"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "BattleFormationFactionDungeon"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | **9** | **Aumenta del 4% la VEL ATT delle unità Dungeon** |
   | **10** | **Aumenta del 15% l'ATT delle unità Dungeon** |
   | **11** | **Aumenta del 17% i PF delle unità Dungeon** |
-  | **12** | **Dungeon units will receive an increase of 5% unit damage when against the bleeding units** |
+  | **12** | **Contro unità affette da <Sanguinamento>, il Danno delle unità Dungeon aumenta del 5%** |
 
 ## Formazione di battaglia Circle 1:
 

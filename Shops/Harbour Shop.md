@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "index.md"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | 9 |  **10x** Pacchetto Pietre mistiche SSR a scelta(Aprilo per scegliere una delle Pietre mistiche SSR.) |  **3000x** Siclo  | **5** |
   | 10 |  **10x** Perla scintillante(Può essere scambiata con Pietre mistiche per unità rare.) |  **1250x** Siclo  | **7** |
   | 11 |  **1x** Pacchetto Selezione Emblema arancione(Aprilo per scegliere uno degli Emblemi arancioni.) |  **2500x** Siclo  | **6** |
-  | 12 |  **5x** Pacchetto multi-selezione Pietre di forgiatura(Use it to select one from the following: Goodness, Order, Neutral, Evil or Chaos-Cast Stone *1) |  **880x** Siclo  | **6** |
+  | 12 |  **5x** Pacchetto multi-selezione Pietre di forgiatura(Aprilo per ricevere una ricompensa a tua scelta tra le seguenti: 1 Pietra di forgiatura Bontà, Ordine, Neutrale, Malvagità o Caos) |  **880x** Siclo  | **6** |
   | 13 |  **1x** Mappa del tesoro impolverata(Una fragile mappa risalente a mille anni fa. La leggenda narra che in essa si celi un incredibile segreto. Utile a scoprire un tesoro nella mappa della Gilda.) |  **1250x** Siclo  | **2** |
   | 14 |  **1x** Vecchia mappa(Antica mappa che sembra indicare la posizione di un tesoro nascosto. Utile a scoprire un tesoro nella mappa della Gilda.) |  **500x** Siclo  | **3** |
   | 15 |  **50x** Ingredienti Pozione di Talento(Gli ingredienti per una Pozione di Talento. Una volta preparata, riceverai una Pozione di Talento per un'unità casuale.) |  **180x** Siclo  | **10** |

@@ -152,7 +152,7 @@ toc: true
 ## Connessione
 ### Connessione roster
 
-* **Tower**  (Roster Torre)
+* **Torre**  (Roster Torre)
 * **Incantatore**  (Roster incantatori)
 
 ### Bonus eroe
@@ -199,7 +199,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Campo magico&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, genera un &lt;Campo magico&gt; attorno alle unità Torre alleate (l'effetto non raddoppia, ma si accumula a quello della tecnica originale).</span>
 
 ### 5th Skill (or 6th): Mortalità
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Energy Loss&gt;</span><span style="color: #645252;font-size:18px">If the target is downed, makes the mana of hostile heroes reduce by 2</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Fiacchezza&gt;</span><span style="color: #645252;font-size:18px">Quando il bersaglio muore, riduce di 2 il mana degli eroi nemici</span>
 
 ### 6th Skill (or 5th): Controllo energia
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Fiacchezza&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 200% del valore della tecnica originale.</span>

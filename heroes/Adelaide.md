@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. Rimasta sola dopo un tremendo naufragio, la giovane Adelaide si ritrovò dispersa nelle terre degli Elfi delle nevi. Quando decise di tornare nell'Erathia dopo venti lunghi anni di addestramento presso i suoi salvatori, era ormai diventata la maga più potente del Regno."
 heroID: 60001
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Adelaide"
 toc: true
@@ -67,13 +67,13 @@ toc: true
    - Nuovo design eroe
    - Avatar unico
 
-### Skin 3: **Arcimaga Worli**
+### Skin 3: **Arcimaga Vori**
 
  **Descrizione:** <span style="color: #ffffff;font-size:20px">Non esiste vittoria contro l'inverno di Vori.</span>
 
  **Skin features:** 
 
-   - Arcimaga Worli
+   - Arcimaga Vori
    - Avatar unico
 
 ### Skin 4: **Canto di Natale**

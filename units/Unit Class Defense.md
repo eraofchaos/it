@@ -17,13 +17,13 @@ classes: wide
   | 3 | [Ogre](/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 107.6 | 2523 |  Ogre mago  |
   | 4 | [Demone](/units/Demon/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 114.4 | 2489 |    |
   | 5 | [Behemoth](/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  Behemoth antico  |
-  | 6 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Spirito guardiano dell'albero sacro  |
+  | 6 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Leprecauno maggiore  |
   | 7 | [Golem di ferro](/units/Iron Golem/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Golem d'oro  |
   | 8 | [Serpente di Regna](/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 9 | [Incubo](/units/Nightmare/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |    |
   | 10 | [Progenie velenosa](/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 11 | [Spadaccino](/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Crociato  |
-  | 12 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 12 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tartaruga draconica primordiale  |
   | 13 | [Centauro](/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Capitano Centauro  |
   | 14 | [Gnomo](/units/Dwarf/) | Difesa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 15 | [Minotauro](/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Re dei Minotauri  |

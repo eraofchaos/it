@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Tiratore scelto](/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Maestro arciere  |
   | 7 | [Medusa](/units/Medusa/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  Regina Medusa  |
   | 8 | [Uomo lucertola](/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 9 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 9 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Elfo Gigante  |
   | 10 | [Pegaso](/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Argenteo  |
   | 11 | [Elementale tempesta](/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Tempesta di fulmini  |
   | 12 | [Erbavespa](/units/Waspwort/) | A distanza | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 950.3 | 5543 |   -   |

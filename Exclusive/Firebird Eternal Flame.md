@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** A distanza
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
@@ -29,10 +29,10 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Terra bruciata> Il Rapace di fuoco danneggia le unità nemiche nella propria fila 5 volte ogni 10 secondi, causando <Combustione> per 8 secondi. |
+  |  Initial  | ? | <Terra bruciata> Il Rapace di fuoco danneggia le unità nemiche nella fila dell'unità bersaglio 3 volte ogni 10 secondi, causando <Combustione> per 8 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Rapace di fuoco è immune ai danni degli incantesimi di tipo Fuoco. |
   | **2x** <i class="fas fa-star"/> | ? | Il Rapace di fuoco gode di danno aumentato del 10% e Vel ATT aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | Quando affronta unità da 1 o 4 membri, gli attacchi del Rapace di fuoco infliggono il 60% dei danni alle unità nemiche attorno al bersaglio, causando inoltre <Combustione>. |
+  | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |
   | **4x** <i class="fas fa-star"/> | ? | Perforazione del Rapace di fuoco aumentata di 400 quando affronta unità affette da <Combustione>. |
   | **5x** <i class="fas fa-star"/> | ? | Quando un eroe alleato lancia un incantesimo di tipo Fuoco, recupera il 10% dei PF. L'effetto può essere attivato una volta ogni 5 secondi. |
   | **6x** <i class="fas fa-star"/> | ? | DAN del Rapace di fuoco aumentato del 20%. Quando un eroe nemico lancia un incantesimo di tipo Fuoco, gode di DAN e Rid DAN aumentati del 20%. L'effetto dura 5 secondi. |

@@ -115,7 +115,7 @@ toc: true
 ### Tecnica speciale fazione I : Pace interiore
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
-### Tecnica speciale fazione II : Pirate Conflict
+### Tecnica speciale fazione II : Conflitto piratesco
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
   <script language="JavaScript">

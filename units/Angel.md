@@ -104,10 +104,10 @@ toc: true
   <p id="log"></p>
   </form>
 ### Tecnica suprema: Condanna
- **Descrizione:** <span style="color: #645252;font-size:20px">Angel unit deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to 3 random hostile units, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 3s.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Angelo infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 sec.</span><span style="color: black">
 
 ### Tecnica normale 1 : Resurrezione
- **Descrizione:** <span style="color: #645252;font-size:20px">Angel resurrects 1 friendly unit and restores </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> HP for that unit.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Angelo rianima 1 delle tue unità, curando </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF.</span><span style="color: black">
 
 ### Tecnica normale 2 : Splendore
  **Descrizione:** <span style="color: #645252;font-size:20px">Se l'Angelo è sul campo di battaglia, tutte le unità alleate ottengono rigenerazione extra dei PF ogni 2 secondi, pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi.</span><span style="color: black">

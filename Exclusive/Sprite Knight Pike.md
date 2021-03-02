@@ -1,17 +1,17 @@
 ---
-title: "Esclusivo - Carica onoraria"
+title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Sprite Knight Pike/
-excerpt: "Era of Chaos Carica onoraria. Carica onoraria. Era of Chaos Esclusivo Carica onoraria. Driade Esclusivo."
+excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Driade Esclusivo."
 last_modified_at: 2021-03-02
 locale: it
-ref: "Sprite Carica onoraria.md"
+ref: "Sprite Carica impetuosa.md"
 toc: false
 classes: wide
 ---
  [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Carica onoraria** 
+ **Name: Carica impetuosa** 
 
  **Esclusivo for Unit:** [Driade](/units/Sprite/) 
 
@@ -23,7 +23,7 @@ classes: wide
 
  **Open:** -
 
- **Power:** 1560
+ **Power:** 1440
 
 ## Rango ↑
 
@@ -52,12 +52,12 @@ classes: wide
 
   |  Nr  |  Extra Power | Extra Attack per Level | Extra HP per Level |
   |:-----|:--------:|:--------:|:--------:|
-  | 1 | 234 | 11.69 | 167.0 |
-  | 2 | 265 | 14.03 | 200.4 |
-  | 3 | 296 | 16.36 | 233.8 |
-  | 4 | 328 | 18.7 | 267.2 |
-  | 5 | 359 | 21.04 | 300.6 |
-  | 6 | 390 | 23.38 | 334.0 |
-  | 7 | 421 | 25.71 | 367.4 |
+  | 1 | 216 | 11.69 | 167.0 |
+  | 2 | 245 | 14.03 | 200.4 |
+  | 3 | 274 | 16.36 | 233.8 |
+  | 4 | 302 | 18.7 | 267.2 |
+  | 5 | 331 | 21.04 | 300.6 |
+  | 6 | 360 | 23.38 | 334.0 |
+  | 7 | 389 | 25.71 | 367.4 |
 
 

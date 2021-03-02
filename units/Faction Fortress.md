@@ -15,7 +15,7 @@ classes: wide
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
   | 1 | [Tigre bianca](/units/White Tiger/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1078.2 | 6138 |   -   |
-  | 2 | [Gnoll](/units/Gnoll/) | Attacco | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 2 | [Gnoll](/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerriero gnoll  |
   | 3 | [Uomo lucertola](/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
   | 4 | [Mosca serpente](/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 5 | [Basilisco](/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 121.1 | 2859 |   -   |

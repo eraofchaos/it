@@ -17,7 +17,7 @@ toc: true
 
  **Fazione:** [Roccaforte](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Barbaro
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -202,13 +202,13 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. Effetto raddoppiato dopo l'attivazione di &lt;Raptus&gt;.</span>
 
 ### 4th Skill (or 3rd): Canto incoraggiante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px">: Rid DAN dell'Ogre aumentata del 20%. DAN aumentato a 200% del valore base della tecnica dopo l'attivazione di &lt;Raptus&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Raptus&gt;</span><span style="color: #645252;font-size:18px"> Aumenta del 20% la Rid DAN dell'unità Ogre. Quando &lt;Raptus&gt; è attivo, l'ATT è aumentato al 200% dell'ATT della tecnica precedente.</span>
 
 ### 5th Skill (or 6th): Ondata antica
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Cura veleno&gt;</span><span style="color: #645252;font-size:18px">: effetto aumentato a 150% del valore della tecnica originale.</span>
 
 ### 6th Skill (or 5th): Difesa del Patriarca
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Cure Poison&gt;</span><span style="color: #645252;font-size:18px">Skill effect still works after the death of Ogre unit </span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Cura veleno&gt;</span><span style="color: #645252;font-size:18px">: la tecnica rimane attiva anche dopo la morte dell'Ogre.</span>
 
 ## Technical info
  **runart:** 1

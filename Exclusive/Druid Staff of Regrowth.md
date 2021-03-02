@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** A distanza
 
- **Open:** +
+ **Open:** -
 
  **Power:** 1560
 

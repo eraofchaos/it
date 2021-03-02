@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Fortezza"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Formazione di battaglia Fortezza"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "BattleFormationFactionFortress"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   **Fraction:** [Fortezza](/units/Faction Fortress)
 
-  **Descrizione:** Unity and solidarity, people were born free
+  **Descrizione:** Unità e solidarietà. Siamo tutti nati liberi.
 
 **Info** You can find this feature under **Arsenale** -> **Formazione di battaglia** -> **Fortezza** 
 {: .notice--danger}
@@ -27,7 +27,7 @@ classes: wide
   | **5** | **Contro unità affette da <Malattia>, il Danno delle unità Fortezza aumenta del 5%** |
   | **6** | **Aumenta del 10% l'ATT delle unità Fortezza** |
   | **7** | **Aumenta del 10% la Resistenza magica delle unità Fortezza** |
-  | **8** | **Fortress units will receive an increase of 12% CRIT DMG when against the units suffering from disease** |
+  | **8** | **Contro unità affette da <Malattia>, il DAN CRIT delle unità Fortezza aumenta del 12%** |
   | **9** | **Aumenta del 4% la VEL ATT delle unità Fortezza** |
 
 ## Formazione di battaglia Circle 1:

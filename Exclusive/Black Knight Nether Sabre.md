@@ -33,8 +33,8 @@ classes: wide
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN del Cavaliere nero aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | DAN del Cavaliere nero aumentato del 25%. |
   | **3x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, il Cavaliere nero parte alla carica. Durante la carica è immune a ogni danno. Dopo 6 secondi appare di fronte all'unità nemica all'estremità della fila. In mancanza di un bersaglio valido, attacca un'unità casuale nelle retrovie infliggendo un colpo critico (nessun effetto Risveglio, funziona una sola volta per battaglia). |
-  | **4x** <i class="fas fa-star"/> | ? | Quando infligge un colpo critico, il Cavaliere nero ottiene 50 CRIT. L'effetto dura 5 secondi ed è cumulabile fino a 10 volte. |
-  | **5x** <i class="fas fa-star"/> | ? | Assorbimento del Cavaliere nero aumentato del 10%. L'assorbimento aumenta del 10% per 5 secondi quando infligge un colpo critico. |
+  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
+  | **5x** <i class="fas fa-star"/> | ? | Assorbimento del Cavaliere nero aumentato del 20%. L'assorbimento aumenta del 20% per 5 secondi quando infligge un colpo critico. |
   | **6x** <i class="fas fa-star"/> | ? | <Rinascita del Re> Evoca 1 Cavaliere nero ogni 20 secondi. Quando l'unità bersaglio viene abbattuta, evoca 1 Cavaliere nero. Quando un Cavaliere nero viene evocato, il CRIT aumenta di 100 e la Perforazione di 50. |
 
 

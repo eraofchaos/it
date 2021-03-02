@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Torre"
 permalink: /Battle Formation/Battle Formation Faction Tower internal
 excerpt: "Formazione di battaglia Torre"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "BattleFormationFactionTower"
 toc: false
@@ -30,10 +30,10 @@ classes: wide
   | **5** | **Per ogni unità Torre sul campo, la Schivata delle unità Torre aumenta di 30** |
   | **6** | **Aumenta del 10% l'ATT delle unità Torre** |
   | **7** | **Aumenta del 10% la Resistenza magica delle unità Torre** |
-  | **8** | **Increases Crit DMG of all friendly Tower units by 12% for 6 seconds when a friendly hero casts a support spell.** |
+  | **8** | **Quando un eroe alleato lancia un incantesimo di supporto, il DAN CRIT di tutte le unità Torre alleate aumenta del 12% per 6 secondi.** |
   | **9** | **Aumenta del 4% la VEL ATT delle unità Torre** |
   | **10** | **Aumenta del 15% l'ATT delle unità Torre** |
-  | **11** | **Increases 17% HP for all Tower Units** |
+  | **11** | **Aumenta del 17% i PF delle unità Torre** |
   | **12** | **Quando un eroe alleato lancia un incantesimo di supporto, la DIF di tutte le unità Torre alleate aumenta dell'8% per 6 secondi.** |
 
 ## Formazione di battaglia Circle 1:
@@ -120,22 +120,22 @@ classes: wide
   | 3 | Tower - Storm Assaulter | ATT + **1.4** % | 100 |   |
   | 4 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
   | 5 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
-  | 6 | Tower - A Strike Hit | MIRA + **8**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 6 | Tower - A Strike Hit | MIRA + **8**  | 190 |  **20** x [Mago](/units/Mage) |
   | 7 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
   | 8 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
   | 9 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
   | 10 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
-  | 11 | Tower - Ingeniousness | Schivata + **8**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 11 | Tower - Ingeniousness | Schivata + **8**  | 190 |  **20** x [Mago](/units/Mage) |
   | 12 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
   | 13 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
   | 14 | Tower - Physical Trials | PF + **1.4** % | 100 |   |
   | 15 | Tower - Physical Trials | PF + **1.4** % | 100 |   |
-  | 16 | Tower - Shield Practice | Rid DAN unità + **0.5** % | 190 |  **20** x [Mage](/units/Mage) |
+  | 16 | Tower - Shield Practice | Rid DAN unità + **0.5** % | 190 |  **20** x [Mago](/units/Mage) |
   | 17 | Tower - Physical Trials | PF + **1.4** % | 100 |   |
   | 18 | Tower - Physical Trials | PF + **1.4** % | 100 |   |
   | 19 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
   | 20 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
-  | 21 | Tower - Rocklike Skin | Tenacia + **10**  | 190 |  **20** x [Mage](/units/Mage) |
+  | 21 | Tower - Rocklike Skin | Tenacia + **10**  | 190 |  **20** x [Mago](/units/Mage) |
   | 22 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
   | 23 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
   | 24 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |

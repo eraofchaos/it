@@ -2,7 +2,7 @@
 title: "Emblema sacro - Superbia"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Superbia. Superbia. Era of Chaos Emblema sacro Superbia. Era of Chaos Caos Superbia"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Arrogance.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Superbia](/Emblem/Arrogance/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +2, DIF +0,1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta il DAN delle unità schierate del 3% contro bersagli con PF superiori al 50%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +6, DIF +0,2%</span> | 
   | [Superbia](/Emblem/Arrogance/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +6, DIF +0,3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta il DAN delle unità schierate del 6% contro bersagli con PF superiori al 50%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +16, DIF +0,7%</span> | 
-  | [Superbia](/Emblem/Arrogance/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +13, DIF +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta il DAN delle unità schierate del 12% contro bersagli con PF superiori al 50%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Holy Emblem ATK +30, DEF +1.5%</span> | 
+  | [Superbia](/Emblem/Arrogance/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +13, DIF +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta il DAN delle unità schierate del 12% contro bersagli con PF superiori al 50%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +30, DIF +1,5%</span> | 
   | [Superbia](/Emblem/Arrogance/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +20, DIF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta il DAN delle unità schierate del 20% contro bersagli con PF superiori al 50%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +55, DIF +2%</span> | 
 
   |         Descrizione            | 

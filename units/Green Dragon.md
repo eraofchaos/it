@@ -160,7 +160,7 @@ toc: true
 
 ### Bonus eroe
 * [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento

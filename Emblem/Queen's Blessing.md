@@ -2,7 +2,7 @@
 title: "Emblema sacro - Bened. della Regina"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Era of Chaos Bened. della Regina. Bened. della Regina. Era of Chaos Emblema sacro Bened. della Regina. Era of Chaos Ordine Bened. della Regina"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Queen's Blessing.md"
 toc: false

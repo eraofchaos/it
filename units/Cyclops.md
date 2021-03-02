@@ -17,7 +17,7 @@ toc: true
 
  **Fazione:** [Roccaforte](/units/Faction Stronghold/)
 
- **Race:** Barbarian
+ **Race:** Barbaro
 
  **Members:** [x4](/units/Unit Member x4/)
 
@@ -73,7 +73,7 @@ toc: true
   | [Macigno](/equipment/Macigno/) | **ATT** | **DIF** | 
   | [Catene della guerra](/equipment/Catene della guerra/) | **PF** | **DIF** | 
   | [Bracciali chiodati](/equipment/Bracciali chiodati/) | **ATT** | **DIF** | 
-  | [Leather Trousers](/equipment/Leather Trousers/) | **PF** | **DIF** | 
+  | [Pantaloni di cuoio](/equipment/Pantaloni di cuoio/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

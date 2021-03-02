@@ -77,7 +77,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica onoraria](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Carica impetuosa](/Exclusive/Unicorn Knight Pike/) 
 
  **Item to Rango ↑:** -
 
@@ -92,7 +92,7 @@ toc: true
 
 ## Informazioni combinazione
 
-* [Blind](/combination/Blind/) 
+* [Cecità](/combination/Cecità/) 
 * [Scudo](/combination/Scudo/) 
 
 
@@ -172,7 +172,7 @@ toc: true
 
  **Awaking Name:** Unicorno da Guerra
 
- **Awaking Descrizione:** Gli unicorni dal crine dorato sono molto rari. Vengono spesso definiti "bestie sacre" dagli elfi di AvLee che li venerano. Ogni volta che la foresta di Tularea attraversa un momento di crisi, la luce dorata prende a rifulgere tra i rami degli alberi.
+ **Awaking Descrizione:** Gli unicorni dal crine dorato sono molto rari. Vengono spesso definiti \"bestie sacre\" dagli elfi di AvLee che li venerano. Ogni volta che la foresta di Tularea attraversa un momento di crisi, la luce dorata prende a rifulgere tra i rami degli alberi.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Schiera un Unicorno e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi nella Tesoreria degli gnomi in una volta sola. (I raid non sono considerati nel conteggio della missione.)</span>

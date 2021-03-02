@@ -2,14 +2,14 @@
 title: "Era of Chaos - Mare curativo - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Era of Chaos Mare curativo. List of ALL Mare curativo questions with correct answers"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "healingSea"
 toc: false
 classes: wide
 ---
 
-#### <span style="color: #3c2a1e;font-size:22px">Event Rules</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
+#### <span style="color: #3c2a1e;font-size:22px">Regole evento</span><br/><span style="color: #ffffff;font-size:6px"> </span><br/>
    <span style="color: #3c2a1e">1. Durante l'evento, i giocatori tirano i dadi per ricevere fantastiche ricompense.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">2. Le ricompense delle caselle si resettano ogni volta che torni al punto di partenza.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
    <span style="color: #3c2a1e">3. Nel corso dell'evento potrai ottenere numerosi tiri di dadi gratuiti ogni giorno. Una volta esauriti i tiri gratuiti potrai sempre acquistarne altri. I tiri si resettano ogni giorno.</span><br/><span style="color: #ffffff;font-size:6px">　</span><br/>
@@ -51,7 +51,7 @@ classes: wide
 
 ##### 1. Chi ucciderà più Orchi in un epico scontro? Lo Gnomo o l'Elfo del bosco? 
 
-   **Title:**  Una sfida tra grandi amici.
+   **Title:** Una sfida tra grandi amici.
 
    **Question:** Chi ucciderà più Orchi in un epico scontro? Lo Gnomo o l'Elfo del bosco?
 
@@ -65,7 +65,7 @@ classes: wide
 
 ##### 2. Alimentare il fuoco o spegnerlo, _________. 
 
-   **Title:**  Alimentare il fuoco o spegnerlo.
+   **Title:** Alimentare il fuoco o spegnerlo.
 
    **Question:** Alimentare il fuoco o spegnerlo, _________.
 
@@ -93,7 +93,7 @@ classes: wide
 
 ##### 4. Vuoi fare un pupazzo di neve? 
 
-   **Title:**  Pupazzo di neve
+   **Title:** Pupazzo di neve
 
    **Question:** Vuoi fare un pupazzo di neve?
 
@@ -107,7 +107,7 @@ classes: wide
 
 ##### 5. Il Centauro sfida il Minotauro in una gara a chi fa più piegamenti. Chi vince, secondo te? 
 
-   **Title:**  Piegamenti
+   **Title:** Piegamenti
 
    **Question:** Il Centauro sfida il Minotauro in una gara a chi fa più piegamenti. Chi vince, secondo te?
 
@@ -121,7 +121,7 @@ classes: wide
 
 ##### 6. Cosa ha più probabilità di interrompere un'avventura in corso? 
 
-   **Title:**  Vecchio avventuriero
+   **Title:** Vecchio avventuriero
 
    **Question:** Cosa ha più probabilità di interrompere un'avventura in corso?
 
@@ -133,11 +133,11 @@ classes: wide
 
 ---
 
-##### 7. Who died and then destroyed the ice wall? 
+##### 7. Chi è morto e in seguito ha distrutto la Barriera di ghiaccio? 
 
-   **Title:**  La Negromanzia del Re Non Morto
+   **Title:** La Negromanzia del Re Non Morto
 
-   **Question:** Who died and then destroyed the ice wall?
+   **Question:** Chi è morto e in seguito ha distrutto la Barriera di ghiaccio?
 
    **Correct Answer:** **B. Il Drago d'oro** 
 
@@ -149,7 +149,7 @@ classes: wide
 
 ##### 8. Coraggio, fede e ________! 
 
-   **Title:**  Motto
+   **Title:** Motto
 
    **Question:** Coraggio, fede e ________!
 
@@ -163,7 +163,7 @@ classes: wide
 
 ##### 9. L'Inferno si è svuotato, rigurgitando qui i suoi ________. 
 
-   **Title:**  Angeli e demoni
+   **Title:** Angeli e demoni
 
    **Question:** L'Inferno si è svuotato, rigurgitando qui i suoi ________.
 
@@ -177,7 +177,7 @@ classes: wide
 
 ##### 10. Ingannami una volta e la colpa è tua. Ingannami due volte e _______. 
 
-   **Title:**  Ingannami una volta
+   **Title:** Ingannami una volta
 
    **Question:** Ingannami una volta e la colpa è tua. Ingannami due volte e _______.
 

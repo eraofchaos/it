@@ -2,7 +2,7 @@
 title: "Emblema sacro - Ira"
 permalink: /Emblem/Anger/
 excerpt: "Era of Chaos Ira. Ira. Era of Chaos Emblema sacro Ira. Era of Chaos Caos Ira"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Anger.md"
 toc: false

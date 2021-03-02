@@ -17,12 +17,12 @@ classes: wide
   | 3 | [Leviatano](/units/Revyaratan/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1267.1 | 7128 |  Antico mostro marino  |
   | 4 | [Demone dell'abisso](/units/Pit Fiend/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Signore dell'abisso  |
   | 5 | [Berserker](/units/Berserker/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Messaggero di morte  |
-  | 6 | [Stone Gargoyle](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 6 | [Gargolla di pietra](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 7 | [Picchiere](/units/Pikeman/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |  Alabardiere  |
   | 8 | [Diavolo](/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcidiavolo  |
   | 9 | [Troglodita](/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Troglodita oscuro  |
   | 10 | [Naga](/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Regina delle Naga  |
-  | 11 | [Gnoll](/units/Gnoll/) | Attacco | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 11 | [Gnoll](/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerriero gnoll  |
   | 12 | [Angelo](/units/Angel/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcangelo  |
   | 13 | [Pirati di Regna](/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Re dei Pirati  |
   | 14 | [Drago rosso](/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 769.3 | 5431 |   -   |

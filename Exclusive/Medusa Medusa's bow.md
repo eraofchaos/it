@@ -1,6 +1,6 @@
 ---
 title: "Esclusivo - Arco della Medusa"
-permalink: /Exclusive/Medusa Medusa's bow/
+permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arco della Medusa. Arco della Medusa. Era of Chaos Esclusivo Arco della Medusa. Medusa Esclusivo."
 last_modified_at: 2021-03-02
 locale: it

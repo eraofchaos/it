@@ -20,13 +20,13 @@ classes: wide
   | 6 | [Demone di ghiaccio](/units/Ice Demon/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |   -   |
   | 7 | [Addestratore di squali](/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Cavalcasquali  |
   | 8 | [Berserker](/units/Berserker/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Messaggero di morte  |
-  | 9 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Spirito guardiano dell'albero sacro  |
+  | 9 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Leprecauno maggiore  |
   | 10 | [Troll](/units/Troll/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.3 | 9051 |   -   |
   | 11 | [Arciere di Regna](/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |   -   |
   | 12 | [Diavolo](/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcidiavolo  |
   | 13 | [Progenie velenosa](/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 14 | [Naga](/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Regina delle Naga  |
-  | 15 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 15 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tartaruga draconica primordiale  |
   | 16 | [Gigante](/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titano  |
   | 17 | [Golem draconico](/units/Dragon Golem/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 9616 |   -   |
   | 18 | [Paladino](/units/Paladin/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Paladino Supremo  |

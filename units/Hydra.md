@@ -106,7 +106,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">L'Idra ha una possibilità di colpire con 1, 2, 3 o 4 testate dopo ogni attacco. Ogni testata infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danni. Le probabilità di ciascuna testata consecutiva sono, rispettivamente, 60%, 40%, 30% e 10%.</span><span style="color: black">
 
 ### Tecnica normale 2 : Dominio sulla Pestilenza
- **Descrizione:** <span style="color: #645252;font-size:20px">For every Fortress unit deployed, Hydra's unit's damage increases by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">, and Hydra's Crit Hit will be increased by another 100 for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Per ogni unità Fortezza schierata, l'Idra gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e il suo CRIT aumenta di 100 per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### Tecnica normale 3 : Morso del cacciatore
  **Descrizione:** <span style="color: #645252;font-size:20px">Se il suo attacco precedente è stato schivato, l'Idra attacca nuovamente infliggendo </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di danni. Una volta attivato &lt;Morso del cacciatore&gt;, l'Idra infligge un colpo critico garantito entro 3 secondi.</span><span style="color: black">
@@ -114,7 +114,7 @@ toc: true
 ### Tecnica speciale fazione I : Attacco pestilenziale
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### Tecnica speciale fazione II : Rise of Vitality
+### Tecnica speciale fazione II : Vitalità aumentata
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
   <script language="JavaScript">

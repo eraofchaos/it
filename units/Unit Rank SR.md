@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Demone dell'abisso](/units/Pit Fiend/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Signore dell'abisso  |
   | 10 | [Golem di ferro](/units/Iron Golem/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Golem d'oro  |
   | 11 | [Efreet](/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  Efreet Sultano  |
-  | 12 | [Stone Gargoyle](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 12 | [Gargolla di pietra](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 13 | [Arcimago](/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Arcimago  |
   | 14 | [Serpente di Regna](/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 15 | [Incubo](/units/Nightmare/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 84.1 | 2691 |    |
@@ -40,7 +40,7 @@ classes: wide
   | 26 | [Aeronave magica](/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |   -   |
   | 27 | [Uomo lucertola](/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
   | 28 | [Catafratto](/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Cavalieri campioni  |
-  | 29 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 29 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Elfo Gigante  |
   | 30 | [Mosca serpente](/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 31 | [Manticora](/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1917 |  Scorpicora  |
   | 32 | [Pegaso](/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Argenteo  |

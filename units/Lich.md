@@ -182,7 +182,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Power Lich souls in the Underground: 17-2 and 17-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Lich Potenziato nei livelli del Sottosuolo 17-2 e 17-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Schiera Vidomina e un Lich e vinci </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> battaglia del Duello dei Campioni.</span>
 

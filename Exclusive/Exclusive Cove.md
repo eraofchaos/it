@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Pirati di Regna](/units/Regnan Pirates/) | [Spada](/Exclusive/Regnan Pirates Sword/) | - | Carica | - | - |
-  | 2  | [Arciere di Regna](/units/Regnan Archer/) | - | - | - | none | none |
+  | 1  | [Pirati di Regna](/units/Regnan Pirates/) | [Spada](/Exclusive/Regnan Pirates Sword/) | + | Carica | - | - |
+  | 2  | [Arciere di Regna](/units/Regnan Archer/) | [Miracolo](/Exclusive/Regnan Archer Miracle/) | - | Supporto | - | - |
   | 3  | [Elementale del mare](/units/Sea Elemental/) | [Cantico arcano](/Exclusive/Sea Elemental Arcane Chant/) | - | Carica | - | - |
   | 4  | [Serpente di Regna](/units/Regnan Serpent/) | [Maree diurne](/Exclusive/Regnan Serpent Day Tides/) | - | A distanza | - | - |
-  | 5  | [Sirena](/units/Mermaid/) | [Night Tides](/Exclusive/Mermaid Night Tides/) | - | A distanza | - | - |
+  | 5  | [Sirena](/units/Mermaid/) | [Maree notturne](/Exclusive/Mermaid Night Tides/) | - | A distanza | - | - |
   | 6  | [Tartaruga draconica](/units/Dragon Turtle/) | [Obbedienza](/Exclusive/Dragon Turtle Obedience/) | - | Supporto | - | - |
   | 7  | [Veggente di Regna](/units/Regnan Seer/) | [](/Exclusive/Regnan Seer /) | - | Capitale | - | - |
-  | 8  | [Leviatano](/units/Revyaratan/) | - | - | - | none | none |
-  | 9  | [Addestratore di squali](/units/Shark Trainer/) | - | - | - | none | none |
+  | 8  | [Leviatano](/units/Revyaratan/) | [Maree tenebrose](/Exclusive/Revyaratan Gloom Tides/) | - | A distanza | - | - |
+  | 9  | [Addestratore di squali](/units/Shark Trainer/) | [Onde di risacca](/Exclusive/Shark Trainer Break Waves/) | - | Supporto | - | - |

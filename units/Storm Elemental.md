@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Fulmine esplosivo
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Fulmine rimbalzante&gt;</span><span style="color: #645252;font-size:18px"> Raddoppia il danno della tecnica.</span>
 
-### 5th Skill (or 6th): Conflux Aura
+### 5th Skill (or 6th): Aura della Confluenza
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Forza elementale&gt;</span><span style="color: #645252;font-size:18px">Quando un eroe lancia un incantesimo di tipo Aria, aumenta del 25% la Vel ATT di due unità casuali nelle retrovie per 10 secondi.</span>
 
 ### 6th Skill (or 5th): Esplosione della Confluenza

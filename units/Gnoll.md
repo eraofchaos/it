@@ -116,7 +116,7 @@ toc: true
 ### Tecnica speciale fazione I : Attacco pestilenziale
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### Tecnica speciale fazione II : Rise of Vitality
+### Tecnica speciale fazione II : Vitalità aumentata
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -171,40 +171,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Guerriero gnoll
 
- **Awaking Descrizione:** null
+ **Awaking Descrizione:** Queste pallide creature notturne proteggono le paludi senza alcuna paura. Sono i migliori guerrieri dei clan degli Gnoll e combattono per liberare le creature della Fortezza.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #876741;font-size:18px">Schiera uno Gnoll con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Fortezza e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #876741;font-size:18px"> Gnomi nella Tesoreria degli gnomi in una battaglia sola. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #876741;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Guerrieri gnoll nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e vinci </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni.</span>
+ 4. <span style="color: #876741;font-size:18px">Schiera uno Gnoll con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Fortezza e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): Colpo di catena
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Colpo di catena&gt;</span><span style="color: #645252;font-size:18px"> Infligge danni aggiuntivi pari al 400% dell'ATT all'unità bersaglio.</span>
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+### 2nd Skill (or 1st): Urto con catena
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Colpo di catena&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la durata dello &lt;stordimento&gt; inflitto di 5 secondi.</span>
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): Richiamo della natura
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ferocia primitiva&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la Perforazione di 100. Effetto raddoppiato contro i nemici &lt;storditi&gt;.</span>
 
-### 4th Skill (or 3rd): Muro cavo
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): Richiamo selvaggio
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ferocia primitiva&gt;</span><span style="color: #645252;font-size:18px"> Aumenta il DAN CRIT del 15%. Effetto raddoppiato contro i nemici affetti da &lt;Pestilenza&gt;.</span>
 
-### 5th Skill (or 6th): Infiltrazione
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): Morte assicurata
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Colpo di grazia&gt;</span><span style="color: #645252;font-size:18px"> Quando affronta unità con PF inferiori al 60%, il CRIT aumenta di 250.</span>
 
-### 6th Skill (or 5th): Assalto estenuante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): Rottura
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Colpo di grazia&gt;</span><span style="color: #645252;font-size:18px"> Quando affronta unità con PF inferiori al 60%, il DAN aumenta del 20%.</span>
 
 ## Technical info
  **runart:** 1

@@ -9,7 +9,7 @@ toc: false
 classes: wide
 ---
 
-  [Morale alto](/combination/High Morale/){: .btn .btn--primary} [Rallentamento](/combination/Slow/){: .btn .btn--success} [Sanguinamento](/combination/Bleeding/){: .btn .btn--warning} [Combustione](/combination/Burning/){: .btn .btn--danger} [Morale basso](/combination/Low Morale/){: .btn .btn--info} [Malattia](/combination/Disease/){: .btn .btn--primary} [Blind](/combination/Blind/){: .btn .btn--success} [Silenzio](/combination/Silence/){: .btn .btn--warning} [Stordimento](/combination/Stun/){: .btn .btn--danger} [Scudo](/combination/Shield/){: .btn .btn--info} [Folgorazione](/combination/Static/){: .btn .btn--primary} [Pietrificazione](/combination/Petrify/){: .btn .btn--success} [Pestilenza](/combination/Plague/){: .btn .btn--warning} [Congelamento](/combination/Freeze/){: .btn .btn--danger} [Impedimento](/combination/Deterrence/){: .btn .btn--info} 
+  [Morale alto](/combination/High Morale/){: .btn .btn--primary} [Rallentamento](/combination/Slow/){: .btn .btn--success} [Sanguinamento](/combination/Bleeding/){: .btn .btn--warning} [Combustione](/combination/Burning/){: .btn .btn--danger} [Morale basso](/combination/Low Morale/){: .btn .btn--info} [Malattia](/combination/Disease/){: .btn .btn--primary} [Cecità](/combination/Blind/){: .btn .btn--success} [Silenzio](/combination/Silence/){: .btn .btn--warning} [Stordimento](/combination/Stun/){: .btn .btn--danger} [Scudo](/combination/Shield/){: .btn .btn--info} [Folgorazione](/combination/Static/){: .btn .btn--primary} [Pietrificazione](/combination/Petrify/){: .btn .btn--success} [Pestilenza](/combination/Plague/){: .btn .btn--warning} [Congelamento](/combination/Freeze/){: .btn .btn--danger} [Impedimento](/combination/Deterrence/){: .btn .btn--info} 
 
 
 #### Unità ed eroi che causano <Sanguinamento>
@@ -17,7 +17,7 @@ classes: wide
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
   | 1 | [Centauro](/units/Centauro/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Pegaso](/units/Pegaso/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 2 | [Pegaso](/units/Pegaso/) | [Mutare (drago)](/heroes/Mutare (drago)/) |
   | 3 | [Orco](/units/Orco/) | [Wystan](/heroes/Wystan/) |
   | 4 | [Guardia Dendroide](/units/Guardia Dendroide/) | - |
   | 5 | [Behemoth](/units/Behemoth/) | - |
@@ -32,7 +32,7 @@ classes: wide
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
   | 1 | [Drago verde](/units/Drago verde/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Segugio infernale](/units/Segugio infernale/) | [Dragon Mutare](/heroes/Dragon Mutare/) |
+  | 2 | [Segugio infernale](/units/Segugio infernale/) | [Mutare (drago)](/heroes/Mutare (drago)/) |
   | 3 | [Lich](/units/Lich/) | - |
   | 4 | [Morto vivente](/units/Morto vivente/) | - |
   | 5 | [Medusa](/units/Medusa/) | - |

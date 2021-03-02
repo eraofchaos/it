@@ -77,7 +77,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica onoraria](/Exclusive/Harpy Knight Pike/) 
+ **Name:** [Carica impetuosa](/Exclusive/Harpy Knight Pike/) 
 
  **Item to Rango ↑:** -
 
@@ -110,7 +110,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">Quando affronta unità non volanti, l'Arpia gode di ATT aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 2 : Urlo dello Spezzaincantesimi
- **Descrizione:** <span style="color: #645252;font-size:20px">Whenever a hostile hero casts a spell, the Harpy decreases the unit damage reduction of the units in the same path by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> for 6s, up to 3 stacks.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando un eroe nemico lancia un incantesimo, l'Arpia riduce la Rid DAN delle unità nemiche sulla stessa linea (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) per 6 secondi. Cumulabile fino a 3 volte.</span><span style="color: black">
 
 ### Tecnica normale 3 : Mira a mezz'aria
  **Descrizione:** <span style="color: #645252;font-size:20px">DAN CRIT dell'Arpia aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se il bersaglio è <span style="color: #48b946;font-size:20px">&lt;stordito&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, tutti gli attacchi dell'Arpia sono colpi critici.</span><span style="color: black">
@@ -153,7 +153,7 @@ toc: true
 ### Bonus eroe
 * [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -178,7 +178,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e vinci </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -186,7 +186,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>

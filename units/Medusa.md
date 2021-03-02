@@ -76,7 +76,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco della Medusa](/Exclusive/Medusa Medusa's bow/) 
+ **Name:** [Arco della Medusa](/Exclusive/Medusa Medusa's Bow/) 
 
  **Item to Rango ↑:** -
 
@@ -156,7 +156,7 @@ toc: true
 * [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Sephinroth](/heroes/Sephinroth/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

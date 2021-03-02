@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carica
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 

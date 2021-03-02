@@ -73,7 +73,7 @@ toc: true
   |:-------------|:-------------:|:------------:|
   | [Ascia delle terre selvagge](/equipment/Ascia delle terre selvagge/) | **ATT** | **DIF** | 
   | [Elmo delle terre selvagge](/equipment/Elmo delle terre selvagge/) | **PF** | **DIF** | 
-  | [Gauntlets of the Wild](/equipment/Gauntlets of the Wild/) | **ATT** | **DIF** | 
+  | [Guanti delle terre selvagge](/equipment/Guanti delle terre selvagge/) | **ATT** | **DIF** | 
   | [Spallacci delle terre selvagge](/equipment/Spallacci delle terre selvagge/) | **PF** | **DIF** | 
 
 ## Esclusivo

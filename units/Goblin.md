@@ -109,7 +109,7 @@ toc: true
 ### Tecnica normale 1 : Raptus
  **Descrizione:** <span style="color: #645252;font-size:20px">CRIT dei Goblin aumentato di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Effetto raddoppiato con PF inferiori al 35%. (Rimane attivo quando i PF vengono ripristinati)</span><span style="color: black">
 
-### Tecnica normale 2 : Execution
+### Tecnica normale 2 : Colpo di grazia
  **Descrizione:** <span style="color: #645252;font-size:20px">Quando affrontano un'unità con PF inferiori al 30%, l'ATT dei Goblin aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 3 : Sete di sangue

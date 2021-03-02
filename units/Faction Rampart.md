@@ -16,7 +16,7 @@ classes: wide
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
   | 1 | [Centauro](/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Capitano Centauro  |
   | 2 | [Gnomo](/units/Dwarf/) | Difesa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
-  | 3 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 3 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Elfo Gigante  |
   | 4 | [Pegaso](/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Argenteo  |
   | 5 | [Guardia Dendroide](/units/Dendroid Guard/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 396.0 | 10182 |  Soldato Dendroide  |
   | 6 | [Drago verde](/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.2 | 4525 |  Drago d'Oro  |

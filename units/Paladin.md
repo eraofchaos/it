@@ -111,7 +111,7 @@ toc: true
 ### Tecnica normale 2 : Incentivo
  **Descrizione:** <span style="color: #645252;font-size:20px">Il Paladino è immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Il Paladino e le unità alleate in un'ampia area ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px">Morale alto</span><span style="color: black"><span style="color: #645252;font-size:20px"> e 500 CRIT per </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### Tecnica normale 3 : Innocent Domain
+### Tecnica normale 3 : Aura d'innocenza
  **Descrizione:** <span style="color: #645252;font-size:20px">Il Paladino è immune alle </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattie&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Se il Paladino è sul campo di battaglia, la riduzione danno delle unità alleate aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Assedio

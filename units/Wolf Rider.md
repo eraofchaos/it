@@ -78,7 +78,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica onoraria](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Carica impetuosa](/Exclusive/Wolf Rider Knight Pike/) 
 
  **Item to Rango ↑:** -
 

@@ -1,6 +1,6 @@
 ---
 title: "Esclusivo - Coda di scorpione"
-permalink: /Exclusive/Manticore Scorpion tail/
+permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Coda di scorpione. Coda di scorpione. Era of Chaos Esclusivo Coda di scorpione. Manticora Esclusivo."
 last_modified_at: 2021-03-02
 locale: it
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** A distanza
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1660
 
@@ -32,7 +32,7 @@ classes: wide
   |  Initial  | ? | <Assalto dello scorpione> Ogni 20 secondi, la Manticora lancia un attacco triplo contro un'unità bersaglio che infligge il 100%, 125% e 150% dei danni, oltre a causare <Veleno di scorpione>. Al contempo, riduce la Tenacia e la Schivata del bersaglio di 200 per 5 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Danno della Manticora aumentato del 25%. |
   | **2x** <i class="fas fa-star"/> | ? | Rid DAN della Manticora aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | CRIT della Manticora aumentato di 300. Quando affronta unità affette da <Sanguinamento>, gli attacchi base infliggono danni pari al 50% dell'ATT. |
+  | **3x** <i class="fas fa-star"/> | ? | CRIT della Manticora aumentato di 300. Quando affronta unità affette da <Sanguinamento>, gli attacchi base infliggono danni aggiuntivi pari al 50% dell'ATT. |
   | **4x** <i class="fas fa-star"/> | ? | La Manticora gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
   | **5x** <i class="fas fa-star"/> | ? | Assorbimento della Manticora aumentato del 15%. |
   | **6x** <i class="fas fa-star"/> | ? | <Esplosione di veleno> Quando la Manticora colpisce un bersaglio <avvelenato>, il veleno accumulato esplode, riducendo del 20% la guarigione dell'unità per 5 secondi. Probabilità del 50% di causare <Silenzio> in un'area ridotta per 3 secondi. Probabilità del 30% di ridurre del 20% la Rid DAN dell'unità per 5 secondi. Probabilità del 20% di infliggere danni pari al 500% dell'ATT. Questi quattro effetti possono essere attivati nello stesso momento. La tecnica può essere usata una volta ogni 10 secondi. |

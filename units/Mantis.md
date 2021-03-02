@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Portata Tagli rapidi allargata.
 
- **Position :** 
+ **Position :** Portata Tagli rapidi allargata.
 
 ## Statistiche base
  **Base HP: 6336.0**
@@ -185,7 +185,7 @@ toc: true
 
  **Awaking Name:** null
 
- **Awaking Descrizione:** Gli unicorni dal crine dorato sono molto rari. Vengono spesso definiti "bestie sacre" dagli elfi di AvLee che li venerano. Ogni volta che la foresta di Tularea attraversa un momento di crisi, la luce dorata prende a rifulgere tra i rami degli alberi.
+ **Awaking Descrizione:** Gli unicorni dal crine dorato sono molto rari. Vengono spesso definiti \"bestie sacre\" dagli elfi di AvLee che li venerano. Ogni volta che la foresta di Tularea attraversa un momento di crisi, la luce dorata prende a rifulgere tra i rami degli alberi.
 
 ### Awaking Tasks
  1. <span style="color: #3c2a1e;font-size:18px">Schiera un Unicorno e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi nella Tesoreria degli gnomi in una volta sola. (I raid non sono considerati nel conteggio della missione.)</span>

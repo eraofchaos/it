@@ -17,7 +17,7 @@ classes: wide
   | 1 | [Elementale psichico](/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 212.0 | 1749 |  Elementale magico  |
   | 2 | [Rapace di fuoco](/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 848.5 | 4525 |  Fenice  |
   | 3 | [Demone di ghiaccio](/units/Ice Demon/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |   -   |
-  | 4 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Spirito guardiano dell'albero sacro  |
+  | 4 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Leprecauno maggiore  |
   | 5 | [Driade](/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 6 | [Elementale tempesta](/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.2 | 662 |  Tempesta di fulmini  |
   | 7 | [Elementale del ghiaccio](/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 111.0 | 744 |  Spirito della neve silente  |

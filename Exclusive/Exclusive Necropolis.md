@@ -18,10 +18,10 @@ classes: wide
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Scheletro](/units/Skeleton/) | [Scudo dell'Iride](/Exclusive/Skeleton Iris Shield/) | - | Carica | - | - |
-  | 2  | [Morto vivente](/units/Walking Dead/) | [Scudo dell'Iride](/Exclusive/Walking Dead Iris Shield/) | + | Carica | - | - |
+  | 2  | [Morto vivente](/units/Walking Dead/) | [Scudo dell'Iride](/Exclusive/Walking Dead Iris Shield/) | - | Carica | - | - |
   | 3  | [Anima](/units/Wight/) | [Cantico arcano](/Exclusive/Wight Arcane Chant/) | - | Carica | - | - |
-  | 4  | [Vampiro](/units/Vampire/) | [Carica onoraria](/Exclusive/Vampire Knight Pike/) | - | Carica | - | - |
-  | 5  | [Lich](/units/Lich/) | [Tributo di morte](/Exclusive/Lich Death Tribute/) | + | A distanza | - | - |
+  | 4  | [Vampiro](/units/Vampire/) | [Carica impetuosa](/Exclusive/Vampire Knight Pike/) | - | Carica | - | - |
+  | 5  | [Lich](/units/Lich/) | [Tributo di morte](/Exclusive/Lich Death Tribute/) | - | A distanza | - | - |
   | 6  | [Cavaliere nero](/units/Black Knight/) | [Lama del sottosuolo](/Exclusive/Black Knight Nether Sabre/) | + | Supporto | - | - |
   | 7  | [Drago scheletrico](/units/Bone Dragon/) | [Drago scheletrico immortale](/Exclusive/Bone Dragon Immortal Dragon Bone/) | - | Supporto | - | - |
   | 8  | [Mummia](/units/Mummy/) | [Benda](/Exclusive/Mummy Gauze/) | - | A distanza | - | - |

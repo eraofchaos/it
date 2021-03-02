@@ -74,7 +74,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica onoraria](/Exclusive/Sprite Knight Pike/) 
+ **Name:** [Carica impetuosa](/Exclusive/Sprite Knight Pike/) 
 
  **Item to Rango ↑:** -
 
@@ -107,7 +107,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, la Driade aumenta la resistenza magica di tutte le unità alleate davanti a sé (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato per la Driade stessa.</span><span style="color: black">
 
 ### Tecnica normale 2 : Ispirazione
- **Descrizione:** <span style="color: #645252;font-size:20px">When Sprite units are on the battlefield, it increases friendly heroes' basic mana by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se la Driade è sul campo di battaglia, aumenta il mana base degli eroi alleati di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 3 : Dedizione
  **Descrizione:** <span style="color: #645252;font-size:20px">Quando una Driade viene abbattuta, infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all'unità bersaglio </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
@@ -179,7 +179,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e vinci </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -187,7 +187,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>

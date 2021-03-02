@@ -16,7 +16,7 @@ classes: wide
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|
   | 1 | [Gremlin](/units/Gremlin/) | A distanza | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 645 |   -   |
   | 2 | [Golem di ferro](/units/Iron Golem/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Golem d'oro  |
-  | 3 | [Stone Gargoyle](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 3 | [Gargolla di pietra](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 4 | [Arcimago](/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Arcimago  |
   | 5 | [Genio](/units/Genie/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 102.6 | 662 |  Genio superiore  |
   | 6 | [Naga](/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Regina delle Naga  |

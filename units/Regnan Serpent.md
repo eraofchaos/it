@@ -69,7 +69,7 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Trident](/equipment/Trident/) | **ATT** | **DIF** | 
+  | [Tridente](/equipment/Tridente/) | **ATT** | **DIF** | 
   | [Corno a conchiglia](/equipment/Corno a conchiglia/) | **PF** | **DIF** | 
   | [Artigli della Sirena](/equipment/Artigli della Sirena/) | **ATT** | **DIF** | 
   | [Pinna blu profondo](/equipment/Pinna blu profondo/) | **PF** | **DIF** | 
@@ -118,7 +118,7 @@ toc: true
 ### Tecnica speciale fazione I : Pace interiore
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
-### Tecnica speciale fazione II : Pirate Conflict
+### Tecnica speciale fazione II : Conflitto piratesco
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
   <script language="JavaScript">

@@ -157,7 +157,7 @@ toc: true
 ## Connessione
 ### Connessione roster
 
-* **Tower**  (Roster Torre)
+* **Torre**  (Roster Torre)
 * **Incantatore**  (Roster incantatori)
 
 ### Bonus eroe

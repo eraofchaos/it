@@ -156,7 +156,7 @@ toc: true
 ### Bonus eroe
 * [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -179,20 +179,20 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 
- 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Troglodita nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Troglodita oscuro nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Schiera un Troglodita con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Dungeon e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Ferocious Assassination
+### 1st Skill (or 2nd): Assassinio feroce
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> Aumenta il DAN del 50% e la Vel ATT del 30% per 5 secondi.</span>
 
 ### 2nd Skill (or 1st): Impatto Muro di lance
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la durata dello &lt;Stordimento&gt; del 50% e la DIF del 30% per 5 secondi.</span>
 
 ### 3rd Skill (or 4th): Tocco sagace
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Keen&gt;</span><span style="color: #645252;font-size:18px"> Reduces the duration of Slow by 1s for Troglodyte. When slowed, deals damage equal to 500% of own ATK to the target unit and increases own DEF by 15% for 7s. CD is 15s.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Acutezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce la durata del &lt;Rallentamento&gt; di 1 secondo per il Troglodita. Quando è &lt;rallentato&gt;, infligge danni pari al 500% del proprio ATT all'unità bersaglio e aumenta la propria DIF del 15% per 7 secondi. Recupero: 15 secondi.</span>
 
 ### 4th Skill (or 3rd): Tocco astuto
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Acutezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce la durata del &lt;Sanguinamento&gt; di 1 secondo per il Troglodita. Quando è affetto da &lt;Sanguinamento&gt;, infligge danni pari al 500% del proprio ATT all'unità bersaglio e aumenta la propria Vel ATT del 15% per 7 secondi. Recupero: 15 secondi.</span>

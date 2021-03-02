@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka usa il terrore per guidare le proprie truppe alla vittoria. Finora questa tattica si è rivelata straordinariamente efficace."
 heroID: 60802
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Rashka"
 toc: true
@@ -16,7 +16,7 @@ toc: true
 
  **Rate:** R
 
- **Specialty:** Fire Lord
+ **Specialty:** Signore del Fuoco
 
  **Specialty Desc:** Sotto la guida di Rashka, l'Efreet diventa Signore del Fuoco. Le sue abilità di combattimento e di attacco aumentano notevolmente.
 

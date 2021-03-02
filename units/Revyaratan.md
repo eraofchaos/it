@@ -74,6 +74,12 @@ toc: true
 
 ## Esclusivo
 
+ **Name:** [Maree tenebrose](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 
@@ -100,7 +106,7 @@ toc: true
 ### Tecnica normale 1 : Pinna congelata
  **Descrizione:** <span style="color: #645252;font-size:20px">Immune a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Congelamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blocco temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e ai danni degli incantesimi di tipo Acqua. Per ogni unità Baia schierata, aumenta DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando il Leviatano scende in campo, tutte le unità alleate godono di DAN, Vel ATT e DAN CRIT aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto aumenta di un ulteriore 2,5% per le unità Baia.</span><span style="color: black">
 
-### Tecnica normale 2 : Skeleton Covet
+### Tecnica normale 2 : Brama d'ossa
  **Descrizione:** <span style="color: #645252;font-size:20px">Aumenta il DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Marchia 2 unità nemiche all'inizio della battaglia. Le unità marchiate hanno Vel ATT, DAN CRIT e Rid DAN ridotte (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Inoltre, queste unità non possono essere rianimate dalle tecniche dell'Angelo dopo la prima morte. &lt;Mandibola feroce&gt; ha una probabilità del 30% di ripristinare </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi dell'unità.</span><span style="color: black">
 
 ### Tecnica normale 3 : Correnti inalterabili
@@ -109,7 +115,7 @@ toc: true
 ### Tecnica speciale fazione I : Pace interiore
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
-### Tecnica speciale fazione II : Pirate Conflict
+### Tecnica speciale fazione II : Conflitto piratesco
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
   <script language="JavaScript">

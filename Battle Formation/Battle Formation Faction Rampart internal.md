@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Baluardo"
 permalink: /Battle Formation/Battle Formation Faction Rampart internal
 excerpt: "Formazione di battaglia Baluardo"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "BattleFormationFactionRampart"
 toc: false
@@ -25,7 +25,7 @@ classes: wide
   | Level |         Effect        |
   |:------|:---------------------|
   | **2** | **Quando affrontano unità affette da <Sanguinamento> e <Rallentamento>, le unità Baluardo guadagnano 40 MIRA per ogni effetto attivo** |
-  | **3** | **Increases 8% HP for all Rampart Units** |
+  | **3** | **Aumenta dell'8% i PF delle unità Baluardo** |
   | **4** | **Aumenta dell'8% la DIF delle unità Baluardo** |
   | **5** | **Quando affrontano unità affette da <Sanguinamento> e <Rallentamento>, il Colpo critico delle unità Baluardo aumenta di 25 per ogni effetto attivo** |
   | **6** | **Aumenta del 10% l'ATT delle unità Baluardo** |

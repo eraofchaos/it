@@ -115,7 +115,7 @@ toc: true
 ### Tecnica speciale fazione I : Attacco pestilenziale
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### Tecnica speciale fazione II : Rise of Vitality
+### Tecnica speciale fazione II : Vitalità aumentata
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
   <script language="JavaScript">

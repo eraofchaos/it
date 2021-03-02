@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Goblin](/units/Goblin/) | [Spada](/Exclusive/Goblin Sword/) | - | Carica | - | - |
-  | 2  | [Domatore di lupi](/units/Wolf Rider/) | [Carica onoraria](/Exclusive/Wolf Rider Knight Pike/) | - | Carica | - | - |
+  | 2  | [Domatore di lupi](/units/Wolf Rider/) | [Carica impetuosa](/Exclusive/Wolf Rider Knight Pike/) | - | Carica | - | - |
   | 3  | [Orco](/units/Orc/) | [Arco lungo](/Exclusive/Orc Long Bow/) | - | Carica | - | - |
   | 4  | [Ogre](/units/Ogre/) | [Scudo dell'Iride](/Exclusive/Ogre Iris Shield/) | - | Carica | - | - |
   | 5  | [Roc](/units/Roc/) | [Cantico arcano](/Exclusive/Roc Arcane Chant/) | - | Carica | - | - |
-  | 6  | [Ciclope](/units/Cyclops/) | [Arco lungo](/Exclusive/Cyclops Long Bow/) | - | Carica | - | - |
+  | 6  | [Ciclope](/units/Cyclops/) | [Arco lungo](/Exclusive/Cyclops Long Bow/) | + | Carica | - | - |
   | 7  | [Behemoth](/units/Behemoth/) | [Spirito sanguinario](/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Supporto | - | - |
   | 8  | [Berserker](/units/Berserker/) | [Ascia del Berserker](/Exclusive/Berserker Berserker's Axe/) | - | Supporto | - | - |
   | 9  | [Troll](/units/Troll/) | - | - | - | none | none |

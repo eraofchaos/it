@@ -68,7 +68,7 @@ toc: true
   | [Nucleo della Stella Polare](/equipment/Nucleo della Stella Polare/) | **ATT** | **DIF** | 
   | [Stella divina](/equipment/Stella divina/) | **PF** | **DIF** | 
   | [Corona dello Spirito stellare](/equipment/Corona dello Spirito stellare/) | **ATT** | **DIF** | 
-  | [Mighty Vambrace](/equipment/Mighty Vambrace/) | **PF** | **DIF** | 
+  | [Vambrace possente](/equipment/Vambrace possente/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

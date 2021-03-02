@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Gli Anziani considerano Dracon un vero prodigio nell'arte della magia. Il suo obiettivo è diventare il più famoso ammazzadraghi della storia."
 heroID: 61202
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Dracon"
 toc: true
@@ -43,7 +43,7 @@ toc: true
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria a tutte le unità nemiche nell'area d'effetto.
 
 ### 4 Spell: Clonazione
- **Descrizione:** Copy 1 of friendly units to fight in the battlefield. It has <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> of the original unit's ATK and takes {($duplidmg11+$duplidmg12*($sklevel-1))}% more damage. Lasts for 30s.
+ **Descrizione:** Clona 1 delle tue unità. Il clone ha <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> dell'ATT dell'unità originale e subisce {($duplidmg11+$duplidmg12*($sklevel-1))}% dei danni in più. Durata: 30 secondi.
 
 
 ## HERO Biography

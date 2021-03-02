@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Tiratore scelto](/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Maestro arciere  |
   | 7 | [Troglodita](/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Troglodita oscuro  |
   | 8 | [Centauro](/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Capitano Centauro  |
-  | 9 | [Gnoll](/units/Gnoll/) | Attacco | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 9 | [Gnoll](/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerriero gnoll  |
   | 10 | [Monaco](/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | 102.6 | 662 |  Fanatico  |
   | 11 | [Catafratto](/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | 79.4 | 811 |  Cavalieri campioni  |
   | 12 | [Scheletro](/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Scheletro guerriero  |

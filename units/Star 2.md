@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Demone dell'abisso](/units/Pit Fiend/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1850 |  Signore dell'abisso  |
   | 7 | [Golem di ferro](/units/Iron Golem/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |  Golem d'oro  |
   | 8 | [Efreet](/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 225.4 | 1446 |  Efreet Sultano  |
-  | 9 | [Stone Gargoyle](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
+  | 9 | [Gargolla di pietra](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 48.0 | 300 |    |
   | 10 | [Arcimago](/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |  Arcimago  |
   | 11 | [Arpia](/units/Harpy/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 74.0 | 860 |    |
   | 12 | [Grifone](/units/Griffin/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 151.4 | 1850 |   -   |
@@ -28,7 +28,7 @@ classes: wide
   | 14 | [Gnomo](/units/Dwarf/) | Difesa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 54.6 | 1324 |   -   |
   | 15 | [Minotauro](/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 108.0 | 2725 |  Re dei Minotauri  |
   | 16 | [Uomo lucertola](/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 174.9 | 1144 |   -   |
-  | 17 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Grand Elf  |
+  | 17 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | 92.4 | 438 |  Elfo Gigante  |
   | 18 | [Mosca serpente](/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 178.3 | 1615 |    |
   | 19 | [Pegaso](/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 195.1 | 1144 |  Pegaso Argenteo  |
   | 20 | [Pirati di Regna](/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Re dei Pirati  |

@@ -174,7 +174,7 @@ toc: true
 ### Awaking Details
  **Is it possible right now?** YES
 
- **Awaking Name:** Grand Elf
+ **Awaking Name:** Elfo Gigante
 
  **Awaking Descrizione:** Gli uccelli della foresta sono i loro occhi; le frecce che fendono l'aria, il loro richiamo. Essi sono i nobili cacciatori che incarnano la volontà della grande foresta e degli Elfi Giganti di Tularea!
 
@@ -185,11 +185,11 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Elfo Gigante nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy Wood Elf and at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Rampart Units and win </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battle.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Schiera un Elfo del bosco e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Baluardo e vinci </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #3c2a1e;font-size:18px"> battaglia del Duello dei Campioni.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Phantom Concentration
+### 1st Skill (or 2nd): Afflusso spettrale
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pioggia di frecce&gt;</span><span style="color: #645252;font-size:18px">: quando ottiene i bonus di &lt;Frenesia&gt;, aumenta il danno del 20% per 5 secondi.</span>
 
 ### 2nd Skill (or 1st): Pioggia torrenziale

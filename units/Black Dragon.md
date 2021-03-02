@@ -25,7 +25,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
 
- **Unit description:** Dragon's Breath: Attacks enemies within a large range and \"Burns\" them
+ **Unit description:** Soffio del drago: attacca i nemici, causando <Combustione> in un'ampia area.
 
  **Short description:** ATT e DIF magica equilibrati.
 
@@ -158,7 +158,7 @@ toc: true
 ### Bonus eroe
 * [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -188,7 +188,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Squame magnetiche
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Magic Immunity&gt;</span><span style="color: #645252;font-size:18px">For each &lt;Dragon Breath&gt; cast, Black Dragon gets 1-stack buff, up to 6 stacks. The buff cannot be dispelled</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Immunità alla magia&gt;</span><span style="color: #645252;font-size:18px">: ogni &lt;Soffio del Drago&gt; fornisce 1 buff al Drago nero, fino a un massimo di 6 cariche. Questi buff non possono essere rimossi.</span>
 
 ### 2nd Skill (or 1st): Armatura di magma incandescente
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Immunità alla magia&gt;</span><span style="color: #645252;font-size:18px">: ogni &lt;Soffio del Drago&gt; fornisce 2 buff al Drago nero, fino a un massimo di 4 cariche. Questi buff non possono essere rimossi.</span>

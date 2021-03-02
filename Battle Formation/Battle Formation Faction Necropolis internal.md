@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Necropoli"
 permalink: /Battle Formation/Battle Formation Faction Necropolis internal
 excerpt: "Formazione di battaglia Necropoli"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "BattleFormationFactionNecropolis"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | **9** | **Aumenta del 4% la VEL ATT delle unità Necropoli** |
   | **10** | **Aumenta del 15% l'ATT delle unità Necropoli** |
   | **11** | **Aumenta del 17% i PF delle unità Necropoli** |
-  | **12** | **Increases 50 Critical Hit for all friendly Necropolis Units for 6 seconds when a friendly hero casts an earth spell** |
+  | **12** | **Quando un eroe alleato lancia un incantesimo di Terra, il Colpo critico delle unità Necropoli aumenta di 50 per 6 secondi** |
 
 ## Formazione di battaglia Circle 1:
 

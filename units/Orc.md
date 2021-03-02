@@ -189,7 +189,7 @@ toc: true
 
  3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Orco nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. <span style="color: #876741;font-size:18px">Deploy Orc with </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> Stronghold units and win 3 battles in Campaign. (Sweep does not count towards the mission.)</span>
+ 4. <span style="color: #876741;font-size:18px">Schiera un Orco con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Roccaforte e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 

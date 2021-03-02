@@ -107,7 +107,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">L'Efreet evoca una &lt;Tempesta di fuoco&gt; sull'area bersaglio che infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> danni alle unità nemiche colpite, causando </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 15 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Scudo fiammeggiante
- **Descrizione:** <span style="color: #645252;font-size:20px">At the beginning of battle, the Efreeti unit creates a &lt;Flaming shield&gt; for all friendly Inferno units that reflects 15% of damage taken over the next </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">s.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Efreet genera uno &lt;Scudo di Fuoco&gt; che protegge tutte le unità Inferno alleate, riflettendo il 15% dei danni che subiscono per i successivi </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi.</span><span style="color: black">
 
 ### Tecnica normale 2 : Incandescenza
  **Descrizione:** <span style="color: #645252;font-size:20px">Lo &lt;Scudo di Fuoco&gt; dell'Efreet aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e la resistenza magica (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -208,7 +208,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Dio del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: Vel ATT dell'Efreet aumentata del 5% per ogni unità Inferno schierata.</span>
 
 ### 6th Skill (or 5th): Intreccio incantato
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;God of Fire&gt;</span><span style="color: #645252;font-size:18px">Efreeti's ATK speed will be increased by 5% for every Caster Unit on the battlefield</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Dio del Fuoco&gt;</span><span style="color: #645252;font-size:18px">: Vel ATT dell'Efreet aumentata del 5% per ogni incantatore sul campo di battaglia.</span>
 
 ## Technical info
  **runart:** 0

@@ -1,7 +1,7 @@
 ---
 title: "Gorgone"
 permalink: /units/Gorgon/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target."
+excerpt: "Era of Chaos Unità. Unità. Era of Chaos Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
 last_modified_at: 2021-03-02
 locale: it
@@ -9,7 +9,7 @@ ref: "Gorgone"
 toc: true
 ---
 ## General information
- **Descrizione:** Foul creatures with fatal eyes. No one walks out of the swamp after becoming their target.
+ **Descrizione:** Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude.
 
  **Classe:** [Difesa](/units/Unit Class Defense/)
 
@@ -99,7 +99,7 @@ toc: true
 * [Combustione](/combination/Combustione/) 
 * [Morale basso](/combination/Morale basso/) 
 * [Malattia](/combination/Malattia/) 
-* [Blind](/combination/Blind/) 
+* [Cecità](/combination/Cecità/) 
 * [Silenzio](/combination/Silenzio/) 
 * [Stordimento](/combination/Stordimento/) 
 
@@ -127,7 +127,7 @@ toc: true
 ### Tecnica speciale fazione I : Attacco pestilenziale
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### Tecnica speciale fazione II : Rise of Vitality
+### Tecnica speciale fazione II : Vitalità aumentata
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
   <script language="JavaScript">

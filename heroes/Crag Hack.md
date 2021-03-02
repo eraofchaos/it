@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack un tempo era uno sconosciuto eroe di Enroth che aveva deciso di fare vela per l'Erathia. Lì ha trovato una terra devastata dalla guerra, luogo ideale per mettere a frutto le sue abilità."
 heroID: 60602
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Crag Hack"
 toc: true
@@ -49,7 +49,7 @@ toc: true
    - Questa terra desolata confina con Krewlod. È sotto il controllo dei barbari da tempo immemore.
    - Ramos, Cavaliere della Morte, dominava quest'area. Stando alle informazioni a tua disposizione, avrebbe trafugato un prezioso manufatto dalla tomba di un grande eroe.
    - Numerose Anime vivono nella Palude di Ferris. Esse sono soggette al potere di un manufatto malvagio, che impedisce loro di dipartirsi da questo mondo in pace...
-   - Quest'area è sotto il controllo di una setta nota come "Mano della Morte". Il loro capo, Charnath, è in possesso dell'ultimo componente dell'Armatura dei Dannati.
+   - Quest'area è sotto il controllo di una setta nota come \"Mano della Morte\". Il loro capo, Charnath, è in possesso dell'ultimo componente dell'Armatura dei Dannati.
 
 ## HERO Skins
 ### Skin 1: **Classica**

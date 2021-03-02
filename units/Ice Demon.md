@@ -104,28 +104,29 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">Se il Demone di ghiaccio è sul campo di battaglia, le unità di difesa nemiche con PF superiori al 50% subiscono danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi ogni 3 secondi. L'effetto aumenta del 30% contro unità affette da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Assideramento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Quando affronta unità affette da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Congelamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Assideramento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> o </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blocco temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, infligge danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dell'ATT del Demone di ghiaccio ogni 3 secondi.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Se il Demone di ghiaccio è sul campo di battaglia, emette una sentenza ogni 3 secondi, riducendo la Vel ATT di tutte le unità nemiche con PF inferiori al 50% (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">), con una probabilità del 10% di infliggere </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Assideramento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 3 : Dominatrice del ghiaccio
- **Descrizione:** <span style="color: #645252;font-size:20px">Il Demone di ghiaccio e le unità non Fortezza in un'ampia area a esso circostante diventano immuni a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Congelamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blocco temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Ogni 13 secondi, il Demone di ghiaccio protegge le unità a distanza e gli incantatori alleati con una </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Corazza di cristallo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e ne aumenta la Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto non può essere rimosso né accumulato, dura 6 secondi e svanisce quando l'unità subisce danni 5 volte. Il numero di volte è raddoppiato per il Demone di ghiaccio.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Il Demone di ghiaccio e le unità non Fortezza in un'ampia area a esso circostante diventano immuni a </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Congelamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Blocco temporale&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">Ogni 13 secondi, il Demone di Ghiaccio protegge le unità a distanza e gli incantatori alleati con una </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Corazza di cristallo&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, aumentandone Rid DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN riflesso (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). L'effetto non può essere rimosso né accumulato, dura 6 secondi e svanisce quando l'unità subisce danni 5 volte. Il numero di volte è raddoppiato per il Demone di ghiaccio.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Affinità elementale
- **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza sono esperte nell'utilizzo della magia della Confluenza. La resistenza magica degli eroi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Conflitto elementale
- **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str17"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Confluenza infliggono ingenti danni da Confluenza. Quando affrontano unità non Confluenza, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 6 : Aura glaciale
- **Descrizione:** <span style="color: #645252;font-size:20px">Se sono presenti in campo 3 unità Confluenza, il Demone di ghiaccio gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str18"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8 secondi dopo l'inizio della battaglia, evoca un'<span style="color: #645252;font-size:20px">Aura</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;glaciale&gt;</span><span style="color: black">, che cresce all'aumentare del livello. L'Aura ha una durata di 15 secondi. In seguito, l'Aura si riattiva ogni 30 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se sono presenti in campo 3 unità Confluenza, il Demone di ghiaccio gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str19"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str20"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black"><br/><span style="color: #ffffff;font-size:6px">　</span><span style="color: black"><br/><span style="color: #645252;font-size:20px">8 secondi dopo l'inizio della battaglia, evoca un'<span style="color: #645252;font-size:20px">Aura</span><span style="color: black"><span style="color: #645252;font-size:20px"> </span><span style="color: black"><span style="color: #F0F000;font-size:20px">&lt;glaciale&gt;</span><span style="color: black">, che cresce all'aumentare del livello. L'Aura ha una durata di 15 secondi. In seguito, l'Aura si riattiva ogni 30 secondi.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
+    let str20 = "LEVEL*2+5"
     let str7 = "LEVEL*0.7+4.5"
     let str8 = "LEVEL*5+25"
     let str5 = "LEVEL*0.7+4.5"
-    let str18 = "LEVEL*2+4"
+    let str18 = "(LEVEL*1+5)"
     let str6 = "LEVEL*5+25"
-    let str19 = "LEVEL*2+5"
+    let str19 = "LEVEL*2+4"
     let str3 = "LEVEL*1+15"
     let str4 = "LEVEL*0.5+12.5"
     let str1 = "LEVEL*5+45"
@@ -134,13 +135,14 @@ toc: true
     let str13 = "LEVEL*3+10"
     let str10 = "LEVEL*0.2+1.8"
     let str11 = "LEVEL*0.5+23.5"
-    let str16 = "(LEVEL*3+15)"
-    let str17 = "(LEVEL*1+5)"
+    let str16 = "LEVEL*2+2"
+    let str17 = "(LEVEL*3+15)"
     let str9 = "LEVEL*1.5+22.5"
     let str14 = "LEVEL*1+10"
     let str15 = "LEVEL*5+25"
     let res="ERR";
     try {
+     res = eval(str20); document.getElementById('str20').textContent = res;
      res = eval(str7); document.getElementById('str7').textContent = res;
      res = eval(str8); document.getElementById('str8').textContent = res;
      res = eval(str5); document.getElementById('str5').textContent = res;
@@ -202,7 +204,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e vinci </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -210,7 +212,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>

@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Ciele è una generale mai sconfitta in battaglia e una tra le prime eroine a unirsi all'esercito della Confluenza. Grazie alle sue frecce magiche, è stata in grado di scoprire il rapporto che unisce i diversi Elementali magici."
 heroID: 60705
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Ciele"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Festival cinese degli innamorati
+   - Nuovo design eroe
+   - Avatar ed effetto incantesimo unici
+
+### Skin 3: **Messaggero di Natale**
+
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Lo splendido Messaggero di Natale giunge portando con sé tanti regali! Neppure le fredde notti d'inverno possono frenare lo spirito natalizio!</span>
+
+ **Skin features:** 
+
+   - Messaggero di Natale porta-doni
    - Nuovo design eroe
    - Avatar ed effetto incantesimo unici
 

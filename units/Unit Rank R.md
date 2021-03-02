@@ -20,7 +20,7 @@ classes: wide
   | 6 | [Tiratore scelto](/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | 85.3 | 438 |  Maestro arciere  |
   | 7 | [Troglodita](/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 86.0 | 744 |  Troglodita oscuro  |
   | 8 | [Centauro](/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 111.0 | 2691 |  Capitano Centauro  |
-  | 9 | [Gnoll](/units/Gnoll/) | Attacco | - | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |   -   |
+  | 9 | [Gnoll](/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | 84.4 | 761 |  Guerriero gnoll  |
   | 10 | [Scheletro](/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 57.9 | 1158 |  Scheletro guerriero  |
   | 11 | [Driade](/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | 69.5 | 993 |    |
   | 12 | [Morto vivente](/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | 117.7 | 2758 |  Zombi  |

@@ -118,7 +118,7 @@ toc: true
 ### Tecnica speciale fazione I : Assedio
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### Tecnica speciale fazione II : Defense Resonance
+### Tecnica speciale fazione II : Riverbero difensivo
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
   <script language="JavaScript">

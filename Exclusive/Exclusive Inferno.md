@@ -19,8 +19,8 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Folletto](/units/Imp/) | [Scudo dell'Iride](/Exclusive/Imp Iris Shield/) | - | Carica | - | - |
   | 2  | [Gog](/units/Gog/) | [Cantico arcano](/Exclusive/Gog Arcane Chant/) | - | Carica | - | - |
-  | 3  | [Segugio infernale](/units/Hell Hound/) | [Carica onoraria](/Exclusive/Hell Hound Knight Pike/) | - | Carica | - | - |
-  | 4  | [Demone](/units/Demon/) | [Scudo dell'Iride](/Exclusive/Demon Iris Shield/) | - | Carica | - | - |
+  | 3  | [Segugio infernale](/units/Hell Hound/) | [Carica impetuosa](/Exclusive/Hell Hound Knight Pike/) | - | Carica | - | - |
+  | 4  | [Demone](/units/Demon/) | [Scudo dell'Iride](/Exclusive/Demon Iris Shield/) | + | Carica | - | - |
   | 5  | [Demone dell'abisso](/units/Pit Fiend/) | [Spada](/Exclusive/Pit Fiend Sword/) | - | Carica | - | - |
   | 6  | [Efreet](/units/Efreeti/) | [Cantico arcano](/Exclusive/Efreeti Arcane Chant/) | - | Carica | - | - |
   | 7  | [Diavolo](/units/Devil/) | [Falce diabolica](/Exclusive/Devil Devil Scythe/) | - | Supporto | - | - |

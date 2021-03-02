@@ -18,11 +18,11 @@ classes: wide
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Picchiere](/units/Pikeman/) | [Spada](/Exclusive/Pikeman Sword/) | - | Carica | - | - |
-  | 2  | [Tiratore scelto](/units/Marksman/) | [Arco lungo](/Exclusive/Marksman Long Bow/) | + | Carica | - | - |
-  | 3  | [Grifone](/units/Griffin/) | [Carica onoraria](/Exclusive/Griffin Knight Pike/) | - | Carica | - | - |
+  | 2  | [Tiratore scelto](/units/Marksman/) | [Arco lungo](/Exclusive/Marksman Long Bow/) | - | Carica | - | - |
+  | 3  | [Grifone](/units/Griffin/) | [Carica impetuosa](/Exclusive/Griffin Knight Pike/) | - | Carica | - | - |
   | 4  | [Spadaccino](/units/Swordsman/) | [Scudo dell'Iride](/Exclusive/Swordsman Iris Shield/) | - | Carica | - | - |
-  | 5  | [Monaco](/units/Monk/) | [Cantico arcano](/Exclusive/Monk Arcane Chant/) | + | Carica | - | - |
-  | 6  | [Catafratto](/units/Cavalier/) | [Carica onoraria](/Exclusive/Cavalier Knight Pike/) | + | Carica | - | - |
-  | 7  | [Angelo](/units/Angel/) | [Durlindana](/Exclusive/Angel Durandel/) | + | Supporto | - | - |
+  | 5  | [Monaco](/units/Monk/) | [Cantico arcano](/Exclusive/Monk Arcane Chant/) | - | Carica | - | - |
+  | 6  | [Catafratto](/units/Cavalier/) | [Carica impetuosa](/Exclusive/Cavalier Knight Pike/) | + | Carica | - | - |
+  | 7  | [Angelo](/units/Angel/) | [Durlindana](/Exclusive/Angel Durandel/) | - | Supporto | - | - |
   | 8  | [Paladino](/units/Paladin/) | [](/Exclusive/Paladin /) | - | Supporto | - | - |
   | 9  | [Giudice](/units/Judicator/) | [](/Exclusive/Judicator /) | - | Capitale | - | - |

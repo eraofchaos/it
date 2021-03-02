@@ -156,7 +156,7 @@ toc: true
 ## Connessione
 ### Connessione roster
 
-* **Tower**  (Roster Torre)
+* **Torre**  (Roster Torre)
 * **Attacco**  (Roster unità d'attacco)
 
 ### Bonus eroe
@@ -206,7 +206,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: rende immune al danno magico per 3 secondi.</span>
 
 ### 6th Skill (or 5th): Affilatura incantata
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: fornisce il 30% di DAN extra per 6 secondi.</span>
 
 ## Technical info
  **runart:** 1

@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Ruba anime per ribaltare il risultato dello scontro. Nato per morire.
 
- **Position :** 
+ **Position :** Ruba anime per ribaltare il risultato dello scontro. Nato per morire.
 
 ## Statistiche base
  **Base HP: 13350.0**

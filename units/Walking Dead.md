@@ -190,8 +190,8 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Disease Outbreak
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Poison Gas&gt;</span><span style="color: #645252;font-size:18px">Deals additional damage equal to 2% of Max HP</span>
+### 1st Skill (or 2nd): Epidemia
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Gas velenoso&gt;</span><span style="color: #645252;font-size:18px">: infligge danni aggiuntivi pari al 2% dei PF massimi.</span>
 
 ### 2nd Skill (or 1st): Malattia infettiva
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Gas velenoso&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, applica &lt;Gas velenoso&gt; a tutte le unità da mischia Necropoli alleate fino al termine della battaglia. Il danno è cumulabile fino a 6 volte.</span>

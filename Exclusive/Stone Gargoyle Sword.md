@@ -1,7 +1,7 @@
 ---
 title: "Esclusivo - Spada"
 permalink: /Exclusive/Stone Gargoyle Sword/
-excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Stone Gargoyle Esclusivo."
+excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Gargolla di pietra Esclusivo."
 last_modified_at: 2021-03-02
 locale: it
 ref: "Stone Gargoyle Spada.md"
@@ -13,7 +13,7 @@ classes: wide
 ## Details
  **Name: Spada** 
 
- **Esclusivo for Unit:** [Stone Gargoyle](/units/Stone Gargoyle/) 
+ **Esclusivo for Unit:** [Gargolla di pietra](/units/Stone Gargoyle/) 
 
  **Item to Rango ↑:** -
 

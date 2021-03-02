@@ -189,7 +189,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Cavaliere del Terrore nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Deploy at least </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Black Knights to win </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Duel of Champions battles.</span>
+ 4. <span style="color: #3c2a1e;font-size:18px">Schiera almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> Cavalieri neri e vinci </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni.</span>
 
 ## Awaken Skills
 

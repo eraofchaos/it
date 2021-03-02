@@ -100,7 +100,7 @@ toc: true
 ### Tecnica suprema: Roccia frantumata
  **Descrizione:** <span style="color: #645252;font-size:20px">Quando muore, l'Elementale della pietra si divide in 2 Elementali minori. Ciascun Elementale minore ha </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> ATT e </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PF e dura fino al termine della battaglia.</span><span style="color: black">
 
-### Tecnica normale 1 : Rock Solid
+### Tecnica normale 1 : Roccia solida
  **Descrizione:** <span style="color: #645252;font-size:20px">Rid DAN dell'Elementale della pietra aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato quando l'Elementale della pietra subisce danno da unità a distanza.</span><span style="color: black">
 
 ### Tecnica normale 2 : Forza elementale
@@ -185,7 +185,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e vinci </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -193,7 +193,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>

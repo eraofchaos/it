@@ -77,7 +77,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica onoraria](/Exclusive/Vampire Knight Pike/) 
+ **Name:** [Carica impetuosa](/Exclusive/Vampire Knight Pike/) 
 
  **Item to Rango ↑:** -
 

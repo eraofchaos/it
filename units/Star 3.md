@@ -23,7 +23,7 @@ classes: wide
   | 9 | [Demone di ghiaccio](/units/Ice Demon/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 565.7 | 5996 |   -   |
   | 10 | [Addestratore di squali](/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Cavalcasquali  |
   | 11 | [Berserker](/units/Berserker/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Messaggero di morte  |
-  | 12 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Spirito guardiano dell'albero sacro  |
+  | 12 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Leprecauno maggiore  |
   | 13 | [Troll](/units/Troll/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 1018.3 | 9051 |   -   |
   | 14 | [Arciere di Regna](/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |   -   |
   | 15 | [Diavolo](/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcidiavolo  |
@@ -34,7 +34,7 @@ classes: wide
   | 20 | [Progenie velenosa](/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 375.0 | 13350 |   -   |
   | 21 | [Osservatore](/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 115.8 | 744 |  Occhio del Diavolo  |
   | 22 | [Naga](/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Regina delle Naga  |
-  | 23 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 23 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tartaruga draconica primordiale  |
   | 24 | [Gigante](/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titano  |
   | 25 | [Medusa](/units/Medusa/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 202.0 | 1144 |  Regina Medusa  |
   | 26 | [Aeronave magica](/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 208.5 | 1715 |   -   |

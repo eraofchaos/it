@@ -98,7 +98,7 @@ toc: true
   <button type="submit">Calculate SKILLs</button>
   <p id="log"></p>
   </form>
-### Tecnica suprema: Ray of Judgment
+### Tecnica suprema: Raggio del Giudizio
  **Descrizione:** <span style="color: #645252;font-size:20px">Il Giudice evoca 2 &lt;Raggi del Giudizio&gt; ogni 25 secondi. I Raggi <span style="color: #48b946;font-size:20px">&lt;stordiscono&gt;</span><span style="color: black"> le unità nemiche nell'area per 1 secondo, infliggono danni pari a <span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"> dei PF massimi, e riducono le cure ricevute dalle unità nemiche (<span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black">) per 8 secondi.</span><span style="color: black">
 
 ### Tecnica normale 1 : Benedizione

@@ -108,7 +108,7 @@ toc: true
 ### Tecnica normale 1 : Dono delle maree
  **Descrizione:** <span style="color: #645252;font-size:20px">Quando entra in battaglia, l'Elementale del mare protegge le unità alleate di fronte a sé con uno </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Scudo di ghiaccio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'Elementale del mare </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;rallenta&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> le unità che lo attaccano. Lo scudo ha una durata di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
 
-### Tecnica normale 2 : Tidal Rite
+### Tecnica normale 2 : Rito delle maree
  **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio della battaglia, l'Elementale del mare evoca un circolo che ne aumenta i PF (<span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black">). Riduce gli effetti di cura delle unità nemiche dell'1% ogni 2 secondi fino al termine della battaglia.</span><span style="color: black">
 
 ### Tecnica normale 3 : Gabbia abissale
@@ -117,7 +117,7 @@ toc: true
 ### Tecnica speciale fazione I : Pace interiore
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sanno come muoversi all'interno delle tempeste. Se equipaggiate con un Emblema sacro, i loro PF aumentano (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e hanno una probabilità del 40% di resistere allo &lt;Stordimento&gt;.</span><span style="color: black">
 
-### Tecnica speciale fazione II : Pirate Conflict
+### Tecnica speciale fazione II : Conflitto piratesco
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
   <script language="JavaScript">
@@ -203,7 +203,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: rende immune al danno magico per 3 secondi.</span>
 
 ### 6th Skill (or 5th): Affilatura incantata
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Magic Awakening&gt;</span><span style="color: #645252;font-size:18px">Grants 30% extra unit's damage for 6s</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Risveglio magico&gt;</span><span style="color: #645252;font-size:18px">: fornisce il 30% di DAN extra per 6 secondi.</span>
 
 ## Technical info
  **runart:** 0

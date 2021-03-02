@@ -80,7 +80,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica onoraria](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Carica impetuosa](/Exclusive/Cavalier Knight Pike/) 
 
  **Item to Rango ↑:** -
 
@@ -108,7 +108,7 @@ toc: true
   <p id="log"></p>
   </form>
 ### Tecnica suprema: A cavallo
- **Descrizione:** <span style="color: #645252;font-size:20px">When a Cavalier unit is on the battlefield, their 1st attack deals </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> damage to their target, and </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stuns&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> them for 5s.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Quando un Catafratto entra in battaglia, il suo primo attacco infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> danni al bersaglio e lo </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 5 sec.</span><span style="color: black">
 
 ### Tecnica normale 1 : Carica gloriosa
  **Descrizione:** <span style="color: #645252;font-size:20px">Il CRIT del Catafratto aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato con </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
@@ -122,7 +122,7 @@ toc: true
 ### Tecnica speciale fazione I : Assedio
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### Tecnica speciale fazione II : Defense Resonance
+### Tecnica speciale fazione II : Riverbero difensivo
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
   <script language="JavaScript">
@@ -186,7 +186,7 @@ toc: true
 
  2. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> risorse nell'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Collect </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> Champion Knight souls in the Underground: 16-2 and 16-4 levels.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Cavaliere campione nei livelli del Sottosuolo 16-2 e 16-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Schiera un Catafratto e vinci almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni sotto il comando di Mullich.</span>
 
@@ -208,7 +208,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: aumenta la Rid DAN di un ulteriore 20%. Effetto raddoppiato con &lt;Morale alto&gt;.</span>
 
 ### 6th Skill (or 5th): Pace mentale
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: all'inizio della battaglia, ottiene &lt;Morale alto&gt;. Infliggi colpi critici garantiti. L'effetto dura 10 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px"> Quando gode di &lt;Morale alto&gt; durante il combattimento, infligge colpi critici garantiti. L'effetto dura 10 secondi.</span>
 
 ## Technical info
  **runart:** 1

@@ -16,11 +16,11 @@ classes: wide
   | 2 | [Behemoth](/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 407.3 | 10182 |  Behemoth antico  |
   | 3 | [Addestratore di squali](/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5430 |  Cavalcasquali  |
   | 4 | [Berserker](/units/Berserker/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 678.8 | 5317 |  Messaggero di morte  |
-  | 5 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Spirito guardiano dell'albero sacro  |
+  | 5 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 134.5 | 3162 |  Leprecauno maggiore  |
   | 6 | [Arciere di Regna](/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 235.5 | 1245 |   -   |
   | 7 | [Diavolo](/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcidiavolo  |
   | 8 | [Naga](/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 79.4 | 811 |  Regina delle Naga  |
-  | 9 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 9 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tartaruga draconica primordiale  |
   | 10 | [Gigante](/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Titano  |
   | 11 | [Paladino](/units/Paladin/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 128.0 | 2589 |  Paladino Supremo  |
   | 12 | [Angelo](/units/Angel/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 792.0 | 5431 |  Arcangelo  |

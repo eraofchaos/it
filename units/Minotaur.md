@@ -157,7 +157,7 @@ toc: true
 ### Bonus eroe
 * [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -198,7 +198,7 @@ toc: true
 ### 4th Skill (or 3rd): Resistenza magica
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Costituzione dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px">: quando un eroe nemico lancia un incantesimo, il Minotauro ottiene &lt;Morale alto&gt; per 5 secondi e la sua Rid DAN aumenta del 10% fino al termine della battaglia. Cumulabile fino a 3 volte.</span>
 
-### 5th Skill (or 6th): Ferocious Will
+### 5th Skill (or 6th): Volontà feroce
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ferocia avanzata&gt;</span><span style="color: #645252;font-size:18px">: quando affronta unità affette da &lt;Sanguinamento&gt;, il DAN del Minotauro aumenta del 20%. Se il Minotauro è affetto da &lt;Sanguinamento&gt;, la sua Vel ATT aumenta del 20% per 6 secondi.</span>
 
 ### 6th Skill (or 5th): Ferocia sanguinaria

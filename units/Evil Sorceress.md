@@ -30,7 +30,7 @@ toc: true
 
  **Short description:** Riflette gli incantesimi. Applica buff con l'aura.
 
- **Position :** 
+ **Position :** Riflette gli incantesimi. Applica buff con l'aura.
 
 ## Statistiche base
  **Base HP: 5770.0**
@@ -166,7 +166,7 @@ toc: true
 ### Bonus eroe
 * [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dragon Mutare](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -1,9 +1,9 @@
 ---
-title: "Dragon Mutare"
+title: "Mutare (drago)"
 permalink: /heroes/Dragon Mutare/
-excerpt: "Era of Chaos Dragon Mutare. Dragon Mutare. Dopo aver bevuto dalla Fiala del Sangue di drago, Mutare si è trasformata in un Drago dotato di coscienza umana. Alcuni ipotizzano che tale trasformazione sia un presagio della venuta del Padre dei Draghi."
+excerpt: "Era of Chaos Mutare (drago). Mutare (drago). Dopo aver bevuto dalla Fiala del Sangue di drago, Mutare si è trasformata in un Drago dotato di coscienza umana. Alcuni ipotizzano che tale trasformazione sia un presagio della venuta del Padre dei Draghi."
 heroID: 61302
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Dragon Mutare"
 toc: true
@@ -69,6 +69,16 @@ toc: true
  **Skin features:** 
 
    - Elfo natalizio che gioca con la neve
+   - Nuovo design eroe
+   - Avatar ed effetto incantesimo unici
+
+### Skin 4: **Signora del Gelo**
+
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Al mio comando, soffiano i venti e si abbattono le tormente. La mia fronte è cinta di brina, giacché sono l'unica dominatrice delle terre ghiacciate!</span>
+
+ **Skin features:** 
+
+   - Signora del Gelo
    - Nuovo design eroe
    - Avatar ed effetto incantesimo unici
 

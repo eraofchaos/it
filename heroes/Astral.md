@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral è giunto nell'Erathia circa dieci anni orsono, ed è stato subito accettato dalla Gilda dei Maghi di Bracada. Alcuni sostengono, scherzando, che la sua rapidissima scalata nei ranghi della Gilda sia dovuta anch'essa alla magia."
 heroID: 61203
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Astral"
 toc: true
@@ -59,6 +59,16 @@ toc: true
  **Skin features:** 
 
    - Mago della mente
+   - Nuovo design eroe
+   - Avatar ed effetto incantesimo unici
+
+### Skin 3: **Potenza del Padre dei Draghi**
+
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Il tuono mi avvolge e il fuoco di Drago mi ruggisce nell'anima! Sono la punizione divina! La sentenza del Paradiso! La perfetta fusione tra potere e magia!</span>
+
+ **Skin features:** 
+
+   - Potenza del Padre dei Draghi
    - Nuovo design eroe
    - Avatar ed effetto incantesimo unici
 

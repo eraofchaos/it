@@ -1,17 +1,17 @@
 ---
-title: "Esclusivo - Carica onoraria"
+title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Hell Hound Knight Pike/
-excerpt: "Era of Chaos Carica onoraria. Carica onoraria. Era of Chaos Esclusivo Carica onoraria. Segugio infernale Esclusivo."
+excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Segugio infernale Esclusivo."
 last_modified_at: 2021-03-02
 locale: it
-ref: "Hell Hound Carica onoraria.md"
+ref: "Hell Hound Carica impetuosa.md"
 toc: false
 classes: wide
 ---
  [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
- **Name: Carica onoraria** 
+ **Name: Carica impetuosa** 
 
  **Esclusivo for Unit:** [Segugio infernale](/units/Hell Hound/) 
 

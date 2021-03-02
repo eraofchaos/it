@@ -109,7 +109,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">DAN dell'attacco base dell'Uomo lucertola aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Se i bersagli sono affetti da <span style="color: #48b946;font-size:20px">&lt;Sanguinamento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">, i danni aumentano del 30%.</span><span style="color: black">
 
 ### Tecnica normale 2 : Pestilenza aggravata
- **Descrizione:** <span style="color: #645252;font-size:20px">Lizardman unit's damage increased by </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. Lizardman's unit's damage will be increased by a further 5% for every debuff the target has, up to 5 stacks.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Danno dell'Uomo lucertola aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Il danno dell'Uomo lucertola aumenta di un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### Tecnica normale 3 : Cacciatore di Draghi
  **Descrizione:** <span style="color: #645252;font-size:20px">Contro unità da 1 o 4 membri, il danno dell'Uomo lucertola aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
@@ -117,7 +117,7 @@ toc: true
 ### Tecnica speciale fazione I : Attacco pestilenziale
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
-### Tecnica speciale fazione II : Rise of Vitality
+### Tecnica speciale fazione II : Vitalità aumentata
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza conoscono i segreti delle tecniche di guarigione e godono di rigenerazione dei PF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PF recuperati ogni 3 secondi) e ottengono </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> di assorbimento.</span><span style="color: black">
 
   <script language="JavaScript">
@@ -184,7 +184,7 @@ toc: true
 
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e vinci </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni.</span>
+ 4. null
 
 ## Awaken Skills
 
@@ -192,7 +192,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
 
 ### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spear Array&gt;</span><span style="color: #645252;font-size:18px"> damage increases to 150%, and stun effect is increased to 4.5 seconds</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
 
 ### 3rd Skill (or 4th): Muro impenetrabile
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>

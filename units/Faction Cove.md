@@ -24,5 +24,5 @@ classes: wide
   | 5 | [Elementale del mare](/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | 201.8 | 1446 |  Elementale delle maree  |
   | 6 | [Serpente di Regna](/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 100.9 | 3027 |    |
   | 7 | [Sirena](/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 185.0 | 1648 |   -   |
-  | 8 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |    |
+  | 8 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | 362.0 | 12000 |  Tartaruga draconica primordiale  |
   | 9 | [Pirati di Regna](/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | 99.3 | 695 |  Re dei Pirati  |
