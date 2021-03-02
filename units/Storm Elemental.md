@@ -3,7 +3,7 @@ title: "Elementale tempesta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Elementale tempesta"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/units/Faction Conflux/)
 
  **Race:** Domatore
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 99.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Nucleo di tuono](/equipment/Nucleo di tuono/) | **PF** | **DIF** | 
   | [Artiglio magico](/equipment/Artiglio magico/) | **ATT** | **DIF** | 
   | [Occhio del fulmine](/equipment/Occhio del fulmine/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Arco lungo](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

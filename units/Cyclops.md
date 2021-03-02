@@ -3,7 +3,7 @@ title: "Ciclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
 unitID: 406
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Ciclope"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 678.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Catene della guerra](/equipment/Catene della guerra/) | **PF** | **DIF** | 
   | [Bracciali chiodati](/equipment/Bracciali chiodati/) | **ATT** | **DIF** | 
   | [Leather Trousers](/equipment/Leather Trousers/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Arco lungo](/Exclusive/Cyclops Long Bow/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

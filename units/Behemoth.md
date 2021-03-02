@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Behemoth"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/units/Faction Stronghold/)
 
  **Race:** Unicorno
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 407.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Pelle ferrea](/equipment/Pelle ferrea/) | **PF** | **DIF** | 
   | [Zanne feroci](/equipment/Zanne feroci/) | **ATT** | **DIF** | 
   | [Pelliccia](/equipment/Pelliccia/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Spirito sanguinario](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

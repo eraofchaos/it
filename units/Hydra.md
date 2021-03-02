@@ -3,7 +3,7 @@ title: "Idra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Idra"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/units/Faction Fortress/)
 
  **Race:** Unicorno
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 769.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Orecchini del regnante](/equipment/Orecchini del regnante/) | **PF** | **DIF** | 
   | [Artiglio di Drago pestilenziale](/equipment/Artiglio di Drago pestilenziale/) | **ATT** | **DIF** | 
   | [Spine dorsali affilate](/equipment/Spine dorsali affilate/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Testa di Idra](/Exclusive/Hydra Hydra's Head/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

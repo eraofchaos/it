@@ -3,7 +3,7 @@ title: "Druido"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Druido"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/units/Faction Rampart/)
 
  **Race:** Foresta
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 102.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Antico bordone](/equipment/Antico bordone/) | **PF** | **DIF** | 
   | [Veste della Furia tempestosa](/equipment/Veste della Furia tempestosa/) | **ATT** | **DIF** | 
   | [Stivali alti della foresta](/equipment/Stivali alti della foresta/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Bastone della Ricrescita](/Exclusive/Druid Staff of Regrowth/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

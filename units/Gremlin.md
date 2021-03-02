@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati."
 unitID: 601
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Gremlin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/units/Faction Tower/)
 
  **Race:** Umano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Cappuccio incantato](/equipment/Cappuccio incantato/) | **PF** | **DIF** | 
   | [Guanti incantati](/equipment/Guanti incantati/) | **ATT** | **DIF** | 
   | [Mantello antivento](/equipment/Mantello antivento/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Arco lungo](/Exclusive/Gremlin Long Bow/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

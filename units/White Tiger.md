@@ -3,12 +3,12 @@ title: "Tigre bianca"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia."
 unitID: 809
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Tigre bianca"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione: ** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/units/Faction Fortress/)
 
  **Race:** Unicorno
 
@@ -33,7 +33,7 @@ toc: true
 
  **Base ATK: 1078.2**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -68,6 +68,9 @@ toc: true
   | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **PF** | **DIF** | 
   | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ATT** | **DIF** | 
   | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **PF** | **DIF** | 
+
+## Esclusivo
+
 
 ## Emblemi sacri consigliati
 

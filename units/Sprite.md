@@ -3,7 +3,7 @@ title: "Driade"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Driade"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione: ** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/units/Faction Conflux/)
 
  **Race:** Domatore
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 69.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Abito della Luna e delle Stelle](/equipment/Abito della Luna e delle Stelle/) | **PF** | **DIF** | 
   | [Ali di farfalla luminescenti](/equipment/Ali di farfalla luminescenti/) | **ATT** | **DIF** | 
   | [Fascia di smeraldo](/equipment/Fascia di smeraldo/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Carica onoraria](/Exclusive/Sprite Knight Pike/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

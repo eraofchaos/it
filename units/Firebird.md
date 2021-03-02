@@ -3,7 +3,7 @@ title: "Rapace di fuoco"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
 unitID: 907
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Rapace di fuoco"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/units/Faction Conflux/)
 
  **Race:** Unicorno
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 848.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Runa della Resurrezione](/equipment/Runa della Resurrezione/) | **PF** | **DIF** | 
   | [Artigli della fiamma furente](/equipment/Artigli della fiamma furente/) | **ATT** | **DIF** | 
   | [Ali arcobaleno](/equipment/Ali arcobaleno/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Fiamma eterna](/Exclusive/Firebird Eternal Flame/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

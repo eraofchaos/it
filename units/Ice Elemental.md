@@ -3,7 +3,7 @@ title: "Elementale del ghiaccio"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Elementale del ghiaccio"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/units/Faction Conflux/)
 
  **Race:** Domatore
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 111.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -70,6 +70,15 @@ toc: true
   | [Copricapo delle maree](/equipment/Copricapo delle maree/) | **PF** | **DIF** | 
   | [Marchio dell'oceano](/equipment/Marchio dell'oceano/) | **ATT** | **DIF** | 
   | [Telo della Sirena](/equipment/Telo della Sirena/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Cantico arcano](/Exclusive/Ice Elemental Arcane Chant/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

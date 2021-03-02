@@ -3,7 +3,7 @@ title: "Segugio infernale"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Segugi infernali si scagliano sui nemici con le loro tre terrificanti teste. Lava incandescente scorre sui loro corpi e una scia di fiamme si leva al loro passaggio."
 unitID: 503
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Segugio infernale"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione: ** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Bestia
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 77.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Armatura infernale](/equipment/Armatura infernale/) | **PF** | **DIF** | 
   | [Artigli ustionanti](/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
   | [Criniera fiammeggiante](/equipment/Criniera fiammeggiante/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Carica onoraria](/Exclusive/Hell Hound Knight Pike/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

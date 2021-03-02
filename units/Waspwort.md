@@ -3,7 +3,7 @@ title: "Erbavespa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude."
 unitID: 808
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Erbavespa"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/units/Faction Fortress/)
 
  **Race:** Bestia
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 950.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Spina tossica](/equipment/Spina tossica/) | **PF** | **DIF** | 
   | [Fiore del Signore Supremo](/equipment/Fiore del Signore Supremo/) | **ATT** | **DIF** | 
   | [Ape assassina](/equipment/Ape assassina/) | **PF** | **DIF** | 
+
+## Esclusivo
+
 
 ## Emblemi sacri consigliati
 

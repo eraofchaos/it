@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "Era of Chaos Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Faction Fortress"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
   [Battle Formation](/Battle Formation/Battle Formation Faction Fortress)
 
- [Confluenza](/units/Faction Conflux){: .btn .btn--primary} [Inferno](/units/Faction Inferno){: .btn .btn--success} [Dungeon](/units/Faction Dungeon){: .btn .btn--warning} [Fortezza](/units/Faction Fortress){: .btn .btn--danger} [Baluardo](/units/Faction Rampart){: .btn .btn--info} [Castello](/units/Faction Castle){: .btn .btn--primary} [Torre](/units/Faction Tower){: .btn .btn--success} [Roccaforte](/units/Faction Stronghold){: .btn .btn--warning} [Baia](/units/Faction Cove){: .btn .btn--danger} [Esercito neutrale](/units/Faction Neutral Army){: .btn .btn--info} [Necropoli](/units/Faction Necropolis){: .btn .btn--primary} 
+ [Confluenza](/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/units/Faction Rampart/){: .btn .btn--info} [Castello](/units/Faction Castle/){: .btn .btn--primary} [Torre](/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/units/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

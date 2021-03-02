@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Demone"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 114.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Collana d'acciaio](/equipment/Collana d'acciaio/) | **PF** | **DIF** | 
   | [Artigli ustionanti](/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
   | [Bracciali chiodati](/equipment/Bracciali chiodati/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Scudo dell'Iride](/Exclusive/Demon Iris Shield/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

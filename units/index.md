@@ -2,21 +2,21 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Fazione: [Confluenza](/units/Faction Conflux){: .btn .btn--primary} [Inferno](/units/Faction Inferno){: .btn .btn--success} [Dungeon](/units/Faction Dungeon){: .btn .btn--warning} [Fortezza](/units/Faction Fortress){: .btn .btn--danger} [Baluardo](/units/Faction Rampart){: .btn .btn--info} [Castello](/units/Faction Castle){: .btn .btn--primary} [Torre](/units/Faction Tower){: .btn .btn--success} [Roccaforte](/units/Faction Stronghold){: .btn .btn--warning} [Baia](/units/Faction Cove){: .btn .btn--danger} [Esercito neutrale](/units/Faction Neutral Army){: .btn .btn--info} [Necropoli](/units/Faction Necropolis){: .btn .btn--primary} 
+  by Fazione: [Confluenza](/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/units/Faction Rampart/){: .btn .btn--info} [Castello](/units/Faction Castle/){: .btn .btn--primary} [Torre](/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  by Class: [A distanza](/units/Unit Class Ranged){: .btn .btn--primary} [Incursione](/units/Unit Class Charging){: .btn .btn--success} [Incantatore](/units/Unit Class Caster){: .btn .btn--warning} [Attacco](/units/Unit Class Offense){: .btn .btn--danger} [Difesa](/units/Unit Class Defense){: .btn .btn--info} 
+  by Class: [A distanza](/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/units/Unit Class Defense/){: .btn .btn--info} 
 
-  by Rank: [R](/units/Unit Rank R){: .btn .btn--primary} [SSR](/units/Unit Rank SSR){: .btn .btn--success} [Comandante](/units/Unit Rank Commander){: .btn .btn--warning} [SR](/units/Unit Rank SR){: .btn .btn--danger} 
+  by Rank: [R](/units/Unit Rank R/){: .btn .btn--primary} [SSR](/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  by Members: [x9](/units/Unit Member x9){: .btn .btn--primary} [x1](/units/Unit Member x1){: .btn .btn--success} [x4](/units/Unit Member x4){: .btn .btn--warning} 
+  by Members: [x9](/units/Unit Member x9/){: .btn .btn--primary} [x1](/units/Unit Member x1/){: .btn .btn--success} [x4](/units/Unit Member x4/){: .btn .btn--warning} 
 
-  by Stars: [<i class="fas fa-star"/>](/units/Star 1){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2){: .btn .btn--warning} 
+  by Stars: [<i class="fas fa-star"/>](/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/){: .btn .btn--warning} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    |  Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:--------------|

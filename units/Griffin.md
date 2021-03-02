@@ -3,7 +3,7 @@ title: "Grifone"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
 unitID: 103
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Grifone"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione: ** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/units/Faction Castle/)
 
  **Race:** Bestia
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 151.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Copricapo della velocità](/equipment/Copricapo della velocità/) | **PF** | **DIF** | 
   | [Piuma di Arcigrifone](/equipment/Piuma di Arcigrifone/) | **ATT** | **DIF** | 
   | [Cimiero dell'Impero](/equipment/Cimiero dell'Impero/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Carica onoraria](/Exclusive/Griffin Knight Pike/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

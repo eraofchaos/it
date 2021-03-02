@@ -3,7 +3,7 @@ title: "Drago nero"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Drago nero"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Drago
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 430.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Fuoco devastante](/equipment/Fuoco devastante/) | **PF** | **DIF** | 
   | [Ali oscuranti](/equipment/Ali oscuranti/) | **ATT** | **DIF** | 
   | [Scaglia ferrea](/equipment/Scaglia ferrea/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Squama del Drago nero](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

@@ -3,7 +3,7 @@ title: "Catafratto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Catafratto"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione: ** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/units/Faction Castle/)
 
  **Race:** Umano
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 79.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -77,6 +77,15 @@ toc: true
   | [Visiera della difesa](/equipment/Visiera della difesa/) | **PF** | **DIF** | 
   | [Scudo della protezione](/equipment/Scudo della protezione/) | **ATT** | **DIF** | 
   | [Spallacci da Paladino](/equipment/Spallacci da Paladino/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Carica onoraria](/Exclusive/Cavalier Knight Pike/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

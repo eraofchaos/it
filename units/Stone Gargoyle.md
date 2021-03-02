@@ -3,7 +3,7 @@ title: "Stone Gargoyle"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Stone Gargoyle"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/units/Faction Tower/)
 
  **Race:** Umano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 48.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Ali di pietra](/equipment/Ali di pietra/) | **PF** | **DIF** | 
   | [Artigli affilati di pietra](/equipment/Artigli affilati di pietra/) | **ATT** | **DIF** | 
   | [Coda incantata](/equipment/Coda incantata/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Spada](/Exclusive/Stone Gargoyle Sword/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

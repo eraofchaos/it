@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Vampiro"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione: ** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/units/Faction Necropolis/)
 
  **Race:** Spirito maligno
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 74.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Armatura leggera sanguinaria](/equipment/Armatura leggera sanguinaria/) | **PF** | **DIF** | 
   | [Spallacci d'ombra](/equipment/Spallacci d'ombra/) | **ATT** | **DIF** | 
   | [Manto d'ombra](/equipment/Manto d'ombra/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Carica onoraria](/Exclusive/Vampire Knight Pike/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

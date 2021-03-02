@@ -3,12 +3,12 @@ title: "Progenie velenosa"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi demoni sono nati tra le ombre e le fiamme delle profondità dell'inferno. Secondo le leggende, essi rappresentano gli incubi più terrificanti, e inceneriscono i campi di battaglia con le fiamme del peccato."
 unitID: 509
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Progenie velenosa"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 375.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **PF** | **DIF** | 
   | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ATT** | **DIF** | 
   | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **PF** | **DIF** | 
+
+## Esclusivo
+
 
 ## Emblemi sacri consigliati
 

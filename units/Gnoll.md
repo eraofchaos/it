@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Gnoll"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/units/Faction Fortress/)
 
  **Race:** Domatore
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 84.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Scudo del Licantropo](/equipment/Scudo del Licantropo/) | **PF** | **DIF** | 
   | [Catena del Licantropo](/equipment/Catena del Licantropo/) | **ATT** | **DIF** | 
   | [Guanti del Licantropo](/equipment/Guanti del Licantropo/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Spada](/Exclusive/Gnoll Sword/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

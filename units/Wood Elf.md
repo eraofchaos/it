@@ -3,7 +3,7 @@ title: "Elfo del bosco"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
 unitID: 203
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Elfo del bosco"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/units/Faction Rampart/)
 
  **Race:** Foresta
 
@@ -40,7 +40,7 @@ toc: true
 
  **Base ATK: 92.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -76,6 +76,15 @@ toc: true
   | [Corona d'alloro](/equipment/Corona d'alloro/) | **PF** | **DIF** | 
   | [Frecce di giada](/equipment/Frecce di giada/) | **ATT** | **DIF** | 
   | [Abito d'alloro](/equipment/Abito d'alloro/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Arco lungo](/Exclusive/Wood Elf Long Bow/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Osservatore"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Spirito maligno
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 115.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Pupilla della morte](/equipment/Pupilla della morte/) | **PF** | **DIF** | 
   | [Zanna maligna](/equipment/Zanna maligna/) | **ATT** | **DIF** | 
   | [Tentacoli abissali](/equipment/Tentacoli abissali/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Sguardo oscuro](/Exclusive/Beholder Dark Gaze/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

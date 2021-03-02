@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
 unitID: 804
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Basilisco"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/units/Faction Fortress/)
 
  **Race:** Bestia
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 121.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Squama indistruttibile](/equipment/Squama indistruttibile/) | **PF** | **DIF** | 
   | [Artiglio avvelenato](/equipment/Artiglio avvelenato/) | **ATT** | **DIF** | 
   | [Zanna pietrificante](/equipment/Zanna pietrificante/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Coda di Basilisco](/Exclusive/Basilisk Basilisk's Tail/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

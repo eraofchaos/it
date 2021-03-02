@@ -3,7 +3,7 @@ title: "Tartaruga draconica"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, domina i mari più profondi con il suo corpo mastodontico."
 unitID: 9906
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Tartaruga draconica"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 362.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Guscio di Testuggine spinata](/equipment/Guscio di Testuggine spinata/) | **PF** | **DIF** | 
   | [Artiglio di Tartaruga draconica](/equipment/Artiglio di Tartaruga draconica/) | **ATT** | **DIF** | 
   | [Coda di Tartaruga draconica](/equipment/Coda di Tartaruga draconica/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Obbedienza](/Exclusive/Dragon Turtle Obedience/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

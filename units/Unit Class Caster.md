@@ -2,13 +2,13 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Era of Chaos Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Unit Class Caster"
 toc: false
 classes: wide
 ---
- [A distanza](/units/Unit Class Ranged){: .btn .btn--primary} [Incursione](/units/Unit Class Charging){: .btn .btn--success} [Incantatore](/units/Unit Class Caster){: .btn .btn--warning} [Attacco](/units/Unit Class Offense){: .btn .btn--danger} [Difesa](/units/Unit Class Defense){: .btn .btn--info} 
+ [A distanza](/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/units/Unit Class Defense/){: .btn .btn--info} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  |  Attack  |     HP    | Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:--------:|:---------:|:-------------|

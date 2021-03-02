@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
 unitID: 401
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Goblin"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/units/Faction Stronghold/)
 
  **Race:** Orco
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 82.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Cintura di cuoio](/equipment/Cintura di cuoio/) | **PF** | **DIF** | 
   | [Collana d'ossa](/equipment/Collana d'ossa/) | **ATT** | **DIF** | 
   | [Spallacci di cuoio](/equipment/Spallacci di cuoio/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Spada](/Exclusive/Goblin Sword/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

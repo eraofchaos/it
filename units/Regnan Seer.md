@@ -3,12 +3,12 @@ title: "Veggente di Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore."
 unitID: 9907
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Veggente di Regna"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 1006.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Collana mistica di Poseidone](/equipment/Collana mistica di Poseidone/) | **PF** | **DIF** | 
   | [Cerchietto dello Splendore](/equipment/Cerchietto dello Splendore/) | **ATT** | **DIF** | 
   | [Braccialetto nobile](/equipment/Braccialetto nobile/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [](/Exclusive/Regnan Seer /) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

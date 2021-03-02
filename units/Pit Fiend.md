@@ -3,7 +3,7 @@ title: "Demone dell'abisso"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Demone dell'abisso"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 174.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Armatura leggera stregata](/equipment/Armatura leggera stregata/) | **PF** | **DIF** | 
   | [Corno stregato](/equipment/Corno stregato/) | **ATT** | **DIF** | 
   | [Spallacci stregati](/equipment/Spallacci stregati/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Spada](/Exclusive/Pit Fiend Sword/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Arciere di Regna"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/units/Faction Cove/)
 
  **Race:** Pirata
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 235.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Cappello del Prestigio](/equipment/Cappello del Prestigio/) | **PF** | **DIF** | 
   | [Freccia d'acciaio](/equipment/Freccia d'acciaio/) | **ATT** | **DIF** | 
   | [Abiti da cacciatore](/equipment/Abiti da cacciatore/) | **PF** | **DIF** | 
+
+## Esclusivo
+
 
 ## Emblemi sacri consigliati
 

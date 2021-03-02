@@ -3,12 +3,12 @@ title: "Demone di ghiaccio"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Demone di ghiaccio è una creatura bizzarra anche per gli standard del Piano di Confluenza. È simile a un blocco di ghiaccio che non può sciogliersi. Con i suoi poteri, può privare della vista e mozzare il respiro. Ricorda i cadaveri sepolti nelle grotte glaciali."
 unitID: 908
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Demone di ghiaccio"
 toc: true
 ---
-**Warning** Information on this page is based on Chronicles! This unit is not released yet, provided information can be corrected later!
+**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
 
 ## General information
@@ -18,7 +18,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/units/Faction Conflux/)
 
  **Race:** Domatore
 
@@ -37,7 +37,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,9 @@ toc: true
   | [Tocco gelante](/equipment/Tocco gelante/) | **PF** | **DIF** | 
   | [Timone gelido](/equipment/Timone gelido/) | **ATT** | **DIF** | 
   | [Trono di ghiaccio](/equipment/Trono di ghiaccio/) | **PF** | **DIF** | 
+
+## Esclusivo
+
 
 ## Emblemi sacri consigliati
 

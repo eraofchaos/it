@@ -3,7 +3,7 @@ title: "Manticora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Manticora"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione: ** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Truppe Dungeon
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 174.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Zanna avvelenata](/equipment/Zanna avvelenata/) | **PF** | **DIF** | 
   | [Coda velenosa](/equipment/Coda velenosa/) | **ATT** | **DIF** | 
   | [Ali della Manticora](/equipment/Ali della Manticora/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Coda di scorpione](/Exclusive/Manticore Scorpion tail/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

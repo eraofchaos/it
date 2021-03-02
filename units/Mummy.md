@@ -3,7 +3,7 @@ title: "Mummia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Mummia"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/units/Faction Necropolis/)
 
  **Race:** Non morto
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 141.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,15 @@ toc: true
   | [Bende antiche](/equipment/Bende antiche/) | **PF** | **DIF** | 
   | [Pupilla dei defunti](/equipment/Pupilla dei defunti/) | **ATT** | **DIF** | 
   | [Soffio mortale](/equipment/Soffio mortale/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Benda](/Exclusive/Mummy Gauze/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
 unitID: 704
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Medusa"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Spirito maligno
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 202.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Chioma serpentina](/equipment/Chioma serpentina/) | **PF** | **DIF** | 
   | [Corona della Regina](/equipment/Corona della Regina/) | **ATT** | **DIF** | 
   | [Armatura abissale](/equipment/Armatura abissale/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Arco della Medusa](/Exclusive/Medusa Medusa's bow/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

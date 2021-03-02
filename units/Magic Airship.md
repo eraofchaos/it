@@ -3,7 +3,7 @@ title: "Aeronave magica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Aeronave magica"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/units/Faction Tower/)
 
  **Race:** Umano
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 208.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Dispositivo di controllo](/equipment/Dispositivo di controllo/) | **PF** | **DIF** | 
   | [Torre di controllo principale](/equipment/Torre di controllo principale/) | **ATT** | **DIF** | 
   | [Ponte d'osservazione](/equipment/Ponte d'osservazione/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Stella polare](/Exclusive/Magic Airship Polaris/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

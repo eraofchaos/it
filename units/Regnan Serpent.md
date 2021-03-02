@@ -3,7 +3,7 @@ title: "Serpente di Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Serpente di Regna"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 100.9**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Corno a conchiglia](/equipment/Corno a conchiglia/) | **PF** | **DIF** | 
   | [Artigli della Sirena](/equipment/Artigli della Sirena/) | **ATT** | **DIF** | 
   | [Pinna blu profondo](/equipment/Pinna blu profondo/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Maree diurne](/Exclusive/Regnan Serpent Day Tides/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

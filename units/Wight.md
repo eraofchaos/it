@@ -3,7 +3,7 @@ title: "Anima"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Anima"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/units/Faction Necropolis/)
 
  **Race:** Umano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 107.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Armatura leggera funerea](/equipment/Armatura leggera funerea/) | **PF** | **DIF** | 
   | [Anima maledetta](/equipment/Anima maledetta/) | **ATT** | **DIF** | 
   | [Vestito funereo](/equipment/Vestito funereo/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Cantico arcano](/Exclusive/Wight Arcane Chant/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

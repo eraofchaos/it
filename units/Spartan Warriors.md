@@ -3,7 +3,7 @@ title: "Guerrieri spartani"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
 unitID: 9702
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Guerrieri spartani"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Esercito neutrale](/units/Faction Neutral Army/)
+ **Fazione:** [Esercito neutrale](/units/Faction Neutral Army/)
 
  **Race:** Gilda degli Assassini
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 216.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,9 @@ toc: true
   | [Scudo d'acciaio](/equipment/Scudo d'acciaio/) | **PF** | **DIF** | 
   | [Lancia perforante](/equipment/Lancia perforante/) | **ATT** | **DIF** | 
   | [Fasce per piedi](/equipment/Fasce per piedi/) | **PF** | **DIF** | 
+
+## Esclusivo
+
 
 ## Emblemi sacri consigliati
 

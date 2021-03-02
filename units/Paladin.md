@@ -3,7 +3,7 @@ title: "Paladino"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
 unitID: 108
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Paladino"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/units/Faction Castle/)
 
  **Race:** Umano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 128.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Elmo votivo](/equipment/Elmo votivo/) | **PF** | **DIF** | 
   | [Spallacci di ferro](/equipment/Spallacci di ferro/) | **ATT** | **DIF** | 
   | [Bracciali forgiati](/equipment/Bracciali forgiati/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [](/Exclusive/Paladin /) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

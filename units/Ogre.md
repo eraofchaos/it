@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Ogre"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/units/Faction Stronghold/)
 
  **Race:** Barbarian
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 107.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Cintura del Rituale](/equipment/Cintura del Rituale/) | **PF** | **DIF** | 
   | [Talismano tribale](/equipment/Talismano tribale/) | **ATT** | **DIF** | 
   | [Spallacci del Rituale](/equipment/Spallacci del Rituale/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Scudo dell'Iride](/Exclusive/Ogre Iris Shield/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

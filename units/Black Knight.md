@@ -3,7 +3,7 @@ title: "Cavaliere nero"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Cavaliere nero"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione: ** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/units/Faction Necropolis/)
 
  **Race:** Non morto
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 115.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Visiera dei Morti](/equipment/Visiera dei Morti/) | **PF** | **DIF** | 
   | [Bracciali dell'Incubo](/equipment/Bracciali dell'Incubo/) | **ATT** | **DIF** | 
   | [Spallacci dell'Incubo](/equipment/Spallacci dell'Incubo/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Lama del sottosuolo](/Exclusive/Black Knight Nether Sabre/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

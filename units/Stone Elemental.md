@@ -3,7 +3,7 @@ title: "Elementale della pietra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Elementale della pietra è il risultato della fusione di numerosi minerali attraverso l'intervento di processi geologici. È in grado di dividersi in Elementali più piccoli, che continuano imperterriti a combattere."
 unitID: 905
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Elementale della pietra"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/units/Faction Conflux/)
 
  **Race:** Domatore
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 121.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Magma esplosivo](/equipment/Magma esplosivo/) | **PF** | **DIF** | 
   | [Pietra del crepuscolo](/equipment/Pietra del crepuscolo/) | **ATT** | **DIF** | 
   | [Corona di pietra](/equipment/Corona di pietra/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Nucleo di energia](/Exclusive/Stone Elemental Energy Core/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

@@ -3,7 +3,7 @@ title: "Drago scheletrico"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Drago scheletrico"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/units/Faction Necropolis/)
 
  **Race:** Drago
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 758.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Teschio di Drago](/equipment/Teschio di Drago/) | **PF** | **DIF** | 
   | [Artigli perforanti](/equipment/Artigli perforanti/) | **ATT** | **DIF** | 
   | [Gemma mistica](/equipment/Gemma mistica/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Drago scheletrico immortale](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

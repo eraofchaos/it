@@ -3,7 +3,7 @@ title: "Pirati di Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
 unitID: 9901
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Pirati di Regna"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/units/Faction Cove/)
 
  **Race:** Pirata
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 99.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Abito da marinaio](/equipment/Abito da marinaio/) | **PF** | **DIF** | 
   | [Cerchietto virtuoso](/equipment/Cerchietto virtuoso/) | **ATT** | **DIF** | 
   | [Pantaloni da marinaio](/equipment/Pantaloni da marinaio/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Spada](/Exclusive/Regnan Pirates Sword/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Minotauro"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/units/Faction Dungeon/)
 
  **Race:** Truppe Dungeon
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 108.0**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Spallacci della Gorgone](/equipment/Spallacci della Gorgone/) | **PF** | **DIF** | 
   | [Fascia della Gorgone](/equipment/Fascia della Gorgone/) | **ATT** | **DIF** | 
   | [Cintura della Gorgone](/equipment/Cintura della Gorgone/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Scudo dell'Iride](/Exclusive/Minotaur Iris Shield/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

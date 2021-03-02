@@ -3,7 +3,7 @@ title: "Mosca serpente"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie."
 unitID: 803
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Mosca serpente"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/units/Faction Fortress/)
 
  **Race:** Bestia
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 178.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -72,6 +72,15 @@ toc: true
   | [Mascella fatale](/equipment/Mascella fatale/) | **PF** | **DIF** | 
   | [Spina tetra](/equipment/Spina tetra/) | **ATT** | **DIF** | 
   | [Zanna tossica](/equipment/Zanna tossica/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Cantico arcano](/Exclusive/Serpent Fly Arcane Chant/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

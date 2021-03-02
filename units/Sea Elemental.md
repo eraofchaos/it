@@ -3,7 +3,7 @@ title: "Elementale del mare"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Elementale del mare"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 201.8**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -73,6 +73,15 @@ toc: true
   | [Nucleo di Elementale dell'acqua](/equipment/Nucleo di Elementale dell'acqua/) | **PF** | **DIF** | 
   | [Flusso ondoso](/equipment/Flusso ondoso/) | **ATT** | **DIF** | 
   | [Cicatrice del Vortice](/equipment/Cicatrice del Vortice/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Cantico arcano](/Exclusive/Sea Elemental Arcane Chant/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

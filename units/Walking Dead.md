@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Morto vivente"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/units/Faction Necropolis/)
 
  **Race:** Non morto
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 117.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Collana d'ossa](/equipment/Collana d'ossa/) | **PF** | **DIF** | 
   | [Bracciale d'acciaio lavorato](/equipment/Bracciale d'acciaio lavorato/) | **ATT** | **DIF** | 
   | [Pantaloni della Rovina](/equipment/Pantaloni della Rovina/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Scudo dell'Iride](/Exclusive/Walking Dead Iris Shield/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

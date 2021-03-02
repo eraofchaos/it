@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Efreet"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Spirito maligno
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 225.4**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Armatura leggera fiammeggiante](/equipment/Armatura leggera fiammeggiante/) | **PF** | **DIF** | 
   | [Bracciali fiammeggianti](/equipment/Bracciali fiammeggianti/) | **ATT** | **DIF** | 
   | [Spallacci fiammeggianti](/equipment/Spallacci fiammeggianti/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Cantico arcano](/Exclusive/Efreeti Arcane Chant/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

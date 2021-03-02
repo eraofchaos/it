@@ -3,7 +3,7 @@ title: "Tiratore scelto"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Tiratore scelto"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione: ** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/units/Faction Castle/)
 
  **Race:** Umano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 85.3**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -75,6 +75,15 @@ toc: true
   | [Elmetto d'acciaio](/equipment/Elmetto d'acciaio/) | **PF** | **DIF** | 
   | [Quadrelli perforanti](/equipment/Quadrelli perforanti/) | **ATT** | **DIF** | 
   | [Guanti di cuoio](/equipment/Guanti di cuoio/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Arco lungo](/Exclusive/Marksman Long Bow/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

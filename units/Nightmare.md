@@ -3,7 +3,7 @@ title: "Incubo"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso."
 unitID: 508
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Incubo"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 84.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Fuoco abissale](/equipment/Fuoco abissale/) | **PF** | **DIF** | 
   | [Ferro cinereo](/equipment/Ferro cinereo/) | **ATT** | **DIF** | 
   | [Criniera di fuoco](/equipment/Criniera di fuoco/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [](/Exclusive/Nightmare /) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

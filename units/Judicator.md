@@ -3,7 +3,7 @@ title: "Giudice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi."
 unitID: 109
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Giudice"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione: ** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/units/Faction Castle/)
 
  **Race:** Umano
 
@@ -34,7 +34,7 @@ toc: true
 
  **Base ATK: 565.7**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -69,6 +69,15 @@ toc: true
   | [Cappuccio celestiale della beatitudine](/equipment/Cappuccio celestiale della beatitudine/) | **PF** | **DIF** | 
   | [Mantello luminoso](/equipment/Mantello luminoso/) | **ATT** | **DIF** | 
   | [Vambrace divino](/equipment/Vambrace divino/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [](/Exclusive/Judicator /) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

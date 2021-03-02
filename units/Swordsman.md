@@ -3,7 +3,7 @@ title: "Spadaccino"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Spadaccino"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/units/Faction Castle/)
 
  **Race:** Umano
 
@@ -38,7 +38,7 @@ toc: true
 
  **Base ATK: 54.6**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -74,6 +74,15 @@ toc: true
   | [Elmo da ufficiale](/equipment/Elmo da ufficiale/) | **PF** | **DIF** | 
   | [Scudo dell'Impero](/equipment/Scudo dell'Impero/) | **ATT** | **DIF** | 
   | [Spallacci dell'Impero](/equipment/Spallacci dell'Impero/) | **PF** | **DIF** | 
+
+## Esclusivo
+
+ **Name:** [Scudo dell'Iride](/Exclusive/Swordsman Iris Shield/) 
+
+ **Item to Rango ↑:** -
+
+ **Skin:** -
+
 
 ## Emblemi sacri consigliati
 

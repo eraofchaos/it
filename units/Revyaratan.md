@@ -3,7 +3,7 @@ title: "Leviatano"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Leviatano"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione: ** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/units/Faction Cove/)
 
  **Race:** Pirata
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 1267.1**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,9 @@ toc: true
   | [Pinna congelata](/equipment/Pinna congelata/) | **PF** | **DIF** | 
   | [Coda di mostro marino](/equipment/Coda di mostro marino/) | **ATT** | **DIF** | 
   | [Tentacoli tentatori](/equipment/Tentacoli tentatori/) | **PF** | **DIF** | 
+
+## Esclusivo
+
 
 ## Emblemi sacri consigliati
 

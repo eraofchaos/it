@@ -3,7 +3,7 @@ title: "Leprecauno"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Coperti da vesti di un verde brillante, i Leprecauni erano un tempo semplici figli della foresta e vivevano liberi e spensierati sotto l'egida dell'Albero del Mondo. Tuttavia, i corni di guerra che risuonano in tutta l'Erathia hanno donato loro il coraggio necessario a proteggere l'Albero."
 unitID: 909
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-02
 locale: it
 ref: "Leprecauno"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione: ** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/units/Faction Conflux/)
 
  **Race:** Unicorno
 
@@ -36,7 +36,7 @@ toc: true
 
  **Base ATK: 134.5**
 
- **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/))
+ **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
@@ -71,6 +71,9 @@ toc: true
   | [Fontedienergia](/equipment/Fontedienergia/) | **PF** | **DIF** | 
   | [Guardiadivita](/equipment/Guardiadivita/) | **ATT** | **DIF** | 
   | [Laleggerezzadelvento](/equipment/Laleggerezzadelvento/) | **PF** | **DIF** | 
+
+## Esclusivo
+
 
 ## Emblemi sacri consigliati
 
