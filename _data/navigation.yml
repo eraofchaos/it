@@ -54,6 +54,7 @@ docs:
         url: https://eraofchaos.github.io/fr/
       - title: "Italiano"
         url: https://eraofchaos.github.io/it/
+        isactive: 1
       - title: "Español"
         url: https://eraofchaos.github.io/es/
 
