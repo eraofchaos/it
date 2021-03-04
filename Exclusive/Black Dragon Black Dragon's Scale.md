@@ -2,7 +2,7 @@
 title: "Esclusivo - Squama del Drago nero"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Squama del Drago nero. Squama del Drago nero. Era of Chaos Esclusivo Squama del Drago nero. Drago nero Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Black Dragon Squama del Drago nero.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Rifugio dei Draghi> Quando i suoi PF scendono sotto il 75%, il 50% e il 25%, il Drago nero protegge con uno <scudo> pari al 15% dei propri PF massimi le unità Drago alleate di difesa (Tartaruga draconica, Drago nero/Re dei Draghi neri), e protegge con uno <scudo> pari al 30% dei PF massimi tutte le unità Drago alleate d'attacco (Drago verde/Drago d'oro, Drago scheletrico/Drago fantasma, Drago rosso, Idra e Viverna). Lo <scudo> dura fino al termine della battaglia ed è cumulabile. Lo <scudo> del Drago nero non può essere rimosso. Lo <scudo> garantisce immunità agli incantesimi per 3 secondi. |
+  |  Risveglio  | ? | <Rifugio dei Draghi> Quando i suoi PF scendono sotto il 75%, il 50% e il 25%, il Drago nero protegge con uno <scudo> pari al 15% dei propri PF massimi le unità Drago alleate di difesa (Tartaruga draconica, Drago nero/Re dei Draghi neri), e protegge con uno <scudo> pari al 30% dei PF massimi tutte le unità Drago alleate d'attacco (Drago verde/Drago d'oro, Drago scheletrico/Drago fantasma, Drago rosso, Idra e Viverna). Lo <scudo> dura fino al termine della battaglia ed è cumulabile. Lo <scudo> del Drago nero non può essere rimosso. Lo <scudo> garantisce immunità agli incantesimi per 3 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Se il Drago nero è sul campo di battaglia, le unità Dungeon alleate godono di DAN e Rid DAN aumentati del 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Il Drago nero gode di Tenacia aumentata di 200 e PF base aumentati di 50.000. |
   | **3x** <i class="fas fa-star"/> | ? | <Soffio del Drago magico> Ogni 15 secondi, il Drago nero infligge danni pari al 150% del proprio ATT a tutte le unità nemiche in un'area ridotta di fronte a sé, più ulteriori danni pari al 10% dei propri PF massimi all'unità bersaglio. |

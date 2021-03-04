@@ -2,7 +2,7 @@
 title: "Esclusivo - Nucleo mistico"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Nucleo mistico. Nucleo mistico. Era of Chaos Esclusivo Nucleo mistico. Elementale psichico Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Psychic Elemental Nucleo mistico.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Demoralizzazione> L'Elementale psichico assalta la psiche del bersaglio, infliggendo danni pari al 20% dei PF massimi e ripristinando PF pari al 50% del proprio ATT. Recupero: 20 secondi. |
+  |  Risveglio  | ? | <Demoralizzazione> L'Elementale psichico assalta la psiche del bersaglio, infliggendo danni pari al 20% dei PF massimi e ripristinando PF pari al 50% del proprio ATT. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN dell'Elementale psichico aumentato del 30%. |
   | **2x** <i class="fas fa-star"/> | ? | L'Elementale psichico è immune a tutti i danni magici. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, tutte le unità Confluenza alleate diventano immuni a tutti i danni magici. |
   | **3x** <i class="fas fa-star"/> | ? | <Dominio> L'Elementale psichico assorbe il 20% della DIF di un'unità casuale, ottenendo un bonus percentuale della durata di 10 secondi. Recupero: 10 secondi. |

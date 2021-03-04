@@ -2,7 +2,7 @@
 title: "Esclusivo - Fiamma eterna"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Fiamma eterna. Fiamma eterna. Era of Chaos Esclusivo Fiamma eterna. Rapace di fuoco Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Firebird Fiamma eterna.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Terra bruciata> Il Rapace di fuoco danneggia le unità nemiche nella fila dell'unità bersaglio 3 volte ogni 10 secondi, causando <Combustione> per 8 secondi. |
+  |  Risveglio  | ? | <Terra bruciata> Il Rapace di fuoco danneggia le unità nemiche nella fila dell'unità bersaglio 3 volte ogni 10 secondi, causando <Combustione> per 8 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Rapace di fuoco è immune ai danni degli incantesimi di tipo Fuoco. |
   | **2x** <i class="fas fa-star"/> | ? | Il Rapace di fuoco gode di danno aumentato del 10% e Vel ATT aumentata del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | When the Firebird is fighting against a 1-man or 4-man unit, its attack deals 20% ATK damge to hostile units standing within a certain range around the target unit and <burns> them |

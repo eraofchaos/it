@@ -3,7 +3,7 @@ title: "Unicorno"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Unicorno"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Carica impetuosa](/Exclusive/Unicorn Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

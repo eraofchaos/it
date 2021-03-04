@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Wight Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Anima Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Wight Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Foschia maledetta> L'Anima evoca una foschia maledetta che riduce del 15% la Rid DAN delle unità nemiche in un'ampia area circostante il bersaglio e infligge danni pari al 50% dell'ATT ogni secondo per 6 secondi. Recupero: 18 secondi. |
+  |  Risveglio  | ? | <Foschia maledetta> L'Anima evoca una foschia maledetta che riduce del 15% la Rid DAN delle unità nemiche in un'ampia area circostante il bersaglio e infligge danni pari al 50% dell'ATT ogni secondo per 6 secondi. Recupero: 18 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN dell'Anima aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Vel ATT dell'Anima aumentata del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Quando un'Anima viene sconfitta, 3 unità vengono colte da <Paura> per 5 secondi e ottengono una carica di <Marchio del terrore>. (<Paura>: L'unità non può attaccare, muoversi o usare tecniche. RES magica ridotta del 30%.) |

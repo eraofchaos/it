@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Roc Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Roc Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Impulso elettrico> Il Roc utilizza la carica elettrica nel proprio corpo per infliggere danni pari al 2% dei propri PF massimi ogni secondo alle unità nemiche in un'ampia area, riducendone la Vel ATT del 20% per 5 secondi. Recupero: 20 secondi. |
+  |  Risveglio  | ? | <Impulso elettrico> Il Roc utilizza la carica elettrica nel proprio corpo per infliggere danni pari al 2% dei propri PF massimi ogni secondo alle unità nemiche in un'ampia area, riducendone la Vel ATT del 20% per 5 secondi. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Roc gode di ATT e DAN CRIT aumentati del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | DAN del Roc aumentato del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Quando il Roc attacca le unità nemiche con <Impulso elettrico>, la sua Vel ATT e il suo DAN CRIT aumentano rispettivamente del 30% e del 40%. |

@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Ogre"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Scudo dell'Iride](/Exclusive/Ogre Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Vampiro Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Vampire Carica impetuosa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Attacco scarlatto> Il Vampiro si trasforma in un pipistrello e attacca la formazione nemica. In questo periodo, il Vampiro gode di Vel MOV aumentata di 30 ed è immune a <Stordimento>, <Congelamento> e <Rallentamento>. Il Vampiro torna in forma umana dopo aver affrontato un'unità nemica; il suo primo attacco infligge danni pari al 500% dell'ATT. |
+  |  Risveglio  | ? | <Attacco scarlatto> Il Vampiro si trasforma in un pipistrello e attacca la formazione nemica. In questo periodo, il Vampiro gode di Vel MOV aumentata di 30 ed è immune a <Stordimento>, <Congelamento> e <Rallentamento>. Il Vampiro torna in forma umana dopo aver affrontato un'unità nemica; il suo primo attacco infligge danni pari al 500% dell'ATT. |
   | **1x** <i class="fas fa-star"/> | ? | Il Vampiro gode di PF aumentati del 20% e DIF aumentata del 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Rid DAN del Vampiro aumentata del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Vangelo della zanna> Il Vampiro infligge danni pari al 300% del proprio ATT all'unità bersaglio e ne riduce la Rid DAN del 20%. Se il bersaglio è affetto da <Morale basso>, la sua DIF viene ridotta del 10% per 5 secondi. Recupero: 25 secondi. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Spadaccino Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Swordsman Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Assalto con scudo> Lo Spadaccino <rallenta> un'unità nemica ogni 18 secondi e ne riduce la Rid DAN del 15% per 7 secondi. |
+  |  Risveglio  | ? | <Assalto con scudo> Lo Spadaccino <rallenta> un'unità nemica ogni 18 secondi e ne riduce la Rid DAN del 15% per 7 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | PF aumentati del 20% e Schivata aumentata di 200. |
   | **2x** <i class="fas fa-star"/> | ? | DIF aumentata del 20% per 5 secondi quando gode di <Morale alto>. |
   | **3x** <i class="fas fa-star"/> | ? | <Ripresa> Se lo Spadaccino subisce danni superiori all'8% dei propri PF massimi con un attacco singolo, recupera PF pari al 150% del proprio ATT. Recupero: 10 secondi. |

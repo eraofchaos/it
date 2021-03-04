@@ -2,7 +2,7 @@
 title: "Esclusivo - Spirito sanguinario"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Spirito sanguinario. Spirito sanguinario. Era of Chaos Esclusivo Spirito sanguinario. Behemoth Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Behemoth Spirito sanguinario.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Spirito della Roccaforte> Il Behemoth protegge le unità Roccaforte dai danni, attirando a sé il 25% di tutti i danni subiti dalle unità Roccaforte sul campo di battaglia e aumentando la Rid DAN del 40% per 5 secondi. Recupero: 25 secondi. |
+  |  Risveglio  | ? | <Spirito della Roccaforte> Il Behemoth protegge le unità Roccaforte dai danni, attirando a sé il 25% di tutti i danni subiti dalle unità Roccaforte sul campo di battaglia e aumentando la Rid DAN del 40% per 5 secondi. Recupero: 25 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Se il Behemoth è sul campo di battaglia, aumenta del 20% il DAN delle unità a distanza e degli incantatori Roccaforte alleati e del 20% la Rid DAN delle unità da mischia alleate. |
   | **2x** <i class="fas fa-star"/> | ? | PF base del Behemoth aumentati di 50.000. I danni subiti da unità a distanza e incantatori sono ridotti del 40%. |
   | **3x** <i class="fas fa-star"/> | ? | <Behemoth inarrestabile> Quando il Behemoth subisce un colpo critico scatena la propria furia, <stordendo> i nemici in un'ampia area attorno a sé per 3 secondi e riducendo del 20% DAN e Vel ATT dei nemici in un'ampia area per 5 secondi. Recupero: 6 secondi. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Stella polare"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Era of Chaos Stella polare. Stella polare. Era of Chaos Esclusivo Stella polare. Aeronave magica Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Magic Airship Stella polare.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | L'Aeronave magica infligge danni pari al 150% dell'ATT a 3 unità nemiche casuali e ne riduce il DAN del 20% per 7 secondi. Recupero: 21 secondi. |
+  |  Risveglio  | ? | L'Aeronave magica infligge danni pari al 150% dell'ATT a 3 unità nemiche casuali e ne riduce il DAN del 20% per 7 secondi. Recupero: 21 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | L'Aeronave magica gode di Vel ATT aumentata del 10% e ATT aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | DAN dell'Aeronave magica aumentato del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Ogni 20 secondi, l'Aeronave magica gode di DAN aumentato del 20%, CRIT aumentato di 200 e DAN CRIT aumentato del 20% per 8 secondi. Inoltre, potenzia un incantatore alleato con un buff pari a metà di questi attributi. |

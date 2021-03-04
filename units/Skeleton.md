@@ -3,7 +3,7 @@ title: "Scheletro"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Scheletro"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Scudo dell'Iride](/Exclusive/Skeleton Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

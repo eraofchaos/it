@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Demone dell'abisso Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Pit Fiend Spada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Sferzata> Il Demone dell'abisso attacca con la frusta, infliggendo danni pari al 300% del proprio ATT alle unità nemiche in un'ampia area e causando <Sanguinamento>. Ha inoltre il 50% di probabilità di ridurne il DAN del 20% per 6 secondi. Recupero: 16 secondi. |
+  |  Risveglio  | ? | <Sferzata> Il Demone dell'abisso attacca con la frusta, infliggendo danni pari al 300% del proprio ATT alle unità nemiche in un'ampia area e causando <Sanguinamento>. Ha inoltre il 50% di probabilità di ridurne il DAN del 20% per 6 secondi. Recupero: 16 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Demone dell'abisso gode di ATT aumentato del 20% e guarigione ricevuta aumentata del 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Quando il Demone dell'abisso è sul campo di battaglia, le unità Inferno alleate godono di Rid DAN aumentata del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Vincolo infernale> Il Demone dell'abisso avvolge l'unità bersaglio con la propria frusta, svelandone i punti deboli, impedendone attacco e movimento e riducendone la Rid DAN del 15% per 4 secondi. Recupero: 20 secondi. |

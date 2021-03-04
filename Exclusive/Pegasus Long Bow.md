@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Pegaso Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Pegasus Arco lungo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Gli attacchi base infliggono danni aggiuntivi pari al 30% dell'ATT. |
+  |  Risveglio  | ? | Gli attacchi base infliggono danni aggiuntivi pari al 30% dell'ATT. |
   | **1x** <i class="fas fa-star"/> | ? | Danno del Pegaso aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Il Pegaso gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Tempesta di lame> Ogni 25 secondi, il Pegaso scaglia una spina di rosa che infligge danni pari al 5% dei PF massimi più il 20% dell'ATT a tutte le unità nemiche, causando inoltre <Sanguinamento> per 10 secondi. |

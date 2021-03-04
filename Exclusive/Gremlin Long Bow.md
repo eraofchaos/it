@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo"
 permalink: /Exclusive/Gremlin Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Gremlin Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Gremlin Arco lungo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Bomba magica> Attacca l'unità bersaglio con una palla di ferro magica, che esplode infliggendo danni pari al 200% dell'ATT alle unità nemiche circostanti. Recupero: 15 secondi. |
+  |  Risveglio  | ? | <Bomba magica> Attacca l'unità bersaglio con una palla di ferro magica, che esplode infliggendo danni pari al 200% dell'ATT alle unità nemiche circostanti. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN del Gremlin aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | <Risveglio magico> Il Gremlin gode di RES magica aumentata del 6% e Rid DAN aumentata del 3% per 5 secondi. Cumulabile fino a 10 volte. |
   | **3x** <i class="fas fa-star"/> | ? | <Bomba magica> infligge danni extra pari al 100% dell'ATT e <stordisce> le unità nemiche per 2 secondi. |

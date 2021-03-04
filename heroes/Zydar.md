@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar ha passato buona parte della propria vita ad addestrarsi nella magia, diventando un potentissimo stregone prima di farsi un nome come generale. È il più affidabile tra tutti i Demoni."
 heroID: 60901
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Zydar"
 toc: true

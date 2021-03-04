@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Centauro Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Centaur Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Onda d'urto devastante> Quando lancia <Schiacciata>, il Centauro emette un'immane onda d'urto, <rallentando> i nemici circostanti e riducendone il DAN del 20% per 10 secondi. |
+  |  Risveglio  | ? | <Onda d'urto devastante> Quando lancia <Schiacciata>, il Centauro emette un'immane onda d'urto, <rallentando> i nemici circostanti e riducendone il DAN del 20% per 10 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, il Centauro protegge tutte le unità alleate nella prima fila con uno <scudo> pari al 20% dei PF massimi per 20 secondi. |
   | **2x** <i class="fas fa-star"/> | ? | Quando il Centauro è protetto da uno <scudo>, la sua DIF aumenta del 20% per 10 secondi. Questo effetto non è cumulabile. |
   | **3x** <i class="fas fa-star"/> | ? | <Onda d'urto devastante> La durata aumenta di 10 secondi; infligge danni alle unità nemiche pari al 10% dell'ATT ogni 0,5 secondi. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Grifone Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Griffin Carica impetuosa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Beccata> Il Grifone becca l'unità bersaglio, infliggendo danni pari al 150% del proprio ATT. Causa <Sanguinamento> e riduce la MIRA di 300 e la Vel ATT del 20% per 8 secondi. Recupero: 20 secondi. |
+  |  Risveglio  | ? | <Beccata> Il Grifone becca l'unità bersaglio, infliggendo danni pari al 150% del proprio ATT. Causa <Sanguinamento> e riduce la MIRA di 300 e la Vel ATT del 20% per 8 secondi. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN del Grifone aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Schivata del Grifone aumentata di 500. |
   | **3x** <i class="fas fa-star"/> | ? | <Giro della morte> La Tenacia del Grifone aumenta di 50 con ogni Schivata; inoltre, infligge danni pari al 75% del proprio ATT all'unità bersaglio. La Tenacia è cumulabile fino a 500. |

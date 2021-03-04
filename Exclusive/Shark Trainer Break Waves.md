@@ -2,7 +2,7 @@
 title: "Esclusivo - Onde di risacca"
 permalink: /Exclusive/Shark Trainer Break Waves/
 excerpt: "Era of Chaos Onde di risacca. Onde di risacca. Era of Chaos Esclusivo Onde di risacca. Addestratore di squali Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Shark Trainer Onde di risacca.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tifone> Ogni 15 secondi, l'Addestratore di squali sferra un colpo con la propria arma, infliggendo il 100% dei danni a tutte le unità nemiche in un'ampia area. Inoltre, applica <Impedimento> e riduce del 30% la Rid DAN delle unità nemiche per 7 secondi. |
+  |  Risveglio  | ? | <Tifone> Ogni 15 secondi, l'Addestratore di squali sferra un colpo con la propria arma, infliggendo il 100% dei danni a tutte le unità nemiche in un'ampia area. Inoltre, applica <Impedimento> e riduce del 30% la Rid DAN delle unità nemiche per 7 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | CRIT dell'Addestratore di squali e dei suoi Squali aumentato di 400. |
   | **2x** <i class="fas fa-star"/> | ? | Quando ottiene una <bolla>, gode di Vel ATT aumentata del 20% per 8 secondi. Vel ATT aumentata del 20% contro unità <sanguinanti>. |
   | **3x** <i class="fas fa-star"/> | ? | <Faida> Quando i PF dell'Addestratore di squali o di uno Squalo scendono sotto il 50% per la prima volta, l'unità ottiene una <bolla> pari al 30% dei propri PF massimi; questo effetto dura fino al termine della battaglia e non può essere rimosso. Inoltre, lo Squalo e l'Addestratore di squali entrano in stato di <Rappresaglia>. Per i 10 secondi successivi, gli attacchi infliggono danni pari all'8% dei PF massimi e causano <Sanguinamento> per 12 secondi; questo effetto non può essere rimosso. Questa Tecnica è immune al <Silenzio>. |

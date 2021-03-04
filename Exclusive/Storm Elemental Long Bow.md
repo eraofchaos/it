@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Elementale tempesta Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Storm Elemental Arco lungo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Forza della natura> L'Elementale della tempesta invoca il giudizio celeste, infliggendo danni pari al 300% del proprio ATT all'unità bersaglio e <paralizzandola> per 5 secondi. Recupero: 20 secondi. Attesa iniziale: 12 secondi. |
+  |  Risveglio  | ? | <Forza della natura> L'Elementale della tempesta invoca il giudizio celeste, infliggendo danni pari al 300% del proprio ATT all'unità bersaglio e <paralizzandola> per 5 secondi. Recupero: 20 secondi. Attesa iniziale: 12 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN dell'Elementale della tempesta aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | L'Elementale della tempesta gode di CRIT aumentato di 200 e DAN CRIT aumentato del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Perforazione dell'Elementale della tempesta aumentata di 200. Effetto raddoppiato contro unità <paralizzate>. Quando lancia <Forza della natura>, se l'unità bersaglio è affetta dal debuff alla RES magica a 3 stelle esclusivo dell'Elementale del ghiaccio, attiva <Furia elementale>. <Furia elementale> infligge danni pari al 100% del proprio ATT più 2% dei PF massimi del bersaglio a tutte le unità nemiche in un'ampia area ogni 0,2 secondi e ne riduce Rid DAN e DIF del 20% per 3 secondi. |

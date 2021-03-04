@@ -3,7 +3,7 @@ title: "Tiratore scelto"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Tiratore scelto"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Arco lungo](/Exclusive/Marksman Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

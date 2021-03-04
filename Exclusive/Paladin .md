@@ -2,7 +2,7 @@
 title: "Esclusivo - "
 permalink: /Exclusive/Paladin /
 excerpt: "Era of Chaos . . Era of Chaos Esclusivo . Paladino Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Paladin .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Protezione perenne> Il Paladino protegge se stesso e un'unità da mischia non Inferno casuale, aumentando per entrambi DIF e Rid DAN del 20% per 10 secondi. Applica inoltre lo status <Guardiano>, che aumenta DIF e Rid DAN di un ulteriore 20%. Lo status <Guardiano> svanisce quando l'unità subisce danni 10 volte. Recupero: 15 secondi. |
+  |  Risveglio  | ? | <Protezione perenne> Il Paladino protegge se stesso e un'unità da mischia non Inferno casuale, aumentando per entrambi DIF e Rid DAN del 20% per 10 secondi. Applica inoltre lo status <Guardiano>, che aumenta DIF e Rid DAN di un ulteriore 20%. Lo status <Guardiano> svanisce quando l'unità subisce danni 10 volte. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta la Rid DAN delle unità alleate nell'area circostante del 20%; le unità Castello non hanno più limiti alla portata degli attacchi. |
   | **2x** <i class="fas fa-star"/> | ? | DIF base del Paladino aumentata di 300; guarigione ricevuta aumentata del 30%. |
   | **3x** <i class="fas fa-star"/> | ? | <Preghiera di fede> Risveglia l'impavido potere del Paladino per un breve periodo, riducendo di 300 la MIRA delle unità nemiche in un'ampia area e aumentando di 300 la Tenacia delle unità alleate. Ogni 4 secondi, rimuove 1 carica di debuff dalle unità alleate nel raggio d'azione. Durata: 12 secondi. Recupero: 20 secondi. |

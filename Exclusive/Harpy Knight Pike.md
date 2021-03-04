@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Arpia Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Harpy Carica impetuosa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Acrobazie aeree> L'Arpia colpisce l'unità bersaglio con tutte le forze, infliggendo danni pari al 300% del proprio ATT. Subito dopo, si alza in volo per lanciare una raffica di frecce piumate che infliggono danni pari al 10% dei PF massimi alle unità nemiche in un'ampia area e applicano <Veleno del falco> per 5 secondi. Recupero: 15 secondi. |
+  |  Risveglio  | ? | <Acrobazie aeree> L'Arpia colpisce l'unità bersaglio con tutte le forze, infliggendo danni pari al 300% del proprio ATT. Subito dopo, si alza in volo per lanciare una raffica di frecce piumate che infliggono danni pari al 10% dei PF massimi alle unità nemiche in un'ampia area e applicano <Veleno del falco> per 5 secondi. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN dell'Arpia aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | ATT dell'Arpia aumentato del 40% contro unità volanti. |
   | **3x** <i class="fas fa-star"/> | ? | <Trangugiaveleno> L'Arpia tormenta le unità <avvelenate>, infliggendo danni pari al 300% del proprio ATT. Recupero: 10 secondi. Se il bersaglio è colpito da <Esplosione di veleno>, rimane <stordito> per 5 secondi. |

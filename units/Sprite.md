@@ -3,7 +3,7 @@ title: "Driade"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Driade"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Carica impetuosa](/Exclusive/Sprite Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

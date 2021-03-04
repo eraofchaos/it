@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
 unitID: 305
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Lich"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Tributo di morte](/Exclusive/Lich Death Tribute/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

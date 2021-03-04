@@ -3,7 +3,7 @@ title: "Incubo"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso."
 unitID: 508
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Incubo"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [](/Exclusive/Nightmare /) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

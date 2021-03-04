@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Gargolla di pietra Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Stone Gargoyle Spada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Artiglio letale> Infligge danni pari al 250% dell'ATT all'unità bersaglio e causa <Sanguinamento> per 6 secondi; inoltre, gode di Vel ATT aumentata del 20% per 6 secondi. Recupero: 26 secondi. |
+  |  Risveglio  | ? | <Artiglio letale> Infligge danni pari al 250% dell'ATT all'unità bersaglio e causa <Sanguinamento> per 6 secondi; inoltre, gode di Vel ATT aumentata del 20% per 6 secondi. Recupero: 26 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | La Gargolla di pietra gode di PF aumentati del 15% e DIF aumentata del 10%. |
   | **2x** <i class="fas fa-star"/> | ? | DAN della Gargolla di pietra aumentato del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Risveglio magico> Quando la Gargolla di pietra viene potenziata dall'incantesimo di un eroe alleato, gode di RES magica aumentata del 15% e ottiene uno <scudo> pari al 10% dei PF massimi per 8 secondi. Cumulabile fino a 2 volte. |

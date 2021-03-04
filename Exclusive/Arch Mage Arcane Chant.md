@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Arcimago Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Arch Mage Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Infusione magica> Il Mago potenzia il proprio bastone e attacca l'unità bersaglio, infliggendo danni pari al 200% dell'ATT. Recupero: 18 secondi. |
+  |  Risveglio  | ? | <Infusione magica> Il Mago potenzia il proprio bastone e attacca l'unità bersaglio, infliggendo danni pari al 200% dell'ATT. Recupero: 18 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | <Risveglio magico> Se il Mago è potenziato dall'incantesimo di supporto di un eroe alleato, lancia immediatamente <Infusione magica>. |
   | **2x** <i class="fas fa-star"/> | ? | Quando lancia <Infusione magica>, la sua magia permea l'armatura delle unità alleate in un'ampia area, che godono di Rid DAN aumentata del 10% e RES magica aumentata del 40% per 3 secondi. Questo effetto non è cumulabile. |
   | **3x** <i class="fas fa-star"/> | ? | Quando lancia <Infusione magica>, potenzia l'arma con <Magia d'Acqua - Congelamento>: L'attacco successivo <congela> l'unità bersaglio per 2-4 secondi. |

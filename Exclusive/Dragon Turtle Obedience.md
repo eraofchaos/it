@@ -2,7 +2,7 @@
 title: "Esclusivo - Obbedienza"
 permalink: /Exclusive/Dragon Turtle Obedience/
 excerpt: "Era of Chaos Obbedienza. Obbedienza. Era of Chaos Esclusivo Obbedienza. Tartaruga draconica Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Dragon Turtle Obbedienza.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Guscio protettivo> La Tartaruga draconica lancia <Guscio protettivo> ogni 20 secondi. Per i 6 secondi successivi, la Tartaruga draconica gode di DAN riflesso e Rid DAN aumentati del 20%; quando viene attaccata da unità da mischia nemiche, ne riduce Vel ATT e DAN del 20%. Inoltre, causa <Impedimento>. Riduce del 20% la DIF dei bersagli <sanguinanti>. |
+  |  Risveglio  | ? | <Guscio protettivo> La Tartaruga draconica lancia <Guscio protettivo> ogni 20 secondi. Per i 6 secondi successivi, la Tartaruga draconica gode di DAN riflesso e Rid DAN aumentati del 20%; quando viene attaccata da unità da mischia nemiche, ne riduce Vel ATT e DAN del 20%. Inoltre, causa <Impedimento>. Riduce del 20% la DIF dei bersagli <sanguinanti>. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN della Tartaruga draconica aumentata del 20%. Quando un eroe alleato lancia un incantesimo di tipo Acqua, la Tartaruga draconica viene protetta da una <bolla> pari al 20% dei PF massimi per 10 secondi. Recupero: 7 secondi. |
   | **2x** <i class="fas fa-star"/> | ? | Guarigione ricevuta dalla Tartaruga draconica aumentata del 20%. Rende immune al <Silenzio>. |
   | **3x** <i class="fas fa-star"/> | ? | <Rituale abissale> Quando i PF della Tartaruga draconica scendono a 75%/50%/25% per la prima volta, perde tutti i debuff e gode di Tenacia e Schivata aumentate di 200. L'effetto dura fino al termine della battaglia. Cumulabile fino a 3 volte. |

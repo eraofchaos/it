@@ -3,7 +3,7 @@ title: "Elementale della pietra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Elementale della pietra è il risultato della fusione di numerosi minerali attraverso l'intervento di processi geologici. È in grado di dividersi in Elementali più piccoli, che continuano imperterriti a combattere."
 unitID: 905
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Elementale della pietra"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Nucleo di energia](/Exclusive/Stone Elemental Energy Core/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

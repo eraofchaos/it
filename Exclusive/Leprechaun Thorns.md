@@ -2,7 +2,7 @@
 title: "Esclusivo - Rovi"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Rovi. Rovi. Era of Chaos Esclusivo Rovi. Leprecauno Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Leprechaun Rovi.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Dea Bendata> Ogni 20 secondi, il Leprecauno ottiene da 1 a 4 quadrifogli. Il Leprecauno riceve alcuni tra i seguenti buff in base al numero di quadrifogli ottenuti: valore dello <scudo> aumentato di 200, DIF aumentata di 400, 1% di PF massimi ripristinati al secondo o Schivata aumentata di 400. Il buff dura 12 secondi. |
+  |  Risveglio  | ? | <Dea Bendata> Ogni 20 secondi, il Leprecauno ottiene da 1 a 4 quadrifogli. Il Leprecauno riceve alcuni tra i seguenti buff in base al numero di quadrifogli ottenuti: valore dello <scudo> aumentato di 200, DIF aumentata di 400, 1% di PF massimi ripristinati al secondo o Schivata aumentata di 400. Il buff dura 12 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta del 20% i PF e del 15% la DIF. |
   | **2x** <i class="fas fa-star"/> | ? | Se il Leprecauno è sul campo di battaglia, le unità Confluenza godono di DAN aumentato del 10% e CRIT aumentato di 100. |
   | **3x** <i class="fas fa-star"/> | ? | <Combo rapida> Ogni 26 secondi, il Leprecauno ha il 60%/30%/10% di probabilità di godere di Vel ATT aumentata del 50%/100%/200% per 9 secondi. Durante questo periodo, i suoi attacchi base riducono la Rid DAN dell'unità bersaglio del 2%. Cumulabile fino a 20 volte. Durata: 5 secondi. |

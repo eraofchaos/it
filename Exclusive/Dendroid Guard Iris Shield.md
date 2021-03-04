@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Guardia Dendroide Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Dendroid Guard Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Armatura arborea> La Guardia Dendroide e 1 unità Baluardo casuale godono di Rid DAN aumentata del 10% e sono protette da uno <scudo> pari al 10% dei PF massimi. Durata: 8 secondi. Recupero: 18 secondi. |
+  |  Risveglio  | ? | <Armatura arborea> La Guardia Dendroide e 1 unità Baluardo casuale godono di Rid DAN aumentata del 10% e sono protette da uno <scudo> pari al 10% dei PF massimi. Durata: 8 secondi. Recupero: 18 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | La Guardia Dendroide gode di PF aumentati del 20% e Rid DAN aumentata del 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Baluardo, la DIF base della Guardia Dendroide aumenta di 50. |
   | **3x** <i class="fas fa-star"/> | ? | <Radici profonde> La Guardia Dendroide conficca le radici nel terreno, aumentando la propria Rid DAN del 15%, infliggendo danni pari al 2% dei PF massimi alle unità nemiche in un'ampia area ogni secondo e ripristinando l'1% dei PF massimi ogni secondo per 10 secondi; durante questo periodo, la Guardia Dendroide non può muoversi. Recupero: 25 secondi. |

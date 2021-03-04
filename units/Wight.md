@@ -3,7 +3,7 @@ title: "Anima"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Anima"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Cantico arcano](/Exclusive/Wight Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

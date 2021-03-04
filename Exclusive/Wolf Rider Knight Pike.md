@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Domatore di lupi Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Wolf Rider Carica impetuosa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Assalto del lupo> Il Domatore di lupi infligge danni all'unità bersaglio pari al 250% del proprio ATT, più il 5% dei PF massimi del bersaglio. Recupero: 12 secondi. |
+  |  Risveglio  | ? | <Assalto del lupo> Il Domatore di lupi infligge danni all'unità bersaglio pari al 250% del proprio ATT, più il 5% dei PF massimi del bersaglio. Recupero: 12 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Domatore di lupi gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Rid DAN del Domatore di lupi aumentata del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Patto dei lupi> Il Domatore di lupi evoca 1 Lupo ogni 3 secondi per 10 secondi. Gli attacchi base del Lupo evocato hanno il 5% di probabilità di <stordire> il bersaglio per 2 secondi. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Annientamento"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Annientamento. Annientamento. Era of Chaos Esclusivo Annientamento. Drago rosso Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Red Dragon Annientamento.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Anima di Drago> Il corpo del Drago rosso viene potenziato da 1 <Anima di Drago> ogni 15 secondi, fino a un massimo di 4 Anime. Ciascuna Anima aumenta DAN e Rid DAN del Drago rosso del 10%. Quando il Drago rosso è potenziato da un'<Anima di Drago>, lancia <Fiamma infernale>, infliggendo danni pari al 150% del proprio ATT al bersaglio, più danni aggiuntivi pari al 20% dei PF massimi alle unità affette da <Combustione>. Recupero: 20 secondi. |
+  |  Risveglio  | ? | <Anima di Drago> Il corpo del Drago rosso viene potenziato da 1 <Anima di Drago> ogni 15 secondi, fino a un massimo di 4 Anime. Ciascuna Anima aumenta DAN e Rid DAN del Drago rosso del 10%. Quando il Drago rosso è potenziato da un'<Anima di Drago>, lancia <Fiamma infernale>, infliggendo danni pari al 150% del proprio ATT al bersaglio, più danni aggiuntivi pari al 20% dei PF massimi alle unità affette da <Combustione>. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Sottosuolo, la DIF e la Perforazione del Drago rosso aumentano di 50. |
   | **2x** <i class="fas fa-star"/> | ? | Il Drago rosso gode di DAN aumentato del 20% e CRIT aumentato di 200 contro unità affette da <Combustione>. |
   | **3x** <i class="fas fa-star"/> | ? | <Fiamma draconica> Il Drago rosso infligge danni pari al 130% del proprio ATT alle unità nemiche in un'ampia area, causa loro <Combustione>, ne riduce la Rid DAN del 20% e infligge danni pari al 2% dei PF massimi al secondo per 8 secondi. Recupero: 18 secondi. |

@@ -3,7 +3,7 @@ title: "Catafratto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Catafratto"
 toc: true
@@ -81,6 +81,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Carica impetuosa](/Exclusive/Cavalier Knight Pike/) 
+
+ **Is Open:** + 
 
  **Item to Rango ↑:** -
 

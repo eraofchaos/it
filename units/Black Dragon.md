@@ -3,7 +3,7 @@ title: "Drago nero"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Drago nero"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Squama del Drago nero](/Exclusive/Black Dragon Black Dragon's Scale/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

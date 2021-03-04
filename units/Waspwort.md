@@ -3,7 +3,7 @@ title: "Erbavespa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude."
 unitID: 808
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Erbavespa"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Foglia d'Erbavespa](/Exclusive/Waspwort Waspwort Leaf/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

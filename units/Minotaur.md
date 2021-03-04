@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Minotauro"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Scudo dell'Iride](/Exclusive/Minotaur Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Ogre Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Ogre Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Ogni 30 secondi, evoca un circolo sacrificale che infligge danni pari all'1,5% dei PF massimi alle unità nemiche al suo interno, e ripristina PF pari al 5% dell'ATT alle unità alleate al suo interno per 15 secondi. |
+  |  Risveglio  | ? | Ogni 30 secondi, evoca un circolo sacrificale che infligge danni pari all'1,5% dei PF massimi alle unità nemiche al suo interno, e ripristina PF pari al 5% dell'ATT alle unità alleate al suo interno per 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN dell'Ogre aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Quando l'Ogre è preso da <Raptus>, aumenta del 10% il danno di tutte le unità alleate. |
   | **3x** <i class="fas fa-star"/> | ? | Quando l'Ogre viene schierato in battaglia, aumenta del 10% la Vel ATT di tutte le unità Roccaforte alleate. Inoltre, gode di DIF aumentata del 10%. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Uomo lucertola Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Lizardman Arco lungo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Predatore selvaggio> Può essere usato ogni 20 secondi e infligge danni pari al 300% dell'ATT a tutte le unità nemiche in un'area ristretta. Inoltre, infligge danni pari al 2% dei PF massimi al secondo per 5 secondi. |
+  |  Risveglio  | ? | <Predatore selvaggio> Può essere usato ogni 20 secondi e infligge danni pari al 300% dell'ATT a tutte le unità nemiche in un'area ristretta. Inoltre, infligge danni pari al 2% dei PF massimi al secondo per 5 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Resistenza magica dell'Uomo lucertola aumentata del 50%. |
   | **2x** <i class="fas fa-star"/> | ? | Quando l'Uomo lucertola infligge un colpo critico, il suo CRIT aumenta di 10 per 3 secondi. Cumulabile fino a 50 volte. |
   | **3x** <i class="fas fa-star"/> | ? | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |

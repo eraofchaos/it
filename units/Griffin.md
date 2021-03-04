@@ -3,7 +3,7 @@ title: "Grifone"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
 unitID: 103
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Grifone"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Carica impetuosa](/Exclusive/Griffin Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

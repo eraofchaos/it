@@ -2,7 +2,7 @@
 title: "Esclusivo - Maree notturne"
 permalink: /Exclusive/Mermaid Night Tides/
 excerpt: "Era of Chaos Maree notturne. Maree notturne. Era of Chaos Esclusivo Maree notturne. Sirena Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Mermaid Maree notturne.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Ode protettiva> Quando la Sirena subisce danni superiori al 30% dei propri PF massimi in un singolo attacco, ottiene una <bolla> pari al 25% dei propri PF massimi e gode di DIF aumentata di 400 per 15 secondi. Recupero: 10 secondi. |
+  |  Risveglio  | ? | <Ode protettiva> Quando la Sirena subisce danni superiori al 30% dei propri PF massimi in un singolo attacco, ottiene una <bolla> pari al 25% dei propri PF massimi e gode di DIF aumentata di 400 per 15 secondi. Recupero: 10 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | La Sirena gode di ATT e Vel ATT aumentati del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | <Canzone del soccorso> La Sirena aumenta del 25% il DAN di un'unità a distanza o incantatore alleato scelto casualmente e ottiene una <bolla> pari al 20% dei propri PF massimi per 10 secondi. Recupero: 20 secondi. |
   | **3x** <i class="fas fa-star"/> | ? | <Canto della Sirena> La Sirena leva il suo <Canto>, applicando <Sonno> a 2 unità nemiche casuali per 5 secondi. Inoltre, ripristina PF pari al 60% del proprio ATT alle unità alleate nelle retrovie ogni secondo per 10 secondi. Recupero: 24 secondi. |

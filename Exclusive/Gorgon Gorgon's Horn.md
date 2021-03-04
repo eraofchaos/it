@@ -2,7 +2,7 @@
 title: "Esclusivo - Corno di Gorgone"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Corno di Gorgone. Corno di Gorgone. Era of Chaos Esclusivo Corno di Gorgone. Gorgone Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Gorgon Corno di Gorgone.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Corazza pietrificata> La Gorgone protegge il proprio corpo con una <Corazza pietrificata> e gode di DIF aumentata del 24% e Rid DAN aumentata del 20% per 6 secondi. Una volta esauriti questi bonus, la Gorgone infligge danni pari al 150% del proprio ATT alle unità nemiche in un'ampia area e ha il 30% di probabilità di causare <Pietrificazione> per 3 secondi. Recupero: 18 secondi. |
+  |  Risveglio  | ? | <Corazza pietrificata> La Gorgone protegge il proprio corpo con una <Corazza pietrificata> e gode di DIF aumentata del 24% e Rid DAN aumentata del 20% per 6 secondi. Una volta esauriti questi bonus, la Gorgone infligge danni pari al 150% del proprio ATT alle unità nemiche in un'ampia area e ha il 30% di probabilità di causare <Pietrificazione> per 3 secondi. Recupero: 18 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | La Gorgone gode di PF e Rid DAN aumentati del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Quando lancia <Corazza pietrificata>, la Gorgone recupera il 10% dei PF massimi nell'arco di 5 secondi. |
   | **3x** <i class="fas fa-star"/> | ? | <Scissione tettonica> Quando la Gorgone perde i bonus di <Corazza pietrificata>, applica <Rallentamento> o <Combustione> alle unità nemiche in un'ampia area ogni secondo e infligge danni pari al 3% dei PF massimi per 6 secondi. |

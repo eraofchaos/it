@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Elfo del bosco Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Wood Elf Arco lungo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tempesta di frecce> L'attacco base dell'Elfo del bosco ha il 3% di probabilità di attivare <Tempesta di frecce>, scatenando una raffica nell'area bersaglio che infligge danni pari al 20% dell'ATT ogni 0,5 secondi per 3 secondi. |
+  |  Risveglio  | ? | <Tempesta di frecce> L'attacco base dell'Elfo del bosco ha il 3% di probabilità di attivare <Tempesta di frecce>, scatenando una raffica nell'area bersaglio che infligge danni pari al 20% dell'ATT ogni 0,5 secondi per 3 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN dell'Elfo del bosco aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | L'Elfo del bosco gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | La probabilità di attivazione di <Tempesta di frecce> aumenta al 200% del valore originale; la tecnica ha il 50% di probabilità di <rallentare> i nemici, riducendone del 10% la Vel ATT. Durata: 5 secondi. |

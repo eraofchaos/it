@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Unicorn Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Unicorno Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Unicorn Carica impetuosa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Scudo riflettente> Quando l'Unicorno perde il proprio <scudo>, infligge danni pari al 150% dell'ATT ai nemici in un'area ristretta. Se il bersaglio sta <sanguinando>, inoltre, la sua DIF viene ridotta del 20%. Durata: 5 secondi. |
+  |  Risveglio  | ? | <Scudo riflettente> Quando l'Unicorno perde il proprio <scudo>, infligge danni pari al 150% dell'ATT ai nemici in un'area ristretta. Se il bersaglio sta <sanguinando>, inoltre, la sua DIF viene ridotta del 20%. Durata: 5 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | L'Unicorno gode di PF aumentati del 20% e Schivata aumentata di 200. |
   | **2x** <i class="fas fa-star"/> | ? | Rid DAN dell'Unicorno aumentata del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Saetta blu> Quando l'Unicorno subisce danni superiori al 15% dei propri PF massimi da un attacco singolo, il suo corno emette una forte luce che <acceca> l'unità bersaglio. Se l'unità bersaglio è già affetta da <Cecità>, il suo DAN si riduce del 20%. Durata: 8 secondi. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Drago scheletrico immortale"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Drago scheletrico immortale. Drago scheletrico immortale. Era of Chaos Esclusivo Drago scheletrico immortale. Drago scheletrico Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Bone Dragon Drago scheletrico immortale.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Potere del Drago> Utilizzabile ogni 12 secondi. Tutte le unità nemiche hanno DIF ridotta del 5% e resistenza magica ridotta del 30% per 15 secondi. Cumulabile fino a 5 volte. Inoltre, causa <Silenzio> a tutte le unità nemiche per 3 secondi. Si attiva automaticamente ogni volta che un'unità nemica viene abbattuta. |
+  |  Risveglio  | ? | <Potere del Drago> Utilizzabile ogni 12 secondi. Tutte le unità nemiche hanno DIF ridotta del 5% e resistenza magica ridotta del 30% per 15 secondi. Cumulabile fino a 5 volte. Inoltre, causa <Silenzio> a tutte le unità nemiche per 3 secondi. Si attiva automaticamente ogni volta che un'unità nemica viene abbattuta. |
   | **1x** <i class="fas fa-star"/> | ? | Quando il Drago scheletrico è sul campo di battaglia, le unità Necropoli alleate godono di Tenacia aumentata di 200 e DIF aumentata del 10%. |
   | **2x** <i class="fas fa-star"/> | ? | Il Drago scheletrico gode di ATT e DAN aumentati del 30%. |
   | **3x** <i class="fas fa-star"/> | ? | Il Drago scheletrico non può perdere più del 40% dei PF massimi da una singola fonte di danno. Se subisce danni superiori al 28% dei PF massimi da una singola fonte, attiva automaticamente <Potere del Drago>. Recupero: 10 secondi. All'inizio della battaglia, il Drago scheletrico protegge tutte le unità Necropoli alleate con una <Corona di spine> che ne aumenta il DAN riflesso del 10%. L'effetto dura fino al termine della battaglia. |

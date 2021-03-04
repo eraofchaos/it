@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack un tempo era uno sconosciuto eroe di Enroth che aveva deciso di fare vela per l'Erathia. Lì ha trovato una terra devastata dalla guerra, luogo ideale per mettere a frutto le sue abilità."
 heroID: 60602
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Crag Hack"
 toc: true

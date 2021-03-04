@@ -2,7 +2,7 @@
 title: "Esclusivo - Coda di scorpione"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Coda di scorpione. Coda di scorpione. Era of Chaos Esclusivo Coda di scorpione. Manticora Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Manticore Coda di scorpione.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Assalto dello scorpione> Ogni 20 secondi, la Manticora lancia un attacco triplo contro un'unità bersaglio che infligge il 100%, 125% e 150% dei danni, oltre a causare <Veleno di scorpione>. Al contempo, riduce la Tenacia e la Schivata del bersaglio di 200 per 5 secondi. |
+  |  Risveglio  | ? | <Assalto dello scorpione> Ogni 20 secondi, la Manticora lancia un attacco triplo contro un'unità bersaglio che infligge il 100%, 125% e 150% dei danni, oltre a causare <Veleno di scorpione>. Al contempo, riduce la Tenacia e la Schivata del bersaglio di 200 per 5 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Danno della Manticora aumentato del 25%. |
   | **2x** <i class="fas fa-star"/> | ? | Rid DAN della Manticora aumentata del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | CRIT della Manticora aumentato di 300. Quando affronta unità affette da <Sanguinamento>, gli attacchi base infliggono danni aggiuntivi pari al 50% dell'ATT. |

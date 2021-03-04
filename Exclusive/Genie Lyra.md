@@ -2,7 +2,7 @@
 title: "Esclusivo - Lira"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lira. Lira. Era of Chaos Esclusivo Lira. Genio Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Genie Lira.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Guardiano della lampada> Il Genio ottiene una carica di <Guardiano della lampada> ogni 5 secondi. Ciascuna carica aumenta la Rid DAN del 2% fino al termine della battaglia. Cumulabile fino a 20 volte. Quando subisce danni, il Genio ottiene una carica aggiuntiva di <Guardiano della lampada>. |
+  |  Risveglio  | ? | <Guardiano della lampada> Il Genio ottiene una carica di <Guardiano della lampada> ogni 5 secondi. Ciascuna carica aumenta la Rid DAN del 2% fino al termine della battaglia. Cumulabile fino a 20 volte. Quando subisce danni, il Genio ottiene una carica aggiuntiva di <Guardiano della lampada>. |
   | **1x** <i class="fas fa-star"/> | ? | DIF del Genio aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Guarigione ricevuta dal Genio aumentata del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Il Genio evoca una nebbia che riduce del 20% il DAN e di 400 il CRIT di due unità a distanza o incantatori nemici casuali per 10 secondi. Recupero: 15 secondi. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Maree tenebrose"
 permalink: /Exclusive/Revyaratan Gloom Tides/
 excerpt: "Era of Chaos Maree tenebrose. Maree tenebrose. Era of Chaos Esclusivo Maree tenebrose. Leviatano Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Revyaratan Maree tenebrose.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Profumo di sangue> Il Leviatano infligge danni pari al 120% del proprio ATT all'unità bersaglio ogni 7 secondi. Causa inoltre <Sanguinamento> e riduce del 20% la Rid DAN e di 200 la Tenacia per 4 secondi. L'unità bersaglio perde l'1% dei PF massimi ogni secondo. |
+  |  Risveglio  | ? | <Profumo di sangue> Il Leviatano infligge danni pari al 120% del proprio ATT all'unità bersaglio ogni 7 secondi. Causa inoltre <Sanguinamento> e riduce del 20% la Rid DAN e di 200 la Tenacia per 4 secondi. L'unità bersaglio perde l'1% dei PF massimi ogni secondo. |
   | **1x** <i class="fas fa-star"/> | ? | DAN del Leviatano aumentato del 20%. Aumenta di un ulteriore 20% il DAN CRIT contro unità <rallentate>. |
   | **2x** <i class="fas fa-star"/> | ? | Quando un eroe alleato lancia un incantesimo di tipo Acqua, il Leviatano e tutte le unità alleate di fronte a lui godono di DAN CRIT aumentato del 10% e CRIT aumentato di 100 ogni 7 secondi. Effetto raddoppiato contro le unità Baia. |
   | **3x** <i class="fas fa-star"/> | ? | <Morsi frenetici> Ogni 20 secondi, il Leviatano entra in stato di <Morsi frenetici>. Per i 9 secondi successivi, gode di DAN CRIT e Vel ATT aumentati del 40% e CRIT aumentato di 400. Inoltre, riduce del 20% la Rid DAN e la guarigione ricevuta e di 200 la Tenacia dell'unità bersaglio. Effetto raddoppiato contro le unità <rallentate>. Questo effetto non può essere rimosso. |

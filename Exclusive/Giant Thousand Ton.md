@@ -2,7 +2,7 @@
 title: "Esclusivo - Peso insostenibile"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Peso insostenibile. Peso insostenibile. Era of Chaos Esclusivo Peso insostenibile. Gigante Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Giant Peso insostenibile.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Il Gigante evoca una nube temporalesca su un'unità bersaglio ogni 10 secondi. La nube colpisce un'unità casuale nell'area d'effetto ogni 0,5 secondi, infliggendo danni pari al 40% dell'ATT. Se la stessa unità viene colpita due volte di fila entro 4 secondi, rimane <paralizzata> per 5 secondi. Se la stessa unità viene colpita 4 volte di fila, rimane <spossata> per 2 secondi. Recupero: 15 secondi. |
+  |  Risveglio  | ? | Il Gigante evoca una nube temporalesca su un'unità bersaglio ogni 10 secondi. La nube colpisce un'unità casuale nell'area d'effetto ogni 0,5 secondi, infliggendo danni pari al 40% dell'ATT. Se la stessa unità viene colpita due volte di fila entro 4 secondi, rimane <paralizzata> per 5 secondi. Se la stessa unità viene colpita 4 volte di fila, rimane <spossata> per 2 secondi. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN del Gigante aumentato del 10%. Mentre è sul campo di battaglia, aumenta del 10% il DAN degli incantatori alleati. |
   | **2x** <i class="fas fa-star"/> | ? | Il Gigante risveglia l'Elementale del fulmine che vive nella sua armatura e gode di CRIT aumentato di 200 e Vel ATT aumentata del 20% per 8 secondi. Recupero: 14 secondi. |
   | **3x** <i class="fas fa-star"/> | ? | Il Gigante rinnova la propria armatura ogni 10 secondi, negando 3 istanze di danno ed emettendo un'onda che aumenta Tenacia e Schivata delle unità Torre alleate di 200 per 6 secondi. |

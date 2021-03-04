@@ -2,7 +2,7 @@
 title: "Esclusivo - "
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Esclusivo . Incubo Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Nightmare .md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Senza lasciare traccia> Ogni volta che l'Incubo viene attaccato, ha il 25% di probabilità di godere di Vel ATT aumentata del 500% e assorbimento aumentato del 50% per la durata di un attacco. |
+  |  Risveglio  | ? | <Senza lasciare traccia> Ogni volta che l'Incubo viene attaccato, ha il 25% di probabilità di godere di Vel ATT aumentata del 500% e assorbimento aumentato del 50% per la durata di un attacco. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN dell'Incubo aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Inferno, l'Incubo gode di PF aumentati dell'8% e DIF aumentata del 5%. |
   | **3x** <i class="fas fa-star"/> | ? | <Guarigione onirica> Quando attiva <Senza lasciare traccia>, l'Incubo cura il 200% dei PF dell'unità con PF minori. |

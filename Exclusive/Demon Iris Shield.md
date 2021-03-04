@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Demone Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Demon Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | All'inizio della battaglia, la schivata del Demone aumenta di 1000 per 30 secondi. Ogni schivata aumenta la Rid DAN dell'1% in modo permanente, fino a un massimo di 30%. |
+  |  Risveglio  | ? | All'inizio della battaglia, la schivata del Demone aumenta di 1000 per 30 secondi. Ogni schivata aumenta la Rid DAN dell'1% in modo permanente, fino a un massimo di 30%. |
   | **1x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, la Tenacia del Demone aumenta di 500 per 30 secondi. |
   | **2x** <i class="fas fa-star"/> | ? | Il Demone gode di PF aumentati del 20% e Rid DAN aumentata del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | Il Demone gode di DIF aumentata del 10%. DIF aumentata del 100% per 10 secondi quando i PF scendono sotto il 50% per la prima volta. |

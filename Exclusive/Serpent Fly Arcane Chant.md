@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Mosca serpente Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Serpent Fly Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Quando l'unità bersaglio viene sconfitta, la Mosca serpente entra in uno stato di frenesia che ne aumenta la Vel ATT del 100% per 20 secondi. |
+  |  Risveglio  | ? | Quando l'unità bersaglio viene sconfitta, la Mosca serpente entra in uno stato di frenesia che ne aumenta la Vel ATT del 100% per 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Quando attacca, la Mosca serpente ha una probabilità del 30% di provocare <Sanguinamento>. |
   | **2x** <i class="fas fa-star"/> | ? | Assorbimento della Mosca serpente aumentato del 15%. |
   | **3x** <i class="fas fa-star"/> | ? | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |

@@ -3,7 +3,7 @@ title: "Diavolo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie."
 unitID: 507
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Diavolo"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Falce diabolica](/Exclusive/Devil Devil Scythe/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

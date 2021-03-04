@@ -2,7 +2,7 @@
 title: "Esclusivo - Testa di Idra"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Testa di Idra. Testa di Idra. Era of Chaos Esclusivo Testa di Idra. Idra Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Hydra Testa di Idra.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Frenesia alimentare> Morde 1 nemico ogni secondo, per un totale di 5 attacchi; ciascun attacco infligge danni pari al 50% dell'ATT. Riduce di 50 la Tenacia dei nemici e aumenta del 4% il proprio DAN CRIT. Cumulabile fino a 5 volte. L'effetto dura 3 secondi. Recupero: 20 secondi. |
+  |  Risveglio  | ? | <Frenesia alimentare> Morde 1 nemico ogni secondo, per un totale di 5 attacchi; ciascun attacco infligge danni pari al 50% dell'ATT. Riduce di 50 la Tenacia dei nemici e aumenta del 4% il proprio DAN CRIT. Cumulabile fino a 5 volte. L'effetto dura 3 secondi. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | L'Idra gode di DAN e ATT aumentati del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | L'Idra gode di DIF e Rid DAN aumentate del 10%. Se l'Idra è sul campo di battaglia, tutte le unità Fortezza alleate godono di DIF e Rid DAN aumentate del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Rinascita> Quando subisce danni superiori al 10% ma inferiori al 20% dei PF massimi, ripristina 500.000 PF dopo 3 secondi. Inoltre, non può subire danni superiori al 20% dei propri PF massimi da un singolo attacco. |

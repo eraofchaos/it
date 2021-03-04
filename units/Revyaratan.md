@@ -3,7 +3,7 @@ title: "Leviatano"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Leviatano"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Maree tenebrose](/Exclusive/Revyaratan Gloom Tides/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

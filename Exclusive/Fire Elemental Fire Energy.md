@@ -2,7 +2,7 @@
 title: "Esclusivo - Energia del Fuoco"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Energia del Fuoco. Energia del Fuoco. Era of Chaos Esclusivo Energia del Fuoco. Elementale del fuoco Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Fire Elemental Energia del Fuoco.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Tripletta infuocata> Ogni 20 secondi, l'Elementale del fuoco scaglia palle di fuoco 3 volte, danneggiando le unità nell'area bersaglio. Gli attacchi colpiscono un'area d'effetto piccola, molto piccola e ampia (in quest'ordine), infliggendo danni pari al 90%, 120% e 150% dell'ATT. La <Combustione> causata dall'attacco dura 5 secondi. |
+  |  Risveglio  | ? | <Tripletta infuocata> Ogni 20 secondi, l'Elementale del fuoco scaglia palle di fuoco 3 volte, danneggiando le unità nell'area bersaglio. Gli attacchi colpiscono un'area d'effetto piccola, molto piccola e ampia (in quest'ordine), infliggendo danni pari al 90%, 120% e 150% dell'ATT. La <Combustione> causata dall'attacco dura 5 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Perforazione dell'Elementale del fuoco aumentata di 150. |
   | **2x** <i class="fas fa-star"/> | ? | L'Elementale del fuoco gode di ATT aumentato del 20% e DAN aumentato del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, l'Elementale del fuoco riceve uno <scudo> pari al 100% dei propri PF massimi. Il fuoco che lo circonda infligge danni pari al 10% del suo ATT ogni secondo alle unità nemiche in un'area ristretta. Questo effetto non può essere rimosso. |

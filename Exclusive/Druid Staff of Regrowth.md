@@ -2,7 +2,7 @@
 title: "Esclusivo - Bastone della Ricrescita"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Bastone della Ricrescita. Bastone della Ricrescita. Era of Chaos Esclusivo Bastone della Ricrescita. Druido Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Druid Bastone della Ricrescita.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Frusta di liane> All'inizio della battaglia, lancia questa tecnica su un'unità nemica casuale nelle retrovie, infliggendole danni pari al 30% dell'ATT e impedendone i movimenti per 10 secondi. Inoltre, le unità alleate nelle retrovie sono protette da uno <scudo> pari al 25% dei PF massimi. Durata: 10 secondi. |
+  |  Risveglio  | ? | <Frusta di liane> All'inizio della battaglia, lancia questa tecnica su un'unità nemica casuale nelle retrovie, infliggendole danni pari al 30% dell'ATT e impedendone i movimenti per 10 secondi. Inoltre, le unità alleate nelle retrovie sono protette da uno <scudo> pari al 25% dei PF massimi. Durata: 10 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Druido gode di portata aumentata di 50 e Tenacia aumentata di 200. |
   | **2x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, aumenta la propria DIF del 70% e aumenta la Rid DAN di tutte le unità alleate in un'ampia area del 22% per 15 secondi. |
   | **3x** <i class="fas fa-star"/> | ? | <Bocciolo> Evoca un <Bocciolo> ogni 24 secondi. I Boccioli benedicono tutte le unità Baluardo in un'ampia area ogni 5 secondi per un totale di 5 volte, aumentandone la Vel ATT del 5% ogni volta. Cumulabile fino a 30 volte. L'effetto dura 5 secondi. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Driade Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Sprite Carica impetuosa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | All'inizio della battaglia, la Driade gode di DAN e Vel ATT aumentati del 20% per 30 secondi. |
+  |  Risveglio  | ? | All'inizio della battaglia, la Driade gode di DAN e Vel ATT aumentati del 20% per 30 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | ATT della Driade aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | CRIT della Driade aumentato di 200. |
   | **3x** <i class="fas fa-star"/> | ? | La Driade infligge danni pari al 450% del proprio ATT all'unità bersaglio e applica un effetto scelto casualmente tra <Congelamento>, <Combustione>, <Pietrificazione> o <Folgorazione> per 3 secondi. Recupero: 18 secondi. |

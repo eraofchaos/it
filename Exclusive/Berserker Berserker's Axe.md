@@ -2,7 +2,7 @@
 title: "Esclusivo - Ascia del Berserker"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Ascia del Berserker. Ascia del Berserker. Era of Chaos Esclusivo Ascia del Berserker. Berserker Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Berserker Ascia del Berserker.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Ascia roteante> Il Berserker lancia un'ascia roteante che infligge danni pari al 150% dell'ATT alle unità nemiche in un'ampia area di fronte a esse e causa <Sanguinamento> per 8 secondi. Recupero: 18 secondi. |
+  |  Risveglio  | ? | <Ascia roteante> Il Berserker lancia un'ascia roteante che infligge danni pari al 150% dell'ATT alle unità nemiche in un'ampia area di fronte a esse e causa <Sanguinamento> per 8 secondi. Recupero: 18 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN del Berserker aumentato del 15%. DAN aumentato di un ulteriore 15% contro unità <stordite>. |
   | **2x** <i class="fas fa-star"/> | ? | Gli attacchi del Berserker hanno il 5% di probabilità di <stordire> l'unità bersaglio per 1,5 secondi. L'effetto si attiva ogni 5 secondi. |
   | **3x** <i class="fas fa-star"/> | ? | <Colpo fatale> Il Berserker infligge danni pari al 225% del proprio ATT all'unità bersaglio e ne riduce Rid DAN del 20% e DIF del 10%. Se l'unità bersaglio è affetta da <Sanguinamento>, ne riduce DAN del 20% e Vel ATT del 10% per 10 secondi. Recupero: 25 secondi. |

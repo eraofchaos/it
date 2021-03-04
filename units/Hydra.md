@@ -3,7 +3,7 @@ title: "Idra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Idra"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Testa di Idra](/Exclusive/Hydra Hydra's Head/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

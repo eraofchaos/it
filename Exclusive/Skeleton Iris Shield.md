@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Scheletro Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Skeleton Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Cadavere putrido> Lo Scheletro si trasforma in un cadavere putrido, causando <Morale basso> a tutte le unità in un'ampia area per 10 secondi ogni 20 secondi e infliggendo danni pari al 250% della relativa ATT all'unità bersaglio. |
+  |  Risveglio  | ? | <Cadavere putrido> Lo Scheletro si trasforma in un cadavere putrido, causando <Morale basso> a tutte le unità in un'ampia area per 10 secondi ogni 20 secondi e infliggendo danni pari al 250% della relativa ATT all'unità bersaglio. |
   | **1x** <i class="fas fa-star"/> | ? | DIF dello Scheletro aumentata di 200. |
   | **2x** <i class="fas fa-star"/> | ? | PF base dello Scheletro aumentati di 20.000. |
   | **3x** <i class="fas fa-star"/> | ? | <Calcificazione> Lo Scheletro ripristina il 10% dei propri PF massimi quando è affetto da <Morale basso>. Recupero: 10 secondi. |

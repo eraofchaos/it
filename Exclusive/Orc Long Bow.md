@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo"
 permalink: /Exclusive/Orc Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Orco Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Orc Arco lungo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Lancio dell'ascia> L'Orco scaglia un'immensa ascia da guerra contro un'unità bersaglio, infliggendo danni pari al 300% del proprio ATT e ignorando 1000 punti di DIF. Recupero: 15 secondi. |
+  |  Risveglio  | ? | <Lancio dell'ascia> L'Orco scaglia un'immensa ascia da guerra contro un'unità bersaglio, infliggendo danni pari al 300% del proprio ATT e ignorando 1000 punti di DIF. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | L'Orco gode di ATT aumentato del 20% e CRIT aumentato di 100. |
   | **2x** <i class="fas fa-star"/> | ? | Ogni volta che i PF dell'Orco vengono ridotti del 10%, aumenta del 4% Rid DAN e RES magica. L'effetto rimane attivo anche quando i PF vengono ripristinati. |
   | **3x** <i class="fas fa-star"/> | ? | L'Orco è concentrato sulla battaglia in corso. Ciascun attacco aumenta del 5% la Vel ATT e di 15 il CRIT delle unità. Cumulabile fino a 10 volte. Le cariche tornano a 0 quando l'Orco cambia bersaglio. |

@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei."
 unitID: 405
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Roc"
 toc: true
@@ -80,6 +80,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Cantico arcano](/Exclusive/Roc Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

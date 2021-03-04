@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Iron Golem Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Golem di ferro Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Iron Golem Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Modulo d'aggiornamento> Il Golem di ferro attiva il modulo d'aggiornamento al proprio interno, aumentando DIF e Rid DAN del 10% e Vel ATT del 30% per 10 secondi. Recupero: 20 secondi. |
+  |  Risveglio  | ? | <Modulo d'aggiornamento> Il Golem di ferro attiva il modulo d'aggiornamento al proprio interno, aumentando DIF e Rid DAN del 10% e Vel ATT del 30% per 10 secondi. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Golem di ferro gode di PF aumentati del 20% e DIF aumentata del 15%. |
   | **2x** <i class="fas fa-star"/> | ? | Tenacia del Golem di ferro aumentata di 300. Quando lancia <Modulo d'aggiornamento>, il bonus alla Tenacia raddoppia. |
   | **3x** <i class="fas fa-star"/> | ? | <Pugno elettromagnetico> Quando il Golem di ferro attacca, ha il 10% di probabilità di lanciare <Pugno elettromagnetico>, che infligge danni pari al 200% dell'ATT e riduce DAN e Rid DAN dell'unità bersaglio del 10% per 5 secondi. Cumulabile fino a 4 volte. |

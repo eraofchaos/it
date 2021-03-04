@@ -3,7 +3,7 @@ title: "Viverna"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Viverna"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Coda di Viverna](/Exclusive/Wyvern Wyvern's Tail/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

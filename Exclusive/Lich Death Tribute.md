@@ -2,7 +2,7 @@
 title: "Esclusivo - Tributo di morte"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Tributo di morte. Tributo di morte. Era of Chaos Esclusivo Tributo di morte. Lich Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Lich Tributo di morte.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Sacrificio dell'anima draconica> Dopo 5 e 45 secondi dall'inizio della battaglia, viene evocato un Drago scheletrico che persiste per 20 secondi.　(ATT e PF del Drago scheletrico dipendono dal livello dell'unità. Il Drago scheletrico usa <Paura> e <Perforazione>. Finché resta sul campo di battaglia, le unità Necropoli alleate godono di DAN e Rid DAN aumentati del 20%) |
+  |  Risveglio  | ? | <Sacrificio dell'anima draconica> Dopo 5 e 45 secondi dall'inizio della battaglia, viene evocato un Drago scheletrico che persiste per 20 secondi.　(ATT e PF del Drago scheletrico dipendono dal livello dell'unità. Il Drago scheletrico usa <Paura> e <Perforazione>. Finché resta sul campo di battaglia, le unità Necropoli alleate godono di DAN e Rid DAN aumentati del 20%) |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN del Lich aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Quando il Lich compie un sacrificio (incluso <Sacrificio dell'anima draconica>), la resistenza magica delle unità nemiche è ridotta del 20% per 10 secondi. Cumulabile fino a 3 volte. |
   | **3x** <i class="fas fa-star"/> | ? | <Furto d'anima> Ogni 15 secondi, il Lich evoca un'Anima di Drago scheletrico che infligge danni pari al 20% dei PF massimi a un'unità casuale nelle retrovie, applicando inoltre <Impedimento> e <Morale basso> per 10 secondi. |

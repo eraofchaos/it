@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Sea Elemental Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Elementale del mare Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Sea Elemental Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Maremoto> Attivabile una volta ogni 20 secondi. Evoca un'ondata che investe un'unità nemica casuale, infliggendo danni pari al 200% dell'ATT alle unità ostili nell'area. |
+  |  Risveglio  | ? | <Maremoto> Attivabile una volta ogni 20 secondi. Evoca un'ondata che investe un'unità nemica casuale, infliggendo danni pari al 200% dell'ATT alle unità ostili nell'area. |
   | **1x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, tutte le tue unità sono circondate da una <bolla> che li protegge da una quantità di danni pari al 10% dei loro PF massimi. |
   | **2x** <i class="fas fa-star"/> | ? | Gli attacchi dell'Elementale del mare riducono il danno e la resistenza magica dell'unità bersaglio rispettivamente del 10% e del 50%. |
   | **3x** <i class="fas fa-star"/> | ? | Quando affronta unità da 1 o 4 membri, gli attacchi base dell'Elementale del mare infliggono il 30% di danno ad area; quando affronta unità da 9 membri, gli attacchi base infliggono il 50% dei danni a 5 membri dell'unità. |

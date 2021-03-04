@@ -3,7 +3,7 @@ title: "Aeronave magica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Aeronave magica"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Stella polare](/Exclusive/Magic Airship Polaris/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

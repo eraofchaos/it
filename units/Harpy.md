@@ -3,7 +3,7 @@ title: "Arpia"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Arpia"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Carica impetuosa](/Exclusive/Harpy Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

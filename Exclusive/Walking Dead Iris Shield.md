@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Morto vivente Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Walking Dead Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Sterminio> Il Morto vivente vibra un colpo di mannaia infliggendo danni pari al 100% del proprio ATT alle unità ostili in un'area ristretta di fronte a sé. I bersagli colpiti vengono colti da <Sanguinamento> e subiscono danni pari al 10% del suo ATT ogni secondo. L'effetto dura 10 secondi. Recupero: 20 secondi. |
+  |  Risveglio  | ? | <Sterminio> Il Morto vivente vibra un colpo di mannaia infliggendo danni pari al 100% del proprio ATT alle unità ostili in un'area ristretta di fronte a sé. I bersagli colpiti vengono colti da <Sanguinamento> e subiscono danni pari al 10% del suo ATT ogni secondo. L'effetto dura 10 secondi. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DIF del Morto vivente aumentata di 300. |
   | **2x** <i class="fas fa-star"/> | ? | Tenacia del Morto vivente aumentata di 500. |
   | **3x** <i class="fas fa-star"/> | ? | Se il bersaglio è affetto da <Morale basso>, il Morto vivente gode di Vel ATT e assorbimento aumentati del 20%. |

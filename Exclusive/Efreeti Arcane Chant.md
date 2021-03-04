@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Efreeti Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Efreet Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Efreeti Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Fiamme dell'oblio> Quando l'unità bersaglio è affetta da <Combustione>, scaglia una palla di fuoco che infligge danni pari al 30% dei PF massimi alle unità nemiche in un'ampia area. Recupero: 30 secondi. |
+  |  Risveglio  | ? | <Fiamme dell'oblio> Quando l'unità bersaglio è affetta da <Combustione>, scaglia una palla di fuoco che infligge danni pari al 30% dei PF massimi alle unità nemiche in un'ampia area. Recupero: 30 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN dell'Efreet aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | L'Efreet gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Fedeltà> Quando almeno un'unità nemica sul campo di battaglia ha un <Marchio infernale>, l'Efreet attacca immediatamente un'unità marchiata con <Fuoco infernale>, infliggendo danni pari al 100% del proprio ATT e aggiungendo un altro <Marchio infernale>. Recupero: 15 secondi. |

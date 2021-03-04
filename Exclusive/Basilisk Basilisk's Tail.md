@@ -2,7 +2,7 @@
 title: "Esclusivo - Coda di Basilisco"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Coda di Basilisco. Coda di Basilisco. Era of Chaos Esclusivo Coda di Basilisco. Basilisco Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Basilisk Coda di Basilisco.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Quando un attacco colpisce l'unità bersaglio, ha l'8% di probabilità di infliggere danni aggiuntivi pari al 100% dell'ATT e <pietrificare> il bersaglio per 3 secondi. |
+  |  Risveglio  | ? | Quando un attacco colpisce l'unità bersaglio, ha l'8% di probabilità di infliggere danni aggiuntivi pari al 100% dell'ATT e <pietrificare> il bersaglio per 3 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Basilisco gode di PF e Rid DAN aumentati del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Quando gli attacchi del Basilisco attivano il Risveglio, gode di DIF aumentata del 20% per 3 secondi. |
   | **3x** <i class="fas fa-star"/> | ? | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |

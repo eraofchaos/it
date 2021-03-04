@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Efreet"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Cantico arcano](/Exclusive/Efreeti Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

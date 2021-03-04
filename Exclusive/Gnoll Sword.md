@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Gnoll Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Gnoll Spada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Ferite aperte> Lo Gnoll infligge danni pari al 275% del proprio ATT alle unità bersaglio e applica <Sanguinamento> per 8 secondi. Recupero: 15 secondi. |
+  |  Risveglio  | ? | <Ferite aperte> Lo Gnoll infligge danni pari al 275% del proprio ATT alle unità bersaglio e applica <Sanguinamento> per 8 secondi. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Perforazione dello Gnoll aumentata di 100. |
   | **2x** <i class="fas fa-star"/> | ? | DAN dello Gnoll aumentato del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | Schivata dello Gnoll aumentata di 300. Quando subisce un colpo critico, recupera il 5% dei PF massimi e ha il 50% di probabilità di godere di Rid DAN aumentata del 50% per 1 secondo. Recupero: 3 secondi. |

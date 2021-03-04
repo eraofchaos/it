@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Folletto Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Imp Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Lingua fiammeggiante> Il Folletto infligge danni pari al 300% del proprio ATT all'unità bersaglio e causa <Combustione> per 6 secondi. Recupero: 20 secondi. |
+  |  Risveglio  | ? | <Lingua fiammeggiante> Il Folletto infligge danni pari al 300% del proprio ATT all'unità bersaglio e causa <Combustione> per 6 secondi. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | RES magica del Folletto aumentata del 25%. |
   | **2x** <i class="fas fa-star"/> | ? | DIF del Folletto aumentata del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Corazza robusta> Quando i PF del Folletto scendono al 60% e al 30% per la prima volta, ottiene uno <scudo> pari al 20% dei propri PF massimi e gode di Tenacia aumentata di 150 per 20 secondi. |

@@ -2,7 +2,7 @@
 title: "Esclusivo - Sguardo oscuro"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Sguardo oscuro. Sguardo oscuro. Era of Chaos Esclusivo Sguardo oscuro. Osservatore Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Beholder Sguardo oscuro.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Vista oscura> Infligge danni pari al 200% dell'ATT alle unità nemiche in un'ampia area di fronte a sé e ne riduce la Rid DAN del 15%. Effetto raddoppiato contro bersagli <storditi>. Durata: 7 secondi. Recupero: 15 secondi. |
+  |  Risveglio  | ? | <Vista oscura> Infligge danni pari al 200% dell'ATT alle unità nemiche in un'ampia area di fronte a sé e ne riduce la Rid DAN del 15%. Effetto raddoppiato contro bersagli <storditi>. Durata: 7 secondi. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Quando un eroe nemico lancia un incantesimo, l'Osservatore ottiene uno <scudo> pari al 10% dei PF massimi per 7 secondi. |
   | **2x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Dungeon, il CRIT dell'Osservatore aumenta di 50. |
   | **3x** <i class="fas fa-star"/> | ? | L'Osservatore lancia <Vincolo d'ombra> su un'unità nemica casuale ogni 20 secondi. L'unità vincolata non può attaccare e la sua DIF è ridotta del 20%. Se l'unità bersaglio è già affetta da <Controllo mentale>, la sua Tenacia viene ridotta di 200 per 5 secondi. |

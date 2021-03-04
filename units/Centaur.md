@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione."
 unitID: 201
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Centauro"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Scudo dell'Iride](/Exclusive/Centaur Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

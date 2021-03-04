@@ -3,7 +3,7 @@ title: "Giudice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi."
 unitID: 109
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Giudice"
 toc: true
@@ -73,6 +73,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [](/Exclusive/Judicator /) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

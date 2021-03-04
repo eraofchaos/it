@@ -3,7 +3,7 @@ title: "Tartaruga draconica"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, domina i mari più profondi con il suo corpo mastodontico."
 unitID: 9906
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Tartaruga draconica"
 toc: true
@@ -75,6 +75,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Obbedienza](/Exclusive/Dragon Turtle Obedience/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

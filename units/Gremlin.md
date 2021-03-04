@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati."
 unitID: 601
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Gremlin"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Arco lungo](/Exclusive/Gremlin Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

@@ -3,7 +3,7 @@ title: "Paladino"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
 unitID: 108
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Paladino"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [](/Exclusive/Paladin /) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

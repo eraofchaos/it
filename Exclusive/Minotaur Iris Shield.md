@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Minotauro Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Minotaur Scudo dell'Iride.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Carica brutale> Il Minotauro si lancia in una violenta carica contro un'unità bersaglio, infliggendo danni pari al 300% del proprio ATT e riducendo del 20% la Rid DAN e del 10% la Vel ATT delle unità nemiche in un'ampia area per 7 secondi. Recupero: 15 secondi. |
+  |  Risveglio  | ? | <Carica brutale> Il Minotauro si lancia in una violenta carica contro un'unità bersaglio, infliggendo danni pari al 300% del proprio ATT e riducendo del 20% la Rid DAN e del 10% la Vel ATT delle unità nemiche in un'ampia area per 7 secondi. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN del Minotauro aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Tenacia aumentata di 400 per 5 secondi quando gode di <Morale alto>. |
   | **3x** <i class="fas fa-star"/> | ? | <Afflusso di sangue> Il Minotauro recupera PF pari al 10% dei propri PF massimi e riduce del 20% il DAN delle unità nemiche circostanti per 6 secondi. Recupero: 15 secondi. |

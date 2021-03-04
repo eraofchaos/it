@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco della Medusa"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arco della Medusa. Arco della Medusa. Era of Chaos Esclusivo Arco della Medusa. Medusa Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Medusa Arco della Medusa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Quando attacca, la Medusa ha una probabilità del 50% di infliggere <Veleno di serpente> a un'unità casuale. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia. Se la Medusa attacca un'unità con 10 cariche di <Veleno di serpente>, il suo danno aumenta del 30%. <Veleno di serpente>: Infligge danni pari al 5% dell'ATT della Medusa al secondo. |
+  |  Risveglio  | ? | Quando attacca, la Medusa ha una probabilità del 50% di infliggere <Veleno di serpente> a un'unità casuale. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia. Se la Medusa attacca un'unità con 10 cariche di <Veleno di serpente>, il suo danno aumenta del 30%. <Veleno di serpente>: Infligge danni pari al 5% dell'ATT della Medusa al secondo. |
   | **1x** <i class="fas fa-star"/> | ? | CRIT della Medusa aumentato di 300. |
   | **2x** <i class="fas fa-star"/> | ? | La Medusa gode di ATT e Vel ATT aumentati del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Muta> La Medusa usa questa tecnica ogni 10 secondi per eliminare tutti i debuff di cui soffre. |

@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Monaco"
 toc: true
@@ -79,6 +79,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Cantico arcano](/Exclusive/Monk Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

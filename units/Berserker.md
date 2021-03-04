@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia."
 unitID: 408
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Berserker"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Ascia del Berserker](/Exclusive/Berserker Berserker's Axe/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

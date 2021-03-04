@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Monk Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Monaco Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Monk Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Sermone> si attiva ogni 9 secondi e ripristina PF pari al 125% dell'ATT dell'unità alleata con la percentuale di PF minore |
+  |  Risveglio  | ? | <Sermone> si attiva ogni 9 secondi e ripristina PF pari al 125% dell'ATT dell'unità alleata con la percentuale di PF minore |
   | **1x** <i class="fas fa-star"/> | ? | Attacco dei Monaci aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Quando viene usato <Sermone>, un'unità alleata casuale riceve <Morale alto> per 10 secondi. |
   | **3x** <i class="fas fa-star"/> | ? | <Devozione>: I Monaci rimuovono 1 debuff da un'unità alleata casuale ogni 10 secondi. |

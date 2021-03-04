@@ -3,7 +3,7 @@ title: "Elementale tempesta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Elementale tempesta"
 toc: true
@@ -74,6 +74,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Arco lungo](/Exclusive/Storm Elemental Long Bow/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

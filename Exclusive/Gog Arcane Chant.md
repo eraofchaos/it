@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Gog Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Gog Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Folgore bruciante> La Gog infligge danni pari al 400% del proprio ATT all'unità bersaglio ogni 15 secondi e causa <Sanguinamento> per 7 secondi. Se il bersaglio è già affetto da <Sanguinamento>, la sua DIF viene ridotta del 15% per 7 secondi. |
+  |  Risveglio  | ? | <Folgore bruciante> La Gog infligge danni pari al 400% del proprio ATT all'unità bersaglio ogni 15 secondi e causa <Sanguinamento> per 7 secondi. Se il bersaglio è già affetto da <Sanguinamento>, la sua DIF viene ridotta del 15% per 7 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Vel ATT della Gog aumentata del 15%. |
   | **2x** <i class="fas fa-star"/> | ? | Assorbimento della Gog aumentato del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | <Canicola> Quando un eroe alleato lancia un incantesimo di tipo Fuoco, la Gog infligge danni pari al 50% del proprio ATT ogni secondo alle unità in un'ampia area di fronte a sé, causando <Combustione> per 5 secondi. |

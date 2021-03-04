@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Pirati di Regna Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Regnan Pirates Spada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Risponde a un attacco con un potente contrattacco che infligge il 300% dei danni. Recupero: 8 secondi. |
+  |  Risveglio  | ? | Risponde a un attacco con un potente contrattacco che infligge il 300% dei danni. Recupero: 8 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Quando attacca, ha una probabilità del 50% di infettare le unità nemiche con lo <Scorbuto>, che ne riduce i PF dell'1% al secondo e la guarigione del 35% per 3 secondi (l'effetto non è cumulabile). |
   | **2x** <i class="fas fa-star"/> | ? | I Pirati di Regna godono di ATT aumentato del 20% e danno aumentato del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | Mangia arance per curare lo <Scorbuto> e rigenerare il 30% dei PF la prima volta che i PF dei Pirati di Regna scendono sotto il 30%. Rende immune a <Stordimento>, <Pietrificazione> e <Silenzio> per 5 secondi quando equipaggi un Emblema sacro. |

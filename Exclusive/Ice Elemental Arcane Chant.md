@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Ice Elemental Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Elementale del ghiaccio Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Ice Elemental Cantico arcano.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Scissione gelante> Colpisce un nemico con una folata di gelo, infliggendo danni pari al 200% del proprio ATT e <congelandolo> per 5 secondi. Recupero: 20 secondi. Attesa iniziale: 11 secondi. |
+  |  Risveglio  | ? | <Scissione gelante> Colpisce un nemico con una folata di gelo, infliggendo danni pari al 200% del proprio ATT e <congelandolo> per 5 secondi. Recupero: 20 secondi. Attesa iniziale: 11 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | DAN dell'Elementale del ghiaccio aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | <Scudo di Ghiaccio> Protegge un'unità alleata casuale in prima fila con uno <scudo>. Quando l'unità viene attaccata, causa <Rallentamento> per 3 secondi. Lo <Scudo di Ghiaccio> dura 10 secondi. Recupero: 15 secondi. La tecnica viene lanciata all'inizio della battaglia. |
   | **3x** <i class="fas fa-star"/> | ? | CRIT dell'Elementale del ghiaccio aumentato di 200. Effetto raddoppiato contro unità <congelate>. Quando lancia <Scissione gelante>, se l'unità bersaglio è affetta dal debuff alla Rid DAN a 3 stelle esclusivo dell'Elementale della pietra, ne riduce la RES magica di un ulteriore 50%. L'effetto dura 8 secondi. |

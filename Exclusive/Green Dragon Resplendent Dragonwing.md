@@ -2,7 +2,7 @@
 title: "Esclusivo - Ala di drago splendente"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Ala di drago splendente. Ala di drago splendente. Era of Chaos Esclusivo Ala di drago splendente. Drago verde Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Green Dragon Ala di drago splendente.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Gli attacchi del Drago verde causano <Sanguinamento>; le unità colpite subiscono danni pari al 2% dei PF massimi ogni 2 secondi per 3 secondi. |
+  |  Risveglio  | ? | Gli attacchi del Drago verde causano <Sanguinamento>; le unità colpite subiscono danni pari al 2% dei PF massimi ogni 2 secondi per 3 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Drago verde gode di DAN aumentato del 20% e CRIT aumentato di 200. |
   | **2x** <i class="fas fa-star"/> | ? | Quando è protetto da uno <scudo>, la Vel ATT del Drago verde aumenta del 30%. |
   | **3x** <i class="fas fa-star"/> | ? | <Protezione cristallina> La pelle cristallizzata del Drago verde annulla 5 istanze di danno. Dopo aver bloccato il danno per la quinta volta, <Protezione cristallina> svanisce; le unità nemiche circostanti subiscono danni pari al 100% dell'ATT del Drago verde e rimangono <cristallizzate> per 3 secondi. Ottiene <Protezione cristallina> ogni 20 secondi. |

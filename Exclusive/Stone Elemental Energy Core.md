@@ -2,7 +2,7 @@
 title: "Esclusivo - Nucleo di energia"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Nucleo di energia. Nucleo di energia. Era of Chaos Esclusivo Nucleo di energia. Elementale della pietra Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Stone Elemental Nucleo di energia.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Spaccaroccia> Colpisce il terreno infliggendo danni pari al 200% dell'ATT alle unità nemiche in un'ampia area, <respingendole> e <stordendole> per 3 secondi. Recupero: 20 secondi. Attesa iniziale: 10 secondi. |
+  |  Risveglio  | ? | <Spaccaroccia> Colpisce il terreno infliggendo danni pari al 200% dell'ATT alle unità nemiche in un'ampia area, <respingendole> e <stordendole> per 3 secondi. Recupero: 20 secondi. Attesa iniziale: 10 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN dell'Elementale della pietra aumentata del 20%. Effetto raddoppiato quando l'Elementale della pietra viene attaccato da un'unità magica. |
   | **2x** <i class="fas fa-star"/> | ? | <Argilla> Quando un eroe nemico o alleato lancia un incantesimo di tipo Terra, l'Elementale della pietra recupera il 2% dei PF massimi. |
   | **3x** <i class="fas fa-star"/> | ? | <Spaccaroccia> Riduce la Vel ATT delle unità nemiche del 20% per 8 secondi. Se le unità bersaglio sono affette da <Combustione> causata da <Tripletta infuocata>, la loro Rid DAN è ridotta del 15%. L'effetto dura 8 secondi. |

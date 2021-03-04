@@ -2,7 +2,7 @@
 title: "Esclusivo - Lama del sottosuolo"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Lama del sottosuolo. Lama del sottosuolo. Era of Chaos Esclusivo Lama del sottosuolo. Cavaliere nero Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Black Knight Lama del sottosuolo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Il Cavaliere nero riduce del 30% la DIF delle unità nemiche in un'ampia area. Quando affronta unità affette da <Morale basso>, la Perforazione aumenta di 500. |
+  |  Risveglio  | ? | Il Cavaliere nero riduce del 30% la DIF delle unità nemiche in un'ampia area. Quando affronta unità affette da <Morale basso>, la Perforazione aumenta di 500. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN del Cavaliere nero aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | DAN del Cavaliere nero aumentato del 25%. |
   | **3x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, il Cavaliere nero parte alla carica. Durante la carica è immune a ogni danno. Dopo 6 secondi appare di fronte all'unità nemica all'estremità della fila. In mancanza di un bersaglio valido, attacca un'unità casuale nelle retrovie infliggendo un colpo critico (nessun effetto Risveglio, funziona una sola volta per battaglia). |

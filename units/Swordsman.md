@@ -3,7 +3,7 @@ title: "Spadaccino"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Spadaccino"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Scudo dell'Iride](/Exclusive/Swordsman Iris Shield/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada"
 permalink: /Exclusive/Goblin Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Goblin Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Goblin Spada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Spappolamento> Il Goblin infligge danni pari al 300% del proprio ATT all'unità bersaglio ogni 15 secondi, causando <Sanguinamento> per 7 secondi. Se il bersaglio è <affaticato>, la sua DIF viene ridotta del 15% per 5 secondi. |
+  |  Risveglio  | ? | <Spappolamento> Il Goblin infligge danni pari al 300% del proprio ATT all'unità bersaglio ogni 15 secondi, causando <Sanguinamento> per 7 secondi. Se il bersaglio è <affaticato>, la sua DIF viene ridotta del 15% per 5 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Goblin gode di PF aumentati del 20% e Schivata aumentata di 100. |
   | **2x** <i class="fas fa-star"/> | ? | Quando affronta unità con PF inferiori al 70%, il Goblin gode di CRIT aumentato di 150. |
   | **3x** <i class="fas fa-star"/> | ? | <Colpo fulmineo> Se un attacco del Goblin viene schivato, il Goblin infligge danni pari al 100% del proprio ATT all'unità bersaglio e ne riduce la DIF del 4% per 8 secondi. Recupero: 2 secondi. Cumulabile fino a 4 volte. |

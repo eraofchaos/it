@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Segugio infernale Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Hell Hound Carica impetuosa.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | Il Segugio infernale attacca con le sue tre teste, aumentando la propria Vel ATT del 300% ma riducendo il DAN del 20%. |
+  |  Risveglio  | ? | Il Segugio infernale attacca con le sue tre teste, aumentando la propria Vel ATT del 300% ma riducendo il DAN del 20%. |
   | **1x** <i class="fas fa-star"/> | ? | DAN del Segugio infernale aumentato del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Ciascun attacco del Segugio infernale ne aumenta il DAN CRIT del 5% per 3 secondi. Cumulabile fino a 10 volte. |
   | **3x** <i class="fas fa-star"/> | ? | <Morto ma vivo> Quando i PF del Segugio infernale scendono sotto il 66% e il 33% per la prima volta, sacrifica una delle sue teste, rimuovendo ogni effetto di stato e ottenendone immunità e aumentando Schivata di 2000 e Tenacia di 1000 per 5 secondi. |

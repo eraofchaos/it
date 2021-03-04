@@ -3,7 +3,7 @@ title: "Pirati di Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
 unitID: 9901
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Pirati di Regna"
 toc: true
@@ -76,6 +76,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Spada](/Exclusive/Regnan Pirates Sword/) 
+
+ **Is Open:** + 
 
  **Item to Rango ↑:** -
 

@@ -2,7 +2,7 @@
 title: "Esclusivo - Benda"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Benda. Benda. Era of Chaos Esclusivo Benda. Mummia Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Mummy Benda.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | La Mummia applica <Morale basso> a tutte le unità in un'ampia area ogni 8 secondi e riduce del 15% il DAN delle unità nemiche nell'area, oltre a causare <Pestilenza> per 3 secondi. |
+  |  Risveglio  | ? | La Mummia applica <Morale basso> a tutte le unità in un'ampia area ogni 8 secondi e riduce del 15% il DAN delle unità nemiche nell'area, oltre a causare <Pestilenza> per 3 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN della Mummia aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Quando la Mummia è affetta da <Morale basso>, la sua DIF aumenta del 15% per 5 secondi e ripristina l'8% dei PF massimi. Recupero: 15 secondi. |
   | **3x** <i class="fas fa-star"/> | ? | <Mummificazione> La Mummia avvolge le unità da mischia circostanti con le proprie bende, impedendo loro di muoversi, attaccare e lanciare tecniche e riducendone la Rid DAN del 15% per 3 secondi. Recupero: 25 secondi. |

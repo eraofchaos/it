@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Picchiere Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Pikeman Spada.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Affondo della Lancia Sacra> Il Picchiere infligge danni pari al 400% del proprio ATT ogni 15 secondi e riduce la DIF del bersaglio del 4% per 7 secondi. Cumulabile fino a 4 volte. Se l'unità bersaglio è <stordita>, la sua Tenacia viene ridotta di 150 per 6 secondi. |
+  |  Risveglio  | ? | <Affondo della Lancia Sacra> Il Picchiere infligge danni pari al 400% del proprio ATT ogni 15 secondi e riduce la DIF del bersaglio del 4% per 7 secondi. Cumulabile fino a 4 volte. Se l'unità bersaglio è <stordita>, la sua Tenacia viene ridotta di 150 per 6 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Vel ATT del Picchiere aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | Tenacia del Picchiere aumentata di 150. |
   | **3x** <i class="fas fa-star"/> | ? | <Assalto fanatico> Attiva nuovamente <Affondo della Lancia Sacra> se il Picchiere gode di <Morale alto>. |

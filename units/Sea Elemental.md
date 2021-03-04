@@ -3,7 +3,7 @@ title: "Elementale del mare"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Elementale del mare"
 toc: true
@@ -77,6 +77,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Cantico arcano](/Exclusive/Sea Elemental Arcane Chant/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

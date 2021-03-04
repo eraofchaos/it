@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Vampiro"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Carica impetuosa](/Exclusive/Vampire Knight Pike/) 
+
+ **Is Open:** - 
 
  **Item to Rango ↑:** -
 

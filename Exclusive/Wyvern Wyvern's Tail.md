@@ -2,7 +2,7 @@
 title: "Esclusivo - Coda di Viverna"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Coda di Viverna. Coda di Viverna. Era of Chaos Esclusivo Coda di Viverna. Viverna Esclusivo."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Wyvern Coda di Viverna.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto esclusivo |
   |:-------------|:---------------:|:---------------:|
-  |  Initial  | ? | <Anima impestata> Ogni volta che una Viverna viene sconfitta, le unità Fortezza alleate godono di DAN e Rid DAN aumentati dell'1%. Cumulabile fino a 15 volte. L'effetto dura fino al termine della battaglia. |
+  |  Risveglio  | ? | <Anima impestata> Ogni volta che una Viverna viene sconfitta, le unità Fortezza alleate godono di DAN e Rid DAN aumentati dell'1%. Cumulabile fino a 15 volte. L'effetto dura fino al termine della battaglia. |
   | **1x** <i class="fas fa-star"/> | ? | Vel ATT della Viverna aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | DAN della Viverna aumentato del 20%. |
   | **3x** <i class="fas fa-star"/> | ? | <Cuore impestato> Ogni volta che una Viverna entra in battaglia, le unità Fortezza alleate godono di Perforazione aumentata di 20 e DAN CRIT aumentato del 2%. Cumulabile fino a 15 volte. L'effetto dura fino al termine della battaglia. La Viverna evoca 1 Viverna ogni 15 secondi. Le Viverne evocate utilizzano le tecniche <Anima impestata> e <Cuore impestato>. |

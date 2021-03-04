@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-04
 locale: it
 ref: "Demone"
 toc: true
@@ -78,6 +78,8 @@ toc: true
 ## Esclusivo
 
  **Name:** [Scudo dell'Iride](/Exclusive/Demon Iris Shield/) 
+
+ **Is Open:** + 
 
  **Item to Rango ↑:** -
 
