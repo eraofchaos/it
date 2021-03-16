@@ -3,12 +3,12 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack un tempo era uno sconosciuto eroe di Enroth che aveva deciso di fare vela per l'Erathia. Lì ha trovato una terra devastata dalla guerra, luogo ideale per mettere a frutto le sue abilità."
 heroID: 60602
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: it
 ref: "Crag Hack"
 toc: true
 ---
- **Descrizione:** Crag Hack un tempo era uno sconosciuto eroe di Enroth che aveva deciso di fare vela per l'Erathia. Lì ha trovato una terra devastata dalla guerra, luogo ideale per mettere a frutto le sue abilità.
+ **Description:** Crag Hack un tempo era uno sconosciuto eroe di Enroth che aveva deciso di fare vela per l'Erathia. Lì ha trovato una terra devastata dalla guerra, luogo ideale per mettere a frutto le sue abilità.
 ## Details
  **Profession:** Barbaro
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia della Terra
- **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> danni da Terra alle unità nemiche nell'area d'effetto e le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 3 secondi.
+ **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> danni da Terra alle unità nemiche nell'area d'effetto e le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 3 secondi.
 
 ### 2 Spell: Sabbie mobili
- **Descrizione:** Evoca Sabbie mobili nell'area bersaglio, che infliggono danni a tutte le unità pari al 2% dei loro PF massimi al secondo (le unità nemiche subiscono danni doppi). Riduce la Rid DAN delle unità nemiche (<span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) per {($olast11+$olast12)/1000} sec.
+ **Description:** Evoca Sabbie mobili nell'area bersaglio, che infliggono danni a tutte le unità pari al 2% dei loro PF massimi al secondo (le unità nemiche subiscono danni doppi). Riduce la Rid DAN delle unità nemiche (<span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) per {($olast11+$olast12)/1000} sec.
 
 ### 3 Spell: Assassinio
- **Descrizione:** Aumenta l'ATT (<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) delle unità alleate in un'ampia area per {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s. Per le unità da 9 membri, la durata è aumentata di altri 5 secondi.
+ **Description:** Aumenta l'ATT (<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) delle unità alleate in un'ampia area per {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s. Per le unità da 9 membri, la durata è aumentata di altri 5 secondi.
 
 ### 4 Spell: Brama omicida
- **Descrizione:** Aumenta ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) e assorbimento ({($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) di tutte le unità corpo a corpo alleate per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
+ **Description:** Aumenta ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) e assorbimento ({($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) di tutte le unità corpo a corpo alleate per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
 
 
 ## HERO Biography
@@ -54,12 +54,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Descrizione:** <span style="color: #ffffff;font-size:20px">Gloria a chi cade in battaglia; non esiste migliore ricompensa del combattimento.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Gloria a chi cade in battaglia; non esiste migliore ricompensa del combattimento.</span>
 
 
 ### Skin 2: **Duca dorato**
 
- **Descrizione:** <span style="color: #ffffff;font-size:20px">Dopo aver saccheggiato le miniere dell'Erathia, Crag Hack divenne Signore di Krewlod. Negli anni, la sua brama d'oro non si è mai placata e l'ha portato a dichiarare guerra a innumerevoli avversari. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Dopo aver saccheggiato le miniere dell'Erathia, Crag Hack divenne Signore di Krewlod. Negli anni, la sua brama d'oro non si è mai placata e l'ha portato a dichiarare guerra a innumerevoli avversari. </span>
 
  **Skin features:** 
 
@@ -69,7 +69,7 @@ toc: true
 
 ### Skin 3: **Canto di Natale**
 
- **Descrizione:** <span style="color: #ffffff;font-size:20px">La violenza non è mai una vera soluzione. Una celebrazione, invece, è sempre bene accetta.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">La violenza non è mai una vera soluzione. Una celebrazione, invece, è sempre bene accetta.</span>
 
  **Skin features:** 
 

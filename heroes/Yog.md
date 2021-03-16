@@ -3,12 +3,12 @@ title: "Yog"
 permalink: /heroes/Yog/
 excerpt: "Era of Chaos Yog. Yog. Yog ha passato molti anni a studiare presso i maghi di Bracada, prediligendo però le strategie militari allo studio delle rune. Notato personalmente dal Duca Krewlod, è presto diventato un potente generale dell'esercito dei barbari."
 heroID: 60604
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: it
 ref: "Yog"
 toc: true
 ---
- **Descrizione:** Yog ha passato molti anni a studiare presso i maghi di Bracada, prediligendo però le strategie militari allo studio delle rune. Notato personalmente dal Duca Krewlod, è presto diventato un potente generale dell'esercito dei barbari.
+ **Description:** Yog ha passato molti anni a studiare presso i maghi di Bracada, prediligendo però le strategie militari allo studio delle rune. Notato personalmente dal Duca Krewlod, è presto diventato un potente generale dell'esercito dei barbari.
 ## Details
  **Profession:** Barbaro
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia del Fuoco
- **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
+ **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
 ### 2 Spell: Sabbie mobili
- **Descrizione:** Evoca Sabbie mobili nell'area bersaglio, che infliggono danni a tutte le unità pari al 2% dei loro PF massimi al secondo (le unità nemiche subiscono danni doppi). Riduce la Rid DAN delle unità nemiche (<span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) per {($olast11+$olast12)/1000} sec.
+ **Description:** Evoca Sabbie mobili nell'area bersaglio, che infliggono danni a tutte le unità pari al 2% dei loro PF massimi al secondo (le unità nemiche subiscono danni doppi). Riduce la Rid DAN delle unità nemiche (<span style="color: #48b946;font-size:20px">{-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) per {($olast11+$olast12)/1000} sec.
 
 ### 3 Spell: Precisione
- **Descrizione:** Aumenta del 100% CRIT e MIRA delle unità alleate per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
+ **Description:** Aumenta del 100% CRIT e MIRA delle unità alleate per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
 
 ### 4 Spell: Inversione energetica
- **Descrizione:** I danni magici curano le unità alleate anziché danneggiarle; gli effetti di guarigione degli eroi nemici danneggiano le unità nemiche anziché curarle. Durata: {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
+ **Description:** I danni magici curano le unità alleate anziché danneggiarle; gli effetti di guarigione degli eroi nemici danneggiano le unità nemiche anziché curarle. Durata: {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
 
 ## HERO Biography
@@ -56,12 +56,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Descrizione:** <span style="color: #ffffff;font-size:20px">Forza e magia, sangue e gloria! </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Forza e magia, sangue e gloria! </span>
 
 
 ### Skin 2: **Mago guerriero**
 
- **Descrizione:** <span style="color: #ffffff;font-size:20px">Mai sottovalutare il potere della fratellanza.</span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Mai sottovalutare il potere della fratellanza.</span>
 
  **Skin features:** 
 

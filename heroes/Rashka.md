@@ -3,12 +3,12 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka usa il terrore per guidare le proprie truppe alla vittoria. Finora questa tattica si è rivelata straordinariamente efficace."
 heroID: 60802
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-16
 locale: it
 ref: "Rashka"
 toc: true
 ---
- **Descrizione:** Rashka usa il terrore per guidare le proprie truppe alla vittoria. Finora questa tattica si è rivelata straordinariamente efficace.
+ **Description:** Rashka usa il terrore per guidare le proprie truppe alla vittoria. Finora questa tattica si è rivelata straordinariamente efficace.
 ## Details
  **Profession:** Demoniaco
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia del Fuoco
- **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
+ **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
 ### 2 Spell: Maledizione
- **Descrizione:** Riduce l'ATT delle unità bersaglio in un'ampia area <span style="color: #48b946;font-size:20px">({-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s.
+ **Description:** Riduce l'ATT delle unità bersaglio in un'ampia area <span style="color: #48b946;font-size:20px">({-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s.
 
 ### 3 Spell: Sete di sangue
- **Descrizione:** Aumenta ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) e assorbimento ({($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) delle unità alleate in un'ampia area per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Description:** Aumenta ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) e assorbimento ({($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) delle unità alleate in un'ampia area per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 4 Spell: Fiamma infernale
- **Descrizione:** Evoca una Spaccatura infernale che infligge <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>danni da Fuoco alle unità circostanti ogni 0,5 secondi per {$olast11/1000} sec. Le unità Inferno subiscono danni dimezzati.
+ **Description:** Evoca una Spaccatura infernale che infligge <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>danni da Fuoco alle unità circostanti ogni 0,5 secondi per {$olast11/1000} sec. Le unità Inferno subiscono danni dimezzati.
 
 
 ## HERO Biography
@@ -56,7 +56,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Descrizione:** <span style="color: #ffffff;font-size:20px">Queste fiamme mi hanno spianato la strada verso la vittoria. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Queste fiamme mi hanno spianato la strada verso la vittoria. </span>
 
  **Skin features:** 
 
@@ -66,7 +66,7 @@ toc: true
 
 ### Skin 2: **Tiranno della Cenere**
 
- **Descrizione:** <span style="color: #ffffff;font-size:20px">Rashka dominava con pugno di ferro la Landa delle Ceneri, il nome che aveva dato all'Erathia dopo la conquista. </span>
+ **Description:** <span style="color: #ffffff;font-size:20px">Rashka dominava con pugno di ferro la Landa delle Ceneri, il nome che aveva dato all'Erathia dopo la conquista. </span>
 
  **Skin features:** 
 
