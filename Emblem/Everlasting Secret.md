@@ -2,7 +2,7 @@
 title: "Emblema sacro - Segreto eterno"
 permalink: /Emblem/Everlasting Secret/
 excerpt: "Era of Chaos Segreto eterno. Segreto eterno. Era of Chaos Emblema sacro Segreto eterno. Era of Chaos Ordine Segreto eterno"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: it
 ref: "Everlasting Secret.md"
 toc: false
@@ -11,14 +11,14 @@ classes: wide
 
  **Name:** Segreto eterno
 
- **Type:** [Ordine](/Emblem/Type Order/)
+ **Type:** [Ordine](/it/Emblem/Type Order/)
 
-  [Ordine](/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Segreto eterno](/Emblem/Everlasting Secret/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vel ATT +1%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta di 2 il livello di tutte le tecniche delle unità schierate</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vel ATT +2%, DIF Emblema sacro +55</span> | 
-  | [Segreto eterno](/Emblem/Everlasting Secret/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vel ATT +0,5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta di 1 il livello di tutte le tecniche delle unità schierate</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vel ATT +1,5%, DIF Emblema sacro +30</span> | 
+  | [Segreto eterno](/it/Emblem/Everlasting Secret/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vel ATT +1%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta di 2 il livello di tutte le tecniche delle unità schierate</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vel ATT +2%, DIF Emblema sacro +55</span> | 
+  | [Segreto eterno](/it/Emblem/Everlasting Secret/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vel ATT +0,5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta di 1 il livello di tutte le tecniche delle unità schierate</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vel ATT +1,5%, DIF Emblema sacro +30</span> | 
 
   |         Descrizione            | 
   |:-------------------------------|

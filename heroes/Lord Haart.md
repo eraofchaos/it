@@ -3,12 +3,12 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart, il generale tornato dalla morte. Alla testa del suo esercito di non morti, detiene un potere ancora più formidabile di quello che aveva in vita."
 heroID: 60401
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: it
 ref: "Lord Haart"
 toc: true
 ---
- **Description:** Lord Haart, il generale tornato dalla morte. Alla testa del suo esercito di non morti, detiene un potere ancora più formidabile di quello che aveva in vita.
+ **Descrizione:** Lord Haart, il generale tornato dalla morte. Alla testa del suo esercito di non morti, detiene un potere ancora più formidabile di quello che aveva in vita.
 ## Details
  **Profession:** Cavaliere della Morte
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia dell'Aria
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria alle unità nemiche nell'area d'effetto e ne riduce la MIRA del 30% per 8 sec.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria alle unità nemiche nell'area d'effetto e ne riduce la MIRA del 30% per 8 sec.
 
 ### 2 Spell: Rimpianto
- **Description:** Applica <span style="color: #e07c44;font-size:20px">Morale basso</span><span style="color: black"> alle unità non Necropoli nemiche in un'ampia area, riducendone la Vel ATT ({-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>%,) per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
+ **Descrizione:** Applica <span style="color: #e07c44;font-size:20px">Morale basso</span><span style="color: black"> alle unità non Necropoli nemiche in un'ampia area, riducendone la Vel ATT ({-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+$a135+$a136)>%,) per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
 ### 3 Spell: Onde della morte
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> danni da Terra a tutte le unità (le unità Necropoli sono immuni). Infligge il 50% di danni in più alle unità affette da Morale basso.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> danni da Terra a tutte le unità (le unità Necropoli sono immuni). Infligge il 50% di danni in più alle unità affette da Morale basso.
 
 ### 4 Spell: Licenza di uccidere
- **Description:** Ordina ai Cavalieri della Morte di infliggere un <span style="color: #48b946;font-size:20px">Attacco critico</span><span style="color: black">. Il danno inflitto è aumentato del 20%. Riduce la DIF del bersaglio di {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
+ **Descrizione:** Ordina ai Cavalieri della Morte di infliggere un <span style="color: #48b946;font-size:20px">Attacco critico</span><span style="color: black">. Il danno inflitto è aumentato del 20%. Riduce la DIF del bersaglio di {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
 
 ## HERO Biography
@@ -51,7 +51,7 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Description:** <span style="color: #ffffff;font-size:20px">La vita è una maledizione! La morte, una benedizione che non puoi capire. </span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">La vita è una maledizione! La morte, una benedizione che non puoi capire. </span>
 
  **Skin features:** 
 
@@ -61,7 +61,7 @@ toc: true
 
 ### Skin 2: **La morte di Deyja**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Chi cerca la verità non teme l'abbraccio della morte!</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Chi cerca la verità non teme l'abbraccio della morte!</span>
 
  **Skin features:** 
 

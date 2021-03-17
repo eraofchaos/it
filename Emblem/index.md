@@ -2,7 +2,7 @@
 title: "Emblema sacro"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Equipaggia gli Emblemi sacri per potenziare notevolmente le tue unità. Le combinazioni di fazione e qualità dei diversi Emblemi sacri sono numerosissime. I set di Emblemi sacri aumentano ulteriormente gli attributi delle unità."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: it
 ref: "index.md"
 toc: false
@@ -13,41 +13,41 @@ classes: wide
 
 ## Emblema sacro (by type):
 
-  [Ordine](/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
 ## Emblema sacro (by name):
 
   |  Nr  |             Name            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
-  | 1 | [Segno infausto](/Emblem/Ominous Sign/) | Malvagio | Adatto a qualsiasi unità | 
-  | 2 | [Principi legali dei successori](/Emblem/Successors' Legal Principles/) | Neutrale | Consigliato per le unità di difesa | 
-  | 3 | [Lussuria](/Emblem/Lust/) | Caos | Consigliato per le unità di difesa | 
-  | 4 | [Luce nell'oscurità](/Emblem/Darkness Enlightenment/) | Malvagio | Consigliato per le unità da 4, 9 o 16 membri | 
-  | 5 | [Simbolo di Aksoe](/Emblem/Aksoe Token/) | Neutrale | Consigliato per le unità che causano <Rallentamento> | 
-  | 6 | [Superbia](/Emblem/Arrogance/) | Caos | Consigliato per le unità DPS | 
-  | 7 | [Santuario di Cosmos](/Emblem/Sanctuary of Kosmos/) | Ordine | Consigliato per le unità di difesa | 
-  | 8 | [Autonimo dimenticato](/Emblem/Forgotten Autonym/) | Malvagio | Adatto a qualsiasi unità | 
-  | 9 | [Colpevolezza di Tarnum](/Emblem/Tarnum's Culpability/) | Neutrale | Adatto a qualsiasi unità | 
-  | 10 | [Avarizia](/Emblem/Greed/) | Caos | Consigliato per le unità di difesa | 
-  | 11 | [Bened. della Regina](/Emblem/Queen's Blessing/) | Ordine | Consigliato per le unità di difesa | 
-  | 12 | [Profeta verde](/Emblem/Green Prophet/) | Bontà | Adatto a qualsiasi unità | 
-  | 13 | [Profezia infranta](/Emblem/Broken Prophecy/) | Malvagio | Consigliato per le unità da 9 membri | 
-  | 14 | [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) | Ordine | Consigliato per le unità DPS | 
-  | 15 | [Muro della Sapienza](/Emblem/Wall of Knowledge/) | Bontà | Adatto a qualsiasi unità | 
-  | 16 | [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) | Neutrale | Consigliato per le unità che causano <Stordimento> | 
-  | 17 | [Fuoco antico](/Emblem/Ancient Fire/) | Ordine | Adatto a qualsiasi unità | 
-  | 18 | [Il sentiero dell'Assassino](/Emblem/Path of an Assassin/) | Neutrale | Consigliato per le unità DPS | 
-  | 19 | [Soffio del Re dei Draghi](/Emblem/Dragon King's Breath/) | Malvagio | Consigliato per le unità di difesa | 
-  | 20 | [Meccanismo temporale](/Emblem/Gear of Time/) | Bontà | Consigliato per le unità di difesa | 
-  | 21 | [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) | Neutrale | Consigliato per le unità che causano <Sanguinamento> | 
-  | 22 | [Invidia](/Emblem/Jealousy/) | Caos | Consigliato per le unità DPS | 
-  | 23 | [Segreto eterno](/Emblem/Everlasting Secret/) | Ordine | Adatto a qualsiasi unità | 
-  | 24 | [Angelo custode](/Emblem/Guardian Angel/) | Bontà | Consigliato per le unità DPS | 
-  | 25 | [Calamità del Re](/Emblem/King's Calamity/) | Malvagio | Consigliato per le unità che causano <Combustione> | 
-  | 26 | [Nucleo della Rete Globale](/Emblem/Core of the Global Network/) | Neutrale | Adatto a qualsiasi unità | 
-  | 27 | [Ira](/Emblem/Anger/) | Caos | Adatto a qualsiasi unità | 
-  | 28 | [Ali di Grifone](/Emblem/Griffin Wings/) | Ordine | Consigliato per le unità DPS | 
-  | 29 | [Testimonianza](/Emblem/Witness/) | Bontà | Consigliato per le unità DPS | 
+  | 1 | [Segno infausto](/it/Emblem/Ominous Sign/) | Malvagio | Adatto a qualsiasi unità | 
+  | 2 | [Principi legali dei successori](/it/Emblem/Successors' Legal Principles/) | Neutrale | Consigliato per le unità di difesa | 
+  | 3 | [Lussuria](/it/Emblem/Lust/) | Caos | Consigliato per le unità di difesa | 
+  | 4 | [Luce nell'oscurità](/it/Emblem/Darkness Enlightenment/) | Malvagio | Consigliato per le unità da 4, 9 o 16 membri | 
+  | 5 | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) | Neutrale | Consigliato per le unità che causano <Rallentamento> | 
+  | 6 | [Superbia](/it/Emblem/Arrogance/) | Caos | Consigliato per le unità DPS | 
+  | 7 | [Santuario di Cosmos](/it/Emblem/Sanctuary of Kosmos/) | Ordine | Consigliato per le unità di difesa | 
+  | 8 | [Autonimo dimenticato](/it/Emblem/Forgotten Autonym/) | Malvagio | Adatto a qualsiasi unità | 
+  | 9 | [Colpevolezza di Tarnum](/it/Emblem/Tarnum's Culpability/) | Neutrale | Adatto a qualsiasi unità | 
+  | 10 | [Avarizia](/it/Emblem/Greed/) | Caos | Consigliato per le unità di difesa | 
+  | 11 | [Bened. della Regina](/it/Emblem/Queen's Blessing/) | Ordine | Consigliato per le unità di difesa | 
+  | 12 | [Profeta verde](/it/Emblem/Green Prophet/) | Bontà | Adatto a qualsiasi unità | 
+  | 13 | [Profezia infranta](/it/Emblem/Broken Prophecy/) | Malvagio | Consigliato per le unità da 9 membri | 
+  | 14 | [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) | Ordine | Consigliato per le unità DPS | 
+  | 15 | [Muro della Sapienza](/it/Emblem/Wall of Knowledge/) | Bontà | Adatto a qualsiasi unità | 
+  | 16 | [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) | Neutrale | Consigliato per le unità che causano <Stordimento> | 
+  | 17 | [Fuoco antico](/it/Emblem/Ancient Fire/) | Ordine | Adatto a qualsiasi unità | 
+  | 18 | [Il sentiero dell'Assassino](/it/Emblem/Path of an Assassin/) | Neutrale | Consigliato per le unità DPS | 
+  | 19 | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) | Malvagio | Consigliato per le unità di difesa | 
+  | 20 | [Meccanismo temporale](/it/Emblem/Gear of Time/) | Bontà | Consigliato per le unità di difesa | 
+  | 21 | [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) | Neutrale | Consigliato per le unità che causano <Sanguinamento> | 
+  | 22 | [Invidia](/it/Emblem/Jealousy/) | Caos | Consigliato per le unità DPS | 
+  | 23 | [Segreto eterno](/it/Emblem/Everlasting Secret/) | Ordine | Adatto a qualsiasi unità | 
+  | 24 | [Angelo custode](/it/Emblem/Guardian Angel/) | Bontà | Consigliato per le unità DPS | 
+  | 25 | [Calamità del Re](/it/Emblem/King's Calamity/) | Malvagio | Consigliato per le unità che causano <Combustione> | 
+  | 26 | [Nucleo della Rete Globale](/it/Emblem/Core of the Global Network/) | Neutrale | Adatto a qualsiasi unità | 
+  | 27 | [Ira](/it/Emblem/Anger/) | Caos | Adatto a qualsiasi unità | 
+  | 28 | [Ali di Grifone](/it/Emblem/Griffin Wings/) | Ordine | Consigliato per le unità DPS | 
+  | 29 | [Testimonianza](/it/Emblem/Witness/) | Bontà | Consigliato per le unità DPS | 
 
 ## Regole
 

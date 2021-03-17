@@ -3,12 +3,12 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Quando Lucifer Kreegan uccise Xenofex per prendere il potere, Xeron fu il primo a giurare fedeltà all'usurpatore. Questo gli fece guadagnare immediatamente il favore del nuovo Re."
 heroID: 60801
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: it
 ref: "Xeron"
 toc: true
 ---
- **Description:** Quando Lucifer Kreegan uccise Xenofex per prendere il potere, Xeron fu il primo a giurare fedeltà all'usurpatore. Questo gli fece guadagnare immediatamente il favore del nuovo Re.
+ **Descrizione:** Quando Lucifer Kreegan uccise Xenofex per prendere il potere, Xeron fu il primo a giurare fedeltà all'usurpatore. Questo gli fece guadagnare immediatamente il favore del nuovo Re.
 ## Details
  **Profession:** Demoniaco
 
@@ -34,16 +34,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia del Fuoco
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
 ### 2 Spell: Palla di fuoco
- **Description:** Scaglia ininterrottamente palle di fuoco nell'area bersaglio, infliggendo danni da Fuoco 6 volte (fino a un totale di <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*6}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>) alle unità nemiche nell'area d'effetto e causando <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> per 8 secondi.
+ **Descrizione:** Scaglia ininterrottamente palle di fuoco nell'area bersaglio, infliggendo danni da Fuoco 6 volte (fino a un totale di <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*6}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*6+($valueadd11+$valueadd12*($sklevel-1))*6*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>) alle unità nemiche nell'area d'effetto e causando <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> per 8 secondi.
 
 ### 3 Spell: Assassinio
- **Description:** Aumenta l'ATT (<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) delle unità alleate in un'ampia area per {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s. Per le unità da 9 membri, la durata è aumentata di altri 5 secondi.
+ **Descrizione:** Aumenta l'ATT (<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) delle unità alleate in un'ampia area per {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s. Per le unità da 9 membri, la durata è aumentata di altri 5 secondi.
 
 ### 4 Spell: Eco dell'abisso
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> danni da Fuoco alle unità nemiche nell'area d'effetto ed evoca 1 Diavolo di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">, che ha <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> ATT ed è immune a tutti i danni. Il Diavolo rimane in campo per 10 secondi.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> danni da Fuoco alle unità nemiche nell'area d'effetto ed evoca 1 Diavolo di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">, che ha <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> ATT ed è immune a tutti i danni. Il Diavolo rimane in campo per 10 secondi.
 
 
 ## HERO Biography
@@ -51,12 +51,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Cancellerò questo regno riprovevole dalla faccia della Terra. Tutte le sue creature verranno giudicate con fuoco e zolfo!</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Cancellerò questo regno riprovevole dalla faccia della Terra. Tutte le sue creature verranno giudicate con fuoco e zolfo!</span>
 
 
 ### Skin 2: **Sagra della Primavera**
 
- **Description:** <span style="color: #ffffff;font-size:20px">L'arrivo della primavera annuncia l'inizio di un nuovo, felice anno. I fuochi artificiali celebrano il cambio della stagione.</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">L'arrivo della primavera annuncia l'inizio di un nuovo, felice anno. I fuochi artificiali celebrano il cambio della stagione.</span>
 
  **Skin features:** 
 

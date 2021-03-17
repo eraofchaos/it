@@ -3,12 +3,12 @@ title: "Mutare (drago)"
 permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Mutare (drago). Mutare (drago). Dopo aver bevuto dalla Fiala del Sangue di drago, Mutare si è trasformata in un Drago dotato di coscienza umana. Alcuni ipotizzano che tale trasformazione sia un presagio della venuta del Padre dei Draghi."
 heroID: 61302
-last_modified_at: 2021-03-16
+last_modified_at: 2021-03-17
 locale: it
 ref: "Dragon Mutare"
 toc: true
 ---
- **Description:** Dopo aver bevuto dalla Fiala del Sangue di drago, Mutare si è trasformata in un Drago dotato di coscienza umana. Alcuni ipotizzano che tale trasformazione sia un presagio della venuta del Padre dei Draghi.
+ **Descrizione:** Dopo aver bevuto dalla Fiala del Sangue di drago, Mutare si è trasformata in un Drago dotato di coscienza umana. Alcuni ipotizzano che tale trasformazione sia un presagio della venuta del Padre dei Draghi.
 ## Details
  **Profession:** Signore Supremo
 
@@ -32,16 +32,16 @@ toc: true
 
 ## Spells
 ### 1 Spell: Freccia del Fuoco
- **Description:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
+ **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> alle unità nemiche nell'area bersaglio per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
 ### 2 Spell: Maledizione
- **Description:** Riduce l'ATT delle unità bersaglio in un'ampia area <span style="color: #48b946;font-size:20px">({-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s.
+ **Descrizione:** Riduce l'ATT delle unità bersaglio in un'ampia area <span style="color: #48b946;font-size:20px">({-($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"><($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s.
 
 ### 3 Spell: Assassinio
- **Description:** Aumenta l'ATT (<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) delle unità alleate in un'ampia area per {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s. Per le unità da 9 membri, la durata è aumentata di altri 5 secondi.
+ **Descrizione:** Aumenta l'ATT (<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)><span style="color: #48b946;font-size:20px">%</span><span style="color: black">) delle unità alleate in un'ampia area per {($bufflast11+$bufflast12*($sklevel-1))/1000}<($bufflast11+$bufflast12*($sklevel-1))/1000*$talent4+$talent3> s. Per le unità da 9 membri, la durata è aumentata di altri 5 secondi.
 
 ### 4 Spell: Ruggito di drago
- **Description:** Causa <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black"> a tutte le unità nemiche e infligge danni pari a <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> dei loro PF massimi ogni 2 secondi per 16 secondi; inoltre, le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 6 secondi. Alcune unità possono diventare immuni al danno da <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black">; le unità affette da <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black"> hanno guarigione ridotta.
+ **Descrizione:** Causa <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black"> a tutte le unità nemiche e infligge danni pari a <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> dei loro PF massimi ogni 2 secondi per 16 secondi; inoltre, le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 6 secondi. Alcune unità possono diventare immuni al danno da <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black">; le unità affette da <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black"> hanno guarigione ridotta.
 
 
 ## HERO Biography
@@ -49,12 +49,12 @@ toc: true
 ## HERO Skins
 ### Skin 1: **Classica**
 
- **Description:** <span style="color: #ffffff;font-size:20px">In questo mondo spietato, vige la legge del più forte. Per Nighon, l'unica strada è quella della guerra eterna.</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">In questo mondo spietato, vige la legge del più forte. Per Nighon, l'unica strada è quella della guerra eterna.</span>
 
 
 ### Skin 2: **Drago incantato**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Il cielo è suddiviso in varie costellazioni. I loro movimenti decidono della sorte di tutte le creature viventi. Quando le stelle saranno di nuovo allineate, le luci del Dragone domineranno i cieli.</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Il cielo è suddiviso in varie costellazioni. I loro movimenti decidono della sorte di tutte le creature viventi. Quando le stelle saranno di nuovo allineate, le luci del Dragone domineranno i cieli.</span>
 
  **Skin features:** 
 
@@ -64,7 +64,7 @@ toc: true
 
 ### Skin 3: **Elfo di Natale**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Elfi di Natale che danzano in un tripudio di fiocchi di neve... e doni. Mutare, che ha bevuto sangue di drago ma non ha ancora completato la trasformazione, sta celebrando il Natale!</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Elfi di Natale che danzano in un tripudio di fiocchi di neve... e doni. Mutare, che ha bevuto sangue di drago ma non ha ancora completato la trasformazione, sta celebrando il Natale!</span>
 
  **Skin features:** 
 
@@ -74,7 +74,7 @@ toc: true
 
 ### Skin 4: **Signora del Gelo**
 
- **Description:** <span style="color: #ffffff;font-size:20px">Al mio comando, soffiano i venti e si abbattono le tormente. La mia fronte è cinta di brina, giacché sono l'unica dominatrice delle terre ghiacciate!</span>
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Al mio comando, soffiano i venti e si abbattono le tormente. La mia fronte è cinta di brina, giacché sono l'unica dominatrice delle terre ghiacciate!</span>
 
  **Skin features:** 
 

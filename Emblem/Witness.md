@@ -2,7 +2,7 @@
 title: "Emblema sacro - Testimonianza"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Testimonianza. Testimonianza. Era of Chaos Emblema sacro Testimonianza. Era of Chaos Bontà Testimonianza"
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-17
 locale: it
 ref: "Witness.md"
 toc: false
@@ -11,16 +11,16 @@ classes: wide
 
  **Name:** Testimonianza
 
- **Type:** [Bontà](/Emblem/Type Goodness/)
+ **Type:** [Bontà](/it/Emblem/Type Goodness/)
 
-  [Ordine](/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/Emblem/Type Evil/){: .btn .btn--primary} 
+  [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
   |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
-  | [Testimonianza](/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +20, PF +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la Vel ATT delle unità schierate del 5%. Quando le unità schierate uccidono un bersaglio: Vel ATT +15% per tutta la battaglia.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +55, PF +20%</span> | 
-  | [Testimonianza](/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +13, PF +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la Vel ATT delle unità schierate del 4%. Quando le unità schierate uccidono un bersaglio: Vel ATT +10% per tutta la battaglia.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +30, PF +15%</span> | 
-  | [Testimonianza](/Emblem/Witness/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +6, PF +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la Vel ATT delle unità schierate del 2%. Quando le unità schierate uccidono un bersaglio: Vel ATT +5% per tutta la battaglia.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +16, PF +7%</span> | 
-  | [Testimonianza](/Emblem/Witness/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +2, PF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la Vel ATT delle unità schierate dell'1%. Quando le unità schierate uccidono un bersaglio: Vel ATT +2,5% per tutta la battaglia.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +6, PF +2%</span> | 
+  | [Testimonianza](/it/Emblem/Witness/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +20, PF +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la Vel ATT delle unità schierate del 5%. Quando le unità schierate uccidono un bersaglio: Vel ATT +15% per tutta la battaglia.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +55, PF +20%</span> | 
+  | [Testimonianza](/it/Emblem/Witness/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +13, PF +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la Vel ATT delle unità schierate del 4%. Quando le unità schierate uccidono un bersaglio: Vel ATT +10% per tutta la battaglia.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +30, PF +15%</span> | 
+  | [Testimonianza](/it/Emblem/Witness/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +6, PF +3%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la Vel ATT delle unità schierate del 2%. Quando le unità schierate uccidono un bersaglio: Vel ATT +5% per tutta la battaglia.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +16, PF +7%</span> | 
+  | [Testimonianza](/it/Emblem/Witness/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +2, PF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta la Vel ATT delle unità schierate dell'1%. Quando le unità schierate uccidono un bersaglio: Vel ATT +2,5% per tutta la battaglia.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +6, PF +2%</span> | 
 
   |         Descrizione            | 
   |:-------------------------------|
