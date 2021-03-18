@@ -3,7 +3,7 @@ title: "Elementale tempesta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Elementale tempesta"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/it/units/Faction Conflux/)
 
  **Race:** Domatore
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Short description:** Marchia un bersaglio per infliggere danni elevati.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fulmine globulare scintillante](/equipment/Fulmine globulare scintillante/) | **ATT** | **DIF** | 
-  | [Nucleo di tuono](/equipment/Nucleo di tuono/) | **PF** | **DIF** | 
-  | [Artiglio magico](/equipment/Artiglio magico/) | **ATT** | **DIF** | 
-  | [Occhio del fulmine](/equipment/Occhio del fulmine/) | **PF** | **DIF** | 
+  | [Fulmine globulare scintillante](/it/equipment/Fulmine globulare scintillante/) | **ATT** | **DIF** | 
+  | [Nucleo di tuono](/it/equipment/Nucleo di tuono/) | **PF** | **DIF** | 
+  | [Artiglio magico](/it/equipment/Artiglio magico/) | **ATT** | **DIF** | 
+  | [Occhio del fulmine](/it/equipment/Occhio del fulmine/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/Exclusive/Storm Elemental Long Bow/) 
+ **Name:** [Arco lungo](/it/Exclusive/Storm Elemental Long Bow/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Confluenza**  (Roster Confluenza)
 * **A distanza**  (Roster unità a distanza)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Monaco"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Umano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Preghiera: cura l'unità con la percentuale di PF minore.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sfera della Divinità](/equipment/Sfera della Divinità/) | **ATT** | **DIF** | 
-  | [Cappello da mistico](/equipment/Cappello da mistico/) | **PF** | **DIF** | 
-  | [Runa del Rituale](/equipment/Runa del Rituale/) | **ATT** | **DIF** | 
-  | [Armatura leggera base](/equipment/Armatura leggera base/) | **PF** | **DIF** | 
+  | [Sfera della Divinità](/it/equipment/Sfera della Divinità/) | **ATT** | **DIF** | 
+  | [Cappello da mistico](/it/equipment/Cappello da mistico/) | **PF** | **DIF** | 
+  | [Runa del Rituale](/it/equipment/Runa del Rituale/) | **ATT** | **DIF** | 
+  | [Armatura leggera base](/it/equipment/Armatura leggera base/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/Exclusive/Monk Arcane Chant/) 
+ **Name:** [Cantico arcano](/it/Exclusive/Monk Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -89,8 +89,8 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -154,19 +154,14 @@ toc: true
 ## Connessione
 ### Connessione roster
 
-* **Castello**  (Roster Castello)
-* **Incantatore**  (Roster incantatori)
 
 ### Bonus eroe
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
-* Attacco
-* PF
-* Guarigione
-* Resistenza magica
+* ?!? 
 
 
 ## Awaking
@@ -185,26 +180,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Fanatico nei livelli del Sottosuolo 13-2 e 13-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Schiera un Monaco e vinci </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #3c2a1e;font-size:18px"> battaglie nell'Arena.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Inquisizione della Sacra Luce
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Benedizione del valoroso&gt;</span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa &lt;Morale alto&gt; per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. All'inizio della battaglia, il Monaco aumenta inoltre del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 60 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco infligge danni pari al 10% del proprio ATT alle unità Inferno nemiche ogni 2 secondi.</span>
-
-### 2nd Skill (or 1st): Benedizione della Sacra Luce
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Benedizione del valoroso&gt;</span><span style="color: #645252;font-size:18px"> Ogni 30 secondi, causa &lt;Morale alto&gt; per 10 secondi a tutte le unità alleate in un'ampia area intorno all'incantatore. Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta e il DAN CRIT degli alleati per 120 secondi. Durante i primi 60 secondi della battaglia, ciascuna unità Monaco cura le unità Castello alleate di una quantità di PF pari al 10% del loro ATT ogni 2 secondi.</span>
-
-### 3rd Skill (or 4th): Benedizione splendente
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Meditazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di &lt;Morale alto&gt;, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 10 il mana degli eroi. Recupero: 3 secondi.</span>
-
-### 4th Skill (or 3rd): Magnifica grazia
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Meditazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco gode di &lt;Morale alto&gt;, aumenta di 200 il CRIT di tutte le unità alleate. L'effetto dura fino al termine della battaglia ma non è cumulabile. Aumenta inoltre di 0,5 la rigenerazione del mana degli eroi. Recupero: 3 secondi. Il buff alla rigenerazione del mana può essere applicato fino a 4 volte.</span>
-
-### 5th Skill (or 6th): Giudizio dei Savi
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rigenerazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia &lt;Preghiera&gt;, avvia un attacco in 3 fasi contro l'unità nemica con i PF più bassi, infliggendo danni pari al 150% del proprio ATT.</span>
-
-### 6th Skill (or 5th): Salmo rituale
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rigenerazione&gt;</span><span style="color: #645252;font-size:18px"> Quando il Monaco è sul campo di battaglia, aumenta del 20% la guarigione ricevuta da tutte le unità alleate. Quando lancia &lt;Preghiera&gt;, cura in 3 fasi distinte l'unità alleata con i PF più bassi di una quantità di PF pari al 150% del proprio ATT.</span>
 
 ## Technical info
  **runart:** 0

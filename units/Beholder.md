@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Osservatore"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/units/Faction Dungeon/)
 
  **Race:** Spirito maligno
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Controllo mentale: immobilizza i nemici, che perdono PF col tempo.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Occhio della blasfemia](/equipment/Occhio della blasfemia/) | **ATT** | **DIF** | 
-  | [Pupilla della morte](/equipment/Pupilla della morte/) | **PF** | **DIF** | 
-  | [Zanna maligna](/equipment/Zanna maligna/) | **ATT** | **DIF** | 
-  | [Tentacoli abissali](/equipment/Tentacoli abissali/) | **PF** | **DIF** | 
+  | [Occhio della blasfemia](/it/equipment/Occhio della blasfemia/) | **ATT** | **DIF** | 
+  | [Pupilla della morte](/it/equipment/Pupilla della morte/) | **PF** | **DIF** | 
+  | [Zanna maligna](/it/equipment/Zanna maligna/) | **ATT** | **DIF** | 
+  | [Tentacoli abissali](/it/equipment/Tentacoli abissali/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Sguardo oscuro](/Exclusive/Beholder Dark Gaze/) 
+ **Name:** [Sguardo oscuro](/it/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -149,11 +149,12 @@ toc: true
 
 * **Dungeon**  (Roster Dungeon)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
 unitID: 401
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Goblin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Orco
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Tempesta di guerra: infligge danni a 3 unità nemiche vicine.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Mazza chiodata](/equipment/Mazza chiodata/) | **ATT** | **DIF** | 
-  | [Cintura di cuoio](/equipment/Cintura di cuoio/) | **PF** | **DIF** | 
-  | [Collana d'ossa](/equipment/Collana d'ossa/) | **ATT** | **DIF** | 
-  | [Spallacci di cuoio](/equipment/Spallacci di cuoio/) | **PF** | **DIF** | 
+  | [Mazza chiodata](/it/equipment/Mazza chiodata/) | **ATT** | **DIF** | 
+  | [Cintura di cuoio](/it/equipment/Cintura di cuoio/) | **PF** | **DIF** | 
+  | [Collana d'ossa](/it/equipment/Collana d'ossa/) | **ATT** | **DIF** | 
+  | [Spallacci di cuoio](/it/equipment/Spallacci di cuoio/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Spada](/Exclusive/Goblin Sword/) 
+ **Name:** [Spada](/it/Exclusive/Goblin Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Invidia](/Emblem/Jealousy/) (Caos)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **Attacco**  (Roster unità d'attacco)
+* **R**  (R)
 
 ### Bonus eroe
-* [Crag Hack](/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

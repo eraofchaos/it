@@ -3,7 +3,7 @@ title: "Serpente di Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Serpente di Regna"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/it/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Schiacciata abissale: controllo ad area, causa <Impedimento> e riduce il CRIT.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Tridente](/equipment/Tridente/) | **ATT** | **DIF** | 
-  | [Corno a conchiglia](/equipment/Corno a conchiglia/) | **PF** | **DIF** | 
-  | [Artigli della Sirena](/equipment/Artigli della Sirena/) | **ATT** | **DIF** | 
-  | [Pinna blu profondo](/equipment/Pinna blu profondo/) | **PF** | **DIF** | 
+  | [Tridente](/it/equipment/Tridente/) | **ATT** | **DIF** | 
+  | [Corno a conchiglia](/it/equipment/Corno a conchiglia/) | **PF** | **DIF** | 
+  | [Artigli della Sirena](/it/equipment/Artigli della Sirena/) | **ATT** | **DIF** | 
+  | [Pinna blu profondo](/it/equipment/Pinna blu profondo/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Maree diurne](/Exclusive/Regnan Serpent Day Tides/) 
+ **Name:** [Maree diurne](/it/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Simbolo di Aksoe](/Emblem/Aksoe Token/) (Neutrale)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
 
 ## Informazioni combinazione
 
@@ -170,10 +170,11 @@ toc: true
 
 * **Baia**  (Roster Baia)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

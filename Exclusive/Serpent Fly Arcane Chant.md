@@ -2,18 +2,18 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Mosca serpente Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Serpent Fly Cantico arcano.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Cantico arcano** 
 
- **Esclusivo for Unit:** [Mosca serpente](/units/Serpent Fly/) 
+ **Esclusivo for Unit:** [Mosca serpente](/it/units/Serpent Fly/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | Quando l'unità bersaglio viene sconfitta, la Mosca serpente entra in uno stato di frenesia che ne aumenta la Vel ATT del 100% per 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Quando attacca, la Mosca serpente ha una probabilità del 30% di provocare <Sanguinamento>. |

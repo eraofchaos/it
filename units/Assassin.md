@@ -3,7 +3,7 @@ title: "Assassino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Assassino"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Esercito neutrale](/units/Faction Neutral Army/)
+ **Fazione:** [Esercito neutrale](/it/units/Faction Neutral Army/)
 
  **Race:** Gilda degli Assassini
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Danno da assassinio. Riduce la guarigione.
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cappuccio da Assassino](/equipment/Cappuccio da Assassino/) | **ATT** | **DIF** | 
-  | [Lama celata](/equipment/Lama celata/) | **PF** | **DIF** | 
-  | [Cintura dell'assassino](/equipment/Cintura dell'assassino/) | **ATT** | **DIF** | 
-  | [Stivali di cuoio](/equipment/Stivali di cuoio/) | **PF** | **DIF** | 
+  | [Cappuccio da Assassino](/it/equipment/Cappuccio da Assassino/) | **ATT** | **DIF** | 
+  | [Lama celata](/it/equipment/Lama celata/) | **PF** | **DIF** | 
+  | [Cintura dell'assassino](/it/equipment/Cintura dell'assassino/) | **ATT** | **DIF** | 
+  | [Stivali di cuoio](/it/equipment/Stivali di cuoio/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Angelo custode](/Emblem/Guardian Angel/) (Bontà)
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -150,10 +150,11 @@ toc: true
 
 * **Unità neutrale**  (Roster neutrale)
 * **Incursione**  (Roster unità di incursione)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Ezio](/heroes/Ezio/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ezio](/it/heroes/Ezio/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

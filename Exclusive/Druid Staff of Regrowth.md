@@ -2,18 +2,18 @@
 title: "Esclusivo - Bastone della Ricrescita"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Bastone della Ricrescita. Bastone della Ricrescita. Era of Chaos Esclusivo Bastone della Ricrescita. Druido Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Druid Bastone della Ricrescita.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Bastone della Ricrescita** 
 
- **Esclusivo for Unit:** [Druido](/units/Druid/) 
+ **Esclusivo for Unit:** [Druido](/it/units/Druid/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Frusta di liane> All'inizio della battaglia, lancia questa tecnica su un'unità nemica casuale nelle retrovie, infliggendole danni pari al 30% dell'ATT e impedendone i movimenti per 10 secondi. Inoltre, le unità alleate nelle retrovie sono protette da uno <scudo> pari al 25% dei PF massimi. Durata: 10 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Druido gode di portata aumentata di 50 e Tenacia aumentata di 200. |

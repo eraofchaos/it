@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Troglodita"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/units/Faction Dungeon/)
 
  **Race:** Truppe Dungeon
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Muro di lance: DAN e <Stordimento> ad area.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lancia d'ossa dello Squartatore](/equipment/Lancia d'ossa dello Squartatore/) | **ATT** | **DIF** | 
-  | [Cranio ospite](/equipment/Cranio ospite/) | **PF** | **DIF** | 
-  | [Spina dorsale spezzata](/equipment/Spina dorsale spezzata/) | **ATT** | **DIF** | 
-  | [Sangue d'acido corrosivo](/equipment/Sangue d'acido corrosivo/) | **PF** | **DIF** | 
+  | [Lancia d'ossa dello Squartatore](/it/equipment/Lancia d'ossa dello Squartatore/) | **ATT** | **DIF** | 
+  | [Cranio ospite](/it/equipment/Cranio ospite/) | **PF** | **DIF** | 
+  | [Spina dorsale spezzata](/it/equipment/Spina dorsale spezzata/) | **ATT** | **DIF** | 
+  | [Sangue d'acido corrosivo](/it/equipment/Sangue d'acido corrosivo/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Spada](/Exclusive/Troglodyte Sword/) 
+ **Name:** [Spada](/it/Exclusive/Troglodyte Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -154,11 +154,12 @@ toc: true
 
 * **Dungeon**  (Roster Dungeon)
 * **Attacco**  (Roster unità d'attacco)
+* **R**  (R)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Spadaccino"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Spadaccino"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Umano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Protezione divina: riduce i danni subiti.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Spada dell'Impero](/equipment/Spada dell'Impero/) | **ATT** | **DIF** | 
-  | [Elmo da ufficiale](/equipment/Elmo da ufficiale/) | **PF** | **DIF** | 
-  | [Scudo dell'Impero](/equipment/Scudo dell'Impero/) | **ATT** | **DIF** | 
-  | [Spallacci dell'Impero](/equipment/Spallacci dell'Impero/) | **PF** | **DIF** | 
+  | [Spada dell'Impero](/it/equipment/Spada dell'Impero/) | **ATT** | **DIF** | 
+  | [Elmo da ufficiale](/it/equipment/Elmo da ufficiale/) | **PF** | **DIF** | 
+  | [Scudo dell'Impero](/it/equipment/Scudo dell'Impero/) | **ATT** | **DIF** | 
+  | [Spallacci dell'Impero](/it/equipment/Spallacci dell'Impero/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Swordsman Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Swordsman Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Simbolo di Aksoe](/Emblem/Aksoe Token/) (Neutrale)
-* [Avarizia](/Emblem/Greed/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
 
 ## Informazioni combinazione
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Castello**  (Roster Castello)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Caterina](/heroes/Catherine/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Caterina](/it/heroes/Catherine/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

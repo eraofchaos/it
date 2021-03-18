@@ -2,18 +2,18 @@
 title: "Esclusivo - Rovi"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Rovi. Rovi. Era of Chaos Esclusivo Rovi. Leprecauno Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Leprechaun Rovi.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Rovi** 
 
- **Esclusivo for Unit:** [Leprecauno](/units/Leprechaun/) 
+ **Esclusivo for Unit:** [Leprecauno](/it/units/Leprechaun/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Dea Bendata> Ogni 20 secondi, il Leprecauno ottiene da 1 a 4 quadrifogli. Il Leprecauno riceve alcuni tra i seguenti buff in base al numero di quadrifogli ottenuti: valore dello <scudo> aumentato di 200, DIF aumentata di 400, 1% di PF massimi ripristinati al secondo o Schivata aumentata di 400. Il buff dura 12 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Aumenta del 20% i PF e del 15% la DIF. |

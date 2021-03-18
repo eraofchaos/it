@@ -3,7 +3,7 @@ title: "Catafratto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Catafratto"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Umano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** A cavallo: infligge danni ingenti, il primo attacco causa <Stordimento>.
 
@@ -73,14 +73,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lancia del Catafratto](/equipment/Lancia del Catafratto/) | **ATT** | **DIF** | 
-  | [Visiera della difesa](/equipment/Visiera della difesa/) | **PF** | **DIF** | 
-  | [Scudo della protezione](/equipment/Scudo della protezione/) | **ATT** | **DIF** | 
-  | [Spallacci da Paladino](/equipment/Spallacci da Paladino/) | **PF** | **DIF** | 
+  | [Lancia del Catafratto](/it/equipment/Lancia del Catafratto/) | **ATT** | **DIF** | 
+  | [Visiera della difesa](/it/equipment/Visiera della difesa/) | **PF** | **DIF** | 
+  | [Scudo della protezione](/it/equipment/Scudo della protezione/) | **ATT** | **DIF** | 
+  | [Spallacci da Paladino](/it/equipment/Spallacci da Paladino/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/Exclusive/Cavalier Knight Pike/) 
+ **Name:** [Carica impetuosa](/it/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
@@ -91,9 +91,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Angelo custode](/Emblem/Guardian Angel/) (Bontà)
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -160,19 +160,14 @@ toc: true
 ## Connessione
 ### Connessione roster
 
-* **Castello**  (Roster Castello)
-* **Incursione**  (Roster unità di incursione)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
-* Attacco
-* PF
-* Danno unità
-* Riduzione danno unità
+* ?!? 
 
 
 ## Awaking
@@ -191,26 +186,6 @@ toc: true
  3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Cavaliere campione nei livelli del Sottosuolo 16-2 e 16-4.</span>
 
  4. <span style="color: #3c2a1e;font-size:18px">Schiera un Catafratto e vinci almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> battaglie nel Duello dei Campioni sotto il comando di Mullich.</span>
-
-## Awaken Skills
-
-### 1st Skill (or 2nd): Sopravvivenza
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Abilità a cavallo&gt;</span><span style="color: #645252;font-size:18px">: aumenta PF e resistenza magica del 30%.</span>
-
-### 2nd Skill (or 1st): Tecniche belliche
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Abilità a cavallo&gt;</span><span style="color: #645252;font-size:18px">: aumenta ATT e resistenza magica di un ulteriore 30%.</span>
-
-### 3rd Skill (or 4th): Assalto Leggero
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sfondamento rapido&gt;</span><span style="color: #645252;font-size:18px">: attiva Sfondamento rapido per ogni bersaglio ucciso (esclusi i mostri evocati).</span>
-
-### 4th Skill (or 3rd): Assalto pesante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sfondamento rapido&gt;</span><span style="color: #645252;font-size:18px">: ogni assalto aumenta il danno al 150% e &lt;stordisce&gt; i nemici per 5 secondi.</span>
-
-### 5th Skill (or 6th): Fanatismo
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px">: aumenta la Rid DAN di un ulteriore 20%. Effetto raddoppiato con &lt;Morale alto&gt;.</span>
-
-### 6th Skill (or 5th): Pace mentale
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Picca del cavaliere&gt;</span><span style="color: #645252;font-size:18px"> Quando gode di &lt;Morale alto&gt; durante il combattimento, infligge colpi critici garantiti. L'effetto dura 10 secondi.</span>
 
 ## Technical info
  **runart:** 1

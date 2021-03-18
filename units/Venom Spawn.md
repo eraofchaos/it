@@ -3,7 +3,7 @@ title: "Progenie velenosa"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi demoni sono nati tra le ombre e le fiamme delle profondità dell'inferno. Secondo le leggende, essi rappresentano gli incubi più terrificanti, e inceneriscono i campi di battaglia con le fiamme del peccato."
 unitID: 509
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Progenie velenosa"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descrizione:** Questi demoni sono nati tra le ombre e le fiamme delle profondità dell'inferno. Secondo le leggende, essi rappresentano gli incubi più terrificanti, e inceneriscono i campi di battaglia con le fiamme del peccato.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Ruba anime per ribaltare il risultato dello scontro. Nato per morire.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/equipment/UnknownEquipment_5091/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_5092](/equipment/UnknownEquipment_5092/) | **PF** | **DIF** | 
-  | [UnknownEquipment_5093](/equipment/UnknownEquipment_5093/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_5094](/equipment/UnknownEquipment_5094/) | **PF** | **DIF** | 
+  | [UnknownEquipment_5091](/it/equipment/UnknownEquipment_5091/) | **ATT** | **DIF** | 
+  | [UnknownEquipment_5092](/it/equipment/UnknownEquipment_5092/) | **PF** | **DIF** | 
+  | [UnknownEquipment_5093](/it/equipment/UnknownEquipment_5093/) | **ATT** | **DIF** | 
+  | [UnknownEquipment_5094](/it/equipment/UnknownEquipment_5094/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
-* [Avarizia](/Emblem/Greed/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
 
 ## Informazioni combinazione
 
@@ -218,10 +218,11 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Difesa**  (Roster unità di difesa)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

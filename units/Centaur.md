@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione."
 unitID: 201
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Centauro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Foresta
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Schiacciata: infligge danni e <rallenta> l'unità più vicina.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ascia delle terre selvagge](/equipment/Ascia delle terre selvagge/) | **ATT** | **DIF** | 
-  | [Elmo delle terre selvagge](/equipment/Elmo delle terre selvagge/) | **PF** | **DIF** | 
-  | [Guanti delle terre selvagge](/equipment/Guanti delle terre selvagge/) | **ATT** | **DIF** | 
-  | [Spallacci delle terre selvagge](/equipment/Spallacci delle terre selvagge/) | **PF** | **DIF** | 
+  | [Ascia delle terre selvagge](/it/equipment/Ascia delle terre selvagge/) | **ATT** | **DIF** | 
+  | [Elmo delle terre selvagge](/it/equipment/Elmo delle terre selvagge/) | **PF** | **DIF** | 
+  | [Guanti delle terre selvagge](/it/equipment/Guanti delle terre selvagge/) | **ATT** | **DIF** | 
+  | [Spallacci delle terre selvagge](/it/equipment/Spallacci delle terre selvagge/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Centaur Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Centaur Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Simbolo di Aksoe](/Emblem/Aksoe Token/) (Neutrale)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
 
 ## Informazioni combinazione
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **Difesa**  (Roster unità di difesa)
+* **R**  (R)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

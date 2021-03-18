@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Vampiro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Spirito maligno
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Assorbimento: ruba i PF di un'unità nemica.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cintura sanguinaria](/equipment/Cintura sanguinaria/) | **ATT** | **DIF** | 
-  | [Armatura leggera sanguinaria](/equipment/Armatura leggera sanguinaria/) | **PF** | **DIF** | 
-  | [Spallacci d'ombra](/equipment/Spallacci d'ombra/) | **ATT** | **DIF** | 
-  | [Manto d'ombra](/equipment/Manto d'ombra/) | **PF** | **DIF** | 
+  | [Cintura sanguinaria](/it/equipment/Cintura sanguinaria/) | **ATT** | **DIF** | 
+  | [Armatura leggera sanguinaria](/it/equipment/Armatura leggera sanguinaria/) | **PF** | **DIF** | 
+  | [Spallacci d'ombra](/it/equipment/Spallacci d'ombra/) | **ATT** | **DIF** | 
+  | [Manto d'ombra](/it/equipment/Manto d'ombra/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/Exclusive/Vampire Knight Pike/) 
+ **Name:** [Carica impetuosa](/it/Exclusive/Vampire Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Incursione**  (Roster unità di incursione)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

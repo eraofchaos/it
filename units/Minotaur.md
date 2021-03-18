@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Minotauro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/units/Faction Dungeon/)
 
  **Race:** Truppe Dungeon
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Turbine: attacco ad area che riduce la Vel ATT.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ascia della Gorgone](/equipment/Ascia della Gorgone/) | **ATT** | **DIF** | 
-  | [Spallacci della Gorgone](/equipment/Spallacci della Gorgone/) | **PF** | **DIF** | 
-  | [Fascia della Gorgone](/equipment/Fascia della Gorgone/) | **ATT** | **DIF** | 
-  | [Cintura della Gorgone](/equipment/Cintura della Gorgone/) | **PF** | **DIF** | 
+  | [Ascia della Gorgone](/it/equipment/Ascia della Gorgone/) | **ATT** | **DIF** | 
+  | [Spallacci della Gorgone](/it/equipment/Spallacci della Gorgone/) | **PF** | **DIF** | 
+  | [Fascia della Gorgone](/it/equipment/Fascia della Gorgone/) | **ATT** | **DIF** | 
+  | [Cintura della Gorgone](/it/equipment/Cintura della Gorgone/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Minotaur Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Minotaur Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -155,11 +155,12 @@ toc: true
 
 * **Dungeon**  (Roster Dungeon)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

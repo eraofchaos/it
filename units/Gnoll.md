@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gnoll"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Domatore
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Short description:** DPS in mischia. Applica Stordimento.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machete del Licantropo](/equipment/Machete del Licantropo/) | **ATT** | **DIF** | 
-  | [Scudo del Licantropo](/equipment/Scudo del Licantropo/) | **PF** | **DIF** | 
-  | [Catena del Licantropo](/equipment/Catena del Licantropo/) | **ATT** | **DIF** | 
-  | [Guanti del Licantropo](/equipment/Guanti del Licantropo/) | **PF** | **DIF** | 
+  | [Machete del Licantropo](/it/equipment/Machete del Licantropo/) | **ATT** | **DIF** | 
+  | [Scudo del Licantropo](/it/equipment/Scudo del Licantropo/) | **PF** | **DIF** | 
+  | [Catena del Licantropo](/it/equipment/Catena del Licantropo/) | **ATT** | **DIF** | 
+  | [Guanti del Licantropo](/it/equipment/Guanti del Licantropo/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Spada](/Exclusive/Gnoll Sword/) 
+ **Name:** [Spada](/it/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **Attacco**  (Roster unità d'attacco)
+* **R**  (R)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -194,7 +195,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Colpo di catena&gt;</span><span style="color: #645252;font-size:18px"> Infligge danni aggiuntivi pari al 400% dell'ATT all'unità bersaglio.</span>
 
 ### 2nd Skill (or 1st): Urto con catena
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Colpo di catena&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la durata dello &lt;stordimento&gt; inflitto di 5 secondi.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Colpo di catena&gt;</span><span style="color: #645252;font-size:18px"> La durata dello &lt;stordimento&gt; inflitto aumenta a 5 secondi.</span>
 
 ### 3rd Skill (or 4th): Richiamo della natura
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Ferocia primitiva&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la Perforazione di 100. Effetto raddoppiato contro i nemici &lt;storditi&gt;.</span>

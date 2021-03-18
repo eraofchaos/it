@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività."
 unitID: 502
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gog"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Muro di fuoco: infligge danni alle unità nemiche davanti a sé.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sfera ustionante](/equipment/Sfera ustionante/) | **ATT** | **DIF** | 
-  | [Corno fiammeggiante](/equipment/Corno fiammeggiante/) | **PF** | **DIF** | 
-  | [Coda fiammeggiante](/equipment/Coda fiammeggiante/) | **ATT** | **DIF** | 
-  | [Bracciali ustionanti](/equipment/Bracciali ustionanti/) | **PF** | **DIF** | 
+  | [Sfera ustionante](/it/equipment/Sfera ustionante/) | **ATT** | **DIF** | 
+  | [Corno fiammeggiante](/it/equipment/Corno fiammeggiante/) | **PF** | **DIF** | 
+  | [Coda fiammeggiante](/it/equipment/Coda fiammeggiante/) | **ATT** | **DIF** | 
+  | [Bracciali ustionanti](/it/equipment/Bracciali ustionanti/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/Exclusive/Gog Arcane Chant/) 
+ **Name:** [Cantico arcano](/it/Exclusive/Gog Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Superbia](/Emblem/Arrogance/) (Caos)
-* [Calamità del Re](/Emblem/King's Calamity/) (Malvagio)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -159,9 +159,10 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Incantatore**  (Roster incantatori)
+* **R**  (R)
 
 ### Bonus eroe
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Drago scheletrico"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Drago scheletrico"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Drago
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Paura: riduce notevolmente la DIF nemica e causa <Morale basso>.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pungolo d'ossa](/equipment/Pungolo d'ossa/) | **ATT** | **DIF** | 
-  | [Teschio di Drago](/equipment/Teschio di Drago/) | **PF** | **DIF** | 
-  | [Artigli perforanti](/equipment/Artigli perforanti/) | **ATT** | **DIF** | 
-  | [Gemma mistica](/equipment/Gemma mistica/) | **PF** | **DIF** | 
+  | [Pungolo d'ossa](/it/equipment/Pungolo d'ossa/) | **ATT** | **DIF** | 
+  | [Teschio di Drago](/it/equipment/Teschio di Drago/) | **PF** | **DIF** | 
+  | [Artigli perforanti](/it/equipment/Artigli perforanti/) | **ATT** | **DIF** | 
+  | [Gemma mistica](/it/equipment/Gemma mistica/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Drago scheletrico immortale](/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Name:** [Drago scheletrico immortale](/it/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -158,11 +158,12 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Attacco**  (Roster unità d'attacco)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Vidomina](/heroes/Vidomina/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/it/heroes/Vidomina/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

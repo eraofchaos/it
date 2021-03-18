@@ -3,7 +3,7 @@ title: "Cavaliere nero"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Cavaliere nero"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Non morto
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Attacco critico: infligge danni devastanti e causa <Morale basso>.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Spada maledetta](/equipment/Spada maledetta/) | **ATT** | **DIF** | 
-  | [Visiera dei Morti](/equipment/Visiera dei Morti/) | **PF** | **DIF** | 
-  | [Bracciali dell'Incubo](/equipment/Bracciali dell'Incubo/) | **ATT** | **DIF** | 
-  | [Spallacci dell'Incubo](/equipment/Spallacci dell'Incubo/) | **PF** | **DIF** | 
+  | [Spada maledetta](/it/equipment/Spada maledetta/) | **ATT** | **DIF** | 
+  | [Visiera dei Morti](/it/equipment/Visiera dei Morti/) | **PF** | **DIF** | 
+  | [Bracciali dell'Incubo](/it/equipment/Bracciali dell'Incubo/) | **ATT** | **DIF** | 
+  | [Spallacci dell'Incubo](/it/equipment/Spallacci dell'Incubo/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Lama del sottosuolo](/Exclusive/Black Knight Nether Sabre/) 
+ **Name:** [Lama del sottosuolo](/it/Exclusive/Black Knight Nether Sabre/) 
 
  **Is Open:** + 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Testimonianza](/Emblem/Witness/) (Bontà)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Testimonianza](/it/Emblem/Witness/) (Bontà)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -161,12 +161,13 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Incursione**  (Roster unità di incursione)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Lord Haart](/heroes/Lord Haart/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Lord Haart](/it/heroes/Lord Haart/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

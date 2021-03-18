@@ -3,7 +3,7 @@ title: "Angelo"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Angelo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Angelo
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Condanna: infligge danni ingenti e <stordisce> 3 unità.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Spada dell'Impero](/equipment/Spada dell'Impero/) | **ATT** | **DIF** | 
-  | [Armatura da battaglia luminosa](/equipment/Armatura da battaglia luminosa/) | **PF** | **DIF** | 
-  | [Guanti luminosi](/equipment/Guanti luminosi/) | **ATT** | **DIF** | 
-  | [Spallacci della levità](/equipment/Spallacci della levità/) | **PF** | **DIF** | 
+  | [Spada dell'Impero](/it/equipment/Spada dell'Impero/) | **ATT** | **DIF** | 
+  | [Armatura da battaglia luminosa](/it/equipment/Armatura da battaglia luminosa/) | **PF** | **DIF** | 
+  | [Guanti luminosi](/it/equipment/Guanti luminosi/) | **ATT** | **DIF** | 
+  | [Spallacci della levità](/it/equipment/Spallacci della levità/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Durlindana](/Exclusive/Angel Durandel/) 
+ **Name:** [Durlindana](/it/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
@@ -89,8 +89,8 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Profeta verde](/Emblem/Green Prophet/) (Bontà)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Profeta verde](/it/Emblem/Green Prophet/) (Bontà)
 
 ## Informazioni combinazione
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Castello**  (Roster Castello)
 * **Attacco**  (Roster unità d'attacco)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

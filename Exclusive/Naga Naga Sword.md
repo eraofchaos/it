@@ -2,18 +2,18 @@
 title: "Esclusivo - Spada da Naga"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Spada da Naga. Spada da Naga. Era of Chaos Esclusivo Spada da Naga. Naga Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Naga Spada da Naga.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Spada da Naga** 
 
- **Esclusivo for Unit:** [Naga](/units/Naga/) 
+ **Esclusivo for Unit:** [Naga](/it/units/Naga/) 
 
  **Item to Rango ↑:** -
 
@@ -27,15 +27,15 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | [Unyielding Will] When Naga suffers from \"stun\", \"petrification\", or \"silence\", she increases 20% Injury-free and becomes immune to most controls and debuffs (e.g. freeze, silence, slow, petrification, stun, low morale, deterrence and <Time Stop>'s effect) for 5s. CD is 15s (Takes effect after equipping a Holy Emblem) |
+  |  Risveglio  | ? | <Volontà incrollabile> Quando le Naga subiscono <Stordimento>, <Pietrificazione> o <Silenzio>, diventano immuni a quasi tutti gli effetti di controllo e i debuff (<Congelamento>, <Silenzio>, <Rallentamento>, <Pietrificazione>, <Stordimento>, <Morale basso>, <Impedimento> e <Blocco temporale>), e la loro Rid DAN aumenta del 20% per 5 secondi. Recupero: 15 secondi. (Ha effetto dopo aver equipaggiato un Emblema sacro) |
   | **1x** <i class="fas fa-star"/> | ? | Durata di <Stordimento>, <Pietrificazione>, <Rallentamento>, <Congelamento>, <Morale basso> e <Silenzio> ridotta del 50%. |
   | **2x** <i class="fas fa-star"/> | ? | Le Naga godono di ATT e DAN aumentati del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Naga Sword Array> When her HP is less than 25% for the first time, Naga summons her Naga Sword Array to increase penetration by 20 and 2% Life drain per second for friendly units within a large area, up to 10 stacks. (The effect still works even when Naga is defeated) |
+  | **3x** <i class="fas fa-star"/> | ? | <Muro di spade Naga> La prima volta che i PF delle Naga scendono sotto il 25%, evocano un muro di spade che, ogni secondo, aumenta di 20 la Perforazione e del 2% l'assorbimento delle unità alleate in un'ampia area. Cumulabile fino a 10 volte. (L'effetto persiste anche se le Naga vengono sconfitte) |
   | **4x** <i class="fas fa-star"/> | ? | Le Naga godono di Assorbimento e Rid DAN aumentati del 20%. |
   | **5x** <i class="fas fa-star"/> | ? | Le Naga sono immuni allo <Stordimento>. |
-  | **6x** <i class="fas fa-star"/> | ? | <Ray of Naga Sword> Causes damage equal to 200% of its ATK to all hostile units standing in the same row as the target every 20s, while decreasing the enemies' DEF and unit's damage reduction by 30%, and increasing 1000 Crit Hit and 20% Life drain for herself over the next 5 seconds |
+  | **6x** <i class="fas fa-star"/> | ? | <Raggio della Spada da Naga> Infligge danni pari al 200% dell'ATT a tutte le unità nemiche nella fila del bersaglio ogni 15 secondi, e ne riduce DIF e Rid DAN del 30%. Inoltre, aumenta il CRIT di 1000 e il Assorbimento del 20% per i successivi 5 secondi. |
 
 
 ## Livello ↑

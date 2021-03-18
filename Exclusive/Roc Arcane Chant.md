@@ -2,18 +2,18 @@
 title: "Esclusivo - Cantico arcano"
 permalink: /Exclusive/Roc Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Roc Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Roc Cantico arcano.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Cantico arcano** 
 
- **Esclusivo for Unit:** [Roc](/units/Roc/) 
+ **Esclusivo for Unit:** [Roc](/it/units/Roc/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Impulso elettrico> Il Roc utilizza la carica elettrica nel proprio corpo per infliggere danni pari al 2% dei propri PF massimi ogni secondo alle unità nemiche in un'ampia area, riducendone la Vel ATT del 20% per 5 secondi. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Il Roc gode di ATT e DAN CRIT aumentati del 20%. |

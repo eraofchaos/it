@@ -3,7 +3,7 @@ title: "Mummia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Mummia"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Non morto
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Decomposizione: riduce notevolmente le cure delle unità nemiche.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Tocco immortale](/equipment/Tocco immortale/) | **ATT** | **DIF** | 
-  | [Bende antiche](/equipment/Bende antiche/) | **PF** | **DIF** | 
-  | [Pupilla dei defunti](/equipment/Pupilla dei defunti/) | **ATT** | **DIF** | 
-  | [Soffio mortale](/equipment/Soffio mortale/) | **PF** | **DIF** | 
+  | [Tocco immortale](/it/equipment/Tocco immortale/) | **ATT** | **DIF** | 
+  | [Bende antiche](/it/equipment/Bende antiche/) | **PF** | **DIF** | 
+  | [Pupilla dei defunti](/it/equipment/Pupilla dei defunti/) | **ATT** | **DIF** | 
+  | [Soffio mortale](/it/equipment/Soffio mortale/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Benda](/Exclusive/Mummy Gauze/) 
+ **Name:** [Benda](/it/Exclusive/Mummy Gauze/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

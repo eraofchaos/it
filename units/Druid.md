@@ -3,7 +3,7 @@ title: "Druido"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Druido"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Foresta
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Cronosfera silvana: le unità all'interno del circolo sono immuni ai danni magici.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corona della Tranquillità](/equipment/Corona della Tranquillità/) | **ATT** | **DIF** | 
-  | [Antico bordone](/equipment/Antico bordone/) | **PF** | **DIF** | 
-  | [Veste della Furia tempestosa](/equipment/Veste della Furia tempestosa/) | **ATT** | **DIF** | 
-  | [Stivali alti della foresta](/equipment/Stivali alti della foresta/) | **PF** | **DIF** | 
+  | [Corona della Tranquillità](/it/equipment/Corona della Tranquillità/) | **ATT** | **DIF** | 
+  | [Antico bordone](/it/equipment/Antico bordone/) | **PF** | **DIF** | 
+  | [Veste della Furia tempestosa](/it/equipment/Veste della Furia tempestosa/) | **ATT** | **DIF** | 
+  | [Stivali alti della foresta](/it/equipment/Stivali alti della foresta/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Bastone della Ricrescita](/Exclusive/Druid Staff of Regrowth/) 
+ **Name:** [Bastone della Ricrescita](/it/Exclusive/Druid Staff of Regrowth/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
-* [Avarizia](/Emblem/Greed/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
 
 ## Informazioni combinazione
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

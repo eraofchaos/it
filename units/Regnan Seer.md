@@ -3,7 +3,7 @@ title: "Veggente di Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore."
 unitID: 9907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Veggente di Regna"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descrizione:** Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/it/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Capo della Baia. Controllo nemici efficace.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Scettro Anima oceanica divina](/equipment/Scettro Anima oceanica divina/) | **ATT** | **DIF** | 
-  | [Collana mistica di Poseidone](/equipment/Collana mistica di Poseidone/) | **PF** | **DIF** | 
-  | [Cerchietto dello Splendore](/equipment/Cerchietto dello Splendore/) | **ATT** | **DIF** | 
-  | [Braccialetto nobile](/equipment/Braccialetto nobile/) | **PF** | **DIF** | 
+  | [Scettro Anima oceanica divina](/it/equipment/Scettro Anima oceanica divina/) | **ATT** | **DIF** | 
+  | [Collana mistica di Poseidone](/it/equipment/Collana mistica di Poseidone/) | **PF** | **DIF** | 
+  | [Cerchietto dello Splendore](/it/equipment/Cerchietto dello Splendore/) | **ATT** | **DIF** | 
+  | [Braccialetto nobile](/it/equipment/Braccialetto nobile/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [](/Exclusive/Regnan Seer /) 
+ **Name:** [](/it/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Simbolo di Aksoe](/Emblem/Aksoe Token/) (Neutrale)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -163,10 +163,11 @@ toc: true
 
 * **Baia**  (Roster Baia)
 * **Incantatore**  (Roster incantatori)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

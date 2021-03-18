@@ -3,7 +3,7 @@ title: "Domatore di lupi"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
 unitID: 402
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Domatore di lupi"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Orco
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Compagno animale: evoca Lupi per combattere quando l'unità viene sconfitta.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lama affilata](/equipment/Lama affilata/) | **ATT** | **DIF** | 
-  | [Cintura della potenza](/equipment/Cintura della potenza/) | **PF** | **DIF** | 
-  | [Bracciali del lupo](/equipment/Bracciali del lupo/) | **ATT** | **DIF** | 
-  | [Spallacci della lingua di lupo](/equipment/Spallacci della lingua di lupo/) | **PF** | **DIF** | 
+  | [Lama affilata](/it/equipment/Lama affilata/) | **ATT** | **DIF** | 
+  | [Cintura della potenza](/it/equipment/Cintura della potenza/) | **PF** | **DIF** | 
+  | [Bracciali del lupo](/it/equipment/Bracciali del lupo/) | **ATT** | **DIF** | 
+  | [Spallacci della lingua di lupo](/it/equipment/Spallacci della lingua di lupo/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/Exclusive/Wolf Rider Knight Pike/) 
+ **Name:** [Carica impetuosa](/it/Exclusive/Wolf Rider Knight Pike/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -163,11 +163,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **Incursione**  (Roster unità di incursione)
+* **R**  (R)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

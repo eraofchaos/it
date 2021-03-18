@@ -3,7 +3,7 @@ title: "Folletto"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina."
 unitID: 501
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Folletto"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Impulso: l'unità ha una probabilità di tornare in vita con PF al massimo.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Artigli sinistri](/equipment/Artigli sinistri/) | **ATT** | **DIF** | 
-  | [Katara sinistra](/equipment/Katara sinistra/) | **PF** | **DIF** | 
-  | [Ali sinistre](/equipment/Ali sinistre/) | **ATT** | **DIF** | 
-  | [Armatura leggera sinistra](/equipment/Armatura leggera sinistra/) | **PF** | **DIF** | 
+  | [Artigli sinistri](/it/equipment/Artigli sinistri/) | **ATT** | **DIF** | 
+  | [Katara sinistra](/it/equipment/Katara sinistra/) | **PF** | **DIF** | 
+  | [Ali sinistre](/it/equipment/Ali sinistre/) | **ATT** | **DIF** | 
+  | [Armatura leggera sinistra](/it/equipment/Armatura leggera sinistra/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Imp Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Imp Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Angelo custode](/Emblem/Guardian Angel/) (Bontà)
-* [Ira](/Emblem/Anger/) (Caos)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Difesa**  (Roster unità di difesa)
+* **R**  (R)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -181,7 +182,7 @@ toc: true
  **Awaking Descrizione:** Fedele e instancabile serva dell'inferno, è disposta a tutto per la vittoria. È in grado di evocare terribili creature infernali con la sola forza di volontà.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera un Folletto e un minimo di </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unità Torre e supera il livello Spietato (o superiore) dell'Utopia dei dragoni almeno una volta. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Schiera un Folletto con almeno </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> unità Inferno e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 

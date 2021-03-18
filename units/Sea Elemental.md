@@ -3,7 +3,7 @@ title: "Elementale del mare"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Elementale del mare"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/it/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Short description:** Controllo nemici lento.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lacrima eterna](/equipment/Lacrima eterna/) | **ATT** | **DIF** | 
-  | [Nucleo di Elementale dell'acqua](/equipment/Nucleo di Elementale dell'acqua/) | **PF** | **DIF** | 
-  | [Flusso ondoso](/equipment/Flusso ondoso/) | **ATT** | **DIF** | 
-  | [Cicatrice del Vortice](/equipment/Cicatrice del Vortice/) | **PF** | **DIF** | 
+  | [Lacrima eterna](/it/equipment/Lacrima eterna/) | **ATT** | **DIF** | 
+  | [Nucleo di Elementale dell'acqua](/it/equipment/Nucleo di Elementale dell'acqua/) | **PF** | **DIF** | 
+  | [Flusso ondoso](/it/equipment/Flusso ondoso/) | **ATT** | **DIF** | 
+  | [Cicatrice del Vortice](/it/equipment/Cicatrice del Vortice/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/Exclusive/Sea Elemental Arcane Chant/) 
+ **Name:** [Cantico arcano](/it/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Simbolo di Aksoe](/Emblem/Aksoe Token/) (Neutrale)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Baia**  (Roster Baia)
 * **Incantatore**  (Roster incantatori)
+* **R**  (R)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

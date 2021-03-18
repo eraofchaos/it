@@ -3,7 +3,7 @@ title: "Mosca serpente"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie."
 unitID: 803
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Mosca serpente"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Short description:** Indebolisce e controlla le retrovie.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ala collare demoniaca](/equipment/Ala collare demoniaca/) | **ATT** | **DIF** | 
-  | [Mascella fatale](/equipment/Mascella fatale/) | **PF** | **DIF** | 
-  | [Spina tetra](/equipment/Spina tetra/) | **ATT** | **DIF** | 
-  | [Zanna tossica](/equipment/Zanna tossica/) | **PF** | **DIF** | 
+  | [Ala collare demoniaca](/it/equipment/Ala collare demoniaca/) | **ATT** | **DIF** | 
+  | [Mascella fatale](/it/equipment/Mascella fatale/) | **PF** | **DIF** | 
+  | [Spina tetra](/it/equipment/Spina tetra/) | **ATT** | **DIF** | 
+  | [Zanna tossica](/it/equipment/Zanna tossica/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/Exclusive/Serpent Fly Arcane Chant/) 
+ **Name:** [Cantico arcano](/it/Exclusive/Serpent Fly Arcane Chant/) 
 
  **Is Open:** + 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Invidia](/Emblem/Jealousy/) (Caos)
-* [Superbia](/Emblem/Arrogance/) (Caos)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -172,11 +172,12 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Korbac](/heroes/Korbac/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Korbac](/it/heroes/Korbac/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

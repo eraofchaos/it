@@ -2,18 +2,18 @@
 title: "Esclusivo - Nucleo di energia"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Nucleo di energia. Nucleo di energia. Era of Chaos Esclusivo Nucleo di energia. Elementale della pietra Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Stone Elemental Nucleo di energia.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Nucleo di energia** 
 
- **Esclusivo for Unit:** [Elementale della pietra](/units/Stone Elemental/) 
+ **Esclusivo for Unit:** [Elementale della pietra](/it/units/Stone Elemental/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Spaccaroccia> Colpisce il terreno infliggendo danni pari al 200% dell'ATT alle unità nemiche in un'ampia area, <respingendole> e <stordendole> per 3 secondi. Recupero: 20 secondi. Attesa iniziale: 10 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN dell'Elementale della pietra aumentata del 20%. Effetto raddoppiato quando l'Elementale della pietra viene attaccato da un'unità magica. |

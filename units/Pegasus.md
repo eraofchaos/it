@@ -3,7 +3,7 @@ title: "Pegaso"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Pegasi sono leggendarie creature silvane. Questi esseri sono compagni fedeli dei più forti tra gli elfi e combattono per preservare la pace nella foresta."
 unitID: 204
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Pegaso"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Pegasi sono leggendarie creature silvane. Questi esseri sono compagni fedeli dei più forti tra gli elfi e combattono per preservare la pace nella foresta.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Foresta
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Protezione vitale: protegge le tue unità più vicine con uno <scudo>.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Chakram spinato](/equipment/Chakram spinato/) | **ATT** | **DIF** | 
-  | [Cerchietto sempreverde](/equipment/Cerchietto sempreverde/) | **PF** | **DIF** | 
-  | [Guanti di rose](/equipment/Guanti di rose/) | **ATT** | **DIF** | 
-  | [Armatura delle Meraviglie](/equipment/Armatura delle Meraviglie/) | **PF** | **DIF** | 
+  | [Chakram spinato](/it/equipment/Chakram spinato/) | **ATT** | **DIF** | 
+  | [Cerchietto sempreverde](/it/equipment/Cerchietto sempreverde/) | **PF** | **DIF** | 
+  | [Guanti di rose](/it/equipment/Guanti di rose/) | **ATT** | **DIF** | 
+  | [Armatura delle Meraviglie](/it/equipment/Armatura delle Meraviglie/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/Exclusive/Pegasus Long Bow/) 
+ **Name:** [Arco lungo](/it/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **A distanza**  (Roster unità a distanza)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

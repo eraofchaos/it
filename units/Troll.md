@@ -3,30 +3,27 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Troll sono creature estremamente intelligenti che combattono usando pesanti massi. Preferiscono occupare la prima fila, per spazzare via i nemici con possenti attacchi."
 unitID: 409
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Troll"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Descrizione:** I Troll sono creature estremamente intelligenti che combattono usando pesanti massi. Preferiscono occupare la prima fila, per spazzare via i nemici con possenti attacchi.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Domatore
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Attacca bersagli singoli. Danni istantanei.
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cascata di massi](/equipment/Cascata di massi/) | **ATT** | **DIF** | 
-  | [Potenza dei Signori](/equipment/Potenza dei Signori/) | **PF** | **DIF** | 
-  | [Sfonda-corazza](/equipment/Sfonda-corazza/) | **ATT** | **DIF** | 
-  | [Stivali della guarnigione](/equipment/Stivali della guarnigione/) | **PF** | **DIF** | 
+  | [Cascata di massi](/it/equipment/Cascata di massi/) | **ATT** | **DIF** | 
+  | [Potenza dei Signori](/it/equipment/Potenza dei Signori/) | **PF** | **DIF** | 
+  | [Sfonda-corazza](/it/equipment/Sfonda-corazza/) | **ATT** | **DIF** | 
+  | [Stivali della guarnigione](/it/equipment/Stivali della guarnigione/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
-* [Calamità del Re](/Emblem/King's Calamity/) (Malvagio)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -176,11 +173,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **A distanza**  (Roster unità a distanza)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

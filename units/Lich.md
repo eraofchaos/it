@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
 unitID: 305
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Lich"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Non morto
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Sacrificio: evoca un'orda di Scheletri.
 
@@ -69,16 +69,16 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bordone del sottosuolo](/equipment/Bordone del sottosuolo/) | **ATT** | **DIF** | 
-  | [Corona cadaverica](/equipment/Corona cadaverica/) | **PF** | **DIF** | 
-  | [Cintura mistica](/equipment/Cintura mistica/) | **ATT** | **DIF** | 
-  | [Armatura leggera dell'aldilà](/equipment/Armatura leggera dell'aldilà/) | **PF** | **DIF** | 
+  | [Bordone del sottosuolo](/it/equipment/Bordone del sottosuolo/) | **ATT** | **DIF** | 
+  | [Corona cadaverica](/it/equipment/Corona cadaverica/) | **PF** | **DIF** | 
+  | [Cintura mistica](/it/equipment/Cintura mistica/) | **ATT** | **DIF** | 
+  | [Armatura leggera dell'aldilà](/it/equipment/Armatura leggera dell'aldilà/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Tributo di morte](/Exclusive/Lich Death Tribute/) 
+ **Name:** [Tributo di morte](/it/Exclusive/Lich Death Tribute/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rango ↑:** -
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Autonimo dimenticato](/Emblem/Forgotten Autonym/) (Malvagio)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Autonimo dimenticato](/it/Emblem/Forgotten Autonym/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Vidomina](/heroes/Vidomina/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/it/heroes/Vidomina/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

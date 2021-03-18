@@ -3,7 +3,7 @@ title: "Drago nero"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Drago nero"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/units/Faction Dungeon/)
 
  **Race:** Drago
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Soffio del drago: attacca i nemici, causando <Combustione> in un'ampia area.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Artigli magici di Drago](/equipment/Artigli magici di Drago/) | **ATT** | **DIF** | 
-  | [Fuoco devastante](/equipment/Fuoco devastante/) | **PF** | **DIF** | 
-  | [Ali oscuranti](/equipment/Ali oscuranti/) | **ATT** | **DIF** | 
-  | [Scaglia ferrea](/equipment/Scaglia ferrea/) | **PF** | **DIF** | 
+  | [Artigli magici di Drago](/it/equipment/Artigli magici di Drago/) | **ATT** | **DIF** | 
+  | [Fuoco devastante](/it/equipment/Fuoco devastante/) | **PF** | **DIF** | 
+  | [Ali oscuranti](/it/equipment/Ali oscuranti/) | **ATT** | **DIF** | 
+  | [Scaglia ferrea](/it/equipment/Scaglia ferrea/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Squama del Drago nero](/Exclusive/Black Dragon Black Dragon's Scale/) 
+ **Name:** [Squama del Drago nero](/it/Exclusive/Black Dragon Black Dragon's Scale/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -156,11 +156,12 @@ toc: true
 
 * **Dungeon**  (Roster Dungeon)
 * **Difesa**  (Roster unità di difesa)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

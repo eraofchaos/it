@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
 unitID: 9905
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Sirena"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/it/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Guarigione ad area. Buff potenti.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Organo marino](/equipment/Organo marino/) | **ATT** | **DIF** | 
-  | [Orecchini da Tritone](/equipment/Orecchini da Tritone/) | **PF** | **DIF** | 
-  | [Coda di pesce flessibile](/equipment/Coda di pesce flessibile/) | **ATT** | **DIF** | 
-  | [Protezione dell'oceano](/equipment/Protezione dell'oceano/) | **PF** | **DIF** | 
+  | [Organo marino](/it/equipment/Organo marino/) | **ATT** | **DIF** | 
+  | [Orecchini da Tritone](/it/equipment/Orecchini da Tritone/) | **PF** | **DIF** | 
+  | [Coda di pesce flessibile](/it/equipment/Coda di pesce flessibile/) | **ATT** | **DIF** | 
+  | [Protezione dell'oceano](/it/equipment/Protezione dell'oceano/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Maree notturne](/Exclusive/Mermaid Night Tides/) 
+ **Name:** [Maree notturne](/it/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Colpevolezza di Tarnum](/Emblem/Tarnum's Culpability/) (Neutrale)
-* [Principi legali dei successori](/Emblem/Successors' Legal Principles/) (Neutrale)
+* [Colpevolezza di Tarnum](/it/Emblem/Tarnum's Culpability/) (Neutrale)
+* [Principi legali dei successori](/it/Emblem/Successors' Legal Principles/) (Neutrale)
 
 ## Informazioni combinazione
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Baia**  (Roster Baia)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

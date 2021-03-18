@@ -3,7 +3,7 @@ title: "Rapace di fuoco"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
 unitID: 907
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Rapace di fuoco"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/it/units/Faction Conflux/)
 
  **Race:** Unicorno
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Soffio infuocato: infligge danni alle unità nemiche davanti a sé.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Becco della fiamma furente](/equipment/Becco della fiamma furente/) | **ATT** | **DIF** | 
-  | [Runa della Resurrezione](/equipment/Runa della Resurrezione/) | **PF** | **DIF** | 
-  | [Artigli della fiamma furente](/equipment/Artigli della fiamma furente/) | **ATT** | **DIF** | 
-  | [Ali arcobaleno](/equipment/Ali arcobaleno/) | **PF** | **DIF** | 
+  | [Becco della fiamma furente](/it/equipment/Becco della fiamma furente/) | **ATT** | **DIF** | 
+  | [Runa della Resurrezione](/it/equipment/Runa della Resurrezione/) | **PF** | **DIF** | 
+  | [Artigli della fiamma furente](/it/equipment/Artigli della fiamma furente/) | **ATT** | **DIF** | 
+  | [Ali arcobaleno](/it/equipment/Ali arcobaleno/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Fiamma eterna](/Exclusive/Firebird Eternal Flame/) 
+ **Name:** [Fiamma eterna](/it/Exclusive/Firebird Eternal Flame/) 
 
  **Is Open:** + 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) (Ordine)
-* [Calamità del Re](/Emblem/King's Calamity/) (Malvagio)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Confluenza**  (Roster Confluenza)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Luna](/heroes/Luna/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Luna](/it/heroes/Luna/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

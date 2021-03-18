@@ -2,18 +2,18 @@
 title: "Esclusivo - Annientamento"
 permalink: /Exclusive/Red Dragon Annihilation/
 excerpt: "Era of Chaos Annientamento. Annientamento. Era of Chaos Esclusivo Annientamento. Drago rosso Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Red Dragon Annientamento.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Annientamento** 
 
- **Esclusivo for Unit:** [Drago rosso](/units/Red Dragon/) 
+ **Esclusivo for Unit:** [Drago rosso](/it/units/Red Dragon/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Anima di Drago> Il corpo del Drago rosso viene potenziato da 1 <Anima di Drago> ogni 15 secondi, fino a un massimo di 4 Anime. Ciascuna Anima aumenta DAN e Rid DAN del Drago rosso del 10%. Quando il Drago rosso è potenziato da un'<Anima di Drago>, lancia <Fiamma infernale>, infliggendo danni pari al 150% del proprio ATT al bersaglio, più danni aggiuntivi pari al 20% dei PF massimi alle unità affette da <Combustione>. Recupero: 20 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Sottosuolo, la DIF e la Perforazione del Drago rosso aumentano di 50. |

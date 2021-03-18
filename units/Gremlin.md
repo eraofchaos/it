@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati."
 unitID: 601
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gremlin"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/it/units/Faction Tower/)
 
  **Race:** Umano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Palla di ferro incantata: aumenta notevolmente ATT e Vel ATT.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Flagello del fulmine](/equipment/Flagello del fulmine/) | **ATT** | **DIF** | 
-  | [Cappuccio incantato](/equipment/Cappuccio incantato/) | **PF** | **DIF** | 
-  | [Guanti incantati](/equipment/Guanti incantati/) | **ATT** | **DIF** | 
-  | [Mantello antivento](/equipment/Mantello antivento/) | **PF** | **DIF** | 
+  | [Flagello del fulmine](/it/equipment/Flagello del fulmine/) | **ATT** | **DIF** | 
+  | [Cappuccio incantato](/it/equipment/Cappuccio incantato/) | **PF** | **DIF** | 
+  | [Guanti incantati](/it/equipment/Guanti incantati/) | **ATT** | **DIF** | 
+  | [Mantello antivento](/it/equipment/Mantello antivento/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/Exclusive/Gremlin Long Bow/) 
+ **Name:** [Arco lungo](/it/Exclusive/Gremlin Long Bow/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Torre**  (Roster Torre)
 * **A distanza**  (Roster unità a distanza)
+* **R**  (R)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

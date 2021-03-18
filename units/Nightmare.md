@@ -3,7 +3,7 @@ title: "Incubo"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso."
 unitID: 508
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Incubo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Supporto. Danno istantaneo.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pupilla dell'Incubo](/equipment/Pupilla dell'Incubo/) | **ATT** | **DIF** | 
-  | [Fuoco abissale](/equipment/Fuoco abissale/) | **PF** | **DIF** | 
-  | [Ferro cinereo](/equipment/Ferro cinereo/) | **ATT** | **DIF** | 
-  | [Criniera di fuoco](/equipment/Criniera di fuoco/) | **PF** | **DIF** | 
+  | [Pupilla dell'Incubo](/it/equipment/Pupilla dell'Incubo/) | **ATT** | **DIF** | 
+  | [Fuoco abissale](/it/equipment/Fuoco abissale/) | **PF** | **DIF** | 
+  | [Ferro cinereo](/it/equipment/Ferro cinereo/) | **ATT** | **DIF** | 
+  | [Criniera di fuoco](/it/equipment/Criniera di fuoco/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [](/Exclusive/Nightmare /) 
+ **Name:** [](/it/Exclusive/Nightmare /) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -167,40 +168,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Signore degli Incubi
 
  **Awaking Descrizione:** Mentre emerge dal mondo dei sogni e attraversa il magma che lo separa dal regno dei vivi, il suo corpo è avvolto da un'aura terrificante. Il suo alito infuocato riduce in cenere tutto quello che tocca, e nelle sue vene scorre autentica lava. Quando parte all'assalto, il terrore attanaglia anche i più audaci guerrieri, rendendo pesanti le spade nelle loro mani.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Schiera un Incubo con almeno </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> unità Inferno e uccidi 1000 Gnomi nella Tesoreria degli gnomi in una battaglia sola. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
  2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Signore degli Incubi nei livelli del Sottosuolo 17-2 e 17-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Schiera un Incubo e vinci </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> battaglie nell'Arena.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Descrizione:** 
+### 1st Skill (or 2nd): Velo dell'Incubo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incubo senza fine&gt;</span><span style="color: #645252;font-size:18px"> Si attiva ogni 15 secondi. Scaglia una maledizione nell'area circostante l'unità nemica con i PF più bassi. La maledizione causa &lt;Sonno&gt; per 3 secondi ai nemici colpiti, impedendo loro di muoversi o attaccare, ne riduce la Rid DAN del 30% e infligge loro &lt;Combustione&gt; per 5 secondi (questo effetto non può essere annullato).</span>
 
-### 2nd Skill (or 1st): 
- **Descrizione:** 
+### 2nd Skill (or 1st): Incubo profondo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Incubo senza fine&gt;</span><span style="color: #645252;font-size:18px"> Si attiva ogni 15 secondi. Scaglia una maledizione che causa &lt;Sonno&gt; per 5 secondi ai nemici colpiti, impedendo loro di muoversi o attaccare, ne riduce la DIF del 15% e infligge loro &lt;Combustione&gt; per 5 secondi (questo effetto non può essere annullato).</span>
 
-### 3rd Skill (or 4th): 
- **Descrizione:** 
+### 3rd Skill (or 4th): Divoratore di sogni
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Acchiappasogni&gt;</span><span style="color: #645252;font-size:18px"> Ciascun attacco aumenta dell'1% la Rid DAN delle unità Inferno alleate. Cumulabile fino a 10 volte. Durata: 10 secondi. Non può essere rimosso. Ciascun colpo critico inflitto dall'Incubo aumenta dell'1% la sua Vel ATT e quella delle unità Inferno. Cumulabile fino a 20 volte. Durata: 10 secondi. Non può essere rimosso.</span>
 
-### 4th Skill (or 3rd): 
- **Descrizione:** 
+### 4th Skill (or 3rd): Sogno indotto
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Acchiappasogni&gt;</span><span style="color: #645252;font-size:18px"> Ciascun attacco riduce di un ulteriore 2% la Rid DAN delle unità nemiche. Cumulabile fino a 20 volte. Durata: 10 secondi. Non può essere rimosso. Ciascun colpo critico inflitto dall'Incubo aumenta dell'1% la sua Vel ATT e quella delle unità Inferno. Cumulabile fino a 20 volte. Durata: 10 secondi. Non può essere rimosso.</span>
 
-### 5th Skill (or 6th): 
- **Descrizione:** 
+### 5th Skill (or 6th): Araldo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Presagio&gt;</span><span style="color: #645252;font-size:18px"> La DIF aumenta del 10% per ogni unità Inferno schierata. Quando un'unità viene sconfitta in battaglia, c'è una probabilità del 50% che il recupero delle tecniche supreme degli eroi alleati si riduca di 2 secondi.</span>
 
-### 6th Skill (or 5th): 
- **Descrizione:** 
+### 6th Skill (or 5th): Malaugurio
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Presagio&gt;</span><span style="color: #645252;font-size:18px"> La DIF aumenta del 10% per ogni unità Inferno schierata. Quando un'unità viene sconfitta in battaglia, l'unità alleata con i PF più bassi recupera il 20% dei propri PF massimi.</span>
 
 ## Technical info
  **runart:** 1

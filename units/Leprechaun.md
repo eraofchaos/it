@@ -3,7 +3,7 @@ title: "Leprecauno"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Aiutati dalla misteriosa protezione offerta dai loro amuleti magici, i Leprecauni evocati usano il Monolite dell'Albero del Mondo per raggiungere il sanguinoso e violento campo di battaglia e diventare i più imbattibili difensori della natura!"
 unitID: 909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Leprecauno"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Aiutati dalla misteriosa protezione offerta dai loro amuleti magici, i Leprecauni evocati usano il Monolite dell'Albero del Mondo per raggiungere il sanguinoso e violento campo di battaglia e diventare i più imbattibili difensori della natura!
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/it/units/Faction Conflux/)
 
  **Race:** Unicorno
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Schiva e para. Potenzia i contrattacchi.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fortunatebenedizioni](/equipment/Fortunatebenedizioni/) | **ATT** | **DIF** | 
-  | [Fontedienergia](/equipment/Fontedienergia/) | **PF** | **DIF** | 
-  | [Guardiadivita](/equipment/Guardiadivita/) | **ATT** | **DIF** | 
-  | [Laleggerezzadelvento](/equipment/Laleggerezzadelvento/) | **PF** | **DIF** | 
+  | [Benedizioni fortunate](/it/equipment/Benedizioni fortunate/) | **ATT** | **DIF** | 
+  | [Fonte di potere](/it/equipment/Fonte di potere/) | **PF** | **DIF** | 
+  | [Guardiano della vita](/it/equipment/Guardiano della vita/) | **ATT** | **DIF** | 
+  | [La leggerezza del vento](/it/equipment/La leggerezza del vento/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Rovi](/Exclusive/Leprechaun Thorns/) 
+ **Name:** [Rovi](/it/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -174,10 +174,11 @@ toc: true
 
 * **Confluenza**  (Roster Confluenza)
 * **Difesa**  (Roster unità di difesa)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -196,21 +197,21 @@ toc: true
  **Awaking Descrizione:** Le leggende narrano dell'immenso Albero del Mondo del Piano di Confluenza. Antico e misterioso, è una meta tanto ambita quanto temuta dagli avventurieri. Lo protegge infatti una banda di terrificanti guardiani; chiunque osi avvicinarsi all'Albero viene annientato. Numerosi audaci avventurieri sono andati alla sua ricerca, ma nessuno è mai tornato.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Schiera un Leprecauno con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Confluenza e completa l'Utopia dei Dragoni </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Leprecauno maggiore nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Schiera un Leprecauno e vinci </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> battaglia del Duello dei Campioni.</span>
 
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Pugno possente
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è affetto da &lt;Combustione&gt;, inoltre, la sua DIF viene ridotta del 2%. Ciascun debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è affetto da &lt;Combustione&gt;, inoltre, la sua DIF viene ridotta del 2%. Il debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
 
 ### 2nd Skill (or 1st): Colpo diretto
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è &lt;congelato&gt;, inoltre, la sua DIF viene ridotta del 2%. Ciascun debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pugno diretto&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Rid DAN del bersaglio del 3%. Se il bersaglio è &lt;congelato&gt;, inoltre, la sua DIF viene ridotta del 2%. Il debuff dura 7 secondi ed è cumulabile fino a 8 volte.</span>
 
 ### 3rd Skill (or 4th): Numero fortunato
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sorte&gt;</span><span style="color: #645252;font-size:18px"> Gli effetti delle tecniche del Leprecauno sono cumulabili da 5 a 12 volte in più.</span>

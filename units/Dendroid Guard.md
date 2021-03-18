@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici."
 unitID: 205
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Guardia Dendroide"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Demonio
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Vincolo: <rallenta> un'unità nemica, riducendone la Vel ATT.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ramo della vitalità](/equipment/Ramo della vitalità/) | **ATT** | **DIF** | 
-  | [Corona dell'abbondanza](/equipment/Corona dell'abbondanza/) | **PF** | **DIF** | 
-  | [Runa sempreverde](/equipment/Runa sempreverde/) | **ATT** | **DIF** | 
-  | [Armatura di liane](/equipment/Armatura di liane/) | **PF** | **DIF** | 
+  | [Ramo della vitalità](/it/equipment/Ramo della vitalità/) | **ATT** | **DIF** | 
+  | [Corona dell'abbondanza](/it/equipment/Corona dell'abbondanza/) | **PF** | **DIF** | 
+  | [Runa sempreverde](/it/equipment/Runa sempreverde/) | **ATT** | **DIF** | 
+  | [Armatura di liane](/it/equipment/Armatura di liane/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Dendroid Guard Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Dendroid Guard Iris Shield/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Avarizia](/Emblem/Greed/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
 
 ## Informazioni combinazione
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Ryland](/heroes/Ryland/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ryland](/it/heroes/Ryland/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

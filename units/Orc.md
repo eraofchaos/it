@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano."
 unitID: 403
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Orco"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Orco
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Colpo di grazia: infligge danni aggiuntivi ai nemici con PF inferiori al 30%.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ascia da lancio](/equipment/Ascia da lancio/) | **ATT** | **DIF** | 
-  | [Cintura del controllo](/equipment/Cintura del controllo/) | **PF** | **DIF** | 
-  | [Spallacci di ferro](/equipment/Spallacci di ferro/) | **ATT** | **DIF** | 
-  | [Spallacci sanguinari](/equipment/Spallacci sanguinari/) | **PF** | **DIF** | 
+  | [Ascia da lancio](/it/equipment/Ascia da lancio/) | **ATT** | **DIF** | 
+  | [Cintura del controllo](/it/equipment/Cintura del controllo/) | **PF** | **DIF** | 
+  | [Spallacci di ferro](/it/equipment/Spallacci di ferro/) | **ATT** | **DIF** | 
+  | [Spallacci sanguinari](/it/equipment/Spallacci sanguinari/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/Exclusive/Orc Long Bow/) 
+ **Name:** [Arco lungo](/it/Exclusive/Orc Long Bow/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **A distanza**  (Roster unità a distanza)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

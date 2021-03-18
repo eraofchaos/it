@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue."
 unitID: 606
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Naga"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/it/units/Faction Tower/)
 
  **Race:** Umano
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Danza delle lame: DAN ad area e riduzione DIF ad area.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lama del flusso eterno](/equipment/Lama del flusso eterno/) | **ATT** | **DIF** | 
-  | [Spallacci del navigatore](/equipment/Spallacci del navigatore/) | **PF** | **DIF** | 
-  | [Copricapo del Serpente divino](/equipment/Copricapo del Serpente divino/) | **ATT** | **DIF** | 
-  | [Cintura resistente e flessibile](/equipment/Cintura resistente e flessibile/) | **PF** | **DIF** | 
+  | [Lama del flusso eterno](/it/equipment/Lama del flusso eterno/) | **ATT** | **DIF** | 
+  | [Spallacci del navigatore](/it/equipment/Spallacci del navigatore/) | **PF** | **DIF** | 
+  | [Copricapo del Serpente divino](/it/equipment/Copricapo del Serpente divino/) | **ATT** | **DIF** | 
+  | [Cintura resistente e flessibile](/it/equipment/Cintura resistente e flessibile/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Spada da Naga](/Exclusive/Naga Naga Sword/) 
+ **Name:** [Spada da Naga](/it/Exclusive/Naga Naga Sword/) 
 
  **Is Open:** + 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Profeta verde](/Emblem/Green Prophet/) (Bontà)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Profeta verde](/it/Emblem/Green Prophet/) (Bontà)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Torre**  (Roster Torre)
 * **Attacco**  (Roster unità d'attacco)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

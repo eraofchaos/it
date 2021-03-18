@@ -2,18 +2,18 @@
 title: "Esclusivo - Tributo di morte"
 permalink: /Exclusive/Lich Death Tribute/
 excerpt: "Era of Chaos Tributo di morte. Tributo di morte. Era of Chaos Esclusivo Tributo di morte. Lich Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Lich Tributo di morte.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Tributo di morte** 
 
- **Esclusivo for Unit:** [Lich](/units/Lich/) 
+ **Esclusivo for Unit:** [Lich](/it/units/Lich/) 
 
  **Item to Rango ↑:** -
 
@@ -21,13 +21,13 @@ classes: wide
 
  **Type:** A distanza
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1560
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Sacrificio dell'anima draconica> Dopo 5 e 45 secondi dall'inizio della battaglia, viene evocato un Drago scheletrico che persiste per 20 secondi.　(ATT e PF del Drago scheletrico dipendono dal livello dell'unità. Il Drago scheletrico usa <Paura> e <Perforazione>. Finché resta sul campo di battaglia, le unità Necropoli alleate godono di DAN e Rid DAN aumentati del 20%) |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN del Lich aumentata del 20%. |

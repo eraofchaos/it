@@ -2,18 +2,18 @@
 title: "Esclusivo - Drago scheletrico immortale"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Drago scheletrico immortale. Drago scheletrico immortale. Era of Chaos Esclusivo Drago scheletrico immortale. Drago scheletrico Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Bone Dragon Drago scheletrico immortale.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Drago scheletrico immortale** 
 
- **Esclusivo for Unit:** [Drago scheletrico](/units/Bone Dragon/) 
+ **Esclusivo for Unit:** [Drago scheletrico](/it/units/Bone Dragon/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Potere del Drago> Utilizzabile ogni 12 secondi. Tutte le unità nemiche hanno DIF ridotta del 5% e resistenza magica ridotta del 30% per 15 secondi. Cumulabile fino a 5 volte. Inoltre, causa <Silenzio> a tutte le unità nemiche per 3 secondi. Si attiva automaticamente ogni volta che un'unità nemica viene abbattuta. |
   | **1x** <i class="fas fa-star"/> | ? | Quando il Drago scheletrico è sul campo di battaglia, le unità Necropoli alleate godono di Tenacia aumentata di 200 e DIF aumentata del 10%. |

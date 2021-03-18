@@ -2,113 +2,113 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Fazione: [Confluenza](/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/units/Faction Rampart/){: .btn .btn--info} [Castello](/units/Faction Castle/){: .btn .btn--primary} [Torre](/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/units/Faction Necropolis/){: .btn .btn--primary} 
+  by Fazione: [Confluenza](/it/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--info} [Castello](/it/units/Faction Castle/){: .btn .btn--primary} [Torre](/it/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/it/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/it/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  by Class: [A distanza](/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/units/Unit Class Defense/){: .btn .btn--info} 
+  by Class: [A distanza](/it/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/it/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/it/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/it/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/it/units/Unit Class Defense/){: .btn .btn--info} 
 
-  by Rank: [R](/units/Unit Rank R/){: .btn .btn--primary} [SSR](/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/units/Unit Rank SR/){: .btn .btn--danger} 
+  by Rank: [R](/it/units/Unit Rank R/){: .btn .btn--primary} [SSR](/it/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/it/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/it/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  by Members: [x9](/units/Unit Member x9/){: .btn .btn--primary} [x1](/units/Unit Member x1/){: .btn .btn--success} [x4](/units/Unit Member x4/){: .btn .btn--warning} 
+  by Members: [x9](/it/units/Unit Member x9/){: .btn .btn--primary} [x1](/it/units/Unit Member x1/){: .btn .btn--success} [x4](/it/units/Unit Member x4/){: .btn .btn--warning} 
 
-  by Stars: [<i class="fas fa-star"/>](/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/){: .btn .btn--warning} 
+  by Stars: [<i class="fas fa-star"/>](/it/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/){: .btn .btn--warning} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | [Addestratore di squali](/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Cavalcasquali  |
-  | 2 | [Aeronave magica](/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
-  | 3 | [Angelo](/units/Angel/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcangelo  |
-  | 4 | [Anima](/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spettro  |
-  | 5 | [Arciere di Regna](/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
-  | 6 | [Arcimago](/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arcimago  |
-  | 7 | [Arpia](/units/Harpy/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
-  | 8 | [Assassino](/units/Assassin/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
-  | 9 | [Basilisco](/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
-  | 10 | [Behemoth](/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Behemoth antico  |
-  | 11 | [Berserker](/units/Berserker/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Messaggero di morte  |
-  | 12 | [Campione oscuro](/units/Dark Champion/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
-  | 13 | [Catafratto](/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Cavalieri campioni  |
-  | 14 | [Cavaliere nero](/units/Black Knight/) | Incursione | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Terrore in marcia  |
-  | 15 | [Centauro](/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitano Centauro  |
-  | 16 | [Ciclope](/units/Cyclops/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Re Ciclope  |
-  | 17 | [Demone](/units/Demon/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |    |
-  | 18 | [Demone dell'abisso](/units/Pit Fiend/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Signore dell'abisso  |
-  | 19 | [Demone di ghiaccio](/units/Ice Demon/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
-  | 20 | [Diavolo](/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcidiavolo  |
-  | 21 | [Domatore di lupi](/units/Wolf Rider/) | Incursione | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Signore dei Lupi  |
-  | 22 | [Drago nero](/units/Black Dragon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Re dei Draghi neri  |
-  | 23 | [Drago rosso](/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 24 | [Drago scheletrico](/units/Bone Dragon/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Drago fantasma  |
-  | 25 | [Drago verde](/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Drago d'Oro  |
-  | 26 | [Driade](/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 27 | [Druido](/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Arcidruido  |
-  | 28 | [Efreet](/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
-  | 29 | [Elementale del fuoco](/units/Fire Elemental/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Energia elementale  |
-  | 30 | [Elementale del ghiaccio](/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Spirito della neve silente  |
-  | 31 | [Elementale del mare](/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elementale delle maree  |
-  | 32 | [Elementale della pietra](/units/Stone Elemental/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
-  | 33 | [Elementale psichico](/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
-  | 34 | [Elementale tempesta](/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tempesta di fulmini  |
-  | 35 | [Elfo del bosco](/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Elfo Gigante  |
-  | 36 | [Erbavespa](/units/Waspwort/) | A distanza | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
-  | 37 | [Folletto](/units/Imp/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Famiglio  |
-  | 38 | [Gargolla di pietra](/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
-  | 39 | [Genio](/units/Genie/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
-  | 40 | [Gigante](/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titano  |
-  | 41 | [Giudice](/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
-  | 42 | [Gnoll](/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerriero gnoll  |
-  | 43 | [Gnomo](/units/Dwarf/) | Difesa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
-  | 44 | [Goblin](/units/Goblin/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
-  | 45 | [Gog](/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
-  | 46 | [Golem di ferro](/units/Iron Golem/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Golem d'oro  |
-  | 47 | [Golem draconico](/units/Dragon Golem/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
-  | 48 | [Gorgone](/units/Gorgon/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gorgone Invincibile  |
-  | 49 | [Gremlin](/units/Gremlin/) | A distanza | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
-  | 50 | [Grifone](/units/Griffin/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |   -   |
-  | 51 | [Guardia Dendroide](/units/Dendroid Guard/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldato Dendroide  |
-  | 52 | [Guerrieri spartani](/units/Spartan Warriors/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
-  | 53 | [Idra](/units/Hydra/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Idra del Caos  |
-  | 54 | [Incubo](/units/Nightmare/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |    |
-  | 55 | [Leprecauno](/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |
-  | 56 | [Leviatano](/units/Revyaratan/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Antico mostro marino  |
-  | 57 | [Lich](/units/Lich/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 228.7 | 1581 |  Lich potenziato  |
-  | 58 | [Manticora](/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicora  |
-  | 59 | [Mantide](/units/Mantis/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
-  | 60 | [Medusa](/units/Medusa/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 202.0 | 1144 |  Regina Medusa  |
-  | 61 | [Minotauro](/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Re dei Minotauri  |
-  | 62 | [Monaco](/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
-  | 63 | [Morto vivente](/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombi  |
-  | 64 | [Mosca serpente](/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
-  | 65 | [Mummia](/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |
-  | 66 | [Naga](/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Regina delle Naga  |
-  | 67 | [Ogre](/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre mago  |
-  | 68 | [Orco](/units/Orc/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  Orco comandante  |
-  | 69 | [Osservatore](/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
-  | 70 | [Paladino](/units/Paladin/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Paladino Supremo  |
-  | 71 | [Pegaso](/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Argenteo  |
-  | 72 | [Picchiere](/units/Pikeman/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardiere  |
-  | 73 | [Pirati di Regna](/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Re dei Pirati  |
-  | 74 | [Progenie velenosa](/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
-  | 75 | [Rapace di fuoco](/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
-  | 76 | [Roc](/units/Roc/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Uccello del Tuono  |
-  | 77 | [Scheletro](/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Scheletro guerriero  |
-  | 78 | [Segugio infernale](/units/Hell Hound/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
-  | 79 | [Serpente di Regna](/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
-  | 80 | [Sirena](/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
-  | 81 | [Spadaccino](/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crociato  |
-  | 82 | [Strega malvagia](/units/Evil Sorceress/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 633.6 | 5770 |   -   |
-  | 83 | [Tartaruga draconica](/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tartaruga draconica primordiale  |
-  | 84 | [Tigre bianca](/units/White Tiger/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
-  | 85 | [Tiratore scelto](/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Maestro arciere  |
-  | 86 | [Troglodita](/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita oscuro  |
-  | 87 | [Troll](/units/Troll/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 88 | [Unicorno](/units/Unicorn/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Unicorno da Guerra  |
-  | 89 | [Uomo lucertola](/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
-  | 90 | [Vampiro](/units/Vampire/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Signore dei Vampiri  |
-  | 91 | [Veggente di Regna](/units/Regnan Seer/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Elementale delle maree  |
-  | 92 | [Viverna](/units/Wyvern/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Viverna Monarca  |
+  | 1 | [Addestratore di squali](/it/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Cavalcasquali  |
+  | 2 | [Aeronave magica](/it/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
+  | 3 | [Angelo](/it/units/Angel/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcangelo  |
+  | 4 | [Anima](/it/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spettro  |
+  | 5 | [Arciere di Regna](/it/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 6 | [Arcimago](/it/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arcimago  |
+  | 7 | [Arpia](/it/units/Harpy/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |    |
+  | 8 | [Assassino](/it/units/Assassin/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
+  | 9 | [Basilisco](/it/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
+  | 10 | [Behemoth](/it/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Behemoth antico  |
+  | 11 | [Berserker](/it/units/Berserker/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Messaggero di morte  |
+  | 12 | [Campione oscuro](/it/units/Dark Champion/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
+  | 13 | [Catafratto](/it/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Cavalieri campioni  |
+  | 14 | [Cavaliere nero](/it/units/Black Knight/) | Incursione | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Terrore in marcia  |
+  | 15 | [Centauro](/it/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitano Centauro  |
+  | 16 | [Ciclope](/it/units/Cyclops/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Re Ciclope  |
+  | 17 | [Demone](/it/units/Demon/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia infernale  |
+  | 18 | [Demone dell'abisso](/it/units/Pit Fiend/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Signore dell'abisso  |
+  | 19 | [Demone di ghiaccio](/it/units/Ice Demon/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
+  | 20 | [Diavolo](/it/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcidiavolo  |
+  | 21 | [Domatore di lupi](/it/units/Wolf Rider/) | Incursione | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Signore dei Lupi  |
+  | 22 | [Drago nero](/it/units/Black Dragon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Re dei Draghi neri  |
+  | 23 | [Drago rosso](/it/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
+  | 24 | [Drago scheletrico](/it/units/Bone Dragon/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Drago fantasma  |
+  | 25 | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Drago d'Oro  |
+  | 26 | [Driade](/it/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 27 | [Druido](/it/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Arcidruido  |
+  | 28 | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
+  | 29 | [Elementale del fuoco](/it/units/Fire Elemental/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Energia elementale  |
+  | 30 | [Elementale del ghiaccio](/it/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Spirito della neve silente  |
+  | 31 | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elementale delle maree  |
+  | 32 | [Elementale della pietra](/it/units/Stone Elemental/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
+  | 33 | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
+  | 34 | [Elementale tempesta](/it/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tempesta di fulmini  |
+  | 35 | [Elfo del bosco](/it/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Elfo Gigante  |
+  | 36 | [Erbavespa](/it/units/Waspwort/) | A distanza | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |
+  | 37 | [Folletto](/it/units/Imp/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Famiglio  |
+  | 38 | [Gargolla di pietra](/it/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
+  | 39 | [Genio](/it/units/Genie/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
+  | 40 | [Gigante](/it/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titano  |
+  | 41 | [Giudice](/it/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
+  | 42 | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerriero gnoll  |
+  | 43 | [Gnomo](/it/units/Dwarf/) | Difesa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 44 | [Goblin](/it/units/Goblin/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
+  | 45 | [Gog](/it/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
+  | 46 | [Golem di ferro](/it/units/Iron Golem/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Golem d'oro  |
+  | 47 | [Golem draconico](/it/units/Dragon Golem/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
+  | 48 | [Gorgone](/it/units/Gorgon/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gorgone Invincibile  |
+  | 49 | [Gremlin](/it/units/Gremlin/) | A distanza | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
+  | 50 | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifone sacro  |
+  | 51 | [Guardia Dendroide](/it/units/Dendroid Guard/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldato Dendroide  |
+  | 52 | [Guerrieri spartani](/it/units/Spartan Warriors/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
+  | 53 | [Idra](/it/units/Hydra/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Idra del Caos  |
+  | 54 | [Incubo](/it/units/Nightmare/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Signore degli Incubi  |
+  | 55 | [Leprecauno](/it/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |
+  | 56 | [Leviatano](/it/units/Revyaratan/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Antico mostro marino  |
+  | 57 | [Lich](/it/units/Lich/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Lich potenziato  |
+  | 58 | [Manticora](/it/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicora  |
+  | 59 | [Mantide](/it/units/Mantis/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
+  | 60 | [Medusa](/it/units/Medusa/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 202.0 | 1144 |  Regina Medusa  |
+  | 61 | [Minotauro](/it/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Re dei Minotauri  |
+  | 62 | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
+  | 63 | [Morto vivente](/it/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombi  |
+  | 64 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 65 | [Mummia](/it/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |
+  | 66 | [Naga](/it/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Regina delle Naga  |
+  | 67 | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre mago  |
+  | 68 | [Orco](/it/units/Orc/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  Orco comandante  |
+  | 69 | [Osservatore](/it/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
+  | 70 | [Paladino](/it/units/Paladin/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Paladino Supremo  |
+  | 71 | [Pegaso](/it/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Argenteo  |
+  | 72 | [Picchiere](/it/units/Pikeman/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardiere  |
+  | 73 | [Pirati di Regna](/it/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Re dei Pirati  |
+  | 74 | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 75 | [Rapace di fuoco](/it/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
+  | 76 | [Roc](/it/units/Roc/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Uccello del Tuono  |
+  | 77 | [Scheletro](/it/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Scheletro guerriero  |
+  | 78 | [Segugio infernale](/it/units/Hell Hound/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |
+  | 79 | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 80 | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
+  | 81 | [Spadaccino](/it/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crociato  |
+  | 82 | [Strega malvagia](/it/units/Evil Sorceress/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 633.6 | 5770 |   -   |
+  | 83 | [Tartaruga draconica](/it/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tartaruga draconica primordiale  |
+  | 84 | [Tigre bianca](/it/units/White Tiger/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
+  | 85 | [Tiratore scelto](/it/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Maestro arciere  |
+  | 86 | [Troglodita](/it/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita oscuro  |
+  | 87 | [Troll](/it/units/Troll/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
+  | 88 | [Unicorno](/it/units/Unicorn/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Unicorno da Guerra  |
+  | 89 | [Uomo lucertola](/it/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
+  | 90 | [Vampiro](/it/units/Vampire/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.4 | 910 |  Signore dei Vampiri  |
+  | 91 | [Veggente di Regna](/it/units/Regnan Seer/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Elementale delle maree  |
+  | 92 | [Viverna](/it/units/Wyvern/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Viverna Monarca  |

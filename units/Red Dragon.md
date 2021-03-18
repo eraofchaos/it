@@ -3,7 +3,7 @@ title: "Drago rosso"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Signore Supremo dei Draghi. Il suo ruggito, unico per potenza e solennità, richiama i suoi simili alla battaglia."
 unitID: 708
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Drago rosso"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Il Signore Supremo dei Draghi. Il suo ruggito, unico per potenza e solennità, richiama i suoi simili alla battaglia.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/units/Faction Dungeon/)
 
  **Race:** Drago
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Signore Supremo dei draghi. Ruggito possente.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corno del fuoco rosso](/equipment/Corno del fuoco rosso/) | **ATT** | **DIF** | 
-  | [Ali antiche](/equipment/Ali antiche/) | **PF** | **DIF** | 
-  | [Artigli ustionanti](/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
-  | [Coda di Drago impetuoso](/equipment/Coda di Drago impetuoso/) | **PF** | **DIF** | 
+  | [Corno del fuoco rosso](/it/equipment/Corno del fuoco rosso/) | **ATT** | **DIF** | 
+  | [Ali antiche](/it/equipment/Ali antiche/) | **PF** | **DIF** | 
+  | [Artigli ustionanti](/it/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
+  | [Coda di Drago impetuoso](/it/equipment/Coda di Drago impetuoso/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Annientamento](/Exclusive/Red Dragon Annihilation/) 
+ **Name:** [Annientamento](/it/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Calamità del Re](/Emblem/King's Calamity/) (Malvagio)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Dungeon**  (Roster Dungeon)
 * **Attacco**  (Roster unità d'attacco)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

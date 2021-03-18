@@ -3,7 +3,7 @@ title: "Paladino"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
 unitID: 108
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Paladino"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Umano
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Rinforzi del valoroso: evoca un Seguace del Santuario
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Spada del giudizio](/equipment/Spada del giudizio/) | **ATT** | **DIF** | 
-  | [Elmo votivo](/equipment/Elmo votivo/) | **PF** | **DIF** | 
-  | [Spallacci di ferro](/equipment/Spallacci di ferro/) | **ATT** | **DIF** | 
-  | [Bracciali forgiati](/equipment/Bracciali forgiati/) | **PF** | **DIF** | 
+  | [Spada del giudizio](/it/equipment/Spada del giudizio/) | **ATT** | **DIF** | 
+  | [Elmo votivo](/it/equipment/Elmo votivo/) | **PF** | **DIF** | 
+  | [Spallacci di ferro](/it/equipment/Spallacci di ferro/) | **ATT** | **DIF** | 
+  | [Bracciali forgiati](/it/equipment/Bracciali forgiati/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [](/Exclusive/Paladin /) 
+ **Name:** [](/it/Exclusive/Paladin /) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -153,10 +153,11 @@ toc: true
 
 * **Castello**  (Roster Castello)
 * **Difesa**  (Roster unità di difesa)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -168,7 +169,7 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Paladino Supremo
 

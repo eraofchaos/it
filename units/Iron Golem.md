@@ -3,7 +3,7 @@ title: "Golem di ferro"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia."
 unitID: 603
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Golem di ferro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/it/units/Faction Tower/)
 
  **Race:** Umano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Riverbero metallico: protegge le unità alleate con uno <scudo>.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Guanti di ferro](/equipment/Guanti di ferro/) | **ATT** | **DIF** | 
-  | [Spallacci chiodati](/equipment/Spallacci chiodati/) | **PF** | **DIF** | 
-  | [Cuore arcano](/equipment/Cuore arcano/) | **ATT** | **DIF** | 
-  | [Corazza di ferro temprato](/equipment/Corazza di ferro temprato/) | **PF** | **DIF** | 
+  | [Guanti di ferro](/it/equipment/Guanti di ferro/) | **ATT** | **DIF** | 
+  | [Spallacci chiodati](/it/equipment/Spallacci chiodati/) | **PF** | **DIF** | 
+  | [Cuore arcano](/it/equipment/Cuore arcano/) | **ATT** | **DIF** | 
+  | [Corazza di ferro temprato](/it/equipment/Corazza di ferro temprato/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Iron Golem Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Iron Golem Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Torre**  (Roster Torre)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

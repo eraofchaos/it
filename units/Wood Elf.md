@@ -3,7 +3,7 @@ title: "Elfo del bosco"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
 unitID: 203
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Elfo del bosco"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Foresta
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Pioggia di frecce: aumenta la Vel ATT del 500% per un breve periodo.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Arco lungo silvano](/equipment/Arco lungo silvano/) | **ATT** | **DIF** | 
-  | [Corona d'alloro](/equipment/Corona d'alloro/) | **PF** | **DIF** | 
-  | [Frecce di giada](/equipment/Frecce di giada/) | **ATT** | **DIF** | 
-  | [Abito d'alloro](/equipment/Abito d'alloro/) | **PF** | **DIF** | 
+  | [Arco lungo silvano](/it/equipment/Arco lungo silvano/) | **ATT** | **DIF** | 
+  | [Corona d'alloro](/it/equipment/Corona d'alloro/) | **PF** | **DIF** | 
+  | [Frecce di giada](/it/equipment/Frecce di giada/) | **ATT** | **DIF** | 
+  | [Abito d'alloro](/it/equipment/Abito d'alloro/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/Exclusive/Wood Elf Long Bow/) 
+ **Name:** [Arco lungo](/it/Exclusive/Wood Elf Long Bow/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Simbolo di Aksoe](/Emblem/Aksoe Token/) (Neutrale)
-* [Invidia](/Emblem/Jealousy/) (Caos)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **A distanza**  (Roster unità a distanza)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

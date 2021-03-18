@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Ogre"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Barbaro
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Pozza di sangue: potenzia l'assorbimento delle unità vicine.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bordone testa d'ariete](/equipment/Bordone testa d'ariete/) | **ATT** | **DIF** | 
-  | [Cintura del Rituale](/equipment/Cintura del Rituale/) | **PF** | **DIF** | 
-  | [Talismano tribale](/equipment/Talismano tribale/) | **ATT** | **DIF** | 
-  | [Spallacci del Rituale](/equipment/Spallacci del Rituale/) | **PF** | **DIF** | 
+  | [Bordone testa d'ariete](/it/equipment/Bordone testa d'ariete/) | **ATT** | **DIF** | 
+  | [Cintura del Rituale](/it/equipment/Cintura del Rituale/) | **PF** | **DIF** | 
+  | [Talismano tribale](/it/equipment/Talismano tribale/) | **ATT** | **DIF** | 
+  | [Spallacci del Rituale](/it/equipment/Spallacci del Rituale/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Ogre Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Ogre Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -161,11 +161,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Segugio infernale"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Segugi infernali si scagliano sui nemici con le loro tre terrificanti teste. Lava incandescente scorre sui loro corpi e una scia di fiamme si leva al loro passaggio."
 unitID: 503
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Segugio infernale"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Segugi infernali si scagliano sui nemici con le loro tre terrificanti teste. Lava incandescente scorre sui loro corpi e una scia di fiamme si leva al loro passaggio.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Bestia
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Raptus: per un breve periodo, tutti gli attacchi sono colpi critici.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Denti ustionanti](/equipment/Denti ustionanti/) | **ATT** | **DIF** | 
-  | [Armatura infernale](/equipment/Armatura infernale/) | **PF** | **DIF** | 
-  | [Artigli ustionanti](/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
-  | [Criniera fiammeggiante](/equipment/Criniera fiammeggiante/) | **PF** | **DIF** | 
+  | [Denti ustionanti](/it/equipment/Denti ustionanti/) | **ATT** | **DIF** | 
+  | [Armatura infernale](/it/equipment/Armatura infernale/) | **PF** | **DIF** | 
+  | [Artigli ustionanti](/it/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
+  | [Criniera fiammeggiante](/it/equipment/Criniera fiammeggiante/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/Exclusive/Hell Hound Knight Pike/) 
+ **Name:** [Carica impetuosa](/it/Exclusive/Hell Hound Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Invidia](/Emblem/Jealousy/) (Caos)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Incursione**  (Roster unità di incursione)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

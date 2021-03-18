@@ -3,7 +3,7 @@ title: "Viverna"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Viverna"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Eccellente in mischia. Tossico.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Artigli di Drago](/equipment/Artigli di Drago/) | **ATT** | **DIF** | 
-  | [Zanna della Pestilenza](/equipment/Zanna della Pestilenza/) | **PF** | **DIF** | 
-  | [Spine dorsali del Folletto](/equipment/Spine dorsali del Folletto/) | **ATT** | **DIF** | 
-  | [Ali di Drago](/equipment/Ali di Drago/) | **PF** | **DIF** | 
+  | [Artigli di Drago](/it/equipment/Artigli di Drago/) | **ATT** | **DIF** | 
+  | [Zanna della Pestilenza](/it/equipment/Zanna della Pestilenza/) | **PF** | **DIF** | 
+  | [Spine dorsali del Folletto](/it/equipment/Spine dorsali del Folletto/) | **ATT** | **DIF** | 
+  | [Ali di Drago](/it/equipment/Ali di Drago/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Coda di Viverna](/Exclusive/Wyvern Wyvern's Tail/) 
+ **Name:** [Coda di Viverna](/it/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **Attacco**  (Roster unità d'attacco)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

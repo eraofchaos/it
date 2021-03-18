@@ -3,7 +3,7 @@ title: "Strega malvagia"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un tempo era l'ancella divina del Tempio di Baa. La sua pelle è coperta di rune, che le donano un terrificante potere pari a quello dei demoni."
 unitID: 709
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Strega malvagia"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descrizione:** Un tempo era l'ancella divina del Tempio di Baa. La sua pelle è coperta di rune, che le donano un terrificante potere pari a quello dei demoni.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/units/Faction Dungeon/)
 
  **Race:** Truppe Dungeon
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Riflette gli incantesimi. Applica buff con l'aura.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/equipment/UnknownEquipment_7091/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_7092](/equipment/UnknownEquipment_7092/) | **PF** | **DIF** | 
-  | [UnknownEquipment_7093](/equipment/UnknownEquipment_7093/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_7094](/equipment/UnknownEquipment_7094/) | **PF** | **DIF** | 
+  | [UnknownEquipment_7091](/it/equipment/UnknownEquipment_7091/) | **ATT** | **DIF** | 
+  | [UnknownEquipment_7092](/it/equipment/UnknownEquipment_7092/) | **PF** | **DIF** | 
+  | [UnknownEquipment_7093](/it/equipment/UnknownEquipment_7093/) | **ATT** | **DIF** | 
+  | [UnknownEquipment_7094](/it/equipment/UnknownEquipment_7094/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Dungeon**  (Roster Dungeon)
 * **Incursione**  (Roster unità di incursione)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

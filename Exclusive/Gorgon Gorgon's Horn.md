@@ -2,18 +2,18 @@
 title: "Esclusivo - Corno di Gorgone"
 permalink: /Exclusive/Gorgon Gorgon's Horn/
 excerpt: "Era of Chaos Corno di Gorgone. Corno di Gorgone. Era of Chaos Esclusivo Corno di Gorgone. Gorgone Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gorgon Corno di Gorgone.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Corno di Gorgone** 
 
- **Esclusivo for Unit:** [Gorgone](/units/Gorgon/) 
+ **Esclusivo for Unit:** [Gorgone](/it/units/Gorgon/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Corazza pietrificata> La Gorgone protegge il proprio corpo con una <Corazza pietrificata> e gode di DIF aumentata del 24% e Rid DAN aumentata del 20% per 6 secondi. Una volta esauriti questi bonus, la Gorgone infligge danni pari al 150% del proprio ATT alle unità nemiche in un'ampia area e ha il 30% di probabilità di causare <Pietrificazione> per 3 secondi. Recupero: 18 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | La Gorgone gode di PF e Rid DAN aumentati del 20%. |

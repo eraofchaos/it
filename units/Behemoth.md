@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Behemoth"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Unicorno
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Ruggito selvaggio: riduce notevolmente l'ATT del nemico e causa <Stordimento>.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Artigli feroci](/equipment/Artigli feroci/) | **ATT** | **DIF** | 
-  | [Pelle ferrea](/equipment/Pelle ferrea/) | **PF** | **DIF** | 
-  | [Zanne feroci](/equipment/Zanne feroci/) | **ATT** | **DIF** | 
-  | [Pelliccia](/equipment/Pelliccia/) | **PF** | **DIF** | 
+  | [Artigli feroci](/it/equipment/Artigli feroci/) | **ATT** | **DIF** | 
+  | [Pelle ferrea](/it/equipment/Pelle ferrea/) | **PF** | **DIF** | 
+  | [Zanne feroci](/it/equipment/Zanne feroci/) | **ATT** | **DIF** | 
+  | [Pelliccia](/it/equipment/Pelliccia/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Spirito sanguinario](/Exclusive/Behemoth Bloodthirsty Spirit/) 
+ **Name:** [Spirito sanguinario](/it/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -162,11 +162,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **Difesa**  (Roster unità di difesa)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

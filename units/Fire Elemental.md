@@ -3,7 +3,7 @@ title: "Elementale del fuoco"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
 unitID: 904
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Elementale del fuoco"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/it/units/Faction Conflux/)
 
  **Race:** Domatore
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Short description:** Brucia i nemici. Esplosione ad ampio raggio.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Nucleo di fuoco](/equipment/Nucleo di fuoco/) | **ATT** | **DIF** | 
-  | [Scudo ribollente](/equipment/Scudo ribollente/) | **PF** | **DIF** | 
-  | [Occhio di zaffiro](/equipment/Occhio di zaffiro/) | **ATT** | **DIF** | 
-  | [Artiglio affilato blu](/equipment/Artiglio affilato blu/) | **PF** | **DIF** | 
+  | [Nucleo di fuoco](/it/equipment/Nucleo di fuoco/) | **ATT** | **DIF** | 
+  | [Scudo ribollente](/it/equipment/Scudo ribollente/) | **PF** | **DIF** | 
+  | [Occhio di zaffiro](/it/equipment/Occhio di zaffiro/) | **ATT** | **DIF** | 
+  | [Artiglio affilato blu](/it/equipment/Artiglio affilato blu/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Energia del Fuoco](/Exclusive/Fire Elemental Fire Energy/) 
+ **Name:** [Energia del Fuoco](/it/Exclusive/Fire Elemental Fire Energy/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Superbia](/Emblem/Arrogance/) (Caos)
-* [Calamità del Re](/Emblem/King's Calamity/) (Malvagio)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -156,11 +156,12 @@ toc: true
 
 * **Confluenza**  (Roster Confluenza)
 * **Attacco**  (Roster unità d'attacco)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Fiur](/heroes/Fiur/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Fiur](/it/heroes/Fiur/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Ciclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
 unitID: 406
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Ciclope"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Barbaro
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Macigno infuocato: infligge danni catastrofici alle unità nemiche sul suo percorso.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Macigno](/equipment/Macigno/) | **ATT** | **DIF** | 
-  | [Catene della guerra](/equipment/Catene della guerra/) | **PF** | **DIF** | 
-  | [Bracciali chiodati](/equipment/Bracciali chiodati/) | **ATT** | **DIF** | 
-  | [Pantaloni di cuoio](/equipment/Pantaloni di cuoio/) | **PF** | **DIF** | 
+  | [Macigno](/it/equipment/Macigno/) | **ATT** | **DIF** | 
+  | [Catene della guerra](/it/equipment/Catene della guerra/) | **PF** | **DIF** | 
+  | [Bracciali chiodati](/it/equipment/Bracciali chiodati/) | **ATT** | **DIF** | 
+  | [Pantaloni di cuoio](/it/equipment/Pantaloni di cuoio/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/Exclusive/Cyclops Long Bow/) 
+ **Name:** [Arco lungo](/it/Exclusive/Cyclops Long Bow/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
-* [Calamità del Re](/Emblem/King's Calamity/) (Malvagio)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **A distanza**  (Roster unità a distanza)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Yog](/heroes/Yog/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Yog](/it/heroes/Yog/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

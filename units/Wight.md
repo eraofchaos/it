@@ -3,7 +3,7 @@ title: "Anima"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Anima"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Umano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Strillo raccapricciante: causa <Silenzio> alle unità nemiche di fronte a sé.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Artigli spettrali](/equipment/Artigli spettrali/) | **ATT** | **DIF** | 
-  | [Armatura leggera funerea](/equipment/Armatura leggera funerea/) | **PF** | **DIF** | 
-  | [Anima maledetta](/equipment/Anima maledetta/) | **ATT** | **DIF** | 
-  | [Vestito funereo](/equipment/Vestito funereo/) | **PF** | **DIF** | 
+  | [Artigli spettrali](/it/equipment/Artigli spettrali/) | **ATT** | **DIF** | 
+  | [Armatura leggera funerea](/it/equipment/Armatura leggera funerea/) | **PF** | **DIF** | 
+  | [Anima maledetta](/it/equipment/Anima maledetta/) | **ATT** | **DIF** | 
+  | [Vestito funereo](/it/equipment/Vestito funereo/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/Exclusive/Wight Arcane Chant/) 
+ **Name:** [Cantico arcano](/it/Exclusive/Wight Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Profeta verde](/Emblem/Green Prophet/) (Bontà)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Profeta verde](/it/Emblem/Green Prophet/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -156,10 +156,11 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

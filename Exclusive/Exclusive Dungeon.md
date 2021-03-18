@@ -2,13 +2,13 @@
 title: "Era of Chaos - Esclusivo Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "Era of Chaos Esclusivo Dungeon. Esclusivo Dungeon. List of Esclusivo Dungeon in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Exclusive Dungeon"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 **Warning** You can get more information about Unit's Exclusive by clicking on Exclusive link. 
 {: .notice--danger}
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Troglodita](/units/Troglodyte/) | [Spada](/Exclusive/Troglodyte Sword/) | - | Carica | - | - |
-  | 2  | [Arpia](/units/Harpy/) | [Carica impetuosa](/Exclusive/Harpy Knight Pike/) | - | Carica | - | - |
-  | 3  | [Osservatore](/units/Beholder/) | [Sguardo oscuro](/Exclusive/Beholder Dark Gaze/) | - | A distanza | - | - |
-  | 4  | [Medusa](/units/Medusa/) | [Arco della Medusa](/Exclusive/Medusa Medusa's Bow/) | - | A distanza | - | - |
-  | 5  | [Minotauro](/units/Minotaur/) | [Scudo dell'Iride](/Exclusive/Minotaur Iris Shield/) | - | Carica | - | - |
-  | 6  | [Manticora](/units/Manticore/) | [Coda di scorpione](/Exclusive/Manticore Scorpion Tail/) | + | A distanza | - | - |
-  | 7  | [Drago nero](/units/Black Dragon/) | [Squama del Drago nero](/Exclusive/Black Dragon Black Dragon's Scale/) | - | Supporto | - | - |
-  | 8  | [Drago rosso](/units/Red Dragon/) | [Annientamento](/Exclusive/Red Dragon Annihilation/) | - | Supporto | - | - |
-  | 9  | [Strega malvagia](/units/Evil Sorceress/) | - | - | - | none | none |
+  | 1  | [Troglodita](/it/units/Troglodyte/) | [Spada](/it/Exclusive/Troglodyte Sword/) | - | Carica | - | - |
+  | 2  | [Arpia](/it/units/Harpy/) | [Carica impetuosa](/it/Exclusive/Harpy Knight Pike/) | - | Carica | - | - |
+  | 3  | [Osservatore](/it/units/Beholder/) | [Sguardo oscuro](/it/Exclusive/Beholder Dark Gaze/) | - | A distanza | - | - |
+  | 4  | [Medusa](/it/units/Medusa/) | [Arco della Medusa](/it/Exclusive/Medusa Medusa's Bow/) | - | A distanza | - | - |
+  | 5  | [Minotauro](/it/units/Minotaur/) | [Scudo dell'Iride](/it/Exclusive/Minotaur Iris Shield/) | - | Carica | - | - |
+  | 6  | [Manticora](/it/units/Manticore/) | [Coda di scorpione](/it/Exclusive/Manticore Scorpion Tail/) | + | A distanza | - | - |
+  | 7  | [Drago nero](/it/units/Black Dragon/) | [Squama del Drago nero](/it/Exclusive/Black Dragon Black Dragon's Scale/) | - | Supporto | - | - |
+  | 8  | [Drago rosso](/it/units/Red Dragon/) | [Annientamento](/it/Exclusive/Red Dragon Annihilation/) | - | Supporto | - | - |
+  | 9  | [Strega malvagia](/it/units/Evil Sorceress/) | - | - | - | none | none |

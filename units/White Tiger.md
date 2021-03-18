@@ -3,7 +3,7 @@ title: "Tigre bianca"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia."
 unitID: 809
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Tigre bianca"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descrizione:** La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Unicorno
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Position :** La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia.
 
@@ -66,19 +66,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/equipment/UnknownEquipment_8091/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_8092](/equipment/UnknownEquipment_8092/) | **PF** | **DIF** | 
-  | [UnknownEquipment_8093](/equipment/UnknownEquipment_8093/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_8094](/equipment/UnknownEquipment_8094/) | **PF** | **DIF** | 
+  | [UnknownEquipment_8091](/it/equipment/UnknownEquipment_8091/) | **ATT** | **DIF** | 
+  | [UnknownEquipment_8092](/it/equipment/UnknownEquipment_8092/) | **PF** | **DIF** | 
+  | [UnknownEquipment_8093](/it/equipment/UnknownEquipment_8093/) | **ATT** | **DIF** | 
+  | [UnknownEquipment_8094](/it/equipment/UnknownEquipment_8094/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Principi legali dei successori](/Emblem/Successors' Legal Principles/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Principi legali dei successori](/it/Emblem/Successors' Legal Principles/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -168,10 +168,11 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **Incursione**  (Roster unità di incursione)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

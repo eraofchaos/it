@@ -3,7 +3,7 @@ title: "Tartaruga draconica"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, domina i mari più profondi con il suo corpo mastodontico."
 unitID: 9906
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Tartaruga draconica"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Nato nelle profondità oceaniche, domina i mari più profondi con il suo corpo mastodontico.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/it/units/Faction Cove/)
 
  **Race:** Terre sommerse
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Tank. Rigenera PF.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Denti di Tartaruga draconica](/equipment/Denti di Tartaruga draconica/) | **ATT** | **DIF** | 
-  | [Guscio di Testuggine spinata](/equipment/Guscio di Testuggine spinata/) | **PF** | **DIF** | 
-  | [Artiglio di Tartaruga draconica](/equipment/Artiglio di Tartaruga draconica/) | **ATT** | **DIF** | 
-  | [Coda di Tartaruga draconica](/equipment/Coda di Tartaruga draconica/) | **PF** | **DIF** | 
+  | [Denti di Tartaruga draconica](/it/equipment/Denti di Tartaruga draconica/) | **ATT** | **DIF** | 
+  | [Guscio di Testuggine spinata](/it/equipment/Guscio di Testuggine spinata/) | **PF** | **DIF** | 
+  | [Artiglio di Tartaruga draconica](/it/equipment/Artiglio di Tartaruga draconica/) | **ATT** | **DIF** | 
+  | [Coda di Tartaruga draconica](/it/equipment/Coda di Tartaruga draconica/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Obbedienza](/Exclusive/Dragon Turtle Obedience/) 
+ **Name:** [Obbedienza](/it/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Avarizia](/Emblem/Greed/) (Caos)
-* [Nucleo della Rete Globale](/Emblem/Core of the Global Network/) (Neutrale)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
+* [Nucleo della Rete Globale](/it/Emblem/Core of the Global Network/) (Neutrale)
 
 ## Informazioni combinazione
 
@@ -152,10 +152,11 @@ toc: true
 
 * **Baia**  (Roster Baia)
 * **Difesa**  (Roster unità di difesa)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

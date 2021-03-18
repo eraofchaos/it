@@ -2,13 +2,13 @@
 title: "Era of Chaos - Esclusivo Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Esclusivo Cove. Esclusivo Cove. List of Esclusivo Cove in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Exclusive Cove"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 **Warning** You can get more information about Unit's Exclusive by clicking on Exclusive link. 
 {: .notice--danger}
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Pirati di Regna](/units/Regnan Pirates/) | [Spada](/Exclusive/Regnan Pirates Sword/) | + | Carica | - | - |
-  | 2  | [Arciere di Regna](/units/Regnan Archer/) | [Miracolo](/Exclusive/Regnan Archer Miracle/) | - | Supporto | - | - |
-  | 3  | [Elementale del mare](/units/Sea Elemental/) | [Cantico arcano](/Exclusive/Sea Elemental Arcane Chant/) | - | Carica | - | - |
-  | 4  | [Serpente di Regna](/units/Regnan Serpent/) | [Maree diurne](/Exclusive/Regnan Serpent Day Tides/) | - | A distanza | - | - |
-  | 5  | [Sirena](/units/Mermaid/) | [Maree notturne](/Exclusive/Mermaid Night Tides/) | - | A distanza | - | - |
-  | 6  | [Tartaruga draconica](/units/Dragon Turtle/) | [Obbedienza](/Exclusive/Dragon Turtle Obedience/) | - | Supporto | - | - |
-  | 7  | [Veggente di Regna](/units/Regnan Seer/) | [](/Exclusive/Regnan Seer /) | - | Capitale | - | - |
-  | 8  | [Leviatano](/units/Revyaratan/) | [Maree tenebrose](/Exclusive/Revyaratan Gloom Tides/) | - | A distanza | - | - |
-  | 9  | [Addestratore di squali](/units/Shark Trainer/) | [Onde di risacca](/Exclusive/Shark Trainer Break Waves/) | - | Supporto | - | - |
+  | 1  | [Pirati di Regna](/it/units/Regnan Pirates/) | [Spada](/it/Exclusive/Regnan Pirates Sword/) | + | Carica | - | - |
+  | 2  | [Arciere di Regna](/it/units/Regnan Archer/) | [Miracolo](/it/Exclusive/Regnan Archer Miracle/) | - | Supporto | - | - |
+  | 3  | [Elementale del mare](/it/units/Sea Elemental/) | [Cantico arcano](/it/Exclusive/Sea Elemental Arcane Chant/) | - | Carica | - | - |
+  | 4  | [Serpente di Regna](/it/units/Regnan Serpent/) | [Maree diurne](/it/Exclusive/Regnan Serpent Day Tides/) | - | A distanza | - | - |
+  | 5  | [Sirena](/it/units/Mermaid/) | [Maree notturne](/it/Exclusive/Mermaid Night Tides/) | - | A distanza | - | - |
+  | 6  | [Tartaruga draconica](/it/units/Dragon Turtle/) | [Obbedienza](/it/Exclusive/Dragon Turtle Obedience/) | - | Supporto | - | - |
+  | 7  | [Veggente di Regna](/it/units/Regnan Seer/) | [](/it/Exclusive/Regnan Seer /) | - | Capitale | - | - |
+  | 8  | [Leviatano](/it/units/Revyaratan/) | [Maree tenebrose](/it/Exclusive/Revyaratan Gloom Tides/) | - | A distanza | - | - |
+  | 9  | [Addestratore di squali](/it/units/Shark Trainer/) | [Onde di risacca](/it/Exclusive/Shark Trainer Break Waves/) | - | Supporto | - | - |

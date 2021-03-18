@@ -3,7 +3,7 @@ title: "Unicorno"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Unicorno"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Unicorno
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Cecità: Riduce la MIRA di una fila di unità nemiche.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corno di cristallo](/equipment/Corno di cristallo/) | **ATT** | **DIF** | 
-  | [Pietre del Sognatore](/equipment/Pietre del Sognatore/) | **PF** | **DIF** | 
-  | [Zoccoli di cristallo](/equipment/Zoccoli di cristallo/) | **ATT** | **DIF** | 
-  | [Criniera nebulosa](/equipment/Criniera nebulosa/) | **PF** | **DIF** | 
+  | [Corno di cristallo](/it/equipment/Corno di cristallo/) | **ATT** | **DIF** | 
+  | [Pietre del Sognatore](/it/equipment/Pietre del Sognatore/) | **PF** | **DIF** | 
+  | [Zoccoli di cristallo](/it/equipment/Zoccoli di cristallo/) | **ATT** | **DIF** | 
+  | [Criniera nebulosa](/it/equipment/Criniera nebulosa/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/Exclusive/Unicorn Knight Pike/) 
+ **Name:** [Carica impetuosa](/it/Exclusive/Unicorn Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Segno infausto](/Emblem/Ominous Sign/) (Malvagio)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Segno infausto](/it/Emblem/Ominous Sign/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **Incursione**  (Roster unità di incursione)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

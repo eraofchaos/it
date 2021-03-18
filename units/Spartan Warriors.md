@@ -3,7 +3,7 @@ title: "Guerrieri spartani"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
 unitID: 9702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Guerrieri spartani"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Esercito neutrale](/units/Faction Neutral Army/)
+ **Fazione:** [Esercito neutrale](/it/units/Faction Neutral Army/)
 
  **Race:** Gilda degli Assassini
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Lo scudo <stordisce>. La morte potenzia.
 
@@ -65,19 +65,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Elmo spartano](/equipment/Elmo spartano/) | **ATT** | **DIF** | 
-  | [Scudo d'acciaio](/equipment/Scudo d'acciaio/) | **PF** | **DIF** | 
-  | [Lancia perforante](/equipment/Lancia perforante/) | **ATT** | **DIF** | 
-  | [Fasce per piedi](/equipment/Fasce per piedi/) | **PF** | **DIF** | 
+  | [Elmo spartano](/it/equipment/Elmo spartano/) | **ATT** | **DIF** | 
+  | [Scudo d'acciaio](/it/equipment/Scudo d'acciaio/) | **PF** | **DIF** | 
+  | [Lancia perforante](/it/equipment/Lancia perforante/) | **ATT** | **DIF** | 
+  | [Fasce per piedi](/it/equipment/Fasce per piedi/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -148,10 +148,11 @@ toc: true
 
 * **Unità neutrale**  (Roster neutrale)
 * **Attacco**  (Roster unità d'attacco)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Kassandra](/heroes/Kassandra/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kassandra](/it/heroes/Kassandra/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

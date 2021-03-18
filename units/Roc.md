@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei."
 unitID: 405
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Roc"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Unicorno
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Tuono: infligge danni catastrofici alle unità nemiche sul suo percorso.
 
@@ -72,14 +72,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Becco del tuono](/equipment/Becco del tuono/) | **ATT** | **DIF** | 
-  | [Ali saettanti](/equipment/Ali saettanti/) | **PF** | **DIF** | 
-  | [Artigli del fulmine](/equipment/Artigli del fulmine/) | **ATT** | **DIF** | 
-  | [Armatura del fulmine](/equipment/Armatura del fulmine/) | **PF** | **DIF** | 
+  | [Becco del tuono](/it/equipment/Becco del tuono/) | **ATT** | **DIF** | 
+  | [Ali saettanti](/it/equipment/Ali saettanti/) | **PF** | **DIF** | 
+  | [Artigli del fulmine](/it/equipment/Artigli del fulmine/) | **ATT** | **DIF** | 
+  | [Armatura del fulmine](/it/equipment/Armatura del fulmine/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/Exclusive/Roc Arcane Chant/) 
+ **Name:** [Cantico arcano](/it/Exclusive/Roc Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -90,9 +90,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Invidia](/Emblem/Jealousy/) (Caos)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Shiva](/heroes/Shiva/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Crag Hack](/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Shiva](/it/heroes/Shiva/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

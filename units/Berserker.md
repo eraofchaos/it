@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia."
 unitID: 408
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Berserker"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Roccaforte](/units/Faction Stronghold/)
+ **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
  **Race:** Orco
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Tempesta di guerra: infligge danni a 3 unità nemiche vicine.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ascia d'ossidiana](/equipment/Ascia d'ossidiana/) | **ATT** | **DIF** | 
-  | [Collana d'ossa](/equipment/Collana d'ossa/) | **PF** | **DIF** | 
-  | [Elmo d'ossa di bestia](/equipment/Elmo d'ossa di bestia/) | **ATT** | **DIF** | 
-  | [Fascia di cuoio](/equipment/Fascia di cuoio/) | **PF** | **DIF** | 
+  | [Ascia d'ossidiana](/it/equipment/Ascia d'ossidiana/) | **ATT** | **DIF** | 
+  | [Collana d'ossa](/it/equipment/Collana d'ossa/) | **PF** | **DIF** | 
+  | [Elmo d'ossa di bestia](/it/equipment/Elmo d'ossa di bestia/) | **ATT** | **DIF** | 
+  | [Fascia di cuoio](/it/equipment/Fascia di cuoio/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Ascia del Berserker](/Exclusive/Berserker Berserker's Axe/) 
+ **Name:** [Ascia del Berserker](/it/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Invidia](/Emblem/Jealousy/) (Caos)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -165,11 +165,12 @@ toc: true
 
 * **Roccaforte**  (Roster Roccaforte)
 * **Attacco**  (Roster unità d'attacco)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Crag Hack](/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kilgor](/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Crag Hack](/it/heroes/Crag Hack/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kilgor](/it/heroes/Kilgor/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Uomo lucertola"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda."
 unitID: 802
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Uomo lucertola"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Domatore
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Short description:** DPS elevati.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ala collare appuntita](/equipment/Ala collare appuntita/) | **ATT** | **DIF** | 
-  | [Bracciali da guerriero](/equipment/Bracciali da guerriero/) | **PF** | **DIF** | 
-  | [Spallacci da guerriero](/equipment/Spallacci da guerriero/) | **ATT** | **DIF** | 
-  | [Arco lungo da caccia](/equipment/Arco lungo da caccia/) | **PF** | **DIF** | 
+  | [Ala collare appuntita](/it/equipment/Ala collare appuntita/) | **ATT** | **DIF** | 
+  | [Bracciali da guerriero](/it/equipment/Bracciali da guerriero/) | **PF** | **DIF** | 
+  | [Spallacci da guerriero](/it/equipment/Spallacci da guerriero/) | **ATT** | **DIF** | 
+  | [Arco lungo da caccia](/it/equipment/Arco lungo da caccia/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/Exclusive/Lizardman Long Bow/) 
+ **Name:** [Arco lungo](/it/Exclusive/Lizardman Long Bow/) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -157,11 +157,12 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **A distanza**  (Roster unità a distanza)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Wystan](/heroes/Wystan/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Wystan](/it/heroes/Wystan/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

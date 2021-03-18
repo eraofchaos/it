@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
 unitID: 607
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gigante"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/it/units/Faction Tower/)
 
  **Race:** Umano
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Dio della Guerra: riduce i PF di una percentuale a qualsiasi distanza.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Fulmine](/equipment/Fulmine/) | **ATT** | **DIF** | 
-  | [Spallacci d'oro puro](/equipment/Spallacci d'oro puro/) | **PF** | **DIF** | 
-  | [Elmo del Tuono](/equipment/Elmo del Tuono/) | **ATT** | **DIF** | 
-  | [Corazza del fulmine](/equipment/Corazza del fulmine/) | **PF** | **DIF** | 
+  | [Fulmine](/it/equipment/Fulmine/) | **ATT** | **DIF** | 
+  | [Spallacci d'oro puro](/it/equipment/Spallacci d'oro puro/) | **PF** | **DIF** | 
+  | [Elmo del Tuono](/it/equipment/Elmo del Tuono/) | **ATT** | **DIF** | 
+  | [Corazza del fulmine](/it/equipment/Corazza del fulmine/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Peso insostenibile](/Exclusive/Giant Thousand Ton/) 
+ **Name:** [Peso insostenibile](/it/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Torre**  (Roster Torre)
 * **Incantatore**  (Roster incantatori)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

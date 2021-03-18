@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Demone"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Attacco scottante: infligge danni devastanti alle unità nemiche.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corno infuocato](/equipment/Corno infuocato/) | **ATT** | **DIF** | 
-  | [Collana d'acciaio](/equipment/Collana d'acciaio/) | **PF** | **DIF** | 
-  | [Artigli ustionanti](/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
-  | [Bracciali chiodati](/equipment/Bracciali chiodati/) | **PF** | **DIF** | 
+  | [Corno infuocato](/it/equipment/Corno infuocato/) | **ATT** | **DIF** | 
+  | [Collana d'acciaio](/it/equipment/Collana d'acciaio/) | **PF** | **DIF** | 
+  | [Artigli ustionanti](/it/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
+  | [Bracciali chiodati](/it/equipment/Bracciali chiodati/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Demon Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Demon Iris Shield/) 
 
  **Is Open:** + 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Avarizia](/Emblem/Greed/) (Caos)
-* [Lussuria](/Emblem/Lust/) (Caos)
-* [Segno infausto](/Emblem/Ominous Sign/) (Malvagio)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
+* [Segno infausto](/it/Emblem/Ominous Sign/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -172,40 +173,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Guardia infernale
 
- **Awaking Descrizione:** null
+ **Awaking Descrizione:** Se qualcuno fosse costretto a indicare la creatura più imparziale al mondo, nominerebbe senza alcun dubbio una delle impassibili, brutali Guardie infernali. Che si tratti di demoni, spiriti, saggi o criminali, coloro che vengono scelti dalla Guardia infernale e inviati al cancello di Cerbero non hanno altra scelta che inoltrarsi tra le fiamme ruggenti.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #876741;font-size:18px">Schiera un Demone con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Inferno e completa l'Utopia dei Dragoni </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> pezzi di equipaggiamento nell'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Guardia infernale nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Schiera un Demone e vinci </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> battaglia nel Duello dei Campioni.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): Impatto bruciante
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Attacco scottante&gt;</span><span style="color: #645252;font-size:18px"> Riduce ulteriormente di 200 il CRIT delle unità nemiche nell'area d'effetto. Se il bersaglio è affetto da &lt;Silenzio&gt;, la sua Vel ATT viene ridotta del 15%. Durata: 7 secondi.</span>
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): Urto bruciante
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Attacco scottante&gt;</span><span style="color: #645252;font-size:18px"> Riduce ulteriormente di 200 il CRIT delle unità nemiche nell'area d'effetto. Se il bersaglio è affetto da &lt;Combustione&gt;, la sua Vel ATT viene ridotta del 15%. Durata: 7 secondi.</span>
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): Vampa
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Calore&gt;</span><span style="color: #645252;font-size:18px"> Cura le unità Guardia infernale di una quantità di PF pari al 50% del proprio ATT.</span>
 
-### 4th Skill (or 3rd): Muro cavo
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): Magma
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Calore&gt;</span><span style="color: #645252;font-size:18px"> Guarigione aumentata del 50%.</span>
 
-### 5th Skill (or 6th): Infiltrazione
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): Scagnozzo demoniaco
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scagnozzo infernale&gt;</span><span style="color: #645252;font-size:18px"> La Tenacia dei Demoni aumenta di 80 con ogni Schivata. Cumulabile fino a 5 volte. L'effetto dura fino al termine della battaglia.</span>
 
-### 6th Skill (or 5th): Assalto estenuante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): Scagnozzo cornuto
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Scagnozzo infernale&gt;</span><span style="color: #645252;font-size:18px"> Tenacia dei Demoni aumentata di 300.</span>
 
 ## Technical info
  **runart:** 1

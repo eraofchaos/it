@@ -3,7 +3,7 @@ title: "Picchiere"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Picchieri sono la prima linea di difesa del Regno. Sono abili soldati, gloriosi veterani di molte battaglie e fedeli incrollabili del Regno, i cui abitanti nutrono per loro grande ammirazione."
 unitID: 101
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Picchiere"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Picchieri sono la prima linea di difesa del Regno. Sono abili soldati, gloriosi veterani di molte battaglie e fedeli incrollabili del Regno, i cui abitanti nutrono per loro grande ammirazione.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Umano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Muro di lance: infligge danni alle unità, causa <Stordimento>.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lancia cerulea](/equipment/Lancia cerulea/) | **ATT** | **DIF** | 
-  | [Elmo di piastre](/equipment/Elmo di piastre/) | **PF** | **DIF** | 
-  | [Scudo della Sentinella](/equipment/Scudo della Sentinella/) | **ATT** | **DIF** | 
-  | [Spallacci di piastre](/equipment/Spallacci di piastre/) | **PF** | **DIF** | 
+  | [Lancia cerulea](/it/equipment/Lancia cerulea/) | **ATT** | **DIF** | 
+  | [Elmo di piastre](/it/equipment/Elmo di piastre/) | **PF** | **DIF** | 
+  | [Scudo della Sentinella](/it/equipment/Scudo della Sentinella/) | **ATT** | **DIF** | 
+  | [Spallacci di piastre](/it/equipment/Spallacci di piastre/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Spada](/Exclusive/Pikeman Sword/) 
+ **Name:** [Spada](/it/Exclusive/Pikeman Sword/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Angelo custode](/Emblem/Guardian Angel/) (Bontà)
-* [Giudizio degli antenati](/Emblem/The Judgment of Fathers/) (Neutrale)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Castello**  (Roster Castello)
 * **Attacco**  (Roster unità d'attacco)
+* **R**  (R)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

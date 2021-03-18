@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Arciere di Regna"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/it/units/Faction Cove/)
 
  **Race:** Pirata
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** CRIT e perforazione.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Balestra oceanica](/equipment/Balestra oceanica/) | **ATT** | **DIF** | 
-  | [Cappello del Prestigio](/equipment/Cappello del Prestigio/) | **PF** | **DIF** | 
-  | [Freccia d'acciaio](/equipment/Freccia d'acciaio/) | **ATT** | **DIF** | 
-  | [Abiti da cacciatore](/equipment/Abiti da cacciatore/) | **PF** | **DIF** | 
+  | [Balestra oceanica](/it/equipment/Balestra oceanica/) | **ATT** | **DIF** | 
+  | [Cappello del Prestigio](/it/equipment/Cappello del Prestigio/) | **PF** | **DIF** | 
+  | [Freccia d'acciaio](/it/equipment/Freccia d'acciaio/) | **ATT** | **DIF** | 
+  | [Abiti da cacciatore](/it/equipment/Abiti da cacciatore/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Miracolo](/Exclusive/Regnan Archer Miracle/) 
+ **Name:** [Miracolo](/it/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -161,11 +161,12 @@ toc: true
 
 * **Baia**  (Roster Baia)
 * **A distanza**  (Roster unità a distanza)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Peter Lee](/heroes/Peter Lee/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Peter Lee](/it/heroes/Peter Lee/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

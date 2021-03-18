@@ -2,18 +2,18 @@
 title: "Esclusivo - Durlindana"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Era of Chaos Durlindana. Durlindana. Era of Chaos Esclusivo Durlindana. Angelo Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Angel Durlindana.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Durlindana** 
 
- **Esclusivo for Unit:** [Angelo](/units/Angel/) 
+ **Esclusivo for Unit:** [Angelo](/it/units/Angel/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Rappresaglia> Infligge danni pari al 100% dell'ATT all'unità bersaglio e a 1 unità casuale in prima fila, applicando inoltre il debuff <Rappresaglia> per 10 secondi. Recupero: 17 secondi. Se l'unità bersaglio è affetta da <Rappresaglia>, le infligge danni pari al 150% dell'ATT e ne riduce la DIF del 20% per 5 secondi, eliminando il debuff <Rappresaglia> dal bersaglio. Effetto raddoppiato contro le unità Inferno. Recupero: 10 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | Le unità alleate nelle vicinanze vengono benedette dall'Angelo: il DAN aumenta del 20% e le unità Castello non hanno più limiti alla portata degli attacchi. |

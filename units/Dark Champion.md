@@ -3,7 +3,7 @@ title: "Campione oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime."
 unitID: 309
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Campione oscuro"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descrizione:** Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Non morto
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Esecuzione. Aura di invincibilità.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Falce del Silenzio](/equipment/Falce del Silenzio/) | **ATT** | **DIF** | 
-  | [Elmo pesante della Pre-vita](/equipment/Elmo pesante della Pre-vita/) | **PF** | **DIF** | 
-  | [Fuoco salvifico dell'Inferno](/equipment/Fuoco salvifico dell'Inferno/) | **ATT** | **DIF** | 
-  | [Scapola di Ade](/equipment/Scapola di Ade/) | **PF** | **DIF** | 
+  | [Falce del Silenzio](/it/equipment/Falce del Silenzio/) | **ATT** | **DIF** | 
+  | [Elmo pesante della Pre-vita](/it/equipment/Elmo pesante della Pre-vita/) | **PF** | **DIF** | 
+  | [Fuoco salvifico dell'Inferno](/it/equipment/Fuoco salvifico dell'Inferno/) | **ATT** | **DIF** | 
+  | [Scapola di Ade](/it/equipment/Scapola di Ade/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Attacco**  (Roster unità d'attacco)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Vidomina](/heroes/Vidomina/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/it/heroes/Vidomina/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

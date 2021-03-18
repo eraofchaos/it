@@ -3,30 +3,27 @@ title: "Demone di ghiaccio"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Demone di ghiaccio è una creatura bizzarra anche per gli standard del Piano di Confluenza. È simile a un blocco di ghiaccio che non può sciogliersi. Con i suoi poteri, può privare della vista e mozzare il respiro. Ricorda i cadaveri sepolti nelle grotte glaciali."
 unitID: 908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Demone di ghiaccio"
 toc: true
 ---
-**Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
-{: .notice--danger}
-
 ## General information
  **Descrizione:** Il Demone di ghiaccio è una creatura bizzarra anche per gli standard del Piano di Confluenza. È simile a un blocco di ghiaccio che non può sciogliersi. Con i suoi poteri, può privare della vista e mozzare il respiro. Ricorda i cadaveri sepolti nelle grotte glaciali.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/it/units/Faction Conflux/)
 
  **Race:** Domatore
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Unità a distanza con controllo. Applica buff agli alleati.
 
@@ -68,19 +65,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ghiaccio antico](/equipment/Ghiaccio antico/) | **ATT** | **DIF** | 
-  | [Tocco gelante](/equipment/Tocco gelante/) | **PF** | **DIF** | 
-  | [Timone gelido](/equipment/Timone gelido/) | **ATT** | **DIF** | 
-  | [Trono di ghiaccio](/equipment/Trono di ghiaccio/) | **PF** | **DIF** | 
+  | [Ghiaccio antico](/it/equipment/Ghiaccio antico/) | **ATT** | **DIF** | 
+  | [Tocco gelante](/it/equipment/Tocco gelante/) | **PF** | **DIF** | 
+  | [Timone gelido](/it/equipment/Timone gelido/) | **ATT** | **DIF** | 
+  | [Trono di ghiaccio](/it/equipment/Trono di ghiaccio/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -176,10 +173,11 @@ toc: true
 
 * **Confluenza**  (Roster Confluenza)
 * **A distanza**  (Roster unità a distanza)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

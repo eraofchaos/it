@@ -2,18 +2,18 @@
 title: "Esclusivo - Foglia d'Erbavespa"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Foglia d'Erbavespa. Foglia d'Erbavespa. Era of Chaos Esclusivo Foglia d'Erbavespa. Erbavespa Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Waspwort Foglia d'Erbavespa.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Foglia d'Erbavespa** 
 
- **Esclusivo for Unit:** [Erbavespa](/units/Waspwort/) 
+ **Esclusivo for Unit:** [Erbavespa](/it/units/Waspwort/) 
 
  **Item to Rango ↑:** -
 
@@ -27,7 +27,7 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | <Veleno letale> Ogni 4 secondi, l'Erbavespa applica <Foglie d'Erbavespa> a 1 unità nemica casuale. (L'effetto è cumulabile se la tecnica colpisce la stessa unità nemica due volte.) Le vespe che vivono sulle <Foglie d'Erbavespa> infliggono danni pari al 10% del proprio ATT alle unità colpite ogni secondo e hanno il 10% di probabilità di causare <Silenzio> per 3 secondi. Recupero: 9 secondi. |
   | **1x** <i class="fas fa-star"/> | ? | L'Erbavespa gode di DAN aumentato del 15% e Perforazione aumentata di 150. |

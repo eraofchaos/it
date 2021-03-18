@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Efreet"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Spirito maligno
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Palla di fuoco: infligge danni devastanti ai nemici e causa <Combustione>.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Sfera fiammeggiante](/equipment/Sfera fiammeggiante/) | **ATT** | **DIF** | 
-  | [Armatura leggera fiammeggiante](/equipment/Armatura leggera fiammeggiante/) | **PF** | **DIF** | 
-  | [Bracciali fiammeggianti](/equipment/Bracciali fiammeggianti/) | **ATT** | **DIF** | 
-  | [Spallacci fiammeggianti](/equipment/Spallacci fiammeggianti/) | **PF** | **DIF** | 
+  | [Sfera fiammeggiante](/it/equipment/Sfera fiammeggiante/) | **ATT** | **DIF** | 
+  | [Armatura leggera fiammeggiante](/it/equipment/Armatura leggera fiammeggiante/) | **PF** | **DIF** | 
+  | [Bracciali fiammeggianti](/it/equipment/Bracciali fiammeggianti/) | **ATT** | **DIF** | 
+  | [Spallacci fiammeggianti](/it/equipment/Spallacci fiammeggianti/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/Exclusive/Efreeti Arcane Chant/) 
+ **Name:** [Cantico arcano](/it/Exclusive/Efreeti Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
-* [Calamità del Re](/Emblem/King's Calamity/) (Malvagio)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -162,10 +162,11 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Rashka](/heroes/Rashka/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Rashka](/it/heroes/Rashka/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

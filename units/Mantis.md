@@ -3,7 +3,7 @@ title: "Mantide"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le sue immense, affilatissime lame la distinguono come una vera creatura leggendaria. Gli elfi di Vori hanno donato una resistenza preternaturale alla Mantide."
 unitID: 209
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Mantide"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descrizione:** Le sue immense, affilatissime lame la distinguono come una vera creatura leggendaria. Gli elfi di Vori hanno donato una resistenza preternaturale alla Mantide.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Unicorno
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Portata Tagli rapidi allargata.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/equipment/UnknownEquipment_2091/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_2092](/equipment/UnknownEquipment_2092/) | **PF** | **DIF** | 
-  | [UnknownEquipment_2093](/equipment/UnknownEquipment_2093/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_2094](/equipment/UnknownEquipment_2094/) | **PF** | **DIF** | 
+  | [UnknownEquipment_2091](/it/equipment/UnknownEquipment_2091/) | **ATT** | **DIF** | 
+  | [UnknownEquipment_2092](/it/equipment/UnknownEquipment_2092/) | **PF** | **DIF** | 
+  | [UnknownEquipment_2093](/it/equipment/UnknownEquipment_2093/) | **ATT** | **DIF** | 
+  | [UnknownEquipment_2094](/it/equipment/UnknownEquipment_2094/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Profeta verde](/Emblem/Green Prophet/) (Bontà)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Profeta verde](/it/Emblem/Green Prophet/) (Bontà)
 
 ## Informazioni combinazione
 
@@ -166,10 +166,11 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **Attacco**  (Roster unità d'attacco)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

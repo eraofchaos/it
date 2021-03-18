@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
 unitID: 605
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Genio"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/it/units/Faction Tower/)
 
  **Race:** Umano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Dono di Energia: converte l'ATT in cura
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Lampada d'oro mistica](/equipment/Lampada d'oro mistica/) | **ATT** | **DIF** | 
-  | [Bizzarro ornamento di cristallo](/equipment/Bizzarro ornamento di cristallo/) | **PF** | **DIF** | 
-  | [Bracciali di rame rosso](/equipment/Bracciali di rame rosso/) | **ATT** | **DIF** | 
-  | [Armatura incantata](/equipment/Armatura incantata/) | **PF** | **DIF** | 
+  | [Lampada d'oro mistica](/it/equipment/Lampada d'oro mistica/) | **ATT** | **DIF** | 
+  | [Bizzarro ornamento di cristallo](/it/equipment/Bizzarro ornamento di cristallo/) | **PF** | **DIF** | 
+  | [Bracciali di rame rosso](/it/equipment/Bracciali di rame rosso/) | **ATT** | **DIF** | 
+  | [Armatura incantata](/it/equipment/Armatura incantata/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Lira](/Exclusive/Genie Lyra/) 
+ **Name:** [Lira](/it/Exclusive/Genie Lyra/) 
 
  **Is Open:** - 
 
@@ -87,8 +87,8 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Torre**  (Roster Torre)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

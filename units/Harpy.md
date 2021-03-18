@@ -3,7 +3,7 @@ title: "Arpia"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Arpia"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/units/Faction Dungeon/)
 
  **Race:** Truppe Dungeon
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Artiglio affilato dell'Incantatrice: probabilità di infliggere danni a una moltitudine di nemici.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Pugnale trafiggi-cuore](/equipment/Pugnale trafiggi-cuore/) | **ATT** | **DIF** | 
-  | [Armatura mistica](/equipment/Armatura mistica/) | **PF** | **DIF** | 
-  | [Artigli assassini](/equipment/Artigli assassini/) | **ATT** | **DIF** | 
-  | [Spallacci dell'Incantatrice](/equipment/Spallacci dell'Incantatrice/) | **PF** | **DIF** | 
+  | [Pugnale trafiggi-cuore](/it/equipment/Pugnale trafiggi-cuore/) | **ATT** | **DIF** | 
+  | [Armatura mistica](/it/equipment/Armatura mistica/) | **PF** | **DIF** | 
+  | [Artigli assassini](/it/equipment/Artigli assassini/) | **ATT** | **DIF** | 
+  | [Spallacci dell'Incantatrice](/it/equipment/Spallacci dell'Incantatrice/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/Exclusive/Harpy Knight Pike/) 
+ **Name:** [Carica impetuosa](/it/Exclusive/Harpy Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Angelo custode](/Emblem/Guardian Angel/) (Bontà)
-* [Invidia](/Emblem/Jealousy/) (Caos)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -151,11 +151,12 @@ toc: true
 
 * **Dungeon**  (Roster Dungeon)
 * **Incursione**  (Roster unità di incursione)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

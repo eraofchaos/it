@@ -3,7 +3,7 @@ title: "Gnomo"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli."
 unitID: 202
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gnomo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Foresta
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Urlo dello Gnomo: aumenta i PF massimi delle unità all'inizio della battaglia.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Martello pesante](/equipment/Martello pesante/) | **ATT** | **DIF** | 
-  | [Elmo cornuto](/equipment/Elmo cornuto/) | **PF** | **DIF** | 
-  | [Guanti del Focolare](/equipment/Guanti del Focolare/) | **ATT** | **DIF** | 
-  | [Spallacci del Focolare](/equipment/Spallacci del Focolare/) | **PF** | **DIF** | 
+  | [Martello pesante](/it/equipment/Martello pesante/) | **ATT** | **DIF** | 
+  | [Elmo cornuto](/it/equipment/Elmo cornuto/) | **PF** | **DIF** | 
+  | [Guanti del Focolare](/it/equipment/Guanti del Focolare/) | **ATT** | **DIF** | 
+  | [Spallacci del Focolare](/it/equipment/Spallacci del Focolare/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Dwarf Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Dwarf Iris Shield/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Angelo custode](/Emblem/Guardian Angel/) (Bontà)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Angelo custode](/it/Emblem/Guardian Angel/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -164,10 +164,11 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

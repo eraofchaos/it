@@ -3,7 +3,7 @@ title: "Drago verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Draghi verdi sono i protettori della foresta. Di dimensioni imponenti e armati di un soffio acido, sono avversari pressoché imbattibili."
 unitID: 207
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Drago verde"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Draghi verdi sono i protettori della foresta. Di dimensioni imponenti e armati di un soffio acido, sono avversari pressoché imbattibili.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Baluardo](/units/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
  **Race:** Drago
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Rinforzi dal cielo: infligge danni ingenti a 3 unità nelle retrovie nemiche.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corno velenoso](/equipment/Corno velenoso/) | **ATT** | **DIF** | 
-  | [Armatura di squame di Drago](/equipment/Armatura di squame di Drago/) | **PF** | **DIF** | 
-  | [Artigli della Rovina](/equipment/Artigli della Rovina/) | **ATT** | **DIF** | 
-  | [Sangue draconico velenoso](/equipment/Sangue draconico velenoso/) | **PF** | **DIF** | 
+  | [Corno velenoso](/it/equipment/Corno velenoso/) | **ATT** | **DIF** | 
+  | [Armatura di squame di Drago](/it/equipment/Armatura di squame di Drago/) | **PF** | **DIF** | 
+  | [Artigli della Rovina](/it/equipment/Artigli della Rovina/) | **ATT** | **DIF** | 
+  | [Sangue draconico velenoso](/it/equipment/Sangue draconico velenoso/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Ala di drago splendente](/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Name:** [Ala di drago splendente](/it/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Baluardo**  (Roster Baluardo)
 * **Incantatore**  (Roster incantatori)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gem](/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gem](/it/heroes/Gem/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

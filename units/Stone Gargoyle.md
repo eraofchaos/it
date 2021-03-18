@@ -3,7 +3,7 @@ title: "Gargolla di pietra"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gargolla di pietra"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/it/units/Faction Tower/)
 
  **Race:** Umano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Forma di pietra: aumenta ATT e Vel ATT.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Corno di pietra](/equipment/Corno di pietra/) | **ATT** | **DIF** | 
-  | [Ali di pietra](/equipment/Ali di pietra/) | **PF** | **DIF** | 
-  | [Artigli affilati di pietra](/equipment/Artigli affilati di pietra/) | **ATT** | **DIF** | 
-  | [Coda incantata](/equipment/Coda incantata/) | **PF** | **DIF** | 
+  | [Corno di pietra](/it/equipment/Corno di pietra/) | **ATT** | **DIF** | 
+  | [Ali di pietra](/it/equipment/Ali di pietra/) | **PF** | **DIF** | 
+  | [Artigli affilati di pietra](/it/equipment/Artigli affilati di pietra/) | **ATT** | **DIF** | 
+  | [Coda incantata](/it/equipment/Coda incantata/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Spada](/Exclusive/Stone Gargoyle Sword/) 
+ **Name:** [Spada](/it/Exclusive/Stone Gargoyle Sword/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -161,10 +161,11 @@ toc: true
 
 * **Torre**  (Roster Torre)
 * **Attacco**  (Roster unità d'attacco)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

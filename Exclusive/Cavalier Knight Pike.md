@@ -2,18 +2,18 @@
 title: "Esclusivo - Carica impetuosa"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Catafratto Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Cavalier Carica impetuosa.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Carica impetuosa** 
 
- **Esclusivo for Unit:** [Catafratto](/units/Cavalier/) 
+ **Esclusivo for Unit:** [Catafratto](/it/units/Cavalier/) 
 
  **Item to Rango ↑:** -
 
@@ -27,9 +27,9 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | \"Stifling Javelin\" 2 seconds after the start of the battle, knights throw the extra spears they hold, causing damage equal to 200% of their ATK to a random hostile unit, and decreasing the target's DEF by 10% for 30s. When facing Ranged/Caster units, decreases their unit's damage by 20% |
+  |  Risveglio  | ? | <Giavellotto paralizzante> A 2 secondi dall'inizio della battaglia, i Cavalieri scagliano le loro lance infliggendo danni pari al 200% del proprio ATT a un bersaglio nemico casuale e riducendone la DIF del 10% per 30 secondi. Il DAN di unità a distanza e incantatori nemici è ridotto del 20%. |
   | **1x** <i class="fas fa-star"/> | ? | Riduzione danno del Catafratto aumentata del 25% contro gli attacchi a distanza. |
   | **2x** <i class="fas fa-star"/> | ? | Il Catafratto gode di ATT aumentato del 20% e danno aumentato del 10%. |
   | **3x** <i class="fas fa-star"/> | ? | DIF del Catafratto aumentata del 10%. All'inizio della battaglia, la Perforazione di tutte le unità Castello alleate aumenta di 300. Questo effetto non può essere rimosso. |

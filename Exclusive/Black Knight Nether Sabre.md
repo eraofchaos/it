@@ -2,18 +2,18 @@
 title: "Esclusivo - Lama del sottosuolo"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Lama del sottosuolo. Lama del sottosuolo. Era of Chaos Esclusivo Lama del sottosuolo. Cavaliere nero Esclusivo."
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Black Knight Lama del sottosuolo.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ## Details
  **Name: Lama del sottosuolo** 
 
- **Esclusivo for Unit:** [Cavaliere nero](/units/Black Knight/) 
+ **Esclusivo for Unit:** [Cavaliere nero](/it/units/Black Knight/) 
 
  **Item to Rango ↑:** -
 
@@ -27,14 +27,14 @@ classes: wide
 
 ## Rango ↑
 
-  |     Stars    |  Required to Up | Effetto esclusivo |
+  |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | ? | Il Cavaliere nero riduce del 30% la DIF delle unità nemiche in un'ampia area. Quando affronta unità affette da <Morale basso>, la Perforazione aumenta di 500. |
   | **1x** <i class="fas fa-star"/> | ? | Rid DAN del Cavaliere nero aumentata del 20%. |
   | **2x** <i class="fas fa-star"/> | ? | DAN del Cavaliere nero aumentato del 25%. |
   | **3x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, il Cavaliere nero parte alla carica. Durante la carica è immune a ogni danno. Dopo 6 secondi appare di fronte all'unità nemica all'estremità della fila. In mancanza di un bersaglio valido, attacca un'unità casuale nelle retrovie infliggendo un colpo critico (nessun effetto Risveglio, funziona una sola volta per battaglia). |
-  | **4x** <i class="fas fa-star"/> | ? | When dealing a Crit Hit, the Black Knight gets 50 Crit Hit and 20% Magic Resistance. The effect lasts for 5s, up to 10 stacks |
-  | **5x** <i class="fas fa-star"/> | ? | Assorbimento del Cavaliere nero aumentato del 20%. L'assorbimento aumenta del 20% per 5 secondi quando infligge un colpo critico. |
+  | **4x** <i class="fas fa-star"/> | ? | Quando infligge un colpo critico, il Cavaliere nero ottiene 50 CRIT e 20% RES magica. Durata: 5 secondi. Cumulabile fino a 10 volte. |
+  | **5x** <i class="fas fa-star"/> | ? | Assorbimento del Cavaliere nero aumentato del 20%, più un ulteriore 20% quando infligge colpi critici. Durata: 5 secondi. |
   | **6x** <i class="fas fa-star"/> | ? | <Rinascita del Re> Evoca 1 Cavaliere nero ogni 20 secondi. Quando l'unità bersaglio viene abbattuta, evoca 1 Cavaliere nero. Quando un Cavaliere nero viene evocato, il CRIT aumenta di 100 e la Perforazione di 50. |
 
 

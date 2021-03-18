@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gorgone"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** ATT elevato. Resistente. Controllo nemici efficace.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cuoio indistruttibile](/equipment/Cuoio indistruttibile/) | **ATT** | **DIF** | 
-  | [Corazza barbarica](/equipment/Corazza barbarica/) | **PF** | **DIF** | 
-  | [Corno letale di bue](/equipment/Corno letale di bue/) | **ATT** | **DIF** | 
-  | [Zoccolo magico di bue](/equipment/Zoccolo magico di bue/) | **PF** | **DIF** | 
+  | [Cuoio indistruttibile](/it/equipment/Cuoio indistruttibile/) | **ATT** | **DIF** | 
+  | [Corazza barbarica](/it/equipment/Corazza barbarica/) | **PF** | **DIF** | 
+  | [Corno letale di bue](/it/equipment/Corno letale di bue/) | **ATT** | **DIF** | 
+  | [Zoccolo magico di bue](/it/equipment/Zoccolo magico di bue/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Corno di Gorgone](/Exclusive/Gorgon Gorgon's Horn/) 
+ **Name:** [Corno di Gorgone](/it/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -169,10 +169,11 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **Difesa**  (Roster unità di difesa)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

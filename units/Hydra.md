@@ -3,7 +3,7 @@ title: "Idra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Idra"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Unicorno
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** ATT elevato. Resistente. Controllo nemici efficace.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Coda di Drago pestilenziale](/equipment/Coda di Drago pestilenziale/) | **ATT** | **DIF** | 
-  | [Orecchini del regnante](/equipment/Orecchini del regnante/) | **PF** | **DIF** | 
-  | [Artiglio di Drago pestilenziale](/equipment/Artiglio di Drago pestilenziale/) | **ATT** | **DIF** | 
-  | [Spine dorsali affilate](/equipment/Spine dorsali affilate/) | **PF** | **DIF** | 
+  | [Coda di Drago pestilenziale](/it/equipment/Coda di Drago pestilenziale/) | **ATT** | **DIF** | 
+  | [Orecchini del regnante](/it/equipment/Orecchini del regnante/) | **PF** | **DIF** | 
+  | [Artiglio di Drago pestilenziale](/it/equipment/Artiglio di Drago pestilenziale/) | **ATT** | **DIF** | 
+  | [Spine dorsali affilate](/it/equipment/Spine dorsali affilate/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Testa di Idra](/Exclusive/Hydra Hydra's Head/) 
+ **Name:** [Testa di Idra](/it/Exclusive/Hydra Hydra's Head/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) (Ordine)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
 
 ## Informazioni combinazione
 
@@ -154,10 +154,11 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **Attacco**  (Roster unità d'attacco)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

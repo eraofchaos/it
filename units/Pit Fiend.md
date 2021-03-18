@@ -3,7 +3,7 @@ title: "Demone dell'abisso"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Demone dell'abisso"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Sorgente di fuoco: cura ininterrottamente le unità alleate davanti a sé.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Frusta infernale](/equipment/Frusta infernale/) | **ATT** | **DIF** | 
-  | [Armatura leggera stregata](/equipment/Armatura leggera stregata/) | **PF** | **DIF** | 
-  | [Corno stregato](/equipment/Corno stregato/) | **ATT** | **DIF** | 
-  | [Spallacci stregati](/equipment/Spallacci stregati/) | **PF** | **DIF** | 
+  | [Frusta infernale](/it/equipment/Frusta infernale/) | **ATT** | **DIF** | 
+  | [Armatura leggera stregata](/it/equipment/Armatura leggera stregata/) | **PF** | **DIF** | 
+  | [Corno stregato](/it/equipment/Corno stregato/) | **ATT** | **DIF** | 
+  | [Spallacci stregati](/it/equipment/Spallacci stregati/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Spada](/Exclusive/Pit Fiend Sword/) 
+ **Name:** [Spada](/it/Exclusive/Pit Fiend Sword/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Attacco**  (Roster unità d'attacco)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

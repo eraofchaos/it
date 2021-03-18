@@ -3,7 +3,7 @@ title: "Manticora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Manticora"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Dungeon](/units/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/units/Faction Dungeon/)
 
  **Race:** Truppe Dungeon
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** DPS e resistenza elevati.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Artiglio abissale](/equipment/Artiglio abissale/) | **ATT** | **DIF** | 
-  | [Zanna avvelenata](/equipment/Zanna avvelenata/) | **PF** | **DIF** | 
-  | [Coda velenosa](/equipment/Coda velenosa/) | **ATT** | **DIF** | 
-  | [Ali della Manticora](/equipment/Ali della Manticora/) | **PF** | **DIF** | 
+  | [Artiglio abissale](/it/equipment/Artiglio abissale/) | **ATT** | **DIF** | 
+  | [Zanna avvelenata](/it/equipment/Zanna avvelenata/) | **PF** | **DIF** | 
+  | [Coda velenosa](/it/equipment/Coda velenosa/) | **ATT** | **DIF** | 
+  | [Ali della Manticora](/it/equipment/Ali della Manticora/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Coda di scorpione](/Exclusive/Manticore Scorpion Tail/) 
+ **Name:** [Coda di scorpione](/it/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -148,11 +148,12 @@ toc: true
 
 * **Dungeon**  (Roster Dungeon)
 * **Incursione**  (Roster unità di incursione)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare](/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Mutare (drago)](/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare](/it/heroes/Mutare/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mutare (drago)](/it/heroes/Dragon Mutare/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

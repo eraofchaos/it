@@ -3,7 +3,7 @@ title: "Elementale del ghiaccio"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Elementale del ghiaccio"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Confluenza](/units/Faction Conflux/)
+ **Fazione:** [Confluenza](/it/units/Faction Conflux/)
 
  **Race:** Domatore
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Short description:** Aura di ghiaccio. Muro di ghiaccio.
 
@@ -66,14 +66,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Cristallo congelato](/equipment/Cristallo congelato/) | **ATT** | **DIF** | 
-  | [Copricapo delle maree](/equipment/Copricapo delle maree/) | **PF** | **DIF** | 
-  | [Marchio dell'oceano](/equipment/Marchio dell'oceano/) | **ATT** | **DIF** | 
-  | [Telo della Sirena](/equipment/Telo della Sirena/) | **PF** | **DIF** | 
+  | [Cristallo congelato](/it/equipment/Cristallo congelato/) | **ATT** | **DIF** | 
+  | [Copricapo delle maree](/it/equipment/Copricapo delle maree/) | **PF** | **DIF** | 
+  | [Marchio dell'oceano](/it/equipment/Marchio dell'oceano/) | **ATT** | **DIF** | 
+  | [Telo della Sirena](/it/equipment/Telo della Sirena/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/Exclusive/Ice Elemental Arcane Chant/) 
+ **Name:** [Cantico arcano](/it/Exclusive/Ice Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
@@ -84,9 +84,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Retaggio dei Pugno di Ferro](/Emblem/Ironfist's Legacy/) (Ordine)
-* [Simbolo di Aksoe](/Emblem/Aksoe Token/) (Neutrale)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) (Ordine)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -155,10 +155,11 @@ toc: true
 
 * **Confluenza**  (Roster Confluenza)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Ciele](/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Ciele](/it/heroes/Ciele/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

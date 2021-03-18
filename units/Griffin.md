@@ -3,7 +3,7 @@ title: "Grifone"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
 unitID: 103
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Grifone"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Bestia
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 2/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
  **Unit description:** Picchiata: infligge danni a 3 unità nemiche.
 
@@ -70,14 +70,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Artigli seghettati](/equipment/Artigli seghettati/) | **ATT** | **DIF** | 
-  | [Copricapo della velocità](/equipment/Copricapo della velocità/) | **PF** | **DIF** | 
-  | [Piuma di Arcigrifone](/equipment/Piuma di Arcigrifone/) | **ATT** | **DIF** | 
-  | [Cimiero dell'Impero](/equipment/Cimiero dell'Impero/) | **PF** | **DIF** | 
+  | [Artigli seghettati](/it/equipment/Artigli seghettati/) | **ATT** | **DIF** | 
+  | [Copricapo della velocità](/it/equipment/Copricapo della velocità/) | **PF** | **DIF** | 
+  | [Piuma di Arcigrifone](/it/equipment/Piuma di Arcigrifone/) | **ATT** | **DIF** | 
+  | [Cimiero dell'Impero](/it/equipment/Cimiero dell'Impero/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/Exclusive/Griffin Knight Pike/) 
+ **Name:** [Carica impetuosa](/it/Exclusive/Griffin Knight Pike/) 
 
  **Is Open:** - 
 
@@ -88,9 +88,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Testimonianza](/Emblem/Witness/) (Bontà)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Testimonianza](/it/Emblem/Witness/) (Bontà)
 
 ## Informazioni combinazione
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Castello**  (Roster Castello)
 * **Incursione**  (Roster unità di incursione)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
@@ -175,40 +176,40 @@ toc: true
 
 ## Awaking
 ### Awaking Details
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Grifone sacro
 
- **Awaking Descrizione:** null
+ **Awaking Descrizione:** I Grifoni addestrati dalla famiglia Edric ora combattono per difendere l'Erathia. Pattugliano i cieli sopra il castello notte e giorno. Chiunque abbia l'audacia e la stoltezza di avvicinarsi viene ridotto in brandelli dai loro affilatissimi artigli.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #876741;font-size:18px">Schiera un Grifone con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Castello e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> risorse durante un'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Grifone sacro nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Schiera un Grifone con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Castello e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): Correnti turbolente
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Contrattacco in picchiata&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Vel ATT dell'unità bersaglio del 40% per 5 secondi.</span>
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): Imboscata in picchiata
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Contrattacco in picchiata&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la Vel ATT del 40% per 5 secondi.</span>
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): Signore sacro
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Torre di comando&gt;</span><span style="color: #645252;font-size:18px"> Il Grifone scatena il potere delle aquile. All'inizio della battaglia, aumenta il DAN delle unità volanti alleate del 40% per 20 secondi.</span>
 
-### 4th Skill (or 3rd): Muro cavo
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): Guardiano sacro
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Torre di comando&gt;</span><span style="color: #645252;font-size:18px"> Il Grifone scatena la potenza dei leoni. All'inizio della battaglia, aumenta la Rid DAN delle unità da mischia alleate del 40% per 20 secondi.</span>
 
-### 5th Skill (or 6th): Infiltrazione
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): Supporto aereo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Arcangelo&gt;</span><span style="color: #645252;font-size:18px"> La DIF del Grifone aumenta del 5% per ogni unità volante alleata sul campo di battaglia.</span>
 
-### 6th Skill (or 5th): Assalto estenuante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): Impatto tellurico
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Arcangelo&gt;</span><span style="color: #645252;font-size:18px"> Contro unità di terra, il DAN del Grifone aumenta del 50%.</span>
 
 ## Technical info
  **runart:** 1

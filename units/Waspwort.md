@@ -3,7 +3,7 @@ title: "Erbavespa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude."
 unitID: 808
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Erbavespa"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** DPS e controllo nemici.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ramo in fiore robusto](/equipment/Ramo in fiore robusto/) | **ATT** | **DIF** | 
-  | [Spina tossica](/equipment/Spina tossica/) | **PF** | **DIF** | 
-  | [Fiore del Signore Supremo](/equipment/Fiore del Signore Supremo/) | **ATT** | **DIF** | 
-  | [Ape assassina](/equipment/Ape assassina/) | **PF** | **DIF** | 
+  | [Ramo in fiore robusto](/it/equipment/Ramo in fiore robusto/) | **ATT** | **DIF** | 
+  | [Spina tossica](/it/equipment/Spina tossica/) | **PF** | **DIF** | 
+  | [Fiore del Signore Supremo](/it/equipment/Fiore del Signore Supremo/) | **ATT** | **DIF** | 
+  | [Ape assassina](/it/equipment/Ape assassina/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Foglia d'Erbavespa](/Exclusive/Waspwort Waspwort Leaf/) 
+ **Name:** [Foglia d'Erbavespa](/it/Exclusive/Waspwort Waspwort Leaf/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Superbia](/Emblem/Arrogance/) (Caos)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **A distanza**  (Roster unità a distanza)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

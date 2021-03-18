@@ -3,7 +3,7 @@ title: "Tiratore scelto"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Tiratore scelto"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche.
 
- **Classe:** [A distanza](/units/Unit Class Ranged/)
+ **Classe:** [A distanza](/it/units/Unit Class Ranged/)
 
  **Classe Descrizione:** Maggiore è la distanza tra un'unità a distanza e il suo bersaglio, più efficaci sono i suoi attacchi.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Umano
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Freccia esplosiva: infligge danni ingenti alle unità nemiche.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Balestra di luce](/equipment/Balestra di luce/) | **ATT** | **DIF** | 
-  | [Elmetto d'acciaio](/equipment/Elmetto d'acciaio/) | **PF** | **DIF** | 
-  | [Quadrelli perforanti](/equipment/Quadrelli perforanti/) | **ATT** | **DIF** | 
-  | [Guanti di cuoio](/equipment/Guanti di cuoio/) | **PF** | **DIF** | 
+  | [Balestra di luce](/it/equipment/Balestra di luce/) | **ATT** | **DIF** | 
+  | [Elmetto d'acciaio](/it/equipment/Elmetto d'acciaio/) | **PF** | **DIF** | 
+  | [Quadrelli perforanti](/it/equipment/Quadrelli perforanti/) | **ATT** | **DIF** | 
+  | [Guanti di cuoio](/it/equipment/Guanti di cuoio/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/Exclusive/Marksman Long Bow/) 
+ **Name:** [Arco lungo](/it/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Testimonianza](/Emblem/Witness/) (Bontà)
-* [Simbolo di Aksoe](/Emblem/Aksoe Token/) (Neutrale)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Testimonianza](/it/Emblem/Witness/) (Bontà)
+* [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) (Neutrale)
 
 ## Informazioni combinazione
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Castello**  (Roster Castello)
 * **A distanza**  (Roster unità a distanza)
+* **R**  (R)
 
 ### Bonus eroe
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Gelu](/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Gelu](/it/heroes/Gelu/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

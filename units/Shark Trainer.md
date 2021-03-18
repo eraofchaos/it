@@ -3,7 +3,7 @@ title: "Addestratore di squali"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo fatale si aggira per gli oceani in sella a uno squalo e brandendo una scimitarra."
 unitID: 9909
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Addestratore di squali"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descrizione:** L'Incubo fatale si aggira per gli oceani in sella a uno squalo e brandendo una scimitarra.
 
- **Classe:** [Incursione](/units/Unit Class Charging/)
+ **Classe:** [Incursione](/it/units/Unit Class Charging/)
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/it/units/Faction Cove/)
 
  **Race:** Pirata
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Evoca squali che sbranano i nemici.
 
@@ -68,14 +68,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Scimitarra d'acciaio](/equipment/Scimitarra d'acciaio/) | **ATT** | **DIF** | 
-  | [Cinghia protettiva](/equipment/Cinghia protettiva/) | **PF** | **DIF** | 
-  | [Guanti protettivi](/equipment/Guanti protettivi/) | **ATT** | **DIF** | 
-  | [Redini per squalo](/equipment/Redini per squalo/) | **PF** | **DIF** | 
+  | [Scimitarra d'acciaio](/it/equipment/Scimitarra d'acciaio/) | **ATT** | **DIF** | 
+  | [Cinghia protettiva](/it/equipment/Cinghia protettiva/) | **PF** | **DIF** | 
+  | [Guanti protettivi](/it/equipment/Guanti protettivi/) | **ATT** | **DIF** | 
+  | [Redini per squalo](/it/equipment/Redini per squalo/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Onde di risacca](/Exclusive/Shark Trainer Break Waves/) 
+ **Name:** [Onde di risacca](/it/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
@@ -86,9 +86,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Invidia](/Emblem/Jealousy/) (Caos)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
 
 ## Informazioni combinazione
 
@@ -197,10 +197,11 @@ toc: true
 
 * **Baia**  (Roster Baia)
 * **Incursione**  (Roster unità di incursione)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Mullich](/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mullich](/it/heroes/Mullich/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

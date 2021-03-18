@@ -3,7 +3,7 @@ title: "Golem draconico"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'apice della tecnologia degli Gnomi. Ogni singola parte di questa fusione tra macchina e magia trabocca di un potere inesauribile."
 unitID: 609
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Golem draconico"
 toc: true
@@ -14,19 +14,19 @@ toc: true
 ## General information
  **Descrizione:** L'apice della tecnologia degli Gnomi. Ogni singola parte di questa fusione tra macchina e magia trabocca di un potere inesauribile.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/it/units/Faction Tower/)
 
  **Race:** Drago
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Difesa suprema.
 
@@ -68,19 +68,19 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Artiglio in lega](/equipment/Artiglio in lega/) | **ATT** | **DIF** | 
-  | [Testa di Drago di titanio](/equipment/Testa di Drago di titanio/) | **PF** | **DIF** | 
-  | [Leva di comando principale](/equipment/Leva di comando principale/) | **ATT** | **DIF** | 
-  | [Armatura in lega](/equipment/Armatura in lega/) | **PF** | **DIF** | 
+  | [Artiglio in lega](/it/equipment/Artiglio in lega/) | **ATT** | **DIF** | 
+  | [Testa di Drago di titanio](/it/equipment/Testa di Drago di titanio/) | **PF** | **DIF** | 
+  | [Leva di comando principale](/it/equipment/Leva di comando principale/) | **ATT** | **DIF** | 
+  | [Armatura in lega](/it/equipment/Armatura in lega/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
-* [Avarizia](/Emblem/Greed/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,10 +159,11 @@ toc: true
 
 * **Torre**  (Roster Torre)
 * **Difesa**  (Roster unità di difesa)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

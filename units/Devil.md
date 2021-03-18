@@ -3,7 +3,7 @@ title: "Diavolo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie."
 unitID: 507
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Diavolo"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Inferno](/units/Faction Inferno/)
+ **Fazione:** [Inferno](/it/units/Faction Inferno/)
 
  **Race:** Demoniaco
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/units/Unit Rank SSR/)
+ **Rank:** [SSR](/it/units/Unit Rank SSR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Unit description:** Mietitore sadico: infligge danni catastrofici ai nemici e causa <Stordimento>.
 
@@ -69,14 +69,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Falce diabolica](/equipment/Falce diabolica/) | **ATT** | **DIF** | 
-  | [Pentacolo di lava](/equipment/Pentacolo di lava/) | **PF** | **DIF** | 
-  | [Guanti di lava](/equipment/Guanti di lava/) | **ATT** | **DIF** | 
-  | [Spallacci di lava](/equipment/Spallacci di lava/) | **PF** | **DIF** | 
+  | [Falce diabolica](/it/equipment/Falce diabolica/) | **ATT** | **DIF** | 
+  | [Pentacolo di lava](/it/equipment/Pentacolo di lava/) | **PF** | **DIF** | 
+  | [Guanti di lava](/it/equipment/Guanti di lava/) | **ATT** | **DIF** | 
+  | [Spallacci di lava](/it/equipment/Spallacci di lava/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Falce diabolica](/Exclusive/Devil Devil Scythe/) 
+ **Name:** [Falce diabolica](/it/Exclusive/Devil Devil Scythe/) 
 
  **Is Open:** - 
 
@@ -87,9 +87,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Ali di Grifone](/Emblem/Griffin Wings/) (Ordine)
-* [Superbia](/Emblem/Arrogance/) (Caos)
-* [Calamità del Re](/Emblem/King's Calamity/) (Malvagio)
+* [Ali di Grifone](/it/Emblem/Griffin Wings/) (Ordine)
+* [Superbia](/it/Emblem/Arrogance/) (Caos)
+* [Calamità del Re](/it/Emblem/King's Calamity/) (Malvagio)
 
 ## Informazioni combinazione
 
@@ -160,10 +160,11 @@ toc: true
 
 * **Inferno**  (Roster Inferno)
 * **Attacco**  (Roster unità d'attacco)
+* **SSR**  (SSR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Xeron](/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

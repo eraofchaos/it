@@ -3,7 +3,7 @@ title: "Scheletro"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Scheletro"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Non morto
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Scudo d'ossa: aumenta la Rid DAN dell'unità quando i PF scendono sotto il 50%.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Scimitarra blasfema](/equipment/Scimitarra blasfema/) | **ATT** | **DIF** | 
-  | [Elmo arrugginito](/equipment/Elmo arrugginito/) | **PF** | **DIF** | 
-  | [Scudo blasfemo](/equipment/Scudo blasfemo/) | **ATT** | **DIF** | 
-  | [Spallacci arrugginiti](/equipment/Spallacci arrugginiti/) | **PF** | **DIF** | 
+  | [Scimitarra blasfema](/it/equipment/Scimitarra blasfema/) | **ATT** | **DIF** | 
+  | [Elmo arrugginito](/it/equipment/Elmo arrugginito/) | **PF** | **DIF** | 
+  | [Scudo blasfemo](/it/equipment/Scudo blasfemo/) | **ATT** | **DIF** | 
+  | [Spallacci arrugginiti](/it/equipment/Spallacci arrugginiti/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Skeleton Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Skeleton Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Avarizia](/Emblem/Greed/) (Caos)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Avarizia](/it/Emblem/Greed/) (Caos)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -158,12 +158,13 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Difesa**  (Roster unità di difesa)
+* **R**  (R)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Vidomina](/heroes/Vidomina/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Vidomina](/it/heroes/Vidomina/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

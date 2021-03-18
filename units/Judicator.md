@@ -3,7 +3,7 @@ title: "Giudice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi."
 unitID: 109
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Giudice"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Castello](/units/Faction Castle/)
+ **Fazione:** [Castello](/it/units/Faction Castle/)
 
  **Race:** Umano
 
- **Members:** [x1](/units/Unit Member x1/)
+ **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/units/Unit Rank Commander/)
+ **Rank:** [Comandante](/it/units/Unit Rank Commander/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Aura di supporto, portata allargata
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Bordone della Teocrazia](/equipment/Bordone della Teocrazia/) | **ATT** | **DIF** | 
-  | [Cappuccio celestiale della beatitudine](/equipment/Cappuccio celestiale della beatitudine/) | **PF** | **DIF** | 
-  | [Mantello luminoso](/equipment/Mantello luminoso/) | **ATT** | **DIF** | 
-  | [Vambrace divino](/equipment/Vambrace divino/) | **PF** | **DIF** | 
+  | [Bordone della Teocrazia](/it/equipment/Bordone della Teocrazia/) | **ATT** | **DIF** | 
+  | [Cappuccio celestiale della beatitudine](/it/equipment/Cappuccio celestiale della beatitudine/) | **PF** | **DIF** | 
+  | [Mantello luminoso](/it/equipment/Mantello luminoso/) | **ATT** | **DIF** | 
+  | [Vambrace divino](/it/equipment/Vambrace divino/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [](/Exclusive/Judicator /) 
+ **Name:** [](/it/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
@@ -83,8 +83,8 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -158,10 +158,11 @@ toc: true
 
 * **Castello**  (Roster Castello)
 * **Incantatore**  (Roster incantatori)
+* **Comandante**  (Comandante)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Roland](/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Roland](/it/heroes/Roland/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Leviatano"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Leviatano"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa.
 
- **Classe:** [Attacco](/units/Unit Class Offense/)
+ **Classe:** [Attacco](/it/units/Unit Class Offense/)
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Baia](/units/Faction Cove/)
+ **Fazione:** [Baia](/it/units/Faction Cove/)
 
  **Race:** Pirata
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Kraken abissale. Non può essere rianimato.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Zanne affilate](/equipment/Zanne affilate/) | **ATT** | **DIF** | 
-  | [Pinna congelata](/equipment/Pinna congelata/) | **PF** | **DIF** | 
-  | [Coda di mostro marino](/equipment/Coda di mostro marino/) | **ATT** | **DIF** | 
-  | [Tentacoli tentatori](/equipment/Tentacoli tentatori/) | **PF** | **DIF** | 
+  | [Zanne affilate](/it/equipment/Zanne affilate/) | **ATT** | **DIF** | 
+  | [Pinna congelata](/it/equipment/Pinna congelata/) | **PF** | **DIF** | 
+  | [Coda di mostro marino](/it/equipment/Coda di mostro marino/) | **ATT** | **DIF** | 
+  | [Tentacoli tentatori](/it/equipment/Tentacoli tentatori/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Maree tenebrose](/Exclusive/Revyaratan Gloom Tides/) 
+ **Name:** [Maree tenebrose](/it/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Soffio del Re dei Draghi](/Emblem/Dragon King's Breath/) (Malvagio)
-* [Profezia infranta](/Emblem/Broken Prophecy/) (Malvagio)
-* [Invidia](/Emblem/Jealousy/) (Caos)
+* [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) (Malvagio)
+* [Profezia infranta](/it/Emblem/Broken Prophecy/) (Malvagio)
+* [Invidia](/it/Emblem/Jealousy/) (Caos)
 
 ## Informazioni combinazione
 
@@ -165,10 +165,11 @@ toc: true
 
 * **Baia**  (Roster Baia)
 * **Attacco**  (Roster unità d'attacco)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Kendal](/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Cassanbel](/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Cassanbel](/it/heroes/Cassanbel/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

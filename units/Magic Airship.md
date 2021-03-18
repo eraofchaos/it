@@ -3,7 +3,7 @@ title: "Aeronave magica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Aeronave magica"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida.
 
- **Classe:** [Incantatore](/units/Unit Class Caster/)
+ **Classe:** [Incantatore](/it/units/Unit Class Caster/)
 
  **Classe Descrizione:** Grazie alla completa padronanza delle arti magiche, gli incantatori sono più resistenti agli incantesimi.
 
- **Fazione:** [Torre](/units/Faction Tower/)
+ **Fazione:** [Torre](/it/units/Faction Tower/)
 
  **Race:** Umano
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Applica buff ai DPS nelle retrovie.
 
@@ -65,14 +65,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Dispositivo di decollo](/equipment/Dispositivo di decollo/) | **ATT** | **DIF** | 
-  | [Dispositivo di controllo](/equipment/Dispositivo di controllo/) | **PF** | **DIF** | 
-  | [Torre di controllo principale](/equipment/Torre di controllo principale/) | **ATT** | **DIF** | 
-  | [Ponte d'osservazione](/equipment/Ponte d'osservazione/) | **PF** | **DIF** | 
+  | [Dispositivo di decollo](/it/equipment/Dispositivo di decollo/) | **ATT** | **DIF** | 
+  | [Dispositivo di controllo](/it/equipment/Dispositivo di controllo/) | **PF** | **DIF** | 
+  | [Torre di controllo principale](/it/equipment/Torre di controllo principale/) | **ATT** | **DIF** | 
+  | [Ponte d'osservazione](/it/equipment/Ponte d'osservazione/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Stella polare](/Exclusive/Magic Airship Polaris/) 
+ **Name:** [Stella polare](/it/Exclusive/Magic Airship Polaris/) 
 
  **Is Open:** - 
 
@@ -83,9 +83,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Fuoco antico](/Emblem/Ancient Fire/) (Ordine)
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Fuoco antico](/it/Emblem/Ancient Fire/) (Ordine)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Torre**  (Roster Torre)
 * **Incantatore**  (Roster incantatori)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Dracon](/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Astral](/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Astral](/it/heroes/Astral/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Morto vivente"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Necropoli](/units/Faction Necropolis/)
+ **Fazione:** [Necropoli](/it/units/Faction Necropolis/)
 
  **Race:** Non morto
 
- **Members:** [x9](/units/Unit Member x9/)
+ **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/units/Unit Rank R/)
+ **Rank:** [R](/it/units/Unit Rank R/)
 
- **Starts:** [<i class="fas fa-star"/>](/units/Star 1/)
+ **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
  **Unit description:** Esplosivo: infligge danni alle unità circostanti quando l'unità viene sconfitta.
 
@@ -71,14 +71,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Machete insanguinato](/equipment/Machete insanguinato/) | **ATT** | **DIF** | 
-  | [Collana d'ossa](/equipment/Collana d'ossa/) | **PF** | **DIF** | 
-  | [Bracciale d'acciaio lavorato](/equipment/Bracciale d'acciaio lavorato/) | **ATT** | **DIF** | 
-  | [Pantaloni della Rovina](/equipment/Pantaloni della Rovina/) | **PF** | **DIF** | 
+  | [Machete insanguinato](/it/equipment/Machete insanguinato/) | **ATT** | **DIF** | 
+  | [Collana d'ossa](/it/equipment/Collana d'ossa/) | **PF** | **DIF** | 
+  | [Bracciale d'acciaio lavorato](/it/equipment/Bracciale d'acciaio lavorato/) | **ATT** | **DIF** | 
+  | [Pantaloni della Rovina](/it/equipment/Pantaloni della Rovina/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/Exclusive/Walking Dead Iris Shield/) 
+ **Name:** [Scudo dell'Iride](/it/Exclusive/Walking Dead Iris Shield/) 
 
  **Is Open:** - 
 
@@ -89,9 +89,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Segreto eterno](/Emblem/Everlasting Secret/) (Ordine)
-* [Chiave di pietra del cancello](/Emblem/Stone Key to the Gates/) (Neutrale)
-* [Ira](/Emblem/Anger/) (Caos)
+* [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
+* [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) (Neutrale)
+* [Ira](/it/Emblem/Anger/) (Caos)
 
 ## Informazioni combinazione
 
@@ -159,11 +159,12 @@ toc: true
 
 * **Necropoli**  (Roster Necropoli)
 * **Difesa**  (Roster unità di difesa)
+* **R**  (R)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro](/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Sandro (umano)](/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro](/it/heroes/Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Sandro (umano)](/it/heroes/Human Sandro/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

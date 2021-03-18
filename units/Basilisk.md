@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
 unitID: 804
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Basilisco"
 toc: true
@@ -11,19 +11,19 @@ toc: true
 ## General information
  **Descrizione:** Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà.
 
- **Classe:** [Difesa](/units/Unit Class Defense/)
+ **Classe:** [Difesa](/it/units/Unit Class Defense/)
 
  **Classe Descrizione:** Le unità di difesa possono sopravvivere a più attacchi grazie alla riduzione dei danni subiti.
 
- **Fazione:** [Fortezza](/units/Faction Fortress/)
+ **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
  **Race:** Bestia
 
- **Members:** [x4](/units/Unit Member x4/)
+ **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/units/Unit Rank SR/)
+ **Rank:** [SR](/it/units/Unit Rank SR/)
 
- **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/units/Star 3/)
+ **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
  **Short description:** Controlla i tank. Pietrifica.
 
@@ -67,14 +67,14 @@ toc: true
 
   |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-------------|:-------------:|:------------:|
-  | [Ala collare del Basilisco](/equipment/Ala collare del Basilisco/) | **ATT** | **DIF** | 
-  | [Squama indistruttibile](/equipment/Squama indistruttibile/) | **PF** | **DIF** | 
-  | [Artiglio avvelenato](/equipment/Artiglio avvelenato/) | **ATT** | **DIF** | 
-  | [Zanna pietrificante](/equipment/Zanna pietrificante/) | **PF** | **DIF** | 
+  | [Ala collare del Basilisco](/it/equipment/Ala collare del Basilisco/) | **ATT** | **DIF** | 
+  | [Squama indistruttibile](/it/equipment/Squama indistruttibile/) | **PF** | **DIF** | 
+  | [Artiglio avvelenato](/it/equipment/Artiglio avvelenato/) | **ATT** | **DIF** | 
+  | [Zanna pietrificante](/it/equipment/Zanna pietrificante/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
- **Name:** [Coda di Basilisco](/Exclusive/Basilisk Basilisk's Tail/) 
+ **Name:** [Coda di Basilisco](/it/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
@@ -85,9 +85,9 @@ toc: true
 
 ## Emblemi sacri consigliati
 
-* [Bened. della Regina](/Emblem/Queen's Blessing/) (Ordine)
-* [Meccanismo temporale](/Emblem/Gear of Time/) (Bontà)
-* [Lussuria](/Emblem/Lust/) (Caos)
+* [Bened. della Regina](/it/Emblem/Queen's Blessing/) (Ordine)
+* [Meccanismo temporale](/it/Emblem/Gear of Time/) (Bontà)
+* [Lussuria](/it/Emblem/Lust/) (Caos)
 
 ## Informazioni combinazione
 
@@ -157,10 +157,11 @@ toc: true
 
 * **Fortezza**  (Roster Fortezza)
 * **Difesa**  (Roster unità di difesa)
+* **SR**  (SR)
 
 ### Bonus eroe
-* [Mephala](/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
-* [Tazar](/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Tazar](/it/heroes/Tazar/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

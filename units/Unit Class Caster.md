@@ -2,33 +2,33 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Era of Chaos Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-03-04
+last_modified_at: 2021-03-18
 locale: it
 ref: "Unit Class Caster"
 toc: false
 classes: wide
 ---
- [A distanza](/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/units/Unit Class Defense/){: .btn .btn--info} 
+ [A distanza](/it/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/it/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/it/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/it/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/it/units/Unit Class Defense/){: .btn .btn--info} 
 
   | Nr |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | [Roc](/units/Roc/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Uccello del Tuono  |
-  | 2 | [Veggente di Regna](/units/Regnan Seer/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Elementale delle maree  |
-  | 3 | [Rapace di fuoco](/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
-  | 4 | [Gog](/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
-  | 5 | [Efreet](/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
-  | 6 | [Elementale del mare](/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elementale delle maree  |
-  | 7 | [Arcimago](/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arcimago  |
-  | 8 | [Genio](/units/Genie/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
-  | 9 | [Sirena](/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
-  | 10 | [Osservatore](/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
-  | 11 | [Gigante](/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titano  |
-  | 12 | [Monaco](/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
-  | 13 | [Aeronave magica](/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
-  | 14 | [Mosca serpente](/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
-  | 15 | [Giudice](/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
-  | 16 | [Drago verde](/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Drago d'Oro  |
-  | 17 | [Anima](/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spettro  |
-  | 18 | [Elementale del ghiaccio](/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Spirito della neve silente  |
-  | 19 | [Druido](/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Arcidruido  |
-  | 20 | [Lich](/units/Lich/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 228.7 | 1581 |  Lich potenziato  |
+  | 1 | [Roc](/it/units/Roc/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Uccello del Tuono  |
+  | 2 | [Veggente di Regna](/it/units/Regnan Seer/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Elementale delle maree  |
+  | 3 | [Rapace di fuoco](/it/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
+  | 4 | [Gog](/it/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
+  | 5 | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
+  | 6 | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elementale delle maree  |
+  | 7 | [Arcimago](/it/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arcimago  |
+  | 8 | [Genio](/it/units/Genie/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
+  | 9 | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
+  | 10 | [Osservatore](/it/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
+  | 11 | [Gigante](/it/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titano  |
+  | 12 | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
+  | 13 | [Aeronave magica](/it/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
+  | 14 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 15 | [Giudice](/it/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
+  | 16 | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Drago d'Oro  |
+  | 17 | [Anima](/it/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spettro  |
+  | 18 | [Elementale del ghiaccio](/it/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Spirito della neve silente  |
+  | 19 | [Druido](/it/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Arcidruido  |
+  | 20 | [Lich](/it/units/Lich/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Lich potenziato  |
