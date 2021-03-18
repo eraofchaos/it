@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Cantico arcano** 
+### Dettagli
+ **Nome: Cantico arcano** 
 
  **Esclusivo for Unit:** [Anima](/it/units/Wight/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Foschia maledetta> L'Anima evoca una foschia maledetta che riduce del 15% la Rid DAN delle unità nemiche in un'ampia area circostante il bersaglio e infligge danni pari al 50% dell'ATT ogni secondo per 6 secondi. Recupero: 18 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | DAN dell'Anima aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Vel ATT dell'Anima aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | Quando un'Anima viene sconfitta, 3 unità vengono colte da <Paura> per 5 secondi e ottengono una carica di <Marchio del terrore>. (<Paura>: L'unità non può attaccare, muoversi o usare tecniche. RES magica ridotta del 30%.) |
-  | **4x** <i class="fas fa-star"/> | ? | Quando lancia <Foschia maledetta>, un'unità alleata casuale gode di CRIT aumentato di 300 e DAN CRIT aumentato del 30% per 10 secondi. |
-  | **5x** <i class="fas fa-star"/> | ? | L'Anima è immune ai danni degli incantesimi di tipo Terra. Quando attacca un'unità, l'Anima ha il 25% di probabilità di infliggere danni aggiuntivi pari al 100% del proprio ATT e recuperare una quantità di PF pari al 30% del proprio ATT. |
-  | **6x** <i class="fas fa-star"/> | ? | <Raffica fantasma> L'Anima causa una profonda disperazione nell'unità bersaglio, riducendone DAN e Rid DAN del 30% per 8 secondi. Inoltre, ha una probabilità del 50% di causare <Paura> per 5 secondi e applicare un <Marchio del terrore> sul bersaglio. Recupero: 15 secondi. |
+  |  Risveglio  | **100x** [Token Cantico arcano](/it/Items/con_915/) | <Foschia maledetta> L'Anima evoca una foschia maledetta che riduce del 15% la Rid DAN delle unità nemiche in un'ampia area circostante il bersaglio e infligge danni pari al 50% dell'ATT ogni secondo per 6 secondi. Recupero: 18 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Cantico arcano](/it/Items/con_915/) | DAN dell'Anima aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Cantico arcano](/it/Items/con_915/) | Vel ATT dell'Anima aumentata del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Cantico arcano](/it/Items/con_915/) | Quando un'Anima viene sconfitta, 3 unità vengono colte da <Paura> per 5 secondi e ottengono una carica di <Marchio del terrore>. (<Paura>: L'unità non può attaccare, muoversi o usare tecniche. RES magica ridotta del 30%.) |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Cantico arcano](/it/Items/con_915/) | Quando lancia <Foschia maledetta>, un'unità alleata casuale gode di CRIT aumentato di 300 e DAN CRIT aumentato del 30% per 10 secondi. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Cantico arcano](/it/Items/con_915/) | L'Anima è immune ai danni degli incantesimi di tipo Terra. Quando attacca un'unità, l'Anima ha il 25% di probabilità di infliggere danni aggiuntivi pari al 100% del proprio ATT e recuperare una quantità di PF pari al 30% del proprio ATT. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Cantico arcano](/it/Items/con_915/) | <Raffica fantasma> L'Anima causa una profonda disperazione nell'unità bersaglio, riducendone DAN e Rid DAN del 30% per 8 secondi. Inoltre, ha una probabilità del 50% di causare <Paura> per 5 secondi e applicare un <Marchio del terrore> sul bersaglio. Recupero: 15 secondi. |
 
 
 ## Livello ↑

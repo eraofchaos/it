@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Carica impetuosa** 
+### Dettagli
+ **Nome: Carica impetuosa** 
 
  **Esclusivo for Unit:** [Unicorno](/it/units/Unicorn/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Scudo riflettente> Quando l'Unicorno perde il proprio <scudo>, infligge danni pari al 150% dell'ATT ai nemici in un'area ristretta. Se il bersaglio sta <sanguinando>, inoltre, la sua DIF viene ridotta del 20%. Durata: 5 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | L'Unicorno gode di PF aumentati del 20% e Schivata aumentata di 200. |
-  | **2x** <i class="fas fa-star"/> | ? | Rid DAN dell'Unicorno aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Saetta blu> Quando l'Unicorno subisce danni superiori al 15% dei propri PF massimi da un attacco singolo, il suo corno emette una forte luce che <acceca> l'unità bersaglio. Se l'unità bersaglio è già affetta da <Cecità>, il suo DAN si riduce del 20%. Durata: 8 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | DAN dell'Unicorno aumentato del 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Contro nemici affetti da <Sanguinamento>, l'Unicorno gode di ATT e Vel ATT aumentati del 20%. |
-  | **6x** <i class="fas fa-star"/> | ? | <Guardiano lunare> Quando lancia <Scudo riflettente>, il DAN aumenta del 50%, i bersagli vengono scagliati in aria (solo unità da 9 e 16 membri) e il loro DAN e la loro Rid DAN si riducono del 20%. Durata: 5 secondi. |
+  |  Risveglio  | **100x** [Token Carica impetuosa](/it/Items/con_916/) | <Scudo riflettente> Quando l'Unicorno perde il proprio <scudo>, infligge danni pari al 150% dell'ATT ai nemici in un'area ristretta. Se il bersaglio sta <sanguinando>, inoltre, la sua DIF viene ridotta del 20%. Durata: 5 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/it/Items/con_916/) | L'Unicorno gode di PF aumentati del 20% e Schivata aumentata di 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/it/Items/con_916/) | Rid DAN dell'Unicorno aumentata del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/it/Items/con_916/) | <Saetta blu> Quando l'Unicorno subisce danni superiori al 15% dei propri PF massimi da un attacco singolo, il suo corno emette una forte luce che <acceca> l'unità bersaglio. Se l'unità bersaglio è già affetta da <Cecità>, il suo DAN si riduce del 20%. Durata: 8 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/it/Items/con_916/) | DAN dell'Unicorno aumentato del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/it/Items/con_916/) | Contro nemici affetti da <Sanguinamento>, l'Unicorno gode di ATT e Vel ATT aumentati del 20%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/it/Items/con_916/) | <Guardiano lunare> Quando lancia <Scudo riflettente>, il DAN aumenta del 50%, i bersagli vengono scagliati in aria (solo unità da 9 e 16 membri) e il loro DAN e la loro Rid DAN si riducono del 20%. Durata: 5 secondi. |
 
 
 ## Livello ↑

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Idra](/it/Items/unt_259/)
+
  **Short description:** ATT elevato. Resistente. Controllo nemici efficace.
 
  **Position :** Unità DPS eccezionale. Devasta i nemici con attacchi ininterrotti.
@@ -74,13 +76,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Testa di Idra](/it/Exclusive/Hydra Hydra's Head/) 
+ **Nome:** [Testa di Idra](/it/Exclusive/Hydra Hydra's Head/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Testa di Idra](/it/Items/con_997/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Nucleo di energia](/it/Items/con_665/)
 
 
 ## Emblemi sacri consigliati
@@ -167,9 +169,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Idra del Caos

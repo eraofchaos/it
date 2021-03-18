@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Picchiere](/it/Items/unt_190/)
+
  **Unit description:** Muro di lance: infligge danni alle unità, causa <Stordimento>.
 
  **Short description:** ATT e DIF equilibrati, controllo di gruppi nemici.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spada](/it/Exclusive/Pikeman Sword/) 
+ **Nome:** [Spada](/it/Exclusive/Pikeman Sword/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Alabardiere

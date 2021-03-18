@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Osservatore](/it/Items/unt_246/)
+
  **Unit description:** Controllo mentale: immobilizza i nemici, che perdono PF col tempo.
 
  **Short description:** Danno iniziale elevato. Controllo mentale.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Sguardo oscuro](/it/Exclusive/Beholder Dark Gaze/) 
+ **Nome:** [Sguardo oscuro](/it/Exclusive/Beholder Dark Gaze/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Sguardo oscuro](/it/Items/con_990/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Sguardo oscuro](/it/Items/con_658/)
 
 
 ## Emblemi sacri consigliati
@@ -163,9 +165,11 @@ toc: true
 * Danno unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Occhio del Diavolo

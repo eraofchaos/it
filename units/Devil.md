@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Diavolo](/it/Items/unt_232/)
+
  **Unit description:** Mietitore sadico: infligge danni catastrofici ai nemici e causa <Stordimento>.
 
  **Short description:** Danni ingenti da attacchi e aura. 
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Falce diabolica](/it/Exclusive/Devil Devil Scythe/) 
+ **Nome:** [Falce diabolica](/it/Exclusive/Devil Devil Scythe/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Falce diabolica](/it/Items/con_984/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Falce diabolica](/it/Items/con_652/)
 
 
 ## Emblemi sacri consigliati
@@ -173,9 +175,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Arcidiavolo

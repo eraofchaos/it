@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Mosca serpente](/it/Items/unt_255/)
+
  **Short description:** Indebolisce e controlla le retrovie.
 
  **Position :** Gli incantatori sono molto efficaci nel gestire grandi quantità di nemici e indebolirne i DPS.
@@ -75,11 +77,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/it/Exclusive/Serpent Fly Arcane Chant/) 
+ **Nome:** [Cantico arcano](/it/Exclusive/Serpent Fly Arcane Chant/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -186,9 +188,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** 

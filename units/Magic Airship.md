@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Aeronave magica](/it/Items/unt_242/)
+
  **Short description:** Applica buff ai DPS nelle retrovie.
 
  **Position :** Supporto magico. Aumenta la Vel ATT degli incantatori e blocca gli attacchi nemici.
@@ -72,13 +74,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Stella polare](/it/Exclusive/Magic Airship Polaris/) 
+ **Nome:** [Stella polare](/it/Exclusive/Magic Airship Polaris/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Stella polare](/it/Items/con_989/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Stella polare](/it/Items/con_657/)
 
 
 ## Emblemi sacri consigliati
@@ -170,9 +172,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

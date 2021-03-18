@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Tool_3509](/it/Items/unt_234/)
+
  **Short description:** Ruba anime per ribaltare il risultato dello scontro. Nato per morire.
 
  **Position :** Ruba anime per ribaltare il risultato dello scontro. Nato per morire.
@@ -231,9 +233,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

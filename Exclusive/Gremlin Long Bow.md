@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arco lungo** 
+### Dettagli
+ **Nome: Arco lungo** 
 
  **Esclusivo for Unit:** [Gremlin](/it/units/Gremlin/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Bomba magica> Attacca l'unità bersaglio con una palla di ferro magica, che esplode infliggendo danni pari al 200% dell'ATT alle unità nemiche circostanti. Recupero: 15 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | DAN del Gremlin aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | <Risveglio magico> Il Gremlin gode di RES magica aumentata del 6% e Rid DAN aumentata del 3% per 5 secondi. Cumulabile fino a 10 volte. |
-  | **3x** <i class="fas fa-star"/> | ? | <Bomba magica> infligge danni extra pari al 100% dell'ATT e <stordisce> le unità nemiche per 2 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | ATT del Gremlin aumentato del 20%. Infligge danni extra pari al 25% dell'ATT alle unità <stordite>. |
-  | **5x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, il Gremlin lancia un'invocazione che aumenta il CRIT di 500 e il DAN CRIT del 100% per 20 secondi. |
-  | **6x** <i class="fas fa-star"/> | ? | <Tecniche diaboliche> Quando un Gremlin viene sconfitto lancia <Bomba magica>, <stordendo> le unità nemiche circostanti per 2 secondi. |
+  |  Risveglio  | **100x** [Token Arco lungo](/it/Items/con_914/) | <Bomba magica> Attacca l'unità bersaglio con una palla di ferro magica, che esplode infliggendo danni pari al 200% dell'ATT alle unità nemiche circostanti. Recupero: 15 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/it/Items/con_914/) | DAN del Gremlin aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/it/Items/con_914/) | <Risveglio magico> Il Gremlin gode di RES magica aumentata del 6% e Rid DAN aumentata del 3% per 5 secondi. Cumulabile fino a 10 volte. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/it/Items/con_914/) | <Bomba magica> infligge danni extra pari al 100% dell'ATT e <stordisce> le unità nemiche per 2 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/it/Items/con_914/) | ATT del Gremlin aumentato del 20%. Infligge danni extra pari al 25% dell'ATT alle unità <stordite>. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/it/Items/con_914/) | All'inizio della battaglia, il Gremlin lancia un'invocazione che aumenta il CRIT di 500 e il DAN CRIT del 100% per 20 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/it/Items/con_914/) | <Tecniche diaboliche> Quando un Gremlin viene sconfitto lancia <Bomba magica>, <stordendo> le unità nemiche circostanti per 2 secondi. |
 
 
 ## Livello ↑

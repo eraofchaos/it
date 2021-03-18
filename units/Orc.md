@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Orco](/it/Items/unt_219/)
+
  **Unit description:** Colpo di grazia: infligge danni aggiuntivi ai nemici con PF inferiori al 30%.
 
  **Short description:** Applica Sanguinamento. Efficace contro PF ridotti.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/it/Exclusive/Orc Long Bow/) 
+ **Nome:** [Arco lungo](/it/Exclusive/Orc Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -176,9 +178,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Orco comandante

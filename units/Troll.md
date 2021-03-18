@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Troll](/it/Items/unt_225/)
+
  **Short description:** Attacca bersagli singoli. Danni istantanei.
 
  **Position :** Attacca bersagli singoli. Danni istantanei.
@@ -187,9 +189,11 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

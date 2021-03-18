@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Catafratto](/it/Items/unt_195/)
+
  **Unit description:** A cavallo: infligge danni ingenti, il primo attacco causa <Stordimento>.
 
  **Short description:** Danno istantaneo iniziale. Carica potente.
@@ -80,11 +82,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/it/Exclusive/Cavalier Knight Pike/) 
+ **Nome:** [Carica impetuosa](/it/Exclusive/Cavalier Knight Pike/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 
 * ?!? 
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Cavalieri campioni

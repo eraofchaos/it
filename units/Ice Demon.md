@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Demone di ghiaccio](/it/Items/unt_269/)
+
  **Short description:** Unità a distanza con controllo. Applica buff agli alleati.
 
  **Position :** Unità a distanza con controllo. Applica buff agli alleati.
@@ -186,9 +188,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

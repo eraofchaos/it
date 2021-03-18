@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Mummia](/it/Items/unt_215/)
+
  **Unit description:** Decomposizione: riduce notevolmente le cure delle unità nemiche.
 
  **Short description:** Riduce i PF con la Malattia e cura.
@@ -74,13 +76,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Benda](/it/Exclusive/Mummy Gauze/) 
+ **Nome:** [Benda](/it/Exclusive/Mummy Gauze/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Benda](/it/Items/con_981/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Benda](/it/Items/con_649/)
 
 
 ## Emblemi sacri consigliati
@@ -171,9 +173,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Re delle Mummie

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Tiratore scelto](/it/Items/unt_191/)
+
  **Unit description:** Freccia esplosiva: infligge danni ingenti alle unità nemiche.
 
  **Short description:** Attacca due volte. Efficace contro le unità grandi.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/it/Exclusive/Marksman Long Bow/) 
+ **Nome:** [Arco lungo](/it/Exclusive/Marksman Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Maestro arciere

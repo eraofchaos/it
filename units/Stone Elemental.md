@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Elementale della pietra](/it/Items/unt_266/)
+
  **Short description:** Sputo letale. Applica Stordimento.
 
  **Position :** <Stordisce> tutte le unità circostanti, <Scissione mortale>, resistenza elevata.
@@ -72,13 +74,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Nucleo di energia](/it/Exclusive/Stone Elemental Energy Core/) 
+ **Nome:** [Nucleo di energia](/it/Exclusive/Stone Elemental Energy Core/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Nucleo di energia](/it/Items/con_999/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Nucleo di energia](/it/Items/con_667/)
 
 
 ## Emblemi sacri consigliati
@@ -172,9 +174,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

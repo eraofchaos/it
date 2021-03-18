@@ -3,13 +3,13 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Gli Anziani considerano Dracon un vero prodigio nell'arte della magia. Il suo obiettivo è diventare il più famoso ammazzadraghi della storia."
 heroID: 61202
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Dracon"
 toc: true
 ---
  **Descrizione:** Gli Anziani considerano Dracon un vero prodigio nell'arte della magia. Il suo obiettivo è diventare il più famoso ammazzadraghi della storia.
-## Details
+## Dettagli
  **Profession:** Mago
 
  **Race:** Torre

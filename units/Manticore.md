@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Manticora](/it/Items/unt_249/)
+
  **Short description:** DPS e resistenza elevati.
 
  **Position :** Supporto agli incursori. Aumenta i DPS degli alleati e riduce la DIF dei nemici.
@@ -74,13 +76,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Coda di scorpione](/it/Exclusive/Manticore Scorpion Tail/) 
+ **Nome:** [Coda di scorpione](/it/Exclusive/Manticore Scorpion Tail/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Coda di scorpione](/it/Items/con_992/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Coda di scorpione](/it/Items/con_660/)
 
 
 ## Emblemi sacri consigliati
@@ -162,9 +164,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Scorpicora

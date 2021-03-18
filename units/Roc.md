@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Roc](/it/Items/unt_221/)
+
  **Unit description:** Tuono: infligge danni catastrofici alle unità nemiche sul suo percorso.
 
  **Short description:** Danno ad area da Aria. Infligge sempre colpi critici.
@@ -79,11 +81,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/it/Exclusive/Roc Arcane Chant/) 
+ **Nome:** [Cantico arcano](/it/Exclusive/Roc Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Uccello del Tuono

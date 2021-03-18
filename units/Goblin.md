@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Goblin](/it/Items/unt_217/)
+
  **Unit description:** Tempesta di guerra: infligge danni a 3 unità nemiche vicine.
 
  **Short description:** Contrattacchi a distanza. I CRIT assorbono PF.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spada](/it/Exclusive/Goblin Sword/) 
+ **Nome:** [Spada](/it/Exclusive/Goblin Sword/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Hobgoblin

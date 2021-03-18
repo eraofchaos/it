@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Golem di ferro](/it/Items/unt_237/)
+
  **Unit description:** Riverbero metallico: protegge le unità alleate con uno <scudo>.
 
  **Short description:** Res. magica elevata.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/it/Exclusive/Iron Golem Iris Shield/) 
+ **Nome:** [Scudo dell'Iride](/it/Exclusive/Iron Golem Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Riduzione danno unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Golem d'oro

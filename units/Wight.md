@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Anima](/it/Items/unt_210/)
+
  **Unit description:** Strillo raccapricciante: causa <Silenzio> alle unità nemiche di fronte a sé.
 
  **Short description:** Applica Silenzio ad area. Schiva gli attacchi. Rigenera il Mana.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/it/Exclusive/Wight Arcane Chant/) 
+ **Nome:** [Cantico arcano](/it/Exclusive/Wight Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Spettro

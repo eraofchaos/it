@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Gorgone](/it/Items/unt_257/)
+
  **Short description:** ATT elevato. Resistente. Controllo nemici efficace.
 
  **Position :** Tank potente. Ha una probabilità di uccidere istantaneamente i nemici.
@@ -74,13 +76,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Corno di Gorgone](/it/Exclusive/Gorgon Gorgon's Horn/) 
+ **Nome:** [Corno di Gorgone](/it/Exclusive/Gorgon Gorgon's Horn/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Corno di Gorgone](/it/Items/con_995/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Corno di Gorgone](/it/Items/con_663/)
 
 
 ## Emblemi sacri consigliati
@@ -182,9 +184,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Gorgone Invincibile

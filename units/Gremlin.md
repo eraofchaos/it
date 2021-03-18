@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Gremlin](/it/Items/unt_235/)
+
  **Unit description:** Palla di ferro incantata: aumenta notevolmente ATT e Vel ATT.
 
  **Short description:** Magia e MIRA migliorate.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/it/Exclusive/Gremlin Long Bow/) 
+ **Nome:** [Arco lungo](/it/Exclusive/Gremlin Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Cantico arcano** 
+### Dettagli
+ **Nome: Cantico arcano** 
 
  **Esclusivo for Unit:** [Roc](/it/units/Roc/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Impulso elettrico> Il Roc utilizza la carica elettrica nel proprio corpo per infliggere danni pari al 2% dei propri PF massimi ogni secondo alle unità nemiche in un'ampia area, riducendone la Vel ATT del 20% per 5 secondi. Recupero: 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Il Roc gode di ATT e DAN CRIT aumentati del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | DAN del Roc aumentato del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | Quando il Roc attacca le unità nemiche con <Impulso elettrico>, la sua Vel ATT e il suo DAN CRIT aumentano rispettivamente del 30% e del 40%. |
-  | **4x** <i class="fas fa-star"/> | ? | <Colpo di fulmine> Il Roc infligge danni pari al 200% del proprio ATT all'unità bersaglio e causa <Affaticamento> per 5 secondi. Anche il Roc è affetto da <Affaticamento> per 3 secondi. Recupero: 15 secondi. <Affaticamento>: Le unità colpite da questo effetto non possono usare attacchi base. |
-  | **5x** <i class="fas fa-star"/> | ? | Riduce del 10% la DIF dei nemici colpiti da <Impulso elettrico>. |
-  | **6x** <i class="fas fa-star"/> | ? | <Caccia nella tempesta> Quando il Roc infligge un colpo critico, lancia <Impulso elettrico> su tutte le unità nemiche in un'ampia area casuale. Inoltre, aumenta di 1000 la Schivata delle unità da mischia Roccaforte alleate e di 500 il CRIT delle unità a distanza e degli incantatori Roccaforte alleati per 5 secondi. Recupero: 20 secondi. |
+  |  Risveglio  | **100x** [Token Cantico arcano](/it/Items/con_915/) | <Impulso elettrico> Il Roc utilizza la carica elettrica nel proprio corpo per infliggere danni pari al 2% dei propri PF massimi ogni secondo alle unità nemiche in un'ampia area, riducendone la Vel ATT del 20% per 5 secondi. Recupero: 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Cantico arcano](/it/Items/con_915/) | Il Roc gode di ATT e DAN CRIT aumentati del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Cantico arcano](/it/Items/con_915/) | DAN del Roc aumentato del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Cantico arcano](/it/Items/con_915/) | Quando il Roc attacca le unità nemiche con <Impulso elettrico>, la sua Vel ATT e il suo DAN CRIT aumentano rispettivamente del 30% e del 40%. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Cantico arcano](/it/Items/con_915/) | <Colpo di fulmine> Il Roc infligge danni pari al 200% del proprio ATT all'unità bersaglio e causa <Affaticamento> per 5 secondi. Anche il Roc è affetto da <Affaticamento> per 3 secondi. Recupero: 15 secondi. <Affaticamento>: Le unità colpite da questo effetto non possono usare attacchi base. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Cantico arcano](/it/Items/con_915/) | Riduce del 10% la DIF dei nemici colpiti da <Impulso elettrico>. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Cantico arcano](/it/Items/con_915/) | <Caccia nella tempesta> Quando il Roc infligge un colpo critico, lancia <Impulso elettrico> su tutte le unità nemiche in un'ampia area casuale. Inoltre, aumenta di 1000 la Schivata delle unità da mischia Roccaforte alleate e di 500 il CRIT delle unità a distanza e degli incantatori Roccaforte alleati per 5 secondi. Recupero: 20 secondi. |
 
 
 ## Livello ↑

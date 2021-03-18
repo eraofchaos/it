@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Coda di Basilisco** 
+### Dettagli
+ **Nome: Coda di Basilisco** 
 
  **Esclusivo for Unit:** [Basilisco](/it/units/Basilisk/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Coda di Basilisco](/it/Items/con_994/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Energia del Fuoco](/it/Items/con_662/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | Quando un attacco colpisce l'unità bersaglio, ha l'8% di probabilità di infliggere danni aggiuntivi pari al 100% dell'ATT e <pietrificare> il bersaglio per 3 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Il Basilisco gode di PF e Rid DAN aumentati del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Quando gli attacchi del Basilisco attivano il Risveglio, gode di DIF aumentata del 20% per 3 secondi. |
-  | **3x** <i class="fas fa-star"/> | ? | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |
-  | **4x** <i class="fas fa-star"/> | ? | Tenacia del Basilisco aumentata di 500. Quando un eroe alleato lancia un incantesimo di tipo Terra, il Basilisco viene protetto da un <Miasma pestilenziale> pari al 10% dei PF massimi per 20 secondi. Recupero: 10 secondi. Finché il <Miasma pestilenziale> è attivo, il Basilisco gode di Rid DAN aumentata del 10% per 20 secondi. Cumulabile fino a 3 volte. |
-  | **5x** <i class="fas fa-star"/> | ? | <Auto-amputazione> Quando i suoi PF scendono sotto il 50%, il Basilisco perde la coda e diventa immune a tutti i danni per 5 secondi. Questa tecnica può essere attivata una sola volta per battaglia. |
-  | **6x** <i class="fas fa-star"/> | ? | <Assedio> Infligge danni pari al 15% dei PF massimi all'unità bersaglio e la <stordisce> per 3 secondi. Recupero: 13 secondi. Per i 5 secondi della durata di <Auto-amputazione>, gode di DAN aumentato del 100%, Perforazione aumentata di 500 e Vel ATT aumentata del 200%. Dopo <Auto-amputazione>, la Rid DAN aumenta del 15% e il Basilisco non può usare <Assedio>. |
+  |  Risveglio  | **100x** [Token Coda di Basilisco](/it/Items/con_994/) | Quando un attacco colpisce l'unità bersaglio, ha l'8% di probabilità di infliggere danni aggiuntivi pari al 100% dell'ATT e <pietrificare> il bersaglio per 3 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Coda di Basilisco](/it/Items/con_994/) | Il Basilisco gode di PF e Rid DAN aumentati del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Coda di Basilisco](/it/Items/con_994/) | Quando gli attacchi del Basilisco attivano il Risveglio, gode di DIF aumentata del 20% per 3 secondi. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Coda di Basilisco](/it/Items/con_994/) | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Coda di Basilisco](/it/Items/con_994/) | Tenacia del Basilisco aumentata di 500. Quando un eroe alleato lancia un incantesimo di tipo Terra, il Basilisco viene protetto da un <Miasma pestilenziale> pari al 10% dei PF massimi per 20 secondi. Recupero: 10 secondi. Finché il <Miasma pestilenziale> è attivo, il Basilisco gode di Rid DAN aumentata del 10% per 20 secondi. Cumulabile fino a 3 volte. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Coda di Basilisco](/it/Items/con_994/) | <Auto-amputazione> Quando i suoi PF scendono sotto il 50%, il Basilisco perde la coda e diventa immune a tutti i danni per 5 secondi. Questa tecnica può essere attivata una sola volta per battaglia. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Coda di Basilisco](/it/Items/con_994/) | <Assedio> Infligge danni pari al 15% dei PF massimi all'unità bersaglio e la <stordisce> per 3 secondi. Recupero: 13 secondi. Per i 5 secondi della durata di <Auto-amputazione>, gode di DAN aumentato del 100%, Perforazione aumentata di 500 e Vel ATT aumentata del 200%. Dopo <Auto-amputazione>, la Rid DAN aumenta del 15% e il Basilisco non può usare <Assedio>. |
 
 
 ## Livello ↑

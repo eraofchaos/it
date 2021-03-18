@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Elementale del fuoco](/it/Items/unt_265/)
+
  **Short description:** Brucia i nemici. Esplosione ad ampio raggio.
 
  **Position :** Infligge <Combustione>, causa esplosioni sul campo di battaglia, sconfiggere i nemici aumenta la sua forza.
@@ -73,13 +75,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Energia del Fuoco](/it/Exclusive/Fire Elemental Fire Energy/) 
+ **Nome:** [Energia del Fuoco](/it/Exclusive/Fire Elemental Fire Energy/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Energia del Fuoco](/it/Items/con_998/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Energia del Fuoco](/it/Items/con_666/)
 
 
 ## Emblemi sacri consigliati
@@ -170,9 +172,11 @@ toc: true
 * Velocità d'attacco
 * Schivata unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Energia elementale

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Morto vivente](/it/Items/unt_209/)
+
  **Unit description:** Esplosivo: infligge danni alle unità circostanti quando l'unità viene sconfitta.
 
  **Short description:** Aura velenosa. Esplode quando muore.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/it/Exclusive/Walking Dead Iris Shield/) 
+ **Nome:** [Scudo dell'Iride](/it/Exclusive/Walking Dead Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Zombi

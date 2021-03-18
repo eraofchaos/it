@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Gigante](/it/Items/unt_241/)
+
  **Unit description:** Dio della Guerra: riduce i PF di una percentuale a qualsiasi distanza.
 
  **Short description:** Dio della battaglia. Distrugge tutte le unità!
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Peso insostenibile](/it/Exclusive/Giant Thousand Ton/) 
+ **Nome:** [Peso insostenibile](/it/Exclusive/Giant Thousand Ton/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Peso insostenibile](/it/Items/con_988/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Peso insostenibile](/it/Items/con_656/)
 
 
 ## Emblemi sacri consigliati
@@ -167,9 +169,11 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Titano

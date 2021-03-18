@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Squama del Drago nero** 
+### Dettagli
+ **Nome: Squama del Drago nero** 
 
  **Esclusivo for Unit:** [Drago nero](/it/units/Black Dragon/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Squama del Drago nero](/it/Items/con_993/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Squama del Drago nero](/it/Items/con_661/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Rifugio dei Draghi> Quando i suoi PF scendono sotto il 75%, il 50% e il 25%, il Drago nero protegge con uno <scudo> pari al 15% dei propri PF massimi le unità Drago alleate di difesa (Tartaruga draconica, Drago nero/Re dei Draghi neri), e protegge con uno <scudo> pari al 30% dei PF massimi tutte le unità Drago alleate d'attacco (Drago verde/Drago d'oro, Drago scheletrico/Drago fantasma, Drago rosso, Idra e Viverna). Lo <scudo> dura fino al termine della battaglia ed è cumulabile. Lo <scudo> del Drago nero non può essere rimosso. Lo <scudo> garantisce immunità agli incantesimi per 3 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Se il Drago nero è sul campo di battaglia, le unità Dungeon alleate godono di DAN e Rid DAN aumentati del 10%. |
-  | **2x** <i class="fas fa-star"/> | ? | Il Drago nero gode di Tenacia aumentata di 200 e PF base aumentati di 50.000. |
-  | **3x** <i class="fas fa-star"/> | ? | <Soffio del Drago magico> Ogni 15 secondi, il Drago nero infligge danni pari al 150% del proprio ATT a tutte le unità nemiche in un'area ridotta di fronte a sé, più ulteriori danni pari al 10% dei propri PF massimi all'unità bersaglio. |
-  | **4x** <i class="fas fa-star"/> | ? | Il Drago nero gode di DIF aumentata del 20%, più un ulteriore 300. |
-  | **5x** <i class="fas fa-star"/> | ? | Quando un'unità alleata viene abbattuta, usa automaticamente <Furia del Drago magico>. L'effetto è identico a <Soffio del Drago magico>. Inoltre, aumenta del 5% il danno alle unità (massimo 50%) fino al termine della battaglia. L'effetto non può essere rimosso e applica <Fuoco di Drago> a tutte le unità alleate (<Fuoco di Drago> aumenta DAN e ATT del 20% per unità a distanza e incantatori; aumenta Vel ATT del 10% e CRIT di 200 per le unità d'incursione; le unità d'attacco riducono del 10% DIF e Vel ATT delle unità nemiche circostanti; aumenta DIF del 10% e DAN del 20% per le unità di difesa. Il <Fuoco di Drago> brucia per 5 secondi e non può essere rimosso. Cumulabile fino a 10 volte.) |
-  | **6x** <i class="fas fa-star"/> | ? | Quando usa <Squama di Drago nero>, il Drago nero diventa immune a tutti i danni delle unità per 1 secondo. |
+  |  Risveglio  | **100x** [Token Squama del Drago nero](/it/Items/con_993/) | <Rifugio dei Draghi> Quando i suoi PF scendono sotto il 75%, il 50% e il 25%, il Drago nero protegge con uno <scudo> pari al 15% dei propri PF massimi le unità Drago alleate di difesa (Tartaruga draconica, Drago nero/Re dei Draghi neri), e protegge con uno <scudo> pari al 30% dei PF massimi tutte le unità Drago alleate d'attacco (Drago verde/Drago d'oro, Drago scheletrico/Drago fantasma, Drago rosso, Idra e Viverna). Lo <scudo> dura fino al termine della battaglia ed è cumulabile. Lo <scudo> del Drago nero non può essere rimosso. Lo <scudo> garantisce immunità agli incantesimi per 3 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Squama del Drago nero](/it/Items/con_993/) | Se il Drago nero è sul campo di battaglia, le unità Dungeon alleate godono di DAN e Rid DAN aumentati del 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Squama del Drago nero](/it/Items/con_993/) | Il Drago nero gode di Tenacia aumentata di 200 e PF base aumentati di 50.000. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Squama del Drago nero](/it/Items/con_993/) | <Soffio del Drago magico> Ogni 15 secondi, il Drago nero infligge danni pari al 150% del proprio ATT a tutte le unità nemiche in un'area ridotta di fronte a sé, più ulteriori danni pari al 10% dei propri PF massimi all'unità bersaglio. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Squama del Drago nero](/it/Items/con_993/) | Il Drago nero gode di DIF aumentata del 20%, più un ulteriore 300. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Squama del Drago nero](/it/Items/con_993/) | Quando un'unità alleata viene abbattuta, usa automaticamente <Furia del Drago magico>. L'effetto è identico a <Soffio del Drago magico>. Inoltre, aumenta del 5% il danno alle unità (massimo 50%) fino al termine della battaglia. L'effetto non può essere rimosso e applica <Fuoco di Drago> a tutte le unità alleate (<Fuoco di Drago> aumenta DAN e ATT del 20% per unità a distanza e incantatori; aumenta Vel ATT del 10% e CRIT di 200 per le unità d'incursione; le unità d'attacco riducono del 10% DIF e Vel ATT delle unità nemiche circostanti; aumenta DIF del 10% e DAN del 20% per le unità di difesa. Il <Fuoco di Drago> brucia per 5 secondi e non può essere rimosso. Cumulabile fino a 10 volte.) |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Squama del Drago nero](/it/Items/con_993/) | Quando usa <Squama di Drago nero>, il Drago nero diventa immune a tutti i danni delle unità per 1 secondo. |
 
 
 ## Livello ↑

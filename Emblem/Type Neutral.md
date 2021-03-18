@@ -2,7 +2,7 @@
 title: "Emblema sacro - Neutrale"
 permalink: /Emblem/Type Neutral/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Era of Chaos Emblema sacro Neutrale. Era of Chaos Neutrale"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "typeNeutrale.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Nome            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Principi legali dei successori](/it/Emblem/Successors' Legal Principles/) | Neutrale | Consigliato per le unità di difesa | 
   | 2 | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) | Neutrale | Consigliato per le unità che causano <Rallentamento> | 

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Pirati di Regna](/it/Items/unt_273/)
+
  **Short description:** Danni ingenti. Aumenta il coraggio.
 
  **Position :** Si scatena a inizio battaglia. DPS elevati. Riduce la DIF nemica.
@@ -75,11 +77,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spada](/it/Exclusive/Regnan Pirates Sword/) 
+ **Nome:** [Spada](/it/Exclusive/Regnan Pirates Sword/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Re dei Pirati

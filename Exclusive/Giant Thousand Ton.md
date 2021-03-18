@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Peso insostenibile** 
+### Dettagli
+ **Nome: Peso insostenibile** 
 
  **Esclusivo for Unit:** [Gigante](/it/units/Giant/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Peso insostenibile](/it/Items/con_988/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Peso insostenibile](/it/Items/con_656/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | Il Gigante evoca una nube temporalesca su un'unità bersaglio ogni 10 secondi. La nube colpisce un'unità casuale nell'area d'effetto ogni 0,5 secondi, infliggendo danni pari al 40% dell'ATT. Se la stessa unità viene colpita due volte di fila entro 4 secondi, rimane <paralizzata> per 5 secondi. Se la stessa unità viene colpita 4 volte di fila, rimane <spossata> per 2 secondi. Recupero: 15 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | DAN del Gigante aumentato del 10%. Mentre è sul campo di battaglia, aumenta del 10% il DAN degli incantatori alleati. |
-  | **2x** <i class="fas fa-star"/> | ? | Il Gigante risveglia l'Elementale del fulmine che vive nella sua armatura e gode di CRIT aumentato di 200 e Vel ATT aumentata del 20% per 8 secondi. Recupero: 14 secondi. |
-  | **3x** <i class="fas fa-star"/> | ? | Il Gigante rinnova la propria armatura ogni 10 secondi, negando 3 istanze di danno ed emettendo un'onda che aumenta Tenacia e Schivata delle unità Torre alleate di 200 per 6 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | Grazie al potere del fulmine, il Gigante aumenta il proprio ATT base di 5000. Aumenta di 200 il CRIT contro nemici <paralizzati>. Aumenta del 20% il DAN CRIT contro nemici <folgorati>. |
-  | **5x** <i class="fas fa-star"/> | ? | Il potere del fulmine purifica il Gigante ogni 10 secondi, rimuovendo una carica di debuff e aumentando del 3% DAN e Rid DAN fino al termine della battaglia. Cumulabile fino a 10 volte. |
-  | **6x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, il Gigante viene benedetto dal potere del Dio del Tuono per 10 secondi. Ogni 5 secondi, scaglia una saetta che infligge danni pari al 105% dell'ATT all'unità bersaglio. Ciascun lancio ha il 20% di probabilità di attivare <Lancia del Dio del Tuono>, aumentando del 50% il danno inflitto. <Lancia del Dio del Tuono> marchia l'unità bersaglio con <Paralisi> o <Folgorazione> per 5 secondi. Quando il Gigante attacca l'unità marchiata, gode di Perforazione aumentata di 300. |
+  |  Risveglio  | **100x** [Token Peso insostenibile](/it/Items/con_988/) | Il Gigante evoca una nube temporalesca su un'unità bersaglio ogni 10 secondi. La nube colpisce un'unità casuale nell'area d'effetto ogni 0,5 secondi, infliggendo danni pari al 40% dell'ATT. Se la stessa unità viene colpita due volte di fila entro 4 secondi, rimane <paralizzata> per 5 secondi. Se la stessa unità viene colpita 4 volte di fila, rimane <spossata> per 2 secondi. Recupero: 15 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Peso insostenibile](/it/Items/con_988/) | DAN del Gigante aumentato del 10%. Mentre è sul campo di battaglia, aumenta del 10% il DAN degli incantatori alleati. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Peso insostenibile](/it/Items/con_988/) | Il Gigante risveglia l'Elementale del fulmine che vive nella sua armatura e gode di CRIT aumentato di 200 e Vel ATT aumentata del 20% per 8 secondi. Recupero: 14 secondi. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Peso insostenibile](/it/Items/con_988/) | Il Gigante rinnova la propria armatura ogni 10 secondi, negando 3 istanze di danno ed emettendo un'onda che aumenta Tenacia e Schivata delle unità Torre alleate di 200 per 6 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Peso insostenibile](/it/Items/con_988/) | Grazie al potere del fulmine, il Gigante aumenta il proprio ATT base di 5000. Aumenta di 200 il CRIT contro nemici <paralizzati>. Aumenta del 20% il DAN CRIT contro nemici <folgorati>. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Peso insostenibile](/it/Items/con_988/) | Il potere del fulmine purifica il Gigante ogni 10 secondi, rimuovendo una carica di debuff e aumentando del 3% DAN e Rid DAN fino al termine della battaglia. Cumulabile fino a 10 volte. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Peso insostenibile](/it/Items/con_988/) | All'inizio della battaglia, il Gigante viene benedetto dal potere del Dio del Tuono per 10 secondi. Ogni 5 secondi, scaglia una saetta che infligge danni pari al 105% dell'ATT all'unità bersaglio. Ciascun lancio ha il 20% di probabilità di attivare <Lancia del Dio del Tuono>, aumentando del 50% il danno inflitto. <Lancia del Dio del Tuono> marchia l'unità bersaglio con <Paralisi> o <Folgorazione> per 5 secondi. Quando il Gigante attacca l'unità marchiata, gode di Perforazione aumentata di 300. |
 
 
 ## Livello ↑

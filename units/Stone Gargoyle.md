@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Gargolla di pietra](/it/Items/unt_236/)
+
  **Unit description:** Forma di pietra: aumenta ATT e Vel ATT.
 
  **Short description:** ATT elevato. Res. magica. Perforazione.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spada](/it/Exclusive/Stone Gargoyle Sword/) 
+ **Nome:** [Spada](/it/Exclusive/Stone Gargoyle Sword/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
 
  **Skin:** -
 
@@ -174,9 +176,11 @@ toc: true
 * Schivata unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** 

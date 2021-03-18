@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Campione oscuro](/it/Items/unt_216/)
+
  **Short description:** Esecuzione. Aura di invincibilità.
 
  **Position :** Riduce il morale nemico. Infligge danni ingenti e può uccidere istantaneamente i nemici. Rende invincibili gli alleati nella propria Aura.
@@ -173,9 +175,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -3,13 +3,13 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva è nata da una famiglia dedita da sempre alla domesticazione e l'addestramento dei Roc. Ha rinunciato a questa tradizione per arruolarsi come mercenaria nell'esercito di Krewlod."
 heroID: 60603
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Shiva"
 toc: true
 ---
  **Descrizione:** Shiva è nata da una famiglia dedita da sempre alla domesticazione e l'addestramento dei Roc. Ha rinunciato a questa tradizione per arruolarsi come mercenaria nell'esercito di Krewlod.
-## Details
+## Dettagli
  **Profession:** Barbaro
 
  **Race:** Roccaforte

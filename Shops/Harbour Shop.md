@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "index.md"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 **Info** You can find this Shop under **Cove Attack** -> **Store** 
 {: .notice--danger}
 
-  |  Nr  |      Name      |         Price        |   Maximum available      |
+  |  Nr  |      Nome      |         Price        |   Maximum available      |
   |:-----|:---------------|:--------------------:|:------------------------:|
   | 1 |  **12x** Fervore(Un oggetto utilizzabile per affrontare i boss durante l'evento Assalto alla Baia.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** Ali del trionfo: Caterina(Usa per ottenere la skin Ali del trionfo per Caterina) |  **2500x** Siclo  | **1** |

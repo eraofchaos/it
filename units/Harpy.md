@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Arpia](/it/Items/unt_245/)
+
  **Unit description:** Artiglio affilato dell'Incantatrice: probabilità di infliggere danni a una moltitudine di nemici.
 
  **Short description:** Supporto. Controlla gruppi di nemici.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/it/Exclusive/Harpy Knight Pike/) 
+ **Nome:** [Carica impetuosa](/it/Exclusive/Harpy Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -165,9 +167,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** 

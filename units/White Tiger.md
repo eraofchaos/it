@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Tool_3809](/it/Items/unt_261/)
+
  **Position :** La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia.
 
 ## Statistiche base
@@ -181,9 +183,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

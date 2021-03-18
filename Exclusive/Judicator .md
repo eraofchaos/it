@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: ?** 
+### Dettagli
+ **Nome: ?** 
 
  **Esclusivo for Unit:** [Giudice](/it/units/Judicator/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/)
 
- **Skin:** -
+ **Skin:** [Tool_210909](/it/Items/con_643/)
 
  **Type:** Capitale
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? |  |
-  | **1x** <i class="fas fa-star"/> | ? |  |
-  | **2x** <i class="fas fa-star"/> | ? |  |
-  | **3x** <i class="fas fa-star"/> | ? |  |
-  | **4x** <i class="fas fa-star"/> | ? |  |
-  | **5x** <i class="fas fa-star"/> | ? |  |
-  | **6x** <i class="fas fa-star"/> | ? |  |
+  |  Risveglio  | **100x** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/) |  |
 
 
 ## Livello ↑

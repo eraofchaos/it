@@ -3,13 +3,13 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem è la più potente delle streghe di Enroth. Ha combattuto entrambe le guerre al servizio di Roland Pugno di Ferro. Dopo l'incoronazione di Roland, Gem si è trasferita definitivamente nell'Erathia."
 heroID: 60304
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gem"
 toc: true
 ---
  **Descrizione:** Gem è la più potente delle streghe di Enroth. Ha combattuto entrambe le guerre al servizio di Roland Pugno di Ferro. Dopo l'incoronazione di Roland, Gem si è trasferita definitivamente nell'Erathia.
-## Details
+## Dettagli
  **Profession:** Druido
 
  **Race:** Baluardo

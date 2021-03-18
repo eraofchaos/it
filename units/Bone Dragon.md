@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Drago scheletrico](/it/Items/unt_214/)
+
  **Unit description:** Paura: riduce notevolmente la DIF nemica e causa <Morale basso>.
 
  **Short description:** Attira l'attenzione, causando danni aggiuntivi.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Drago scheletrico immortale](/it/Exclusive/Bone Dragon Immortal Dragon Bone/) 
+ **Nome:** [Drago scheletrico immortale](/it/Exclusive/Bone Dragon Immortal Dragon Bone/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Drago scheletrico immortale](/it/Items/con_980/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Drago scheletrico immortale](/it/Items/con_648/)
 
 
 ## Emblemi sacri consigliati
@@ -172,9 +174,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Drago fantasma

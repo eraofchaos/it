@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Driade](/it/units/Sprite/) | [Carica impetuosa](/it/Exclusive/Sprite Knight Pike/) | - | Carica | - | - |
-  | 2  | [Elementale tempesta](/it/units/Storm Elemental/) | [Arco lungo](/it/Exclusive/Storm Elemental Long Bow/) | - | Carica | - | - |
-  | 3  | [Elementale del ghiaccio](/it/units/Ice Elemental/) | [Cantico arcano](/it/Exclusive/Ice Elemental Arcane Chant/) | - | Carica | - | - |
-  | 4  | [Elementale del fuoco](/it/units/Fire Elemental/) | [Energia del Fuoco](/it/Exclusive/Fire Elemental Fire Energy/) | - | A distanza | - | - |
-  | 5  | [Elementale della pietra](/it/units/Stone Elemental/) | [Nucleo di energia](/it/Exclusive/Stone Elemental Energy Core/) | - | A distanza | - | - |
-  | 6  | [Elementale psichico](/it/units/Psychic Elemental/) | [Nucleo mistico](/it/Exclusive/Psychic Elemental Spirit Core/) | - | Supporto | - | - |
-  | 7  | [Rapace di fuoco](/it/units/Firebird/) | [Fiamma eterna](/it/Exclusive/Firebird Eternal Flame/) | + | A distanza | - | - |
+  | 1  | [Driade](/it/units/Sprite/) | [Carica impetuosa](/it/Exclusive/Sprite Knight Pike/) | - | Carica | [Token Carica impetuosa](/it/Items/con_916/) | - |
+  | 2  | [Elementale tempesta](/it/units/Storm Elemental/) | [Arco lungo](/it/Exclusive/Storm Elemental Long Bow/) | - | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
+  | 3  | [Elementale del ghiaccio](/it/units/Ice Elemental/) | [Cantico arcano](/it/Exclusive/Ice Elemental Arcane Chant/) | - | Carica | [Token Cantico arcano](/it/Items/con_915/) | - |
+  | 4  | [Elementale del fuoco](/it/units/Fire Elemental/) | [Energia del Fuoco](/it/Exclusive/Fire Elemental Fire Energy/) | - | A distanza | [Token Energia del Fuoco](/it/Items/con_998/) | [Skin speciale Energia del Fuoco](/it/Items/con_666/) |
+  | 5  | [Elementale della pietra](/it/units/Stone Elemental/) | [Nucleo di energia](/it/Exclusive/Stone Elemental Energy Core/) | - | A distanza | [Token Nucleo di energia](/it/Items/con_999/) | [Skin speciale Nucleo di energia](/it/Items/con_667/) |
+  | 6  | [Elementale psichico](/it/units/Psychic Elemental/) | [Nucleo mistico](/it/Exclusive/Psychic Elemental Spirit Core/) | - | Supporto | [Token Nucleo mistico](/it/Items/con_1000/) | [Skin speciale Nucleo mistico](/it/Items/con_668/) |
+  | 7  | [Rapace di fuoco](/it/units/Firebird/) | [Fiamma eterna](/it/Exclusive/Firebird Eternal Flame/) | + | A distanza | [Token Fiamma eterna](/it/Items/con_1001/) | [Skin speciale Fiamma eterna](/it/Items/con_669/) |
   | 8  | [Demone di ghiaccio](/it/units/Ice Demon/) | - | - | - | none | none |
   | 9  | [Leprecauno](/it/units/Leprechaun/) | [Rovi](/it/Exclusive/Leprechaun Thorns/) | - | Supporto | - | - |

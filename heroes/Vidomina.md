@@ -3,13 +3,13 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Nonostante il suo enorme potenziale magico, Vidomina venne espulsa da Bracada quando fu scoperta a utilizzare i propri poteri per trasformare i viventi in non morti. Nell'esilio, si lasciò sopraffare dal suo lato malvagio e intraprese un cammino votato all'oscurità."
 heroID: 60502
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Vidomina"
 toc: true
 ---
  **Descrizione:** Nonostante il suo enorme potenziale magico, Vidomina venne espulsa da Bracada quando fu scoperta a utilizzare i propri poteri per trasformare i viventi in non morti. Nell'esilio, si lasciò sopraffare dal suo lato malvagio e intraprese un cammino votato all'oscurità.
-## Details
+## Dettagli
  **Profession:** Negromante
 
  **Race:** Necropoli

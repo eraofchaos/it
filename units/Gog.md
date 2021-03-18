@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Gog](/it/Items/unt_227/)
+
  **Unit description:** Muro di fuoco: infligge danni alle unità nemiche davanti a sé.
 
  **Short description:** Danno da Fuoco a distanza. Brucia i nemici.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/it/Exclusive/Gog Arcane Chant/) 
+ **Nome:** [Cantico arcano](/it/Exclusive/Gog Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Magog

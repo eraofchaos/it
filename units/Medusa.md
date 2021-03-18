@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Medusa](/it/Items/unt_247/)
+
  **Unit description:** Sguardo pietrificante: <pietrifica> i nemici, abbassandone la Rid DAN.
 
  **Short description:** Pietrifica. DPS elevati.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco della Medusa](/it/Exclusive/Medusa Medusa's Bow/) 
+ **Nome:** [Arco della Medusa](/it/Exclusive/Medusa Medusa's Bow/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco di Medusa](/it/Items/con_991/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Arco di Medusa](/it/Items/con_659/)
 
 
 ## Emblemi sacri consigliati
@@ -168,9 +170,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Regina Medusa

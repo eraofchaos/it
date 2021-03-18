@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Folletto](/it/units/Imp/) | [Scudo dell'Iride](/it/Exclusive/Imp Iris Shield/) | - | Carica | - | - |
-  | 2  | [Gog](/it/units/Gog/) | [Cantico arcano](/it/Exclusive/Gog Arcane Chant/) | - | Carica | - | - |
-  | 3  | [Segugio infernale](/it/units/Hell Hound/) | [Carica impetuosa](/it/Exclusive/Hell Hound Knight Pike/) | - | Carica | - | - |
-  | 4  | [Demone](/it/units/Demon/) | [Scudo dell'Iride](/it/Exclusive/Demon Iris Shield/) | + | Carica | - | - |
-  | 5  | [Demone dell'abisso](/it/units/Pit Fiend/) | [Spada](/it/Exclusive/Pit Fiend Sword/) | - | Carica | - | - |
-  | 6  | [Efreet](/it/units/Efreeti/) | [Cantico arcano](/it/Exclusive/Efreeti Arcane Chant/) | - | Carica | - | - |
-  | 7  | [Diavolo](/it/units/Devil/) | [Falce diabolica](/it/Exclusive/Devil Devil Scythe/) | - | Supporto | - | - |
-  | 8  | [Incubo](/it/units/Nightmare/) | [](/it/Exclusive/Nightmare /) | - | A distanza | - | - |
+  | 1  | [Folletto](/it/units/Imp/) | [Scudo dell'Iride](/it/Exclusive/Imp Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
+  | 2  | [Gog](/it/units/Gog/) | [Cantico arcano](/it/Exclusive/Gog Arcane Chant/) | - | Carica | [Token Cantico arcano](/it/Items/con_915/) | - |
+  | 3  | [Segugio infernale](/it/units/Hell Hound/) | [Carica impetuosa](/it/Exclusive/Hell Hound Knight Pike/) | - | Carica | [Token Carica impetuosa](/it/Items/con_916/) | - |
+  | 4  | [Demone](/it/units/Demon/) | [Scudo dell'Iride](/it/Exclusive/Demon Iris Shield/) | + | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
+  | 5  | [Demone dell'abisso](/it/units/Pit Fiend/) | [Spada](/it/Exclusive/Pit Fiend Sword/) | - | Carica | [Token della Spada](/it/Items/con_912/) | - |
+  | 6  | [Efreet](/it/units/Efreeti/) | [Cantico arcano](/it/Exclusive/Efreeti Arcane Chant/) | - | Carica | [Token Cantico arcano](/it/Items/con_915/) | - |
+  | 7  | [Diavolo](/it/units/Devil/) | [Falce diabolica](/it/Exclusive/Devil Devil Scythe/) | - | Supporto | [Token Falce diabolica](/it/Items/con_984/) | [Skin speciale Falce diabolica](/it/Items/con_652/) |
+  | 8  | [Incubo](/it/units/Nightmare/) | [](/it/Exclusive/Nightmare /) | - | A distanza | [Token Occhio dell'Incubo](/it/Items/con_985/) | [Tool_250809](/it/Items/con_653/) |
   | 9  | [Progenie velenosa](/it/units/Venom Spawn/) | - | - | - | none | none |

@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Carica impetuosa** 
+### Dettagli
+ **Nome: Carica impetuosa** 
 
  **Esclusivo for Unit:** [Grifone](/it/units/Griffin/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Beccata> Il Grifone becca l'unità bersaglio, infliggendo danni pari al 150% del proprio ATT. Causa <Sanguinamento> e riduce la MIRA di 300 e la Vel ATT del 20% per 8 secondi. Recupero: 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | DAN del Grifone aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Schivata del Grifone aumentata di 500. |
-  | **3x** <i class="fas fa-star"/> | ? | <Giro della morte> La Tenacia del Grifone aumenta di 50 con ogni Schivata; inoltre, infligge danni pari al 75% del proprio ATT all'unità bersaglio. La Tenacia è cumulabile fino a 500. |
-  | **4x** <i class="fas fa-star"/> | ? | Rid DAN del Grifone aumentata del 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Tenacia del Grifone aumentata di 500 all'inizio della battaglia. La Tenacia si riduce di 20 ogni 2 secondi, fino a un minimo di 100. |
-  | **6x** <i class="fas fa-star"/> | ? | <Istinti animali> 10 secondi dopo l'inizio della battaglia, il Grifone ottiene <Morale alto>. Quando sconfigge un'unità, il Grifone ottiene <Morale alto> per 10 secondi e recupera il 20% dei PF massimi. |
+  |  Risveglio  | **100x** [Token Carica impetuosa](/it/Items/con_916/) | <Beccata> Il Grifone becca l'unità bersaglio, infliggendo danni pari al 150% del proprio ATT. Causa <Sanguinamento> e riduce la MIRA di 300 e la Vel ATT del 20% per 8 secondi. Recupero: 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/it/Items/con_916/) | DAN del Grifone aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/it/Items/con_916/) | Schivata del Grifone aumentata di 500. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/it/Items/con_916/) | <Giro della morte> La Tenacia del Grifone aumenta di 50 con ogni Schivata; inoltre, infligge danni pari al 75% del proprio ATT all'unità bersaglio. La Tenacia è cumulabile fino a 500. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/it/Items/con_916/) | Rid DAN del Grifone aumentata del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/it/Items/con_916/) | Tenacia del Grifone aumentata di 500 all'inizio della battaglia. La Tenacia si riduce di 20 ogni 2 secondi, fino a un minimo di 100. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/it/Items/con_916/) | <Istinti animali> 10 secondi dopo l'inizio della battaglia, il Grifone ottiene <Morale alto>. Quando sconfigge un'unità, il Grifone ottiene <Morale alto> per 10 secondi e recupera il 20% dei PF massimi. |
 
 
 ## Livello ↑

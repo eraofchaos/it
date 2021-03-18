@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Drago rosso](/it/Items/unt_251/)
+
  **Short description:** Signore Supremo dei draghi. Ruggito possente.
 
  **Position :** Il ruggito del Drago rende immuni agli effetti di controllo. Il sangue di Drago risuona con quello dei suoi simili.
@@ -72,7 +74,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Annientamento](/it/Exclusive/Red Dragon Annihilation/) 
+ **Nome:** [Annientamento](/it/Exclusive/Red Dragon Annihilation/) 
 
  **Is Open:** - 
 
@@ -176,9 +178,11 @@ toc: true
 * Danno unità
 * Colpo critico unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Basilisco](/it/Items/unt_256/)
+
  **Short description:** Controlla i tank. Pietrifica.
 
  **Position :** Un tank in grado di controllare i nemici. Pietrifica tutte le unità circostanti quando muore.
@@ -74,13 +76,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Coda di Basilisco](/it/Exclusive/Basilisk Basilisk's Tail/) 
+ **Nome:** [Coda di Basilisco](/it/Exclusive/Basilisk Basilisk's Tail/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Coda di Basilisco](/it/Items/con_994/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Energia del Fuoco](/it/Items/con_662/)
 
 
 ## Emblemi sacri consigliati
@@ -170,9 +172,11 @@ toc: true
 * Riduzione danno unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

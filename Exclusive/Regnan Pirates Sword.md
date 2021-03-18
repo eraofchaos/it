@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Spada** 
+### Dettagli
+ **Nome: Spada** 
 
  **Esclusivo for Unit:** [Pirati di Regna](/it/units/Regnan Pirates/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | Risponde a un attacco con un potente contrattacco che infligge il 300% dei danni. Recupero: 8 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Quando attacca, ha una probabilità del 50% di infettare le unità nemiche con lo <Scorbuto>, che ne riduce i PF dell'1% al secondo e la guarigione del 35% per 3 secondi (l'effetto non è cumulabile). |
-  | **2x** <i class="fas fa-star"/> | ? | I Pirati di Regna godono di ATT aumentato del 20% e danno aumentato del 10%. |
-  | **3x** <i class="fas fa-star"/> | ? | Mangia arance per curare lo <Scorbuto> e rigenerare il 30% dei PF la prima volta che i PF dei Pirati di Regna scendono sotto il 30%. Rende immune a <Stordimento>, <Pietrificazione> e <Silenzio> per 5 secondi quando equipaggi un Emblema sacro. |
-  | **4x** <i class="fas fa-star"/> | ? | CRIT dei Pirati di Regna aumentato di 200. |
-  | **5x** <i class="fas fa-star"/> | ? | DAN CRIT dei Pirati di Regna aumentato del 25%. |
-  | **6x** <i class="fas fa-star"/> | ? | Quando infliggono un colpo critico, i Pirati di Regna recuperano immediatamente il 5% dei PF e aumentano il proprio DAN CRIT del 5% per 15 secondi. Cumulabile fino a 10 volte. L'effetto può essere attivato una volta ogni 10 secondi. |
+  |  Risveglio  | **100x** [Token della Spada](/it/Items/con_912/) | Risponde a un attacco con un potente contrattacco che infligge il 300% dei danni. Recupero: 8 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/it/Items/con_912/) | Quando attacca, ha una probabilità del 50% di infettare le unità nemiche con lo <Scorbuto>, che ne riduce i PF dell'1% al secondo e la guarigione del 35% per 3 secondi (l'effetto non è cumulabile). |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/it/Items/con_912/) | I Pirati di Regna godono di ATT aumentato del 20% e danno aumentato del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/it/Items/con_912/) | Mangia arance per curare lo <Scorbuto> e rigenerare il 30% dei PF la prima volta che i PF dei Pirati di Regna scendono sotto il 30%. Rende immune a <Stordimento>, <Pietrificazione> e <Silenzio> per 5 secondi quando equipaggi un Emblema sacro. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/it/Items/con_912/) | CRIT dei Pirati di Regna aumentato di 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/it/Items/con_912/) | DAN CRIT dei Pirati di Regna aumentato del 25%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/it/Items/con_912/) | Quando infliggono un colpo critico, i Pirati di Regna recuperano immediatamente il 5% dei PF e aumentano il proprio DAN CRIT del 5% per 15 secondi. Cumulabile fino a 10 volte. L'effetto può essere attivato una volta ogni 10 secondi. |
 
 
 ## Livello ↑

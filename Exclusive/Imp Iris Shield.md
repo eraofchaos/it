@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Scudo dell'Iride** 
+### Dettagli
+ **Nome: Scudo dell'Iride** 
 
  **Esclusivo for Unit:** [Folletto](/it/units/Imp/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Lingua fiammeggiante> Il Folletto infligge danni pari al 300% del proprio ATT all'unità bersaglio e causa <Combustione> per 6 secondi. Recupero: 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | RES magica del Folletto aumentata del 25%. |
-  | **2x** <i class="fas fa-star"/> | ? | DIF del Folletto aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Corazza robusta> Quando i PF del Folletto scendono al 60% e al 30% per la prima volta, ottiene uno <scudo> pari al 20% dei propri PF massimi e gode di Tenacia aumentata di 150 per 20 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | Il Folletto gode di PF aumentati del 20% e Tenacia aumentata di 200. |
-  | **5x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Inferno, il Folletto gode di Rid DAN aumentata del 2% e Tenacia aumentata di 30. |
-  | **6x** <i class="fas fa-star"/> | ? | <Flessibilità> Ogni volta che il Folletto schiva un attacco, ha il 25% di probabilità di recuperare PF pari al 3% dei PF massimi e aumentare l'ATT del 5% per 5 secondi. Cumulabile fino al 250%. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Lingua fiammeggiante> Il Folletto infligge danni pari al 300% del proprio ATT all'unità bersaglio e causa <Combustione> per 6 secondi. Recupero: 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | RES magica del Folletto aumentata del 25%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | DIF del Folletto aumentata del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Corazza robusta> Quando i PF del Folletto scendono al 60% e al 30% per la prima volta, ottiene uno <scudo> pari al 20% dei propri PF massimi e gode di Tenacia aumentata di 150 per 20 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Il Folletto gode di PF aumentati del 20% e Tenacia aumentata di 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Ogni volta che viene schierata un'unità Inferno, il Folletto gode di Rid DAN aumentata del 2% e Tenacia aumentata di 30. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Flessibilità> Ogni volta che il Folletto schiva un attacco, ha il 25% di probabilità di recuperare PF pari al 3% dei PF massimi e aumentare l'ATT del 5% per 5 secondi. Cumulabile fino al 250%. |
 
 
 ## Livello ↑

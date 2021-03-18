@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Demone dell'abisso](/it/Items/unt_230/)
+
  **Unit description:** Sorgente di fuoco: cura ininterrottamente le unità alleate davanti a sé.
 
  **Short description:** Evoca Demone guaritore.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spada](/it/Exclusive/Pit Fiend Sword/) 
+ **Nome:** [Spada](/it/Exclusive/Pit Fiend Sword/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Guarigione
 * Danno unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Signore dell'abisso

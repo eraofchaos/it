@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Cavaliere nero](/it/Items/unt_213/)
+
  **Unit description:** Attacco critico: infligge danni devastanti e causa <Morale basso>.
 
  **Short description:** Danno elevato. Decapitazione migliorata.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Lama del sottosuolo](/it/Exclusive/Black Knight Nether Sabre/) 
+ **Nome:** [Lama del sottosuolo](/it/Exclusive/Black Knight Nether Sabre/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Lama del sottosuolo](/it/Items/con_979/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Lama del sottosuolo](/it/Items/con_647/)
 
 
 ## Emblemi sacri consigliati
@@ -176,9 +178,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Terrore in marcia

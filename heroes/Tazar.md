@@ -3,13 +3,13 @@ title: "Tazar"
 permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. Durante la guerra di confine con Krewlod, Tazar ha condotto una piccola armata all'avamposto di Tatalia e frenato l'avanzata dell'esercito Krewlod, cinque volte più numeroso del suo, per ben otto giorni fino all'arrivo dei rinforzi."
 heroID: 61501
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Tazar"
 toc: true
 ---
  **Descrizione:** Durante la guerra di confine con Krewlod, Tazar ha condotto una piccola armata all'avamposto di Tatalia e frenato l'avanzata dell'esercito Krewlod, cinque volte più numeroso del suo, per ben otto giorni fino all'arrivo dei rinforzi.
-## Details
+## Dettagli
  **Profession:** Domatore
 
  **Race:** Fortezza

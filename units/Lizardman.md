@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Uomo lucertola](/it/Items/unt_254/)
+
  **Short description:** DPS elevati.
 
  **Position :** DPS elevati. Infligge danni maggiori contro le unità più grandi.
@@ -75,11 +77,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/it/Exclusive/Lizardman Long Bow/) 
+ **Nome:** [Arco lungo](/it/Exclusive/Lizardman Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

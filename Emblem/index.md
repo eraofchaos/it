@@ -2,7 +2,7 @@
 title: "Emblema sacro"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Equipaggia gli Emblemi sacri per potenziare notevolmente le tue unità. Le combinazioni di fazione e qualità dei diversi Emblemi sacri sono numerosissime. I set di Emblemi sacri aumentano ulteriormente gli attributi delle unità."
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "index.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-## Emblema sacro (by name):
+## Emblema sacro (by Nome):
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Nome            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Segno infausto](/it/Emblem/Ominous Sign/) | Malvagio | Adatto a qualsiasi unità | 
   | 2 | [Principi legali dei successori](/it/Emblem/Successors' Legal Principles/) | Neutrale | Consigliato per le unità di difesa | 

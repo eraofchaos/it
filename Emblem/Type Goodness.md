@@ -2,7 +2,7 @@
 title: "Emblema sacro - Bontà"
 permalink: /Emblem/Type Goodness/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Era of Chaos Emblema sacro Bontà. Era of Chaos Bontà"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "typeBontà.md"
 toc: false
@@ -11,7 +11,7 @@ classes: wide
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |  Nr  |             Name            |    Type    |   Recommended   |
+  |  Nr  |             Nome            |    Type    |   Recommended   |
   |:-----|:----------------------------|:-----------|:---------------:|
   | 1 | [Profeta verde](/it/Emblem/Green Prophet/) | Bontà | Adatto a qualsiasi unità | 
   | 2 | [Muro della Sapienza](/it/Emblem/Wall of Knowledge/) | Bontà | Adatto a qualsiasi unità | 

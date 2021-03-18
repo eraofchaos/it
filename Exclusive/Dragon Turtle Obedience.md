@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Obbedienza** 
+### Dettagli
+ **Nome: Obbedienza** 
 
  **Esclusivo for Unit:** [Tartaruga draconica](/it/units/Dragon Turtle/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Obbedienza](/it/Items/con_1005/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Obbedienza](/it/Items/con_673/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Guscio protettivo> La Tartaruga draconica lancia <Guscio protettivo> ogni 20 secondi. Per i 6 secondi successivi, la Tartaruga draconica gode di DAN riflesso e Rid DAN aumentati del 20%; quando viene attaccata da unità da mischia nemiche, ne riduce Vel ATT e DAN del 20%. Inoltre, causa <Impedimento>. Riduce del 20% la DIF dei bersagli <sanguinanti>. |
-  | **1x** <i class="fas fa-star"/> | ? | Rid DAN della Tartaruga draconica aumentata del 20%. Quando un eroe alleato lancia un incantesimo di tipo Acqua, la Tartaruga draconica viene protetta da una <bolla> pari al 20% dei PF massimi per 10 secondi. Recupero: 7 secondi. |
-  | **2x** <i class="fas fa-star"/> | ? | Guarigione ricevuta dalla Tartaruga draconica aumentata del 20%. Rende immune al <Silenzio>. |
-  | **3x** <i class="fas fa-star"/> | ? | <Rituale abissale> Quando i PF della Tartaruga draconica scendono a 75%/50%/25% per la prima volta, perde tutti i debuff e gode di Tenacia e Schivata aumentate di 200. L'effetto dura fino al termine della battaglia. Cumulabile fino a 3 volte. |
-  | **4x** <i class="fas fa-star"/> | ? | La Tartaruga draconica gode di DIF aumentata di 200; quando viene protetta da una <bolla>, gode di Tenacia aumentata di 300 per 8 secondi. Recupero: 20 secondi. |
-  | **5x** <i class="fas fa-star"/> | ? | La Tartaruga draconica non può subire danni superiori al 16% dei propri PF massimi da un singolo attacco. DIF aumentata del 5% per ogni unità Baia schierata. |
-  | **6x** <i class="fas fa-star"/> | ? | <Urto delle maree> Quando la Tartaruga draconica attiva <Rituale abissale>, diventa immune ai danni inflitti dai nemici per 3 secondi e <stordisce> tutte le unità a portata per 3 secondi. Se le unità nemiche sono affette da <Rallentamento>, ne riduce la Rid DAN del 20% per 7 secondi. |
+  |  Risveglio  | **100x** [Token Obbedienza](/it/Items/con_1005/) | <Guscio protettivo> La Tartaruga draconica lancia <Guscio protettivo> ogni 20 secondi. Per i 6 secondi successivi, la Tartaruga draconica gode di DAN riflesso e Rid DAN aumentati del 20%; quando viene attaccata da unità da mischia nemiche, ne riduce Vel ATT e DAN del 20%. Inoltre, causa <Impedimento>. Riduce del 20% la DIF dei bersagli <sanguinanti>. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Obbedienza](/it/Items/con_1005/) | Rid DAN della Tartaruga draconica aumentata del 20%. Quando un eroe alleato lancia un incantesimo di tipo Acqua, la Tartaruga draconica viene protetta da una <bolla> pari al 20% dei PF massimi per 10 secondi. Recupero: 7 secondi. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Obbedienza](/it/Items/con_1005/) | Guarigione ricevuta dalla Tartaruga draconica aumentata del 20%. Rende immune al <Silenzio>. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Obbedienza](/it/Items/con_1005/) | <Rituale abissale> Quando i PF della Tartaruga draconica scendono a 75%/50%/25% per la prima volta, perde tutti i debuff e gode di Tenacia e Schivata aumentate di 200. L'effetto dura fino al termine della battaglia. Cumulabile fino a 3 volte. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Obbedienza](/it/Items/con_1005/) | La Tartaruga draconica gode di DIF aumentata di 200; quando viene protetta da una <bolla>, gode di Tenacia aumentata di 300 per 8 secondi. Recupero: 20 secondi. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Obbedienza](/it/Items/con_1005/) | La Tartaruga draconica non può subire danni superiori al 16% dei propri PF massimi da un singolo attacco. DIF aumentata del 5% per ogni unità Baia schierata. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Obbedienza](/it/Items/con_1005/) | <Urto delle maree> Quando la Tartaruga draconica attiva <Rituale abissale>, diventa immune ai danni inflitti dai nemici per 3 secondi e <stordisce> tutte le unità a portata per 3 secondi. Se le unità nemiche sono affette da <Rallentamento>, ne riduce la Rid DAN del 20% per 7 secondi. |
 
 
 ## Livello ↑

@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arco lungo** 
+### Dettagli
+ **Nome: Arco lungo** 
 
  **Esclusivo for Unit:** [Uomo lucertola](/it/units/Lizardman/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Predatore selvaggio> Può essere usato ogni 20 secondi e infligge danni pari al 300% dell'ATT a tutte le unità nemiche in un'area ristretta. Inoltre, infligge danni pari al 2% dei PF massimi al secondo per 5 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Resistenza magica dell'Uomo lucertola aumentata del 50%. |
-  | **2x** <i class="fas fa-star"/> | ? | Quando l'Uomo lucertola infligge un colpo critico, il suo CRIT aumenta di 10 per 3 secondi. Cumulabile fino a 50 volte. |
-  | **3x** <i class="fas fa-star"/> | ? | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |
-  | **4x** <i class="fas fa-star"/> | ? | Perforazione dell'Uomo lucertola aumentata di 300. |
-  | **5x** <i class="fas fa-star"/> | ? | L'Uomo lucertola gode di ATT aumentato del 20% e danno alle unità aumentato del 10%. |
-  | **6x** <i class="fas fa-star"/> | ? | <Sfogo selvaggio> Vel ATT aumentata del 500% per 5 secondi. Può essere attivato una volta ogni 20 secondi. |
+  |  Risveglio  | **100x** [Token Arco lungo](/it/Items/con_914/) | <Predatore selvaggio> Può essere usato ogni 20 secondi e infligge danni pari al 300% dell'ATT a tutte le unità nemiche in un'area ristretta. Inoltre, infligge danni pari al 2% dei PF massimi al secondo per 5 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/it/Items/con_914/) | Resistenza magica dell'Uomo lucertola aumentata del 50%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/it/Items/con_914/) | Quando l'Uomo lucertola infligge un colpo critico, il suo CRIT aumenta di 10 per 3 secondi. Cumulabile fino a 50 volte. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/it/Items/con_914/) | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/it/Items/con_914/) | Perforazione dell'Uomo lucertola aumentata di 300. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/it/Items/con_914/) | L'Uomo lucertola gode di ATT aumentato del 20% e danno alle unità aumentato del 10%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/it/Items/con_914/) | <Sfogo selvaggio> Vel ATT aumentata del 500% per 5 secondi. Può essere attivato una volta ogni 20 secondi. |
 
 
 ## Livello ↑

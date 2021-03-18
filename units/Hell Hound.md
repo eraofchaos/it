@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Segugio infernale](/it/Items/unt_228/)
+
  **Unit description:** Raptus: per un breve periodo, tutti gli attacchi sono colpi critici.
 
  **Short description:** CRIT potenti. Applica Sanguinamento.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/it/Exclusive/Hell Hound Knight Pike/) 
+ **Nome:** [Carica impetuosa](/it/Exclusive/Hell Hound Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

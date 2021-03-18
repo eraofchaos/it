@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Troglodita](/it/Items/unt_244/)
+
  **Unit description:** Muro di lance: DAN e <Stordimento> ad area.
 
  **Short description:** Versatile. Applica Sanguinamento.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spada](/it/Exclusive/Troglodyte Sword/) 
+ **Nome:** [Spada](/it/Exclusive/Troglodyte Sword/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
 
  **Skin:** -
 
@@ -168,9 +170,11 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Troglodita oscuro

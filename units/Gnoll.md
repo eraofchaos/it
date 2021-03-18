@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Gnoll](/it/Items/unt_253/)
+
  **Short description:** DPS in mischia. Applica Stordimento.
 
  **Position :** <Stordisce> i nemici, infliggendo danni ingenti. L'ATT aumenta contro l'unità con i PF minori in campo.
@@ -76,11 +78,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spada](/it/Exclusive/Gnoll Sword/) 
+ **Nome:** [Spada](/it/Exclusive/Gnoll Sword/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Danno unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Guerriero gnoll

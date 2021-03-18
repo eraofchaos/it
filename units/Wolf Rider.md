@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Domatore di lupi](/it/Items/unt_218/)
+
  **Unit description:** Compagno animale: evoca Lupi per combattere quando l'unità viene sconfitta.
 
  **Short description:** Evoca un lupo i cui CRIT assorbono PF.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/it/Exclusive/Wolf Rider Knight Pike/) 
+ **Nome:** [Carica impetuosa](/it/Exclusive/Wolf Rider Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -177,9 +179,11 @@ toc: true
 * Danno unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Signore dei Lupi

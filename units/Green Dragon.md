@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Drago verde](/it/Items/unt_205/)
+
  **Unit description:** Rinforzi dal cielo: infligge danni ingenti a 3 unità nelle retrovie nemiche.
 
  **Short description:** Danno da Acqua. Resistenza all'Acqua.
@@ -78,13 +80,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Ala di drago splendente](/it/Exclusive/Green Dragon Resplendent Dragonwing/) 
+ **Nome:** [Ala di drago splendente](/it/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Ala di drago splendente](/it/Items/con_976/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Ala di drago splendente](/it/Items/con_644/)
 
 
 ## Emblemi sacri consigliati
@@ -173,9 +175,11 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Drago d'Oro

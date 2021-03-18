@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Erbavespa](/it/Items/unt_260/)
+
  **Short description:** DPS e controllo nemici.
 
  **Position :** Unità DPS in grado di controllare i nemici. Evoca unità per fare strage di avversari.
@@ -72,7 +74,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Foglia d'Erbavespa](/it/Exclusive/Waspwort Waspwort Leaf/) 
+ **Nome:** [Foglia d'Erbavespa](/it/Exclusive/Waspwort Waspwort Leaf/) 
 
  **Is Open:** - 
 
@@ -172,9 +174,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

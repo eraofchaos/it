@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Lira** 
+### Dettagli
+ **Nome: Lira** 
 
  **Esclusivo for Unit:** [Genio](/it/units/Genie/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Lira](/it/Items/con_986/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Lira](/it/Items/con_654/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Guardiano della lampada> Il Genio ottiene una carica di <Guardiano della lampada> ogni 5 secondi. Ciascuna carica aumenta la Rid DAN del 2% fino al termine della battaglia. Cumulabile fino a 20 volte. Quando subisce danni, il Genio ottiene una carica aggiuntiva di <Guardiano della lampada>. |
-  | **1x** <i class="fas fa-star"/> | ? | DIF del Genio aumentata del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Guarigione ricevuta dal Genio aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | Il Genio evoca una nebbia che riduce del 20% il DAN e di 400 il CRIT di due unità a distanza o incantatori nemici casuali per 10 secondi. Recupero: 15 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | Rid DAN del Genio aumentata del 5% per ogni unità Torre sul campo di battaglia. |
-  | **5x** <i class="fas fa-star"/> | ? | Se il Genio è sul campo di battaglia, tutte le unità alleate godono di guarigione ricevuta aumentata del 10% e DIF aumentata del 10%. Effetto raddoppiato per le unità Torre. |
-  | **6x** <i class="fas fa-star"/> | ? | Il Genio ottiene 10 cariche di <Guardiano della lampada> a inizio battaglia; il numero massimo di cariche è aumentato a 30. Ogni volta che il Genio ottiene una carica di <Guardiano della lampada>, due unità alleate casuali ottengono lo stesso effetto e ripristinano PF pari al 50% del proprio ATT. |
+  |  Risveglio  | **100x** [Token Lira](/it/Items/con_986/) | <Guardiano della lampada> Il Genio ottiene una carica di <Guardiano della lampada> ogni 5 secondi. Ciascuna carica aumenta la Rid DAN del 2% fino al termine della battaglia. Cumulabile fino a 20 volte. Quando subisce danni, il Genio ottiene una carica aggiuntiva di <Guardiano della lampada>. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Lira](/it/Items/con_986/) | DIF del Genio aumentata del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Lira](/it/Items/con_986/) | Guarigione ricevuta dal Genio aumentata del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Lira](/it/Items/con_986/) | Il Genio evoca una nebbia che riduce del 20% il DAN e di 400 il CRIT di due unità a distanza o incantatori nemici casuali per 10 secondi. Recupero: 15 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Lira](/it/Items/con_986/) | Rid DAN del Genio aumentata del 5% per ogni unità Torre sul campo di battaglia. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Lira](/it/Items/con_986/) | Se il Genio è sul campo di battaglia, tutte le unità alleate godono di guarigione ricevuta aumentata del 10% e DIF aumentata del 10%. Effetto raddoppiato per le unità Torre. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Lira](/it/Items/con_986/) | Il Genio ottiene 10 cariche di <Guardiano della lampada> a inizio battaglia; il numero massimo di cariche è aumentato a 30. Ogni volta che il Genio ottiene una carica di <Guardiano della lampada>, due unità alleate casuali ottengono lo stesso effetto e ripristinano PF pari al 50% del proprio ATT. |
 
 
 ## Livello ↑

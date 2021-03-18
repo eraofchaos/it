@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Sirena](/it/Items/unt_277/)
+
  **Short description:** Guarigione ad area. Buff potenti.
 
  **Position :** Guaritore eccezionale. Applica potenti buff a inizio battaglia.
@@ -72,13 +74,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Maree notturne](/it/Exclusive/Mermaid Night Tides/) 
+ **Nome:** [Maree notturne](/it/Exclusive/Mermaid Night Tides/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Maree notturne](/it/Items/con_1004/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Maree notturne](/it/Items/con_672/)
 
 
 ## Emblemi sacri consigliati
@@ -168,9 +170,11 @@ toc: true
 * Velocità d'attacco
 * Guarigione
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

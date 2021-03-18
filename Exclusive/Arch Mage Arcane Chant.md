@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Cantico arcano** 
+### Dettagli
+ **Nome: Cantico arcano** 
 
  **Esclusivo for Unit:** [Arcimago](/it/units/Arch Mage/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Infusione magica> Il Mago potenzia il proprio bastone e attacca l'unità bersaglio, infliggendo danni pari al 200% dell'ATT. Recupero: 18 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | <Risveglio magico> Se il Mago è potenziato dall'incantesimo di supporto di un eroe alleato, lancia immediatamente <Infusione magica>. |
-  | **2x** <i class="fas fa-star"/> | ? | Quando lancia <Infusione magica>, la sua magia permea l'armatura delle unità alleate in un'ampia area, che godono di Rid DAN aumentata del 10% e RES magica aumentata del 40% per 3 secondi. Questo effetto non è cumulabile. |
-  | **3x** <i class="fas fa-star"/> | ? | Quando lancia <Infusione magica>, potenzia l'arma con <Magia d'Acqua - Congelamento>: L'attacco successivo <congela> l'unità bersaglio per 2-4 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | Quando lancia <Infusione magica>, potenzia l'arma con <Magia di Fuoco - Divora armatura>: L'attacco successivo riduce la DIF del bersaglio del 5% per 3 secondi. Cumulabile fino a 3 volte. |
-  | **5x** <i class="fas fa-star"/> | ? | Quando lancia <Infusione magica>, potenzia l'arma con <Magia d'Aria - Brezza tiepida>: Ripristina il 4% dei PF delle unità alleate in un'ampia area. Probabilità del 25% di rimuovere tutti i debuff. |
-  | **6x** <i class="fas fa-star"/> | ? | Quando lancia <Infusione magica>, potenzia l'arma con <Magia di Terra - Corazza di pietra>: Assorbe danni pari al 50% dei PF e aumenta la Rid DAN del 20% per 3 secondi. Questo effetto non è cumulabile. |
+  |  Risveglio  | **100x** [Token Cantico arcano](/it/Items/con_915/) | <Infusione magica> Il Mago potenzia il proprio bastone e attacca l'unità bersaglio, infliggendo danni pari al 200% dell'ATT. Recupero: 18 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Cantico arcano](/it/Items/con_915/) | <Risveglio magico> Se il Mago è potenziato dall'incantesimo di supporto di un eroe alleato, lancia immediatamente <Infusione magica>. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Cantico arcano](/it/Items/con_915/) | Quando lancia <Infusione magica>, la sua magia permea l'armatura delle unità alleate in un'ampia area, che godono di Rid DAN aumentata del 10% e RES magica aumentata del 40% per 3 secondi. Questo effetto non è cumulabile. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Cantico arcano](/it/Items/con_915/) | Quando lancia <Infusione magica>, potenzia l'arma con <Magia d'Acqua - Congelamento>: L'attacco successivo <congela> l'unità bersaglio per 2-4 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Cantico arcano](/it/Items/con_915/) | Quando lancia <Infusione magica>, potenzia l'arma con <Magia di Fuoco - Divora armatura>: L'attacco successivo riduce la DIF del bersaglio del 5% per 3 secondi. Cumulabile fino a 3 volte. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Cantico arcano](/it/Items/con_915/) | Quando lancia <Infusione magica>, potenzia l'arma con <Magia d'Aria - Brezza tiepida>: Ripristina il 4% dei PF delle unità alleate in un'ampia area. Probabilità del 25% di rimuovere tutti i debuff. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Cantico arcano](/it/Items/con_915/) | Quando lancia <Infusione magica>, potenzia l'arma con <Magia di Terra - Corazza di pietra>: Assorbe danni pari al 50% dei PF e aumenta la Rid DAN del 20% per 3 secondi. Questo effetto non è cumulabile. |
 
 
 ## Livello ↑

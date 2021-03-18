@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Behemoth](/it/Items/unt_223/)
+
  **Unit description:** Ruggito selvaggio: riduce notevolmente l'ATT del nemico e causa <Stordimento>.
 
  **Short description:** Assorbe PF alla morte dei nemici.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spirito sanguinario](/it/Exclusive/Behemoth Bloodthirsty Spirit/) 
+ **Nome:** [Spirito sanguinario](/it/Exclusive/Behemoth Bloodthirsty Spirit/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Spirito sanguinario](/it/Items/con_982/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Spirito sanguinario](/it/Items/con_650/)
 
 
 ## Emblemi sacri consigliati
@@ -176,9 +178,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Behemoth antico

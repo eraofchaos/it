@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centauro](/it/units/Centaur/) | [Scudo dell'Iride](/it/Exclusive/Centaur Iris Shield/) | - | Carica | - | - |
-  | 2  | [Gnomo](/it/units/Dwarf/) | [Scudo dell'Iride](/it/Exclusive/Dwarf Iris Shield/) | - | Carica | - | - |
-  | 3  | [Elfo del bosco](/it/units/Wood Elf/) | [Arco lungo](/it/Exclusive/Wood Elf Long Bow/) | - | Carica | - | - |
-  | 4  | [Pegaso](/it/units/Pegasus/) | [Arco lungo](/it/Exclusive/Pegasus Long Bow/) | + | Carica | - | - |
-  | 5  | [Guardia Dendroide](/it/units/Dendroid Guard/) | [Scudo dell'Iride](/it/Exclusive/Dendroid Guard Iris Shield/) | - | Carica | - | - |
-  | 6  | [Unicorno](/it/units/Unicorn/) | [Carica impetuosa](/it/Exclusive/Unicorn Knight Pike/) | - | Carica | - | - |
-  | 7  | [Drago verde](/it/units/Green Dragon/) | [Ala di drago splendente](/it/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Supporto | - | - |
-  | 8  | [Druido](/it/units/Druid/) | [Bastone della Ricrescita](/it/Exclusive/Druid Staff of Regrowth/) | - | A distanza | - | - |
+  | 1  | [Centauro](/it/units/Centaur/) | [Scudo dell'Iride](/it/Exclusive/Centaur Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
+  | 2  | [Gnomo](/it/units/Dwarf/) | [Scudo dell'Iride](/it/Exclusive/Dwarf Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
+  | 3  | [Elfo del bosco](/it/units/Wood Elf/) | [Arco lungo](/it/Exclusive/Wood Elf Long Bow/) | - | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
+  | 4  | [Pegaso](/it/units/Pegasus/) | [Arco lungo](/it/Exclusive/Pegasus Long Bow/) | + | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
+  | 5  | [Guardia Dendroide](/it/units/Dendroid Guard/) | [Scudo dell'Iride](/it/Exclusive/Dendroid Guard Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
+  | 6  | [Unicorno](/it/units/Unicorn/) | [Carica impetuosa](/it/Exclusive/Unicorn Knight Pike/) | - | Carica | [Token Carica impetuosa](/it/Items/con_916/) | - |
+  | 7  | [Drago verde](/it/units/Green Dragon/) | [Ala di drago splendente](/it/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Supporto | [Token Ala di drago splendente](/it/Items/con_976/) | [Skin speciale Ala di drago splendente](/it/Items/con_644/) |
+  | 8  | [Druido](/it/units/Druid/) | [Bastone della Ricrescita](/it/Exclusive/Druid Staff of Regrowth/) | - | A distanza | [Token Bastone della Ricrescita](/it/Items/con_977/) | [Skin speciale Bastone della Ricrescita](/it/Items/con_645/) |
   | 9  | [Mantide](/it/units/Mantis/) | - | - | - | none | none |

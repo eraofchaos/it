@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Spada da Naga** 
+### Dettagli
+ **Nome: Spada da Naga** 
 
  **Esclusivo for Unit:** [Naga](/it/units/Naga/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Spada delle Naga](/it/Items/con_987/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Spada delle Naga](/it/Items/con_655/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Volontà incrollabile> Quando le Naga subiscono <Stordimento>, <Pietrificazione> o <Silenzio>, diventano immuni a quasi tutti gli effetti di controllo e i debuff (<Congelamento>, <Silenzio>, <Rallentamento>, <Pietrificazione>, <Stordimento>, <Morale basso>, <Impedimento> e <Blocco temporale>), e la loro Rid DAN aumenta del 20% per 5 secondi. Recupero: 15 secondi. (Ha effetto dopo aver equipaggiato un Emblema sacro) |
-  | **1x** <i class="fas fa-star"/> | ? | Durata di <Stordimento>, <Pietrificazione>, <Rallentamento>, <Congelamento>, <Morale basso> e <Silenzio> ridotta del 50%. |
-  | **2x** <i class="fas fa-star"/> | ? | Le Naga godono di ATT e DAN aumentati del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Muro di spade Naga> La prima volta che i PF delle Naga scendono sotto il 25%, evocano un muro di spade che, ogni secondo, aumenta di 20 la Perforazione e del 2% l'assorbimento delle unità alleate in un'ampia area. Cumulabile fino a 10 volte. (L'effetto persiste anche se le Naga vengono sconfitte) |
-  | **4x** <i class="fas fa-star"/> | ? | Le Naga godono di Assorbimento e Rid DAN aumentati del 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Le Naga sono immuni allo <Stordimento>. |
-  | **6x** <i class="fas fa-star"/> | ? | <Raggio della Spada da Naga> Infligge danni pari al 200% dell'ATT a tutte le unità nemiche nella fila del bersaglio ogni 15 secondi, e ne riduce DIF e Rid DAN del 30%. Inoltre, aumenta il CRIT di 1000 e il Assorbimento del 20% per i successivi 5 secondi. |
+  |  Risveglio  | **100x** [Token Spada delle Naga](/it/Items/con_987/) | <Volontà incrollabile> Quando le Naga subiscono <Stordimento>, <Pietrificazione> o <Silenzio>, diventano immuni a quasi tutti gli effetti di controllo e i debuff (<Congelamento>, <Silenzio>, <Rallentamento>, <Pietrificazione>, <Stordimento>, <Morale basso>, <Impedimento> e <Blocco temporale>), e la loro Rid DAN aumenta del 20% per 5 secondi. Recupero: 15 secondi. (Ha effetto dopo aver equipaggiato un Emblema sacro) |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Spada delle Naga](/it/Items/con_987/) | Durata di <Stordimento>, <Pietrificazione>, <Rallentamento>, <Congelamento>, <Morale basso> e <Silenzio> ridotta del 50%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Spada delle Naga](/it/Items/con_987/) | Le Naga godono di ATT e DAN aumentati del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Spada delle Naga](/it/Items/con_987/) | <Muro di spade Naga> La prima volta che i PF delle Naga scendono sotto il 25%, evocano un muro di spade che, ogni secondo, aumenta di 20 la Perforazione e del 2% l'assorbimento delle unità alleate in un'ampia area. Cumulabile fino a 10 volte. (L'effetto persiste anche se le Naga vengono sconfitte) |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Spada delle Naga](/it/Items/con_987/) | Le Naga godono di Assorbimento e Rid DAN aumentati del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Spada delle Naga](/it/Items/con_987/) | Le Naga sono immuni allo <Stordimento>. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Spada delle Naga](/it/Items/con_987/) | <Raggio della Spada da Naga> Infligge danni pari al 200% dell'ATT a tutte le unità nemiche nella fila del bersaglio ogni 15 secondi, e ne riduce DIF e Rid DAN del 30%. Inoltre, aumenta il CRIT di 1000 e il Assorbimento del 20% per i successivi 5 secondi. |
 
 
 ## Livello ↑

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Guerrieri spartani](/it/Items/unt_272/)
+
  **Short description:** Lo scudo <stordisce>. La morte potenzia.
 
  **Position :** Gli attacchi con lo scudo <stordiscono> i nemici. La morte di un'unità potenzia i suoi alleati.
@@ -161,9 +163,11 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

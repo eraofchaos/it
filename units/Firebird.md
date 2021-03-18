@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Rapace di fuoco](/it/Items/unt_268/)
+
  **Unit description:** Soffio infuocato: infligge danni alle unità nemiche davanti a sé.
 
  **Short description:** Danno da Fuoco a distanza. Ritorna dalla morte.
@@ -78,13 +80,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Fiamma eterna](/it/Exclusive/Firebird Eternal Flame/) 
+ **Nome:** [Fiamma eterna](/it/Exclusive/Firebird Eternal Flame/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Fiamma eterna](/it/Items/con_1001/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Fiamma eterna](/it/Items/con_669/)
 
 
 ## Emblemi sacri consigliati
@@ -170,9 +172,11 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Fenice

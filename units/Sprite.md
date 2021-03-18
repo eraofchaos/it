@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Driade](/it/Items/unt_262/)
+
  **Short description:** Ammutolisce. Incantesimo iniziale potenziato.
 
  **Position :** Esplode quando muore, causa <Silenzio> e aumenta il mana iniziale degli eroi.
@@ -74,11 +76,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/it/Exclusive/Sprite Knight Pike/) 
+ **Nome:** [Carica impetuosa](/it/Exclusive/Sprite Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -166,9 +168,11 @@ toc: true
 * Danno unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** 

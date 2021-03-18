@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Paladino](/it/Items/unt_197/)
+
  **Unit description:** Rinforzi del valoroso: evoca un Seguace del Santuario
 
  **Short description:** Evoca unità difensive.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [](/it/Exclusive/Paladin /) 
+ **Nome:** [](/it/Exclusive/Paladin /) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Impavida](/it/Items/con_974/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Impavida](/it/Items/con_642/)
 
 
 ## Emblemi sacri consigliati
@@ -166,9 +168,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Paladino Supremo

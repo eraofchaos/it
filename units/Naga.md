@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Naga](/it/Items/unt_240/)
+
  **Unit description:** Danza delle lame: DAN ad area e riduzione DIF ad area.
 
  **Short description:** Terrorizza. Danni molto elevati.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Spada da Naga](/it/Exclusive/Naga Naga Sword/) 
+ **Nome:** [Spada da Naga](/it/Exclusive/Naga Naga Sword/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Spada delle Naga](/it/Items/con_987/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Spada delle Naga](/it/Items/con_655/)
 
 
 ## Emblemi sacri consigliati
@@ -173,9 +175,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Regina delle Naga

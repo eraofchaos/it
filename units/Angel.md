@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Angelo](/it/Items/unt_196/)
+
  **Unit description:** Condanna: infligge danni ingenti e <stordisce> 3 unità.
 
  **Short description:** Aura curativa per gli alleati.
@@ -78,13 +80,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Durlindana](/it/Exclusive/Angel Durandel/) 
+ **Nome:** [Durlindana](/it/Exclusive/Angel Durandel/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Durlindana](/it/Items/con_973/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Durlindana](/it/Items/con_641/)
 
 
 ## Emblemi sacri consigliati
@@ -169,9 +171,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Arcangelo

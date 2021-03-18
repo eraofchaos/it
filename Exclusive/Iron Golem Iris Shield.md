@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Scudo dell'Iride** 
+### Dettagli
+ **Nome: Scudo dell'Iride** 
 
  **Esclusivo for Unit:** [Golem di ferro](/it/units/Iron Golem/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Modulo d'aggiornamento> Il Golem di ferro attiva il modulo d'aggiornamento al proprio interno, aumentando DIF e Rid DAN del 10% e Vel ATT del 30% per 10 secondi. Recupero: 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Il Golem di ferro gode di PF aumentati del 20% e DIF aumentata del 15%. |
-  | **2x** <i class="fas fa-star"/> | ? | Tenacia del Golem di ferro aumentata di 300. Quando lancia <Modulo d'aggiornamento>, il bonus alla Tenacia raddoppia. |
-  | **3x** <i class="fas fa-star"/> | ? | <Pugno elettromagnetico> Quando il Golem di ferro attacca, ha il 10% di probabilità di lanciare <Pugno elettromagnetico>, che infligge danni pari al 200% dell'ATT e riduce DAN e Rid DAN dell'unità bersaglio del 10% per 5 secondi. Cumulabile fino a 4 volte. |
-  | **4x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Torre, il Golem di ferro gode di PF aumentati dell'8% e DIF aumentata del 4%. |
-  | **5x** <i class="fas fa-star"/> | ? | Quando attiva <Pugno elettromagnetico>, il Golem di ferro riduce la Vel ATT delle unità nemiche circostanti del 50% per 2 secondi. |
-  | **6x** <i class="fas fa-star"/> | ? | <Sovraccarico> Probabilità del 50% di raddoppiare i buff di <Modulo d'aggiornamento> e ottenere uno <scudo> pari al 15% dei PF massimi per 10 secondi. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Modulo d'aggiornamento> Il Golem di ferro attiva il modulo d'aggiornamento al proprio interno, aumentando DIF e Rid DAN del 10% e Vel ATT del 30% per 10 secondi. Recupero: 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | Il Golem di ferro gode di PF aumentati del 20% e DIF aumentata del 15%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | Tenacia del Golem di ferro aumentata di 300. Quando lancia <Modulo d'aggiornamento>, il bonus alla Tenacia raddoppia. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Pugno elettromagnetico> Quando il Golem di ferro attacca, ha il 10% di probabilità di lanciare <Pugno elettromagnetico>, che infligge danni pari al 200% dell'ATT e riduce DAN e Rid DAN dell'unità bersaglio del 10% per 5 secondi. Cumulabile fino a 4 volte. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Ogni volta che viene schierata un'unità Torre, il Golem di ferro gode di PF aumentati dell'8% e DIF aumentata del 4%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando attiva <Pugno elettromagnetico>, il Golem di ferro riduce la Vel ATT delle unità nemiche circostanti del 50% per 2 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Sovraccarico> Probabilità del 50% di raddoppiare i buff di <Modulo d'aggiornamento> e ottenere uno <scudo> pari al 15% dei PF massimi per 10 secondi. |
 
 
 ## Livello ↑

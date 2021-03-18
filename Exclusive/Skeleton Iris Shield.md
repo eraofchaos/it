@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Scudo dell'Iride** 
+### Dettagli
+ **Nome: Scudo dell'Iride** 
 
  **Esclusivo for Unit:** [Scheletro](/it/units/Skeleton/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Cadavere putrido> Lo Scheletro si trasforma in un cadavere putrido, causando <Morale basso> a tutte le unità in un'ampia area per 10 secondi ogni 20 secondi e infliggendo danni pari al 250% della relativa ATT all'unità bersaglio. |
-  | **1x** <i class="fas fa-star"/> | ? | DIF dello Scheletro aumentata di 200. |
-  | **2x** <i class="fas fa-star"/> | ? | PF base dello Scheletro aumentati di 20.000. |
-  | **3x** <i class="fas fa-star"/> | ? | <Calcificazione> Lo Scheletro ripristina il 10% dei propri PF massimi quando è affetto da <Morale basso>. Recupero: 10 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | DIF dello Scheletro aumentata del 15%. |
-  | **5x** <i class="fas fa-star"/> | ? | Quando lo Scheletro attacca un'unità affetta da <Morale basso>, ha l'8% di probabilità di ridurne la Rid DAN dell'1%. Cumulabile fino a 30 volte. L'effetto dura fino al termine della battaglia. |
-  | **6x** <i class="fas fa-star"/> | ? | <Creatura non morta> Lo Scheletro aumenta del 15% la Rid DAN e il DAN riflesso delle unità alleate in un'ampia area e riduce del 15% il DAN delle unità nemiche nell'area. Durata: 15 secondi. Recupero: 25 secondi. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Cadavere putrido> Lo Scheletro si trasforma in un cadavere putrido, causando <Morale basso> a tutte le unità in un'ampia area per 10 secondi ogni 20 secondi e infliggendo danni pari al 250% della relativa ATT all'unità bersaglio. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | DIF dello Scheletro aumentata di 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | PF base dello Scheletro aumentati di 20.000. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Calcificazione> Lo Scheletro ripristina il 10% dei propri PF massimi quando è affetto da <Morale basso>. Recupero: 10 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | DIF dello Scheletro aumentata del 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando lo Scheletro attacca un'unità affetta da <Morale basso>, ha l'8% di probabilità di ridurne la Rid DAN dell'1%. Cumulabile fino a 30 volte. L'effetto dura fino al termine della battaglia. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Creatura non morta> Lo Scheletro aumenta del 15% la Rid DAN e il DAN riflesso delle unità alleate in un'ampia area e riduce del 15% il DAN delle unità nemiche nell'area. Durata: 15 secondi. Recupero: 25 secondi. |
 
 
 ## Livello ↑

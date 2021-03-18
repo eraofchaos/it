@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Unicorno](/it/Items/unt_204/)
+
  **Unit description:** Cecità: Riduce la MIRA di una fila di unità nemiche.
 
  **Short description:** Causa Cecità. Le tecniche di protezione e schivata migliorano col tempo.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/it/Exclusive/Unicorn Knight Pike/) 
+ **Nome:** [Carica impetuosa](/it/Exclusive/Unicorn Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -168,9 +170,11 @@ toc: true
 * Schivata unità
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Unicorno da Guerra

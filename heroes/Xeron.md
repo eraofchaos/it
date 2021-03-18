@@ -3,13 +3,13 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Quando Lucifer Kreegan uccise Xenofex per prendere il potere, Xeron fu il primo a giurare fedeltà all'usurpatore. Questo gli fece guadagnare immediatamente il favore del nuovo Re."
 heroID: 60801
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Xeron"
 toc: true
 ---
  **Descrizione:** Quando Lucifer Kreegan uccise Xenofex per prendere il potere, Xeron fu il primo a giurare fedeltà all'usurpatore. Questo gli fece guadagnare immediatamente il favore del nuovo Re.
-## Details
+## Dettagli
  **Profession:** Demoniaco
 
  **Race:** Inferno

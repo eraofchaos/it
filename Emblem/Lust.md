@@ -2,20 +2,20 @@
 title: "Emblema sacro - Lussuria"
 permalink: /Emblem/Lust/
 excerpt: "Era of Chaos Lussuria. Lussuria. Era of Chaos Emblema sacro Lussuria. Era of Chaos Caos Lussuria"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Lust.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Lussuria
+ **Nome:** Lussuria
 
  **Type:** [Caos](/it/Emblem/Type Chaos/)
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nome            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Lussuria](/it/Emblem/Lust/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +9, DIF Emblema sacro +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta le cure ricevute dalle unità schierate del 10%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +22,5, DIF Emblema sacro +22,5</span> | 
   | [Lussuria](/it/Emblem/Lust/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +15, DIF Emblema sacro +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta le cure ricevute dalle unità schierate del 15%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +37,5, DIF Emblema sacro +37,5</span> | 

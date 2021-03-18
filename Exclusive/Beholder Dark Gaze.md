@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Sguardo oscuro** 
+### Dettagli
+ **Nome: Sguardo oscuro** 
 
  **Esclusivo for Unit:** [Osservatore](/it/units/Beholder/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Sguardo oscuro](/it/Items/con_990/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Sguardo oscuro](/it/Items/con_658/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Vista oscura> Infligge danni pari al 200% dell'ATT alle unità nemiche in un'ampia area di fronte a sé e ne riduce la Rid DAN del 15%. Effetto raddoppiato contro bersagli <storditi>. Durata: 7 secondi. Recupero: 15 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Quando un eroe nemico lancia un incantesimo, l'Osservatore ottiene uno <scudo> pari al 10% dei PF massimi per 7 secondi. |
-  | **2x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Dungeon, il CRIT dell'Osservatore aumenta di 50. |
-  | **3x** <i class="fas fa-star"/> | ? | L'Osservatore lancia <Vincolo d'ombra> su un'unità nemica casuale ogni 20 secondi. L'unità vincolata non può attaccare e la sua DIF è ridotta del 20%. Se l'unità bersaglio è già affetta da <Controllo mentale>, la sua Tenacia viene ridotta di 200 per 5 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | Rid DAN dell'Osservatore aumentata del 15%. Ogni volta che chiude un Occhio, la sua DIF aumenta del 10%. |
-  | **5x** <i class="fas fa-star"/> | ? | Contro unità affette da <Sanguinamento> l'Osservatore gode di ATT e DAN CRIT aumentati del 20%. |
-  | **6x** <i class="fas fa-star"/> | ? | <Benedizione invisibile> All'inizio della battaglia, l'Osservatore dona alle unità Dungeon alleate un aumento del 30% a DAN e Vel ATT. L'effetto si riduce del 10% ogni 10 secondi fino a un massimo di 2 volte. L'effetto dura 30 secondi. Contro unità da mischia, la durata dell'effetto è raddoppiata e la riduzione dimezzata. |
+  |  Risveglio  | **100x** [Token Sguardo oscuro](/it/Items/con_990/) | <Vista oscura> Infligge danni pari al 200% dell'ATT alle unità nemiche in un'ampia area di fronte a sé e ne riduce la Rid DAN del 15%. Effetto raddoppiato contro bersagli <storditi>. Durata: 7 secondi. Recupero: 15 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Sguardo oscuro](/it/Items/con_990/) | Quando un eroe nemico lancia un incantesimo, l'Osservatore ottiene uno <scudo> pari al 10% dei PF massimi per 7 secondi. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Sguardo oscuro](/it/Items/con_990/) | Ogni volta che viene schierata un'unità Dungeon, il CRIT dell'Osservatore aumenta di 50. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Sguardo oscuro](/it/Items/con_990/) | L'Osservatore lancia <Vincolo d'ombra> su un'unità nemica casuale ogni 20 secondi. L'unità vincolata non può attaccare e la sua DIF è ridotta del 20%. Se l'unità bersaglio è già affetta da <Controllo mentale>, la sua Tenacia viene ridotta di 200 per 5 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Sguardo oscuro](/it/Items/con_990/) | Rid DAN dell'Osservatore aumentata del 15%. Ogni volta che chiude un Occhio, la sua DIF aumenta del 10%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Sguardo oscuro](/it/Items/con_990/) | Contro unità affette da <Sanguinamento> l'Osservatore gode di ATT e DAN CRIT aumentati del 20%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Sguardo oscuro](/it/Items/con_990/) | <Benedizione invisibile> All'inizio della battaglia, l'Osservatore dona alle unità Dungeon alleate un aumento del 30% a DAN e Vel ATT. L'effetto si riduce del 10% ogni 10 secondi fino a un massimo di 2 volte. L'effetto dura 30 secondi. Contro unità da mischia, la durata dell'effetto è raddoppiata e la riduzione dimezzata. |
 
 
 ## Livello ↑

@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Nucleo mistico** 
+### Dettagli
+ **Nome: Nucleo mistico** 
 
  **Esclusivo for Unit:** [Elementale psichico](/it/units/Psychic Elemental/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Nucleo mistico](/it/Items/con_1000/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Nucleo mistico](/it/Items/con_668/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Demoralizzazione> L'Elementale psichico assalta la psiche del bersaglio, infliggendo danni pari al 20% dei PF massimi e ripristinando PF pari al 50% del proprio ATT. Recupero: 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | DAN dell'Elementale psichico aumentato del 30%. |
-  | **2x** <i class="fas fa-star"/> | ? | L'Elementale psichico è immune a tutti i danni magici. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, tutte le unità Confluenza alleate diventano immuni a tutti i danni magici. |
-  | **3x** <i class="fas fa-star"/> | ? | <Dominio> L'Elementale psichico assorbe il 20% della DIF di un'unità casuale, ottenendo un bonus percentuale della durata di 10 secondi. Recupero: 10 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | Rid DAN dell'Elementale psichico aumentata del 30%. |
-  | **5x** <i class="fas fa-star"/> | ? | L'Elementale psichico è immune a <Stordimento>, <Silenzio>, <Congelamento>, <Blocco temporale>, <Paralisi>, <Pietrificazione> e <Cristallizzazione>. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, tutte le unità Confluenza alleate diventano immuni agli effetti elencati sopra. |
-  | **6x** <i class="fas fa-star"/> | ? | <Armonia elementale> L'Elementale psichico gode di CRIT aumentato di 500 e DAN CRIT aumentato del 50%. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, attiva <Armonia elementale>. Mentre è sul campo di battaglia, tutte le unità Confluenza alleate godono di Tenacia e Schivata aumentate di 500 e Rid DAN aumentata del 20%. |
+  |  Risveglio  | **100x** [Token Nucleo mistico](/it/Items/con_1000/) | <Demoralizzazione> L'Elementale psichico assalta la psiche del bersaglio, infliggendo danni pari al 20% dei PF massimi e ripristinando PF pari al 50% del proprio ATT. Recupero: 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Nucleo mistico](/it/Items/con_1000/) | DAN dell'Elementale psichico aumentato del 30%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Nucleo mistico](/it/Items/con_1000/) | L'Elementale psichico è immune a tutti i danni magici. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, tutte le unità Confluenza alleate diventano immuni a tutti i danni magici. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Nucleo mistico](/it/Items/con_1000/) | <Dominio> L'Elementale psichico assorbe il 20% della DIF di un'unità casuale, ottenendo un bonus percentuale della durata di 10 secondi. Recupero: 10 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Nucleo mistico](/it/Items/con_1000/) | Rid DAN dell'Elementale psichico aumentata del 30%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Nucleo mistico](/it/Items/con_1000/) | L'Elementale psichico è immune a <Stordimento>, <Silenzio>, <Congelamento>, <Blocco temporale>, <Paralisi>, <Pietrificazione> e <Cristallizzazione>. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, tutte le unità Confluenza alleate diventano immuni agli effetti elencati sopra. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Nucleo mistico](/it/Items/con_1000/) | <Armonia elementale> L'Elementale psichico gode di CRIT aumentato di 500 e DAN CRIT aumentato del 50%. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, attiva <Armonia elementale>. Mentre è sul campo di battaglia, tutte le unità Confluenza alleate godono di Tenacia e Schivata aumentate di 500 e Rid DAN aumentata del 20%. |
 
 
 ## Livello ↑

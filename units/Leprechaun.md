@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Leprecauno](/it/Items/unt_270/)
+
  **Short description:** Schiva e para. Potenzia i contrattacchi.
 
  **Position :** Un esperto di parate, che offre difesa di gruppo e scudi elementali.
@@ -74,7 +76,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Rovi](/it/Exclusive/Leprechaun Thorns/) 
+ **Nome:** [Rovi](/it/Exclusive/Leprechaun Thorns/) 
 
  **Is Open:** - 
 
@@ -187,9 +189,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Leprecauno maggiore

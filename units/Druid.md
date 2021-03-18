@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Druido](/it/Items/unt_206/)
+
  **Unit description:** Cronosfera silvana: le unità all'interno del circolo sono immuni ai danni magici.
 
  **Short description:** Annulla gli scudi. Aumenta il CRIT.
@@ -74,13 +76,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Bastone della Ricrescita](/it/Exclusive/Druid Staff of Regrowth/) 
+ **Nome:** [Bastone della Ricrescita](/it/Exclusive/Druid Staff of Regrowth/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Bastone della Ricrescita](/it/Items/con_977/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Bastone della Ricrescita](/it/Items/con_645/)
 
 
 ## Emblemi sacri consigliati
@@ -170,9 +172,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Arcidruido

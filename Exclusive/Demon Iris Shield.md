@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Scudo dell'Iride** 
+### Dettagli
+ **Nome: Scudo dell'Iride** 
 
  **Esclusivo for Unit:** [Demone](/it/units/Demon/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | All'inizio della battaglia, la schivata del Demone aumenta di 1000 per 30 secondi. Ogni schivata aumenta la Rid DAN dell'1% in modo permanente, fino a un massimo di 30%. |
-  | **1x** <i class="fas fa-star"/> | ? | All'inizio della battaglia, la Tenacia del Demone aumenta di 500 per 30 secondi. |
-  | **2x** <i class="fas fa-star"/> | ? | Il Demone gode di PF aumentati del 20% e Rid DAN aumentata del 10%. |
-  | **3x** <i class="fas fa-star"/> | ? | Il Demone gode di DIF aumentata del 10%. DIF aumentata del 100% per 10 secondi quando i PF scendono sotto il 50% per la prima volta. |
-  | **4x** <i class="fas fa-star"/> | ? | Il Demone gode di DIF aumentata del 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Gli attacchi del Demone riducono la Schivata dell'unità bersaglio di 1000 per 5 secondi. |
-  | **6x** <i class="fas fa-star"/> | ? | Se il Demone è sul campo di battaglia, la Schivata di tutte le unità nemiche si riduce di 500. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | All'inizio della battaglia, la schivata del Demone aumenta di 1000 per 30 secondi. Ogni schivata aumenta la Rid DAN dell'1% in modo permanente, fino a un massimo di 30%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | All'inizio della battaglia, la Tenacia del Demone aumenta di 500 per 30 secondi. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | Il Demone gode di PF aumentati del 20% e Rid DAN aumentata del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | Il Demone gode di DIF aumentata del 10%. DIF aumentata del 100% per 10 secondi quando i PF scendono sotto il 50% per la prima volta. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Il Demone gode di DIF aumentata del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Gli attacchi del Demone riducono la Schivata dell'unità bersaglio di 1000 per 5 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | Se il Demone è sul campo di battaglia, la Schivata di tutte le unità nemiche si riduce di 500. |
 
 
 ## Livello ↑

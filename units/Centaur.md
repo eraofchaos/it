@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Centauro](/it/Items/unt_199/)
+
  **Unit description:** Schiacciata: infligge danni e <rallenta> l'unità più vicina.
 
  **Short description:** Rallenta e applica Sanguinamento. Scudo impenetrabile.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/it/Exclusive/Centaur Iris Shield/) 
+ **Nome:** [Scudo dell'Iride](/it/Exclusive/Centaur Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Capitano Centauro

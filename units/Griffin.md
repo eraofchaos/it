@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Grifone](/it/Items/unt_192/)
+
  **Unit description:** Picchiata: infligge danni a 3 unità nemiche.
 
  **Short description:** Unità volante. Contrattacchi illimitati.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/it/Exclusive/Griffin Knight Pike/) 
+ **Nome:** [Carica impetuosa](/it/Exclusive/Griffin Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Grifone sacro

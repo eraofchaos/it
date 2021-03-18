@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Scudo dell'Iride** 
+### Dettagli
+ **Nome: Scudo dell'Iride** 
 
  **Esclusivo for Unit:** [Ogre](/it/units/Ogre/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | Ogni 30 secondi, evoca un circolo sacrificale che infligge danni pari all'1,5% dei PF massimi alle unità nemiche al suo interno, e ripristina PF pari al 5% dell'ATT alle unità alleate al suo interno per 15 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Rid DAN dell'Ogre aumentata del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Quando l'Ogre è preso da <Raptus>, aumenta del 10% il danno di tutte le unità alleate. |
-  | **3x** <i class="fas fa-star"/> | ? | Quando l'Ogre viene schierato in battaglia, aumenta del 10% la Vel ATT di tutte le unità Roccaforte alleate. Inoltre, gode di DIF aumentata del 10%. |
-  | **4x** <i class="fas fa-star"/> | ? | Tenacia dell'Ogre aumentata di 500. |
-  | **5x** <i class="fas fa-star"/> | ? | Quando l'Ogre viene schierato in battaglia, riduce del 10% la DIF di tutte le unità nemiche e gode di resistenza magica aumentata del 100%. |
-  | **6x** <i class="fas fa-star"/> | ? | L'Ogre gode di DIF aumentata del 5% per ogni unità difensiva schierata. I PF dell'Ogre aumentano di 1000 per ogni unità Roccaforte schierata. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | Ogni 30 secondi, evoca un circolo sacrificale che infligge danni pari all'1,5% dei PF massimi alle unità nemiche al suo interno, e ripristina PF pari al 5% dell'ATT alle unità alleate al suo interno per 15 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | Rid DAN dell'Ogre aumentata del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando l'Ogre è preso da <Raptus>, aumenta del 10% il danno di tutte le unità alleate. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando l'Ogre viene schierato in battaglia, aumenta del 10% la Vel ATT di tutte le unità Roccaforte alleate. Inoltre, gode di DIF aumentata del 10%. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Tenacia dell'Ogre aumentata di 500. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando l'Ogre viene schierato in battaglia, riduce del 10% la DIF di tutte le unità nemiche e gode di resistenza magica aumentata del 100%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | L'Ogre gode di DIF aumentata del 5% per ogni unità difensiva schierata. I PF dell'Ogre aumentano di 1000 per ogni unità Roccaforte schierata. |
 
 
 ## Livello ↑

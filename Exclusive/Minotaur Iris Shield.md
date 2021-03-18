@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Scudo dell'Iride** 
+### Dettagli
+ **Nome: Scudo dell'Iride** 
 
  **Esclusivo for Unit:** [Minotauro](/it/units/Minotaur/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Carica brutale> Il Minotauro si lancia in una violenta carica contro un'unità bersaglio, infliggendo danni pari al 300% del proprio ATT e riducendo del 20% la Rid DAN e del 10% la Vel ATT delle unità nemiche in un'ampia area per 7 secondi. Recupero: 15 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Rid DAN del Minotauro aumentata del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Tenacia aumentata di 400 per 5 secondi quando gode di <Morale alto>. |
-  | **3x** <i class="fas fa-star"/> | ? | <Afflusso di sangue> Il Minotauro recupera PF pari al 10% dei propri PF massimi e riduce del 20% il DAN delle unità nemiche circostanti per 6 secondi. Recupero: 15 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | Ogni volta che viene schierata un'unità Dungeon, il Minotauro gode di PF aumentati dell'8% e DIF aumentata del 5%. |
-  | **5x** <i class="fas fa-star"/> | ? | Quando i PF del Minotauro scendono sotto il 30% per la prima volta, aumenta del 50% la propria DIF e aumenta del 20% la Vel ATT propria e delle unità alleate circostanti per 15 secondi. |
-  | **6x** <i class="fas fa-star"/> | ? | <Ruggito> Il Minotauro terrorizza i nemici con un ruggito che aumenta del 20% i danni inflitti dalle unità alleate e riduce del 20% la Rid DAN delle unità nemiche <avvelenate>. Durata: 7 secondi. Recupero: 15 secondi. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Carica brutale> Il Minotauro si lancia in una violenta carica contro un'unità bersaglio, infliggendo danni pari al 300% del proprio ATT e riducendo del 20% la Rid DAN e del 10% la Vel ATT delle unità nemiche in un'ampia area per 7 secondi. Recupero: 15 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | Rid DAN del Minotauro aumentata del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | Tenacia aumentata di 400 per 5 secondi quando gode di <Morale alto>. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Afflusso di sangue> Il Minotauro recupera PF pari al 10% dei propri PF massimi e riduce del 20% il DAN delle unità nemiche circostanti per 6 secondi. Recupero: 15 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Ogni volta che viene schierata un'unità Dungeon, il Minotauro gode di PF aumentati dell'8% e DIF aumentata del 5%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando i PF del Minotauro scendono sotto il 30% per la prima volta, aumenta del 50% la propria DIF e aumenta del 20% la Vel ATT propria e delle unità alleate circostanti per 15 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Ruggito> Il Minotauro terrorizza i nemici con un ruggito che aumenta del 20% i danni inflitti dalle unità alleate e riduce del 20% la Rid DAN delle unità nemiche <avvelenate>. Durata: 7 secondi. Recupero: 15 secondi. |
 
 
 ## Livello ↑

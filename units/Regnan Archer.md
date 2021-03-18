@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Arciere di Regna](/it/Items/unt_274/)
+
  **Short description:** CRIT e perforazione.
 
  **Position :** Colpi critici e Perforazione. Fa strage di nemici.
@@ -72,7 +74,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Miracolo](/it/Exclusive/Regnan Archer Miracle/) 
+ **Nome:** [Miracolo](/it/Exclusive/Regnan Archer Miracle/) 
 
  **Is Open:** - 
 
@@ -175,9 +177,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

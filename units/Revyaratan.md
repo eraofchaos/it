@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Leviatano](/it/Items/unt_280/)
+
  **Short description:** Kraken abissale. Non può essere rianimato.
 
  **Position :** Infligge danni ingenti costantemente, applica <Impedimento> e si nutre di cadaveri per recuperare PF.
@@ -74,7 +76,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Maree tenebrose](/it/Exclusive/Revyaratan Gloom Tides/) 
+ **Nome:** [Maree tenebrose](/it/Exclusive/Revyaratan Gloom Tides/) 
 
  **Is Open:** - 
 
@@ -178,9 +180,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Antico mostro marino

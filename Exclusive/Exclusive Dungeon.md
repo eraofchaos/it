@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Troglodita](/it/units/Troglodyte/) | [Spada](/it/Exclusive/Troglodyte Sword/) | - | Carica | - | - |
-  | 2  | [Arpia](/it/units/Harpy/) | [Carica impetuosa](/it/Exclusive/Harpy Knight Pike/) | - | Carica | - | - |
-  | 3  | [Osservatore](/it/units/Beholder/) | [Sguardo oscuro](/it/Exclusive/Beholder Dark Gaze/) | - | A distanza | - | - |
-  | 4  | [Medusa](/it/units/Medusa/) | [Arco della Medusa](/it/Exclusive/Medusa Medusa's Bow/) | - | A distanza | - | - |
-  | 5  | [Minotauro](/it/units/Minotaur/) | [Scudo dell'Iride](/it/Exclusive/Minotaur Iris Shield/) | - | Carica | - | - |
-  | 6  | [Manticora](/it/units/Manticore/) | [Coda di scorpione](/it/Exclusive/Manticore Scorpion Tail/) | + | A distanza | - | - |
-  | 7  | [Drago nero](/it/units/Black Dragon/) | [Squama del Drago nero](/it/Exclusive/Black Dragon Black Dragon's Scale/) | - | Supporto | - | - |
+  | 1  | [Troglodita](/it/units/Troglodyte/) | [Spada](/it/Exclusive/Troglodyte Sword/) | - | Carica | [Token della Spada](/it/Items/con_912/) | - |
+  | 2  | [Arpia](/it/units/Harpy/) | [Carica impetuosa](/it/Exclusive/Harpy Knight Pike/) | - | Carica | [Token Carica impetuosa](/it/Items/con_916/) | - |
+  | 3  | [Osservatore](/it/units/Beholder/) | [Sguardo oscuro](/it/Exclusive/Beholder Dark Gaze/) | - | A distanza | [Token Sguardo oscuro](/it/Items/con_990/) | [Skin speciale Sguardo oscuro](/it/Items/con_658/) |
+  | 4  | [Medusa](/it/units/Medusa/) | [Arco della Medusa](/it/Exclusive/Medusa Medusa's Bow/) | - | A distanza | [Token Arco di Medusa](/it/Items/con_991/) | [Skin speciale Arco di Medusa](/it/Items/con_659/) |
+  | 5  | [Minotauro](/it/units/Minotaur/) | [Scudo dell'Iride](/it/Exclusive/Minotaur Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
+  | 6  | [Manticora](/it/units/Manticore/) | [Coda di scorpione](/it/Exclusive/Manticore Scorpion Tail/) | + | A distanza | [Token Coda di scorpione](/it/Items/con_992/) | [Skin speciale Coda di scorpione](/it/Items/con_660/) |
+  | 7  | [Drago nero](/it/units/Black Dragon/) | [Squama del Drago nero](/it/Exclusive/Black Dragon Black Dragon's Scale/) | - | Supporto | [Token Squama del Drago nero](/it/Items/con_993/) | [Skin speciale Squama del Drago nero](/it/Items/con_661/) |
   | 8  | [Drago rosso](/it/units/Red Dragon/) | [Annientamento](/it/Exclusive/Red Dragon Annihilation/) | - | Supporto | - | - |
   | 9  | [Strega malvagia](/it/units/Evil Sorceress/) | - | - | - | none | none |

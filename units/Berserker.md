@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Berserker](/it/Items/unt_224/)
+
  **Unit description:** Tempesta di guerra: infligge danni a 3 unità nemiche vicine.
 
  **Short description:** Efficace contro unità singole. Riceve un buff alla morte.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Ascia del Berserker](/it/Exclusive/Berserker Berserker's Axe/) 
+ **Nome:** [Ascia del Berserker](/it/Exclusive/Berserker Berserker's Axe/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Ascia del Berserker](/it/Items/con_983/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Ascia del Berserker](/it/Items/con_651/)
 
 
 ## Emblemi sacri consigliati
@@ -179,9 +181,11 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Messaggero di morte

@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Arco lungo** 
+### Dettagli
+ **Nome: Arco lungo** 
 
  **Esclusivo for Unit:** [Ciclope](/it/units/Cyclops/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Lancio del macigno> Scaglia un macigno che infligge danni pari al 200% dei PF massimi a tutti i nemici nell'area bersaglio. L'effetto può essere attivato una volta ogni 15 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Quando il Ciclope attacca per la prima volta, usa anche <Lancio del macigno>. |
-  | **2x** <i class="fas fa-star"/> | ? | Il Ciclope gode di DAN e Vel ATT aumentati del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | Quando i PF del Ciclope scendono sotto il 30% per la prima volta, usa <Scossa tellurica>, che ne aumenta permanentemente la Vel ATT del 25%. |
-  | **4x** <i class="fas fa-star"/> | ? | DIF e Rid DAN del Ciclope aumentati del 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Gli attacchi del Ciclope riducono il CRIT dell'unità bersaglio di 500. |
-  | **6x** <i class="fas fa-star"/> | ? | <Sguardo della sventura> All'inizio della battaglia, la Vel ATT di tutte le unità nemiche viene ridotta del 10% per 20 secondi. |
+  |  Risveglio  | **100x** [Token Arco lungo](/it/Items/con_914/) | <Lancio del macigno> Scaglia un macigno che infligge danni pari al 200% dei PF massimi a tutti i nemici nell'area bersaglio. L'effetto può essere attivato una volta ogni 15 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/it/Items/con_914/) | Quando il Ciclope attacca per la prima volta, usa anche <Lancio del macigno>. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/it/Items/con_914/) | Il Ciclope gode di DAN e Vel ATT aumentati del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/it/Items/con_914/) | Quando i PF del Ciclope scendono sotto il 30% per la prima volta, usa <Scossa tellurica>, che ne aumenta permanentemente la Vel ATT del 25%. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/it/Items/con_914/) | DIF e Rid DAN del Ciclope aumentati del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/it/Items/con_914/) | Gli attacchi del Ciclope riducono il CRIT dell'unità bersaglio di 500. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/it/Items/con_914/) | <Sguardo della sventura> All'inizio della battaglia, la Vel ATT di tutte le unità nemiche viene ridotta del 10% per 20 secondi. |
 
 
 ## Livello ↑

@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Spadaccino](/it/Items/unt_193/)
+
  **Unit description:** Protezione divina: riduce i danni subiti.
 
  **Short description:** Lo scudo subisce danni ridotti. Può curarsi.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/it/Exclusive/Swordsman Iris Shield/) 
+ **Nome:** [Scudo dell'Iride](/it/Exclusive/Swordsman Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -171,9 +173,11 @@ toc: true
 * Difesa
 * Resistenza magica
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Crociato

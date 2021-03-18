@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Golem draconico](/it/Items/unt_243/)
+
  **Short description:** Difesa suprema.
 
  **Position :** Protezione ad area all'inizio della battaglia, che riduce i danni subiti. L'unità di difesa definitiva per le retrovie. Controllo a distanza, intimidisce tutte le unità in campo.
@@ -172,9 +174,11 @@ toc: true
 * Riduzione danno unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

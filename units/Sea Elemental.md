@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Elementale del mare](/it/Items/unt_275/)
+
  **Short description:** Controllo nemici lento.
 
  **Position :** Controlla il flusso della battaglia. Indebolisce costantemente i nemici.
@@ -76,11 +78,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/it/Exclusive/Sea Elemental Arcane Chant/) 
+ **Nome:** [Cantico arcano](/it/Exclusive/Sea Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -170,9 +172,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Elementale delle maree

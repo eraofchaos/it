@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Cantico arcano** 
+### Dettagli
+ **Nome: Cantico arcano** 
 
  **Esclusivo for Unit:** [Efreet](/it/units/Efreeti/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Fiamme dell'oblio> Quando l'unità bersaglio è affetta da <Combustione>, scaglia una palla di fuoco che infligge danni pari al 30% dei PF massimi alle unità nemiche in un'ampia area. Recupero: 30 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | DAN dell'Efreet aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | L'Efreet gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
-  | **3x** <i class="fas fa-star"/> | ? | <Fedeltà> Quando almeno un'unità nemica sul campo di battaglia ha un <Marchio infernale>, l'Efreet attacca immediatamente un'unità marchiata con <Fuoco infernale>, infliggendo danni pari al 100% del proprio ATT e aggiungendo un altro <Marchio infernale>. Recupero: 15 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | DAN CRIT dell'Efreet aumentato del 40%. |
-  | **5x** <i class="fas fa-star"/> | ? | L'Efreet è immune ai danni degli incantesimi di tipo Fuoco. |
-  | **6x** <i class="fas fa-star"/> | ? | Quando lancia <Fiamme dell'oblio>, <stordisce> l'unità bersaglio per 5 secondi e ne riduce il DAN del 40% per 10 secondi. |
+  |  Risveglio  | **100x** [Token Cantico arcano](/it/Items/con_915/) | <Fiamme dell'oblio> Quando l'unità bersaglio è affetta da <Combustione>, scaglia una palla di fuoco che infligge danni pari al 30% dei PF massimi alle unità nemiche in un'ampia area. Recupero: 30 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Cantico arcano](/it/Items/con_915/) | DAN dell'Efreet aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Cantico arcano](/it/Items/con_915/) | L'Efreet gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Cantico arcano](/it/Items/con_915/) | <Fedeltà> Quando almeno un'unità nemica sul campo di battaglia ha un <Marchio infernale>, l'Efreet attacca immediatamente un'unità marchiata con <Fuoco infernale>, infliggendo danni pari al 100% del proprio ATT e aggiungendo un altro <Marchio infernale>. Recupero: 15 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Cantico arcano](/it/Items/con_915/) | DAN CRIT dell'Efreet aumentato del 40%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Cantico arcano](/it/Items/con_915/) | L'Efreet è immune ai danni degli incantesimi di tipo Fuoco. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Cantico arcano](/it/Items/con_915/) | Quando lancia <Fiamme dell'oblio>, <stordisce> l'unità bersaglio per 5 secondi e ne riduce il DAN del 40% per 10 secondi. |
 
 
 ## Livello ↑

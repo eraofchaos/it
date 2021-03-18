@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Ascia del Berserker** 
+### Dettagli
+ **Nome: Ascia del Berserker** 
 
  **Esclusivo for Unit:** [Berserker](/it/units/Berserker/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Ascia del Berserker](/it/Items/con_983/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Ascia del Berserker](/it/Items/con_651/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Ascia roteante> Il Berserker lancia un'ascia roteante che infligge danni pari al 150% dell'ATT alle unità nemiche in un'ampia area di fronte a esse e causa <Sanguinamento> per 8 secondi. Recupero: 18 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | DAN del Berserker aumentato del 15%. DAN aumentato di un ulteriore 15% contro unità <stordite>. |
-  | **2x** <i class="fas fa-star"/> | ? | Gli attacchi del Berserker hanno il 5% di probabilità di <stordire> l'unità bersaglio per 1,5 secondi. L'effetto si attiva ogni 5 secondi. |
-  | **3x** <i class="fas fa-star"/> | ? | <Colpo fatale> Il Berserker infligge danni pari al 225% del proprio ATT all'unità bersaglio e ne riduce Rid DAN del 20% e DIF del 10%. Se l'unità bersaglio è affetta da <Sanguinamento>, ne riduce DAN del 20% e Vel ATT del 10% per 10 secondi. Recupero: 25 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | Quando lancia <Colpo fatale>, il Berserker gode di DAN aumentato del 15% e Rid DAN aumentata del 10% per 15 secondi. |
-  | **5x** <i class="fas fa-star"/> | ? | Ogni attacco del Berserker ne aumenta la Vel ATT dell'1% fino a un massimo del 50%. |
-  | **6x** <i class="fas fa-star"/> | ? | <Incenerimento> A 15 secondi dall'inizio della battaglia, il Berserker sacrifica il 10% dei propri PF massimi e infligge danni pari al 30% dei PF massimi all'unità bersaglio. Inoltre, il Berserker aumenta il proprio CRIT di 300 e il DAN CRIT del 15% per 5 secondi, e causa <Sanguinamento> per 10 secondi. Recupero: 30 secondi. |
+  |  Risveglio  | **100x** [Token Ascia del Berserker](/it/Items/con_983/) | <Ascia roteante> Il Berserker lancia un'ascia roteante che infligge danni pari al 150% dell'ATT alle unità nemiche in un'ampia area di fronte a esse e causa <Sanguinamento> per 8 secondi. Recupero: 18 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Ascia del Berserker](/it/Items/con_983/) | DAN del Berserker aumentato del 15%. DAN aumentato di un ulteriore 15% contro unità <stordite>. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Ascia del Berserker](/it/Items/con_983/) | Gli attacchi del Berserker hanno il 5% di probabilità di <stordire> l'unità bersaglio per 1,5 secondi. L'effetto si attiva ogni 5 secondi. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Ascia del Berserker](/it/Items/con_983/) | <Colpo fatale> Il Berserker infligge danni pari al 225% del proprio ATT all'unità bersaglio e ne riduce Rid DAN del 20% e DIF del 10%. Se l'unità bersaglio è affetta da <Sanguinamento>, ne riduce DAN del 20% e Vel ATT del 10% per 10 secondi. Recupero: 25 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Ascia del Berserker](/it/Items/con_983/) | Quando lancia <Colpo fatale>, il Berserker gode di DAN aumentato del 15% e Rid DAN aumentata del 10% per 15 secondi. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Ascia del Berserker](/it/Items/con_983/) | Ogni attacco del Berserker ne aumenta la Vel ATT dell'1% fino a un massimo del 50%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Ascia del Berserker](/it/Items/con_983/) | <Incenerimento> A 15 secondi dall'inizio della battaglia, il Berserker sacrifica il 10% dei propri PF massimi e infligge danni pari al 30% dei PF massimi all'unità bersaglio. Inoltre, il Berserker aumenta il proprio CRIT di 300 e il DAN CRIT del 15% per 5 secondi, e causa <Sanguinamento> per 10 secondi. Recupero: 30 secondi. |
 
 
 ## Livello ↑

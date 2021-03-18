@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Pegaso](/it/Items/unt_202/)
+
  **Unit description:** Protezione vitale: protegge le tue unità più vicine con uno <scudo>.
 
  **Short description:** Protegge e applica Sanguinamento.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/it/Exclusive/Pegasus Long Bow/) 
+ **Nome:** [Arco lungo](/it/Exclusive/Pegasus Long Bow/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -174,9 +176,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Pegaso Argenteo

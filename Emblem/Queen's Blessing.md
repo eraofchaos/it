@@ -2,20 +2,20 @@
 title: "Emblema sacro - Bened. della Regina"
 permalink: /Emblem/Queen's Blessing/
 excerpt: "Era of Chaos Bened. della Regina. Bened. della Regina. Era of Chaos Emblema sacro Bened. della Regina. Era of Chaos Ordine Bened. della Regina"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Queen's Blessing.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Bened. della Regina
+ **Nome:** Bened. della Regina
 
  **Type:** [Ordine](/it/Emblem/Type Order/)
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nome            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Bened. della Regina](/it/Emblem/Queen's Blessing/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +9, DIF Emblema sacro +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando i PF scendono sotto il 35% per la prima volta: DIF +60% per 15 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +22,5, DIF Emblema sacro +22,5</span> | 
   | [Bened. della Regina](/it/Emblem/Queen's Blessing/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +4,5, DIF Emblema sacro +4,5</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando i PF scendono sotto il 35% per la prima volta: DIF +30% per 15 s.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +11,5, DIF Emblema sacro +11,5</span> | 

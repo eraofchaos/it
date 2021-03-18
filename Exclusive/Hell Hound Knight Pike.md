@@ -10,12 +10,12 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Carica impetuosa** 
+### Dettagli
+ **Nome: Carica impetuosa** 
 
  **Esclusivo for Unit:** [Segugio infernale](/it/units/Hell Hound/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | Il Segugio infernale attacca con le sue tre teste, aumentando la propria Vel ATT del 300% ma riducendo il DAN del 20%. |
-  | **1x** <i class="fas fa-star"/> | ? | DAN del Segugio infernale aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | ? | Ciascun attacco del Segugio infernale ne aumenta il DAN CRIT del 5% per 3 secondi. Cumulabile fino a 10 volte. |
-  | **3x** <i class="fas fa-star"/> | ? | <Morto ma vivo> Quando i PF del Segugio infernale scendono sotto il 66% e il 33% per la prima volta, sacrifica una delle sue teste, rimuovendo ogni effetto di stato e ottenendone immunità e aumentando Schivata di 2000 e Tenacia di 1000 per 5 secondi. |
-  | **4x** <i class="fas fa-star"/> | ? | <Accensione> Il Segugio infernale causa continuamente <Combustione> alle unità nemiche circostanti e ne riduce la Tenacia di 200. |
-  | **5x** <i class="fas fa-star"/> | ? | Ciascun attacco del Segugio infernale riduce la Rid DAN dell'unità bersaglio del 3% per 3 secondi. Cumulabile fino a 8 volte. |
-  | **6x** <i class="fas fa-star"/> | ? | Quando attiva <Morto ma vivo>, la testa sacrificata emette un ululato infernale che aumenta la Vel ATT delle unità Inferno alleate del 100% per 3 secondi e riduce la DIF di tutte le unità nemiche in un'ampia area del 30% per 10 secondi. |
+  |  Risveglio  | **100x** [Token Carica impetuosa](/it/Items/con_916/) | Il Segugio infernale attacca con le sue tre teste, aumentando la propria Vel ATT del 300% ma riducendo il DAN del 20%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/it/Items/con_916/) | DAN del Segugio infernale aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/it/Items/con_916/) | Ciascun attacco del Segugio infernale ne aumenta il DAN CRIT del 5% per 3 secondi. Cumulabile fino a 10 volte. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/it/Items/con_916/) | <Morto ma vivo> Quando i PF del Segugio infernale scendono sotto il 66% e il 33% per la prima volta, sacrifica una delle sue teste, rimuovendo ogni effetto di stato e ottenendone immunità e aumentando Schivata di 2000 e Tenacia di 1000 per 5 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/it/Items/con_916/) | <Accensione> Il Segugio infernale causa continuamente <Combustione> alle unità nemiche circostanti e ne riduce la Tenacia di 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/it/Items/con_916/) | Ciascun attacco del Segugio infernale riduce la Rid DAN dell'unità bersaglio del 3% per 3 secondi. Cumulabile fino a 8 volte. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/it/Items/con_916/) | Quando attiva <Morto ma vivo>, la testa sacrificata emette un ululato infernale che aumenta la Vel ATT delle unità Inferno alleate del 100% per 3 secondi e riduce la DIF di tutte le unità nemiche in un'ampia area del 30% per 10 secondi. |
 
 
 ## Livello ↑

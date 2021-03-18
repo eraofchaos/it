@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Incubo](/it/Items/unt_233/)
+
  **Short description:** Supporto. Danno istantaneo.
 
  **Position :** Supporto difensivo. Rende più potenti le unità Inferno.
@@ -72,13 +74,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [](/it/Exclusive/Nightmare /) 
+ **Nome:** [](/it/Exclusive/Nightmare /) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Occhio dell'Incubo](/it/Items/con_985/)
 
- **Skin:** -
+ **Skin:** [Tool_250809](/it/Items/con_653/)
 
 
 ## Emblemi sacri consigliati
@@ -165,9 +167,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Signore degli Incubi

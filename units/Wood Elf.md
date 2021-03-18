@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Elfo del bosco](/it/Items/unt_201/)
+
  **Unit description:** Pioggia di frecce: aumenta la Vel ATT del 500% per un breve periodo.
 
  **Short description:** Fuoco rapido. Attacca due volte.
@@ -79,11 +81,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/it/Exclusive/Wood Elf Long Bow/) 
+ **Nome:** [Arco lungo](/it/Exclusive/Wood Elf Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Elfo Gigante

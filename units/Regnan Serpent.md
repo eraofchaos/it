@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Serpente di Regna](/it/Items/unt_276/)
+
  **Unit description:** Schiacciata abissale: controllo ad area, causa <Impedimento> e riduce il CRIT.
 
  **Short description:** Tank potente. Guardiano degli abissi.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Maree diurne](/it/Exclusive/Regnan Serpent Day Tides/) 
+ **Nome:** [Maree diurne](/it/Exclusive/Regnan Serpent Day Tides/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Maree diurne](/it/Items/con_1003/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Maree diurne](/it/Items/con_671/)
 
 
 ## Emblemi sacri consigliati
@@ -183,9 +185,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** 

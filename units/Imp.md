@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Folletto](/it/Items/unt_226/)
+
  **Unit description:** Impulso: l'unità ha una probabilità di tornare in vita con PF al massimo.
 
  **Short description:** Protetto da scudo. Può rianimare e controllare gruppi di nemici.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/it/Exclusive/Imp Iris Shield/) 
+ **Nome:** [Scudo dell'Iride](/it/Exclusive/Imp Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -172,9 +174,11 @@ toc: true
 * Schivata unità
 * Resistenza magica
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Famiglio

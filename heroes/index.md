@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  | Nr |    Name    |  Race   |  Proffesion   |  Rate  |    Specialty     |
+  | Nr |    Nome    |  Race   |  Proffesion   |  Rate  |    Specialty     |
   |:---|:-----------|:-------:|:-------------:|:------:|:-----------------|
   | 1 | [Adelaide](/it/heroes/Adelaide/) | Castello | Chierico | R+ |  Anello congelante  |
   | 2 | [Astral](/it/heroes/Astral/) | Torre | Mago | SSR |  Amplificazione magica  |

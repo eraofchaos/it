@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Vampiro](/it/Items/unt_211/)
+
  **Unit description:** Assorbimento: ruba i PF di un'unità nemica.
 
  **Short description:** Assorbe PF. Efficace contro i bersagli con PF bassi.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Carica impetuosa](/it/Exclusive/Vampire Knight Pike/) 
+ **Nome:** [Carica impetuosa](/it/Exclusive/Vampire Knight Pike/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Signore dei Vampiri

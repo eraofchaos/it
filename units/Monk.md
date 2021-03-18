@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Monaco](/it/Items/unt_194/)
+
  **Unit description:** Preghiera: cura l'unità con la percentuale di PF minore.
 
  **Short description:** Guaritore eccezionale. Applica buff potenti.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/it/Exclusive/Monk Arcane Chant/) 
+ **Nome:** [Cantico arcano](/it/Exclusive/Monk Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -163,9 +165,11 @@ toc: true
 
 * ?!? 
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Fanatico

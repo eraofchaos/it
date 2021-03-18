@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Tartaruga draconica](/it/Items/unt_278/)
+
  **Short description:** Tank. Rigenera PF.
 
  **Position :** Difensore eccezionale. Ripristina PF quando muore.
@@ -74,13 +76,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Obbedienza](/it/Exclusive/Dragon Turtle Obedience/) 
+ **Nome:** [Obbedienza](/it/Exclusive/Dragon Turtle Obedience/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Obbedienza](/it/Items/con_1005/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Obbedienza](/it/Items/con_673/)
 
 
 ## Emblemi sacri consigliati
@@ -165,9 +167,11 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Tartaruga draconica primordiale

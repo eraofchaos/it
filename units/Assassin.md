@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Assassino](/it/Items/unt_271/)
+
  **Short description:** Danno da assassinio. Riduce la guarigione.
 
  **Position :** Danno da assassinio, riduce la guarigione, lancia coltelli e causa <Silenzio>.
@@ -163,9 +165,11 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

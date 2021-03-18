@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Elementale della tempesta](/it/Items/unt_263/)
+
  **Short description:** Marchia un bersaglio per infliggere danni elevati.
 
  **Position :** Marchio folgorante, danno extra, attacchi multipli su un singolo bersaglio.
@@ -73,11 +75,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Arco lungo](/it/Exclusive/Storm Elemental Long Bow/) 
+ **Nome:** [Arco lungo](/it/Exclusive/Storm Elemental Long Bow/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
 
  **Skin:** -
 
@@ -169,9 +171,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Tempesta di fulmini

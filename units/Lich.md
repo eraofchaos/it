@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Lich](/it/Items/unt_212/)
+
  **Unit description:** Sacrificio: evoca un'orda di Scheletri.
 
  **Short description:** Evoca Scheletri. Negromanzia migliorata.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Tributo di morte](/it/Exclusive/Lich Death Tribute/) 
+ **Nome:** [Tributo di morte](/it/Exclusive/Lich Death Tribute/) 
 
  **Is Open:** + 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Tributo di morte](/it/Items/con_978/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Tributo di morte](/it/Items/con_646/)
 
 
 ## Emblemi sacri consigliati
@@ -171,9 +173,11 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Lich potenziato

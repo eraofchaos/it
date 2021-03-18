@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Veggente di Regna](/it/Items/unt_279/)
+
  **Short description:** Capo della Baia. Controllo nemici efficace.
 
  **Position :** L'anima pulsante della fazione della Baia. Causa esplosioni ad area d'effetto.
@@ -75,13 +77,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [](/it/Exclusive/Regnan Seer /) 
+ **Nome:** [](/it/Exclusive/Regnan Seer /) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/)
 
- **Skin:** -
+ **Skin:** [Tool_2990709](/it/Items/con_674/)
 
 
 ## Emblemi sacri consigliati
@@ -176,9 +178,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Elementale delle maree

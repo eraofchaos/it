@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Elementale psichico](/it/Items/unt_267/)
+
  **Short description:** Danno magico istantaneo. Brucia mana.
 
  **Position :** Danno a distanza, riduce il mana nemico quando muore, fondamentale in attacco
@@ -72,13 +74,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Nucleo mistico](/it/Exclusive/Psychic Elemental Spirit Core/) 
+ **Nome:** [Nucleo mistico](/it/Exclusive/Psychic Elemental Spirit Core/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Nucleo mistico](/it/Items/con_1000/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Nucleo mistico](/it/Items/con_668/)
 
 
 ## Emblemi sacri consigliati
@@ -167,9 +169,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Elementale magico

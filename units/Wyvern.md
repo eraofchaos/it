@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Viverna](/it/Items/unt_258/)
+
  **Short description:** Eccellente in mischia. Tossico.
 
  **Position :** Unità DPS. Causa <Pestilenza> in molti modi.
@@ -74,13 +76,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Coda di Viverna](/it/Exclusive/Wyvern Wyvern's Tail/) 
+ **Nome:** [Coda di Viverna](/it/Exclusive/Wyvern Wyvern's Tail/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Coda di Viverna](/it/Items/con_996/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Coda di Viverna](/it/Items/con_664/)
 
 
 ## Emblemi sacri consigliati
@@ -168,9 +170,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Viverna Monarca

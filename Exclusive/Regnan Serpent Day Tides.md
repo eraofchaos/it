@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Maree diurne** 
+### Dettagli
+ **Nome: Maree diurne** 
 
  **Esclusivo for Unit:** [Serpente di Regna](/it/units/Regnan Serpent/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Maree diurne](/it/Items/con_1003/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Maree diurne](/it/Items/con_671/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Torrente senza fine> Il Serpente di Regna brandisce il tridente ed evoca il potere delle maree per spazzare via i nemici, infliggendo danni pari al 100% del proprio ATT alle unità nemiche in un'ampia area di fronte a sé e riducendo del 20% la Vel ATT e del 40% il DAN CRIT. Riduce di 200 Tenacia e Schivata delle unità nemiche <rallentate> per 6 secondi. Recupero: 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Il Serpente di Regna gode di Rid DAN aumentata del 20%; la Rid DAN aumenta di un ulteriore 20% quando subisce attacchi a distanza. |
-  | **2x** <i class="fas fa-star"/> | ? | Quando lancia <Torrente senza fine>, il Serpente di Regna gode di DIF aumentata del 10%. L'effetto dura fino al termine della battaglia. Cumulabile fino a 3 volte. |
-  | **3x** <i class="fas fa-star"/> | ? | 5 secondi dopo l'inizio della battaglia, il potere delle maree investe il Serpente di Regna, che entra nello stato di <Alta marea> e gode di Rid DAN aumentata del 20% per 6 secondi; inoltre, recupera PF pari al 5% dei PF massimi. In seguito, entra nello stato di <Marea notturna> e gode di Vel ATT aumentata del 20% e CRIT aumentato di 200 per 6 secondi. In seguito, il Serpente di Regna passa alternativamente dallo stato di <Alta marea> a quello di <Marea notturna>. L'effetto dura fino al termine della battaglia. |
-  | **4x** <i class="fas fa-star"/> | ? | Il Serpente di Regna gode di guarigione ricevuta aumentata del 40% e PF aumentati del 20%. |
-  | **5x** <i class="fas fa-star"/> | ? | Quando entra in stato di <Alta marea>, il Serpente di Regna viene protetto da una <bolla> pari al 7% dei PF massimi per 6 secondi. Quando entra in stato di <Marea notturna>, il Serpente di Regna si purifica una volta. All'inizio della battaglia, il Serpente di Regna ottiene una <bolla> pari al 30% dei propri PF massimi per 12 secondi. |
-  | **6x** <i class="fas fa-star"/> | ? | <Dono dell'oceano> Quando lancia <Torrente senza fine>, il Serpente di Regna protegge le unità Baia alleate nelle retrovie con una <bolla> pari al 20% dei PF massimi per 15 secondi e aumenta la Tenacia delle unità Baia alleate nella prima fila di 300 per 6 secondi. |
+  |  Risveglio  | **100x** [Token Maree diurne](/it/Items/con_1003/) | <Torrente senza fine> Il Serpente di Regna brandisce il tridente ed evoca il potere delle maree per spazzare via i nemici, infliggendo danni pari al 100% del proprio ATT alle unità nemiche in un'ampia area di fronte a sé e riducendo del 20% la Vel ATT e del 40% il DAN CRIT. Riduce di 200 Tenacia e Schivata delle unità nemiche <rallentate> per 6 secondi. Recupero: 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Maree diurne](/it/Items/con_1003/) | Il Serpente di Regna gode di Rid DAN aumentata del 20%; la Rid DAN aumenta di un ulteriore 20% quando subisce attacchi a distanza. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Maree diurne](/it/Items/con_1003/) | Quando lancia <Torrente senza fine>, il Serpente di Regna gode di DIF aumentata del 10%. L'effetto dura fino al termine della battaglia. Cumulabile fino a 3 volte. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Maree diurne](/it/Items/con_1003/) | 5 secondi dopo l'inizio della battaglia, il potere delle maree investe il Serpente di Regna, che entra nello stato di <Alta marea> e gode di Rid DAN aumentata del 20% per 6 secondi; inoltre, recupera PF pari al 5% dei PF massimi. In seguito, entra nello stato di <Marea notturna> e gode di Vel ATT aumentata del 20% e CRIT aumentato di 200 per 6 secondi. In seguito, il Serpente di Regna passa alternativamente dallo stato di <Alta marea> a quello di <Marea notturna>. L'effetto dura fino al termine della battaglia. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Maree diurne](/it/Items/con_1003/) | Il Serpente di Regna gode di guarigione ricevuta aumentata del 40% e PF aumentati del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Maree diurne](/it/Items/con_1003/) | Quando entra in stato di <Alta marea>, il Serpente di Regna viene protetto da una <bolla> pari al 7% dei PF massimi per 6 secondi. Quando entra in stato di <Marea notturna>, il Serpente di Regna si purifica una volta. All'inizio della battaglia, il Serpente di Regna ottiene una <bolla> pari al 30% dei propri PF massimi per 12 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Maree diurne](/it/Items/con_1003/) | <Dono dell'oceano> Quando lancia <Torrente senza fine>, il Serpente di Regna protegge le unità Baia alleate nelle retrovie con una <bolla> pari al 20% dei PF massimi per 15 secondi e aumenta la Tenacia delle unità Baia alleate nella prima fila di 300 per 6 secondi. |
 
 
 ## Livello ↑

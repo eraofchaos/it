@@ -3,13 +3,13 @@ title: "Kilgor"
 permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. In gioventù, Kilgor sconfisse il proprio padre per conquistare il titolo di capoclan. Da allora, la sua fama non ha fatto che crescere nelle terre di Krewlod. È considerato da molti l'unico guerriero della sua generazione in grado di vincere il Festival della Vita."
 heroID: 60601
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Kilgor"
 toc: true
 ---
  **Descrizione:** In gioventù, Kilgor sconfisse il proprio padre per conquistare il titolo di capoclan. Da allora, la sua fama non ha fatto che crescere nelle terre di Krewlod. È considerato da molti l'unico guerriero della sua generazione in grado di vincere il Festival della Vita.
-## Details
+## Dettagli
  **Profession:** Barbaro
 
  **Race:** Roccaforte

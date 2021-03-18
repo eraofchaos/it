@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Genio](/it/Items/unt_239/)
+
  **Unit description:** Dono di Energia: converte l'ATT in cura
 
  **Short description:** Buff e cure potenti.
@@ -76,13 +78,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Lira](/it/Exclusive/Genie Lyra/) 
+ **Nome:** [Lira](/it/Exclusive/Genie Lyra/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Lira](/it/Items/con_986/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Lira](/it/Items/con_654/)
 
 
 ## Emblemi sacri consigliati
@@ -174,9 +176,11 @@ toc: true
 * Guarigione
 * Riduzione danno unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Genio superiore

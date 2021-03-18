@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Elementale del ghiaccio](/it/Items/unt_264/)
+
  **Short description:** Aura di ghiaccio. Muro di ghiaccio.
 
  **Position :** Mago con abilità di controllo. Ricopre tutto di ghiaccio. Erige mura difensive di ghiaccio.
@@ -73,11 +75,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Cantico arcano](/it/Exclusive/Ice Elemental Arcane Chant/) 
+ **Nome:** [Cantico arcano](/it/Exclusive/Ice Elemental Arcane Chant/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
 
  **Skin:** -
 
@@ -168,9 +170,11 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Spirito della neve silente

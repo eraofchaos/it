@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Giudice](/it/Items/unt_198/)
+
  **Short description:** Aura di supporto, portata allargata
 
  **Position :** Un'Aura in grado di ripristinare PF a gruppi di unità. L'Aura protegge dai danni. Il terreno sacro potenzia i tuoi alleati.
@@ -72,13 +74,13 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [](/it/Exclusive/Judicator /) 
+ **Nome:** [](/it/Exclusive/Judicator /) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/)
 
- **Skin:** -
+ **Skin:** [Tool_210909](/it/Items/con_643/)
 
 
 ## Emblemi sacri consigliati
@@ -171,9 +173,11 @@ toc: true
 * Guarigione
 * Danno unità
 
+ **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

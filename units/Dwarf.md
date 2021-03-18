@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
+ **Unit Soul:** [Gnomo](/it/Items/unt_200/)
+
  **Unit description:** Urlo dello Gnomo: aumenta i PF massimi delle unità all'inizio della battaglia.
 
  **Short description:** Aumenta notevolmente i PF. Scudo magico.
@@ -77,11 +79,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/it/Exclusive/Dwarf Iris Shield/) 
+ **Nome:** [Scudo dell'Iride](/it/Exclusive/Dwarf Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -177,9 +179,11 @@ toc: true
 * Difesa
 * Resistenza magica
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** null

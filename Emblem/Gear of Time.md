@@ -2,20 +2,20 @@
 title: "Emblema sacro - Meccanismo temporale"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Meccanismo temporale. Meccanismo temporale. Era of Chaos Emblema sacro Meccanismo temporale. Era of Chaos Bontà Meccanismo temporale"
-last_modified_at: 2021-03-17
+last_modified_at: 2021-03-18
 locale: it
 ref: "Gear of Time.md"
 toc: false
 classes: wide
 ---
 
- **Name:** Meccanismo temporale
+ **Nome:** Meccanismo temporale
 
  **Type:** [Bontà](/it/Emblem/Type Goodness/)
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Name            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |         Nome            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +15, DIF Emblema sacro +15</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Per ogni 5% di PF persi, la DIF delle unità schierate aumenta del 2,5%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +37,5, DIF Emblema sacro +37,5</span> | 
   | [Meccanismo temporale](/it/Emblem/Gear of Time/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +9, DIF Emblema sacro +9</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Per ogni 7% di PF persi, la DIF delle unità schierate aumenta del 2%.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +22,5, DIF Emblema sacro +22,5</span> | 

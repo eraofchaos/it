@@ -10,14 +10,14 @@ classes: wide
 ---
  [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
-## Details
- **Name: Coda di scorpione** 
+### Dettagli
+ **Nome: Coda di scorpione** 
 
  **Esclusivo for Unit:** [Manticora](/it/units/Manticore/) 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Coda di scorpione](/it/Items/con_992/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Coda di scorpione](/it/Items/con_660/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | ? | <Assalto dello scorpione> Ogni 20 secondi, la Manticora lancia un attacco triplo contro un'unità bersaglio che infligge il 100%, 125% e 150% dei danni, oltre a causare <Veleno di scorpione>. Al contempo, riduce la Tenacia e la Schivata del bersaglio di 200 per 5 secondi. |
-  | **1x** <i class="fas fa-star"/> | ? | Danno della Manticora aumentato del 25%. |
-  | **2x** <i class="fas fa-star"/> | ? | Rid DAN della Manticora aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | ? | CRIT della Manticora aumentato di 300. Quando affronta unità affette da <Sanguinamento>, gli attacchi base infliggono danni aggiuntivi pari al 50% dell'ATT. |
-  | **4x** <i class="fas fa-star"/> | ? | La Manticora gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
-  | **5x** <i class="fas fa-star"/> | ? | Assorbimento della Manticora aumentato del 15%. |
-  | **6x** <i class="fas fa-star"/> | ? | <Esplosione di veleno> Quando la Manticora colpisce un bersaglio <avvelenato>, il veleno accumulato esplode, riducendo del 20% la guarigione dell'unità per 5 secondi. Probabilità del 50% di causare <Silenzio> in un'area ridotta per 3 secondi. Probabilità del 30% di ridurre del 20% la Rid DAN dell'unità per 5 secondi. Probabilità del 20% di infliggere danni pari al 500% dell'ATT. Questi quattro effetti possono essere attivati nello stesso momento. La tecnica può essere usata una volta ogni 10 secondi. |
+  |  Risveglio  | **100x** [Token Coda di scorpione](/it/Items/con_992/) | <Assalto dello scorpione> Ogni 20 secondi, la Manticora lancia un attacco triplo contro un'unità bersaglio che infligge il 100%, 125% e 150% dei danni, oltre a causare <Veleno di scorpione>. Al contempo, riduce la Tenacia e la Schivata del bersaglio di 200 per 5 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Coda di scorpione](/it/Items/con_992/) | Danno della Manticora aumentato del 25%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Coda di scorpione](/it/Items/con_992/) | Rid DAN della Manticora aumentata del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Coda di scorpione](/it/Items/con_992/) | CRIT della Manticora aumentato di 300. Quando affronta unità affette da <Sanguinamento>, gli attacchi base infliggono danni aggiuntivi pari al 50% dell'ATT. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Coda di scorpione](/it/Items/con_992/) | La Manticora gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Coda di scorpione](/it/Items/con_992/) | Assorbimento della Manticora aumentato del 15%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Coda di scorpione](/it/Items/con_992/) | <Esplosione di veleno> Quando la Manticora colpisce un bersaglio <avvelenato>, il veleno accumulato esplode, riducendo del 20% la guarigione dell'unità per 5 secondi. Probabilità del 50% di causare <Silenzio> in un'area ridotta per 3 secondi. Probabilità del 30% di ridurre del 20% la Rid DAN dell'unità per 5 secondi. Probabilità del 20% di infliggere danni pari al 500% dell'ATT. Questi quattro effetti possono essere attivati nello stesso momento. La tecnica può essere usata una volta ogni 10 secondi. |
 
 
 ## Livello ↑

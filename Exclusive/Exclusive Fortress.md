@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Gnoll](/it/units/Gnoll/) | [Spada](/it/Exclusive/Gnoll Sword/) | - | Carica | - | - |
-  | 2  | [Uomo lucertola](/it/units/Lizardman/) | [Arco lungo](/it/Exclusive/Lizardman Long Bow/) | - | Carica | - | - |
-  | 3  | [Mosca serpente](/it/units/Serpent Fly/) | [Cantico arcano](/it/Exclusive/Serpent Fly Arcane Chant/) | + | Carica | - | - |
-  | 4  | [Basilisco](/it/units/Basilisk/) | [Coda di Basilisco](/it/Exclusive/Basilisk Basilisk's Tail/) | - | A distanza | - | - |
-  | 5  | [Gorgone](/it/units/Gorgon/) | [Corno di Gorgone](/it/Exclusive/Gorgon Gorgon's Horn/) | - | Supporto | - | - |
-  | 6  | [Viverna](/it/units/Wyvern/) | [Coda di Viverna](/it/Exclusive/Wyvern Wyvern's Tail/) | - | A distanza | - | - |
-  | 7  | [Idra](/it/units/Hydra/) | [Testa di Idra](/it/Exclusive/Hydra Hydra's Head/) | - | Supporto | - | - |
+  | 1  | [Gnoll](/it/units/Gnoll/) | [Spada](/it/Exclusive/Gnoll Sword/) | - | Carica | [Token della Spada](/it/Items/con_912/) | - |
+  | 2  | [Uomo lucertola](/it/units/Lizardman/) | [Arco lungo](/it/Exclusive/Lizardman Long Bow/) | - | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
+  | 3  | [Mosca serpente](/it/units/Serpent Fly/) | [Cantico arcano](/it/Exclusive/Serpent Fly Arcane Chant/) | + | Carica | [Token Cantico arcano](/it/Items/con_915/) | - |
+  | 4  | [Basilisco](/it/units/Basilisk/) | [Coda di Basilisco](/it/Exclusive/Basilisk Basilisk's Tail/) | - | A distanza | [Token Coda di Basilisco](/it/Items/con_994/) | [Skin speciale Energia del Fuoco](/it/Items/con_662/) |
+  | 5  | [Gorgone](/it/units/Gorgon/) | [Corno di Gorgone](/it/Exclusive/Gorgon Gorgon's Horn/) | - | Supporto | [Token Corno di Gorgone](/it/Items/con_995/) | [Skin speciale Corno di Gorgone](/it/Items/con_663/) |
+  | 6  | [Viverna](/it/units/Wyvern/) | [Coda di Viverna](/it/Exclusive/Wyvern Wyvern's Tail/) | - | A distanza | [Token Coda di Viverna](/it/Items/con_996/) | [Skin speciale Coda di Viverna](/it/Items/con_664/) |
+  | 7  | [Idra](/it/units/Hydra/) | [Testa di Idra](/it/Exclusive/Hydra Hydra's Head/) | - | Supporto | [Token Testa di Idra](/it/Items/con_997/) | [Skin speciale Nucleo di energia](/it/Items/con_665/) |
   | 8  | [Erbavespa](/it/units/Waspwort/) | [Foglia d'Erbavespa](/it/Exclusive/Waspwort Waspwort Leaf/) | - | A distanza | - | - |
   | 9  | [Tigre bianca](/it/units/White Tiger/) | - | - | - | none | none |

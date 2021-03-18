@@ -28,6 +28,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
+ **Unit Soul:** [Addestratore di squali](/it/Items/unt_281/)
+
  **Short description:** Evoca squali che sbranano i nemici.
 
  **Position :** Evoca Squali che diventano via via più forti con il proseguire del combattimento per decimare i propri avversari.
@@ -75,7 +77,7 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Onde di risacca](/it/Exclusive/Shark Trainer Break Waves/) 
+ **Nome:** [Onde di risacca](/it/Exclusive/Shark Trainer Break Waves/) 
 
  **Is Open:** - 
 
@@ -210,9 +212,11 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
+ **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** Cavalcasquali

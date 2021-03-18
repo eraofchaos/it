@@ -25,6 +25,8 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
+ **Unit Soul:** [Scheletro](/it/Items/unt_208/)
+
  **Unit description:** Scudo d'ossa: aumenta la Rid DAN dell'unità quando i PF scendono sotto il 50%.
 
  **Short description:** Riflette i danni. Immune al Sanguinamento.
@@ -78,11 +80,11 @@ toc: true
 
 ## Esclusivo
 
- **Name:** [Scudo dell'Iride](/it/Exclusive/Skeleton Iris Shield/) 
+ **Nome:** [Scudo dell'Iride](/it/Exclusive/Skeleton Iris Shield/) 
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
 
  **Skin:** -
 
@@ -173,9 +175,11 @@ toc: true
 * Difesa
 * Resistenza magica
 
+ **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+
 
 ## Awaking
-### Awaking Details
+### Awaking Dettagli
  **Is it possible right now?** YES
 
  **Awaking Name:** Scheletro guerriero

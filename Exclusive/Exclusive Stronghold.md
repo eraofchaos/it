@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Goblin](/it/units/Goblin/) | [Spada](/it/Exclusive/Goblin Sword/) | - | Carica | - | - |
-  | 2  | [Domatore di lupi](/it/units/Wolf Rider/) | [Carica impetuosa](/it/Exclusive/Wolf Rider Knight Pike/) | - | Carica | - | - |
-  | 3  | [Orco](/it/units/Orc/) | [Arco lungo](/it/Exclusive/Orc Long Bow/) | - | Carica | - | - |
-  | 4  | [Ogre](/it/units/Ogre/) | [Scudo dell'Iride](/it/Exclusive/Ogre Iris Shield/) | - | Carica | - | - |
-  | 5  | [Roc](/it/units/Roc/) | [Cantico arcano](/it/Exclusive/Roc Arcane Chant/) | - | Carica | - | - |
-  | 6  | [Ciclope](/it/units/Cyclops/) | [Arco lungo](/it/Exclusive/Cyclops Long Bow/) | + | Carica | - | - |
-  | 7  | [Behemoth](/it/units/Behemoth/) | [Spirito sanguinario](/it/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Supporto | - | - |
-  | 8  | [Berserker](/it/units/Berserker/) | [Ascia del Berserker](/it/Exclusive/Berserker Berserker's Axe/) | - | Supporto | - | - |
+  | 1  | [Goblin](/it/units/Goblin/) | [Spada](/it/Exclusive/Goblin Sword/) | - | Carica | [Token della Spada](/it/Items/con_912/) | - |
+  | 2  | [Domatore di lupi](/it/units/Wolf Rider/) | [Carica impetuosa](/it/Exclusive/Wolf Rider Knight Pike/) | - | Carica | [Token Carica impetuosa](/it/Items/con_916/) | - |
+  | 3  | [Orco](/it/units/Orc/) | [Arco lungo](/it/Exclusive/Orc Long Bow/) | - | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
+  | 4  | [Ogre](/it/units/Ogre/) | [Scudo dell'Iride](/it/Exclusive/Ogre Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
+  | 5  | [Roc](/it/units/Roc/) | [Cantico arcano](/it/Exclusive/Roc Arcane Chant/) | - | Carica | [Token Cantico arcano](/it/Items/con_915/) | - |
+  | 6  | [Ciclope](/it/units/Cyclops/) | [Arco lungo](/it/Exclusive/Cyclops Long Bow/) | + | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
+  | 7  | [Behemoth](/it/units/Behemoth/) | [Spirito sanguinario](/it/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Supporto | [Token Spirito sanguinario](/it/Items/con_982/) | [Skin speciale Spirito sanguinario](/it/Items/con_650/) |
+  | 8  | [Berserker](/it/units/Berserker/) | [Ascia del Berserker](/it/Exclusive/Berserker Berserker's Axe/) | - | Supporto | [Token Ascia del Berserker](/it/Items/con_983/) | [Skin speciale Ascia del Berserker](/it/Items/con_651/) |
   | 9  | [Troll](/it/units/Troll/) | - | - | - | none | none |
