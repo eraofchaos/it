@@ -3,7 +3,7 @@ title: "Incubo"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso."
 unitID: 508
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Incubo"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pupilla dell'Incubo](/it/equipment/Pupilla dell'Incubo/) | **ATT** | **DIF** | 
-  | [Fuoco abissale](/it/equipment/Fuoco abissale/) | **PF** | **DIF** | 
-  | [Ferro cinereo](/it/equipment/Ferro cinereo/) | **ATT** | **DIF** | 
-  | [Criniera di fuoco](/it/equipment/Criniera di fuoco/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pupilla dell'Incubo](/images/e/e_5081.png) | [Pupilla dell'Incubo](/it/equipment/Nightmare Pupil/) | **ATT** | **DIF** | 
+  | ![Fuoco abissale](/images/e/e_5082.png) | [Fuoco abissale](/it/equipment/Fire in the Abyss/) | **PF** | **DIF** | 
+  | ![Ferro cinereo](/images/e/e_5083.png) | [Ferro cinereo](/it/equipment/Ash Horseshoe/) | **ATT** | **DIF** | 
+  | ![Criniera di fuoco](/images/e/e_5084.png) | [Criniera di fuoco](/it/equipment/Horsehair of Fire/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

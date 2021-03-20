@@ -3,7 +3,7 @@ title: "Strega malvagia"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un tempo era l'ancella divina del Tempio di Baa. La sua pelle è coperta di rune, che le donano un terrificante potere pari a quello dei demoni."
 unitID: 709
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Strega malvagia"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_7091](/it/equipment/UnknownEquipment_7091/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_7092](/it/equipment/UnknownEquipment_7092/) | **PF** | **DIF** | 
-  | [UnknownEquipment_7093](/it/equipment/UnknownEquipment_7093/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_7094](/it/equipment/UnknownEquipment_7094/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/it/equipment/UnknownEquipment_7091/) | **ATT** | **DIF** | 
+  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/it/equipment/UnknownEquipment_7092/) | **PF** | **DIF** | 
+  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/it/equipment/UnknownEquipment_7093/) | **ATT** | **DIF** | 
+  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/it/equipment/UnknownEquipment_7094/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Gorgone"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cuoio indistruttibile](/it/equipment/Cuoio indistruttibile/) | **ATT** | **DIF** | 
-  | [Corazza barbarica](/it/equipment/Corazza barbarica/) | **PF** | **DIF** | 
-  | [Corno letale di bue](/it/equipment/Corno letale di bue/) | **ATT** | **DIF** | 
-  | [Zoccolo magico di bue](/it/equipment/Zoccolo magico di bue/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cuoio indistruttibile](/images/e/e_8051.png) | [Cuoio indistruttibile](/it/equipment/Adamantine Leather/) | **ATT** | **DIF** | 
+  | ![Corazza barbarica](/images/e/e_8052.png) | [Corazza barbarica](/it/equipment/Barbarian Back Armor/) | **PF** | **DIF** | 
+  | ![Corno letale di bue](/images/e/e_8053.png) | [Corno letale di bue](/it/equipment/Deadly Ox Horn/) | **ATT** | **DIF** | 
+  | ![Zoccolo magico di bue](/images/e/e_8054.png) | [Zoccolo magico di bue](/it/equipment/Magic Ox Hoof/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

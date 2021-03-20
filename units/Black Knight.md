@@ -3,7 +3,7 @@ title: "Cavaliere nero"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Cavaliere nero"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Spada maledetta](/it/equipment/Spada maledetta/) | **ATT** | **DIF** | 
-  | [Visiera dei Morti](/it/equipment/Visiera dei Morti/) | **PF** | **DIF** | 
-  | [Bracciali dell'Incubo](/it/equipment/Bracciali dell'Incubo/) | **ATT** | **DIF** | 
-  | [Spallacci dell'Incubo](/it/equipment/Spallacci dell'Incubo/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Spada maledetta](/images/e/e_3061.png) | [Spada maledetta](/it/equipment/Cursed Sword/) | **ATT** | **DIF** | 
+  | ![Visiera dei Morti](/images/e/e_3062.png) | [Visiera dei Morti](/it/equipment/Visor of the Dead/) | **PF** | **DIF** | 
+  | ![Bracciali dell'Incubo](/images/e/e_3063.png) | [Bracciali dell'Incubo](/it/equipment/Bracer of Nightmares/) | **ATT** | **DIF** | 
+  | ![Spallacci dell'Incubo](/images/e/e_3064.png) | [Spallacci dell'Incubo](/it/equipment/Nightmare Pauldrons/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

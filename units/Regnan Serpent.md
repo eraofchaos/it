@@ -3,7 +3,7 @@ title: "Serpente di Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Serpente di Regna"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Tridente](/it/equipment/Tridente/) | **ATT** | **DIF** | 
-  | [Corno a conchiglia](/it/equipment/Corno a conchiglia/) | **PF** | **DIF** | 
-  | [Artigli della Sirena](/it/equipment/Artigli della Sirena/) | **ATT** | **DIF** | 
-  | [Pinna blu profondo](/it/equipment/Pinna blu profondo/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Tridente](/images/e/e_99041.png) | [Tridente](/it/equipment/Trident/) | **ATT** | **DIF** | 
+  | ![Corno a conchiglia](/images/e/e_99042.png) | [Corno a conchiglia](/it/equipment/Shell Horn/) | **PF** | **DIF** | 
+  | ![Artigli della Sirena](/images/e/e_99043.png) | [Artigli della Sirena](/it/equipment/Mermaid Claws/) | **ATT** | **DIF** | 
+  | ![Pinna blu profondo](/images/e/e_99044.png) | [Pinna blu profondo](/it/equipment/Mazarine Fin/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

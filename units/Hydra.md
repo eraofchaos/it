@@ -3,7 +3,7 @@ title: "Idra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Idra"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Coda di Drago pestilenziale](/it/equipment/Coda di Drago pestilenziale/) | **ATT** | **DIF** | 
-  | [Orecchini del regnante](/it/equipment/Orecchini del regnante/) | **PF** | **DIF** | 
-  | [Artiglio di Drago pestilenziale](/it/equipment/Artiglio di Drago pestilenziale/) | **ATT** | **DIF** | 
-  | [Spine dorsali affilate](/it/equipment/Spine dorsali affilate/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Coda di Drago pestilenziale](/images/e/e_8071.png) | [Coda di Drago pestilenziale](/it/equipment/Plague Dragon Tail/) | **ATT** | **DIF** | 
+  | ![Orecchini del regnante](/images/e/e_8072.png) | [Orecchini del regnante](/it/equipment/Ruler's Earrings/) | **PF** | **DIF** | 
+  | ![Artiglio di Drago pestilenziale](/images/e/e_8073.png) | [Artiglio di Drago pestilenziale](/it/equipment/Plague Dragon Claw/) | **ATT** | **DIF** | 
+  | ![Spine dorsali affilate](/images/e/e_8074.png) | [Spine dorsali affilate](/it/equipment/Sharp Back-spikes/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

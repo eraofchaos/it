@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Monaco"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sfera della Divinità](/it/equipment/Sfera della Divinità/) | **ATT** | **DIF** | 
-  | [Cappello da mistico](/it/equipment/Cappello da mistico/) | **PF** | **DIF** | 
-  | [Runa del Rituale](/it/equipment/Runa del Rituale/) | **ATT** | **DIF** | 
-  | [Armatura leggera base](/it/equipment/Armatura leggera base/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sfera della Divinità](/images/e/e_1051.png) | [Sfera della Divinità](/it/equipment/Orb of Divinity/) | **ATT** | **DIF** | 
+  | ![Cappello da mistico](/images/e/e_1052.png) | [Cappello da mistico](/it/equipment/Mystic's Cap/) | **PF** | **DIF** | 
+  | ![Runa del Rituale](/images/e/e_1053.png) | [Runa del Rituale](/it/equipment/Rune of Ritual/) | **ATT** | **DIF** | 
+  | ![Armatura leggera base](/images/e/e_1054.png) | [Armatura leggera base](/it/equipment/Basic Light Armor/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Morto vivente"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machete insanguinato](/it/equipment/Machete insanguinato/) | **ATT** | **DIF** | 
-  | [Collana d'ossa](/it/equipment/Collana d'ossa/) | **PF** | **DIF** | 
-  | [Bracciale d'acciaio lavorato](/it/equipment/Bracciale d'acciaio lavorato/) | **ATT** | **DIF** | 
-  | [Pantaloni della Rovina](/it/equipment/Pantaloni della Rovina/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machete insanguinato](/images/e/e_3021.png) | [Machete insanguinato](/it/equipment/Bloodstained Machete/) | **ATT** | **DIF** | 
+  | ![Collana d'ossa](/images/e/e_3022.png) | [Collana d'ossa](/it/equipment/Bone Necklet/) | **PF** | **DIF** | 
+  | ![Bracciale d'acciaio lavorato](/images/e/e_3023.png) | [Bracciale d'acciaio lavorato](/it/equipment/Refined Steel Bracer/) | **ATT** | **DIF** | 
+  | ![Pantaloni della Rovina](/images/e/e_3024.png) | [Pantaloni della Rovina](/it/equipment/Trousers of Decay/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

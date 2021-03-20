@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività."
 unitID: 502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Gog"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sfera ustionante](/it/equipment/Sfera ustionante/) | **ATT** | **DIF** | 
-  | [Corno fiammeggiante](/it/equipment/Corno fiammeggiante/) | **PF** | **DIF** | 
-  | [Coda fiammeggiante](/it/equipment/Coda fiammeggiante/) | **ATT** | **DIF** | 
-  | [Bracciali ustionanti](/it/equipment/Bracciali ustionanti/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sfera ustionante](/images/e/e_5021.png) | [Sfera ustionante](/it/equipment/Scalding Orb/) | **ATT** | **DIF** | 
+  | ![Corno fiammeggiante](/images/e/e_5022.png) | [Corno fiammeggiante](/it/equipment/Fiery Horn/) | **PF** | **DIF** | 
+  | ![Coda fiammeggiante](/images/e/e_5023.png) | [Coda fiammeggiante](/it/equipment/Tail of Flame/) | **ATT** | **DIF** | 
+  | ![Bracciali ustionanti](/images/e/e_5024.png) | [Bracciali ustionanti](/it/equipment/Scalding Bracers/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

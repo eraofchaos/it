@@ -3,7 +3,7 @@ title: "Drago verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Draghi verdi sono i protettori della foresta. Di dimensioni imponenti e armati di un soffio acido, sono avversari pressoché imbattibili."
 unitID: 207
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Drago verde"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corno velenoso](/it/equipment/Corno velenoso/) | **ATT** | **DIF** | 
-  | [Armatura di squame di Drago](/it/equipment/Armatura di squame di Drago/) | **PF** | **DIF** | 
-  | [Artigli della Rovina](/it/equipment/Artigli della Rovina/) | **ATT** | **DIF** | 
-  | [Sangue draconico velenoso](/it/equipment/Sangue draconico velenoso/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corno velenoso](/images/e/e_2071.png) | [Corno velenoso](/it/equipment/Venomous Horn/) | **ATT** | **DIF** | 
+  | ![Armatura di squame di Drago](/images/e/e_2072.png) | [Armatura di squame di Drago](/it/equipment/Dragon Scale Armor/) | **PF** | **DIF** | 
+  | ![Artigli della Rovina](/images/e/e_2073.png) | [Artigli della Rovina](/it/equipment/Claws of Decay/) | **ATT** | **DIF** | 
+  | ![Sangue draconico velenoso](/images/e/e_2074.png) | [Sangue draconico velenoso](/it/equipment/Venomous Dragon Blood/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

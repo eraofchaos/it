@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Demone"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corno infuocato](/it/equipment/Corno infuocato/) | **ATT** | **DIF** | 
-  | [Collana d'acciaio](/it/equipment/Collana d'acciaio/) | **PF** | **DIF** | 
-  | [Artigli ustionanti](/it/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
-  | [Bracciali chiodati](/it/equipment/Bracciali chiodati/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corno infuocato](/images/e/e_5041.png) | [Corno infuocato](/it/equipment/Horn of Scorching/) | **ATT** | **DIF** | 
+  | ![Collana d'acciaio](/images/e/e_5042.png) | [Collana d'acciaio](/it/equipment/Steel Necklet/) | **PF** | **DIF** | 
+  | ![Artigli ustionanti](/images/e/e_5043.png) | [Artigli ustionanti](/it/equipment/Scalding Claws/) | **ATT** | **DIF** | 
+  | ![Bracciali chiodati](/images/e/e_5044.png) | [Bracciali chiodati](/it/equipment/Spiked Bracers/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Tiratore scelto"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Tiratore scelto"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Balestra di luce](/it/equipment/Balestra di luce/) | **ATT** | **DIF** | 
-  | [Elmetto d'acciaio](/it/equipment/Elmetto d'acciaio/) | **PF** | **DIF** | 
-  | [Quadrelli perforanti](/it/equipment/Quadrelli perforanti/) | **ATT** | **DIF** | 
-  | [Guanti di cuoio](/it/equipment/Guanti di cuoio/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Balestra di luce](/images/e/e_1021.png) | [Balestra di luce](/it/equipment/Light Crossbow/) | **ATT** | **DIF** | 
+  | ![Elmetto d'acciaio](/images/e/e_1022.png) | [Elmetto d'acciaio](/it/equipment/Steel Cap/) | **PF** | **DIF** | 
+  | ![Quadrelli perforanti](/images/e/e_1023.png) | [Quadrelli perforanti](/it/equipment/Piercing Bolts/) | **ATT** | **DIF** | 
+  | ![Guanti di cuoio](/images/e/e_1024.png) | [Guanti di cuoio](/it/equipment/Leather Gauntlets/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
 unitID: 305
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Lich"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bordone del sottosuolo](/it/equipment/Bordone del sottosuolo/) | **ATT** | **DIF** | 
-  | [Corona cadaverica](/it/equipment/Corona cadaverica/) | **PF** | **DIF** | 
-  | [Cintura mistica](/it/equipment/Cintura mistica/) | **ATT** | **DIF** | 
-  | [Armatura leggera dell'aldilà](/it/equipment/Armatura leggera dell'aldilà/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bordone del sottosuolo](/images/e/e_3051.png) | [Bordone del sottosuolo](/it/equipment/Nether Staff/) | **ATT** | **DIF** | 
+  | ![Corona cadaverica](/images/e/e_3052.png) | [Corona cadaverica](/it/equipment/Carrion Crown/) | **PF** | **DIF** | 
+  | ![Cintura mistica](/images/e/e_3053.png) | [Cintura mistica](/it/equipment/Soul Belt/) | **ATT** | **DIF** | 
+  | ![Armatura leggera dell'aldilà](/images/e/e_3054.png) | [Armatura leggera dell'aldilà](/it/equipment/Light Armor of the Netherworld/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

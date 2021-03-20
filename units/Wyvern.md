@@ -3,7 +3,7 @@ title: "Viverna"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Viverna"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Artigli di Drago](/it/equipment/Artigli di Drago/) | **ATT** | **DIF** | 
-  | [Zanna della Pestilenza](/it/equipment/Zanna della Pestilenza/) | **PF** | **DIF** | 
-  | [Spine dorsali del Folletto](/it/equipment/Spine dorsali del Folletto/) | **ATT** | **DIF** | 
-  | [Ali di Drago](/it/equipment/Ali di Drago/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Artigli di Drago](/images/e/e_8061.png) | [Artigli di Drago](/it/equipment/Dragon Claws/) | **ATT** | **DIF** | 
+  | ![Zanna della Pestilenza](/images/e/e_8062.png) | [Zanna della Pestilenza](/it/equipment/Plague Fang/) | **PF** | **DIF** | 
+  | ![Spine dorsali del Folletto](/images/e/e_8063.png) | [Spine dorsali del Folletto](/it/equipment/Imp Back-spikes/) | **ATT** | **DIF** | 
+  | ![Ali di Drago](/images/e/e_8064.png) | [Ali di Drago](/it/equipment/Dragon Wings/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

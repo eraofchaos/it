@@ -3,7 +3,7 @@ title: "Erbavespa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude."
 unitID: 808
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Erbavespa"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ramo in fiore robusto](/it/equipment/Ramo in fiore robusto/) | **ATT** | **DIF** | 
-  | [Spina tossica](/it/equipment/Spina tossica/) | **PF** | **DIF** | 
-  | [Fiore del Signore Supremo](/it/equipment/Fiore del Signore Supremo/) | **ATT** | **DIF** | 
-  | [Ape assassina](/it/equipment/Ape assassina/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ramo in fiore robusto](/images/e/e_8081.png) | [Ramo in fiore robusto](/it/equipment/Strong Flowering Branch/) | **ATT** | **DIF** | 
+  | ![Spina tossica](/images/e/e_8082.png) | [Spina tossica](/it/equipment/Toxic Thorn/) | **PF** | **DIF** | 
+  | ![Fiore del Signore Supremo](/images/e/e_8083.png) | [Fiore del Signore Supremo](/it/equipment/Flower Overlord/) | **ATT** | **DIF** | 
+  | ![Ape assassina](/images/e/e_8084.png) | [Ape assassina](/it/equipment/Killer Bee/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

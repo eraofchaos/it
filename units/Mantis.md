@@ -3,7 +3,7 @@ title: "Mantide"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le sue immense, affilatissime lame la distinguono come una vera creatura leggendaria. Gli elfi di Vori hanno donato una resistenza preternaturale alla Mantide."
 unitID: 209
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Mantide"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_2091](/it/equipment/UnknownEquipment_2091/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_2092](/it/equipment/UnknownEquipment_2092/) | **PF** | **DIF** | 
-  | [UnknownEquipment_2093](/it/equipment/UnknownEquipment_2093/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_2094](/it/equipment/UnknownEquipment_2094/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_2091](/images/e/e_2091.png) | [UnknownEquipment_2091](/it/equipment/UnknownEquipment_2091/) | **ATT** | **DIF** | 
+  | ![UnknownEquipment_2092](/images/e/e_2092.png) | [UnknownEquipment_2092](/it/equipment/UnknownEquipment_2092/) | **PF** | **DIF** | 
+  | ![UnknownEquipment_2093](/images/e/e_2093.png) | [UnknownEquipment_2093](/it/equipment/UnknownEquipment_2093/) | **ATT** | **DIF** | 
+  | ![UnknownEquipment_2094](/images/e/e_2094.png) | [UnknownEquipment_2094](/it/equipment/UnknownEquipment_2094/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

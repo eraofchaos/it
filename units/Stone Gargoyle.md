@@ -3,7 +3,7 @@ title: "Gargolla di pietra"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Gargolla di pietra"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corno di pietra](/it/equipment/Corno di pietra/) | **ATT** | **DIF** | 
-  | [Ali di pietra](/it/equipment/Ali di pietra/) | **PF** | **DIF** | 
-  | [Artigli affilati di pietra](/it/equipment/Artigli affilati di pietra/) | **ATT** | **DIF** | 
-  | [Coda incantata](/it/equipment/Coda incantata/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corno di pietra](/images/e/e_6021.png) | [Corno di pietra](/it/equipment/Stone Horn/) | **ATT** | **DIF** | 
+  | ![Ali di pietra](/images/e/e_6022.png) | [Ali di pietra](/it/equipment/Stone Wings/) | **PF** | **DIF** | 
+  | ![Artigli affilati di pietra](/images/e/e_6023.png) | [Artigli affilati di pietra](/it/equipment/Sharp Rock Claws/) | **ATT** | **DIF** | 
+  | ![Coda incantata](/images/e/e_6024.png) | [Coda incantata](/it/equipment/Enchanted Tail/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

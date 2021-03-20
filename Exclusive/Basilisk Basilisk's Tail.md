@@ -2,7 +2,7 @@
 title: "Esclusivo - Coda di Basilisco"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Coda di Basilisco. Coda di Basilisco. Era of Chaos Esclusivo Coda di Basilisco. Basilisco Esclusivo."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Basilisk Coda di Basilisco.md"
 toc: false

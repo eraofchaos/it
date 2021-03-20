@@ -3,7 +3,7 @@ title: "Aeronave magica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Aeronave magica"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Dispositivo di decollo](/it/equipment/Dispositivo di decollo/) | **ATT** | **DIF** | 
-  | [Dispositivo di controllo](/it/equipment/Dispositivo di controllo/) | **PF** | **DIF** | 
-  | [Torre di controllo principale](/it/equipment/Torre di controllo principale/) | **ATT** | **DIF** | 
-  | [Ponte d'osservazione](/it/equipment/Ponte d'osservazione/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Dispositivo di decollo](/images/e/e_6081.png) | [Dispositivo di decollo](/it/equipment/Lift-off System/) | **ATT** | **DIF** | 
+  | ![Dispositivo di controllo](/images/e/e_6082.png) | [Dispositivo di controllo](/it/equipment/Control System/) | **PF** | **DIF** | 
+  | ![Torre di controllo principale](/images/e/e_6083.png) | [Torre di controllo principale](/it/equipment/Main Control Tower/) | **ATT** | **DIF** | 
+  | ![Ponte d'osservazione](/images/e/e_6084.png) | [Ponte d'osservazione](/it/equipment/Observation Deck/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

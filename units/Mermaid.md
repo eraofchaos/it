@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
 unitID: 9905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Sirena"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Organo marino](/it/equipment/Organo marino/) | **ATT** | **DIF** | 
-  | [Orecchini da Tritone](/it/equipment/Orecchini da Tritone/) | **PF** | **DIF** | 
-  | [Coda di pesce flessibile](/it/equipment/Coda di pesce flessibile/) | **ATT** | **DIF** | 
-  | [Protezione dell'oceano](/it/equipment/Protezione dell'oceano/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Organo marino](/images/e/e_99051.png) | [Organo marino](/it/equipment/Sea Organ/) | **ATT** | **DIF** | 
+  | ![Orecchini da Tritone](/images/e/e_99052.png) | [Orecchini da Tritone](/it/equipment/Merman Earrings/) | **PF** | **DIF** | 
+  | ![Coda di pesce flessibile](/images/e/e_99053.png) | [Coda di pesce flessibile](/it/equipment/Flexible Fishtail/) | **ATT** | **DIF** | 
+  | ![Protezione dell'oceano](/images/e/e_99054.png) | [Protezione dell'oceano](/it/equipment/Ocean's Protection/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

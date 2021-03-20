@@ -3,7 +3,7 @@ title: "Picchiere"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Picchieri sono la prima linea di difesa del Regno. Sono abili soldati, gloriosi veterani di molte battaglie e fedeli incrollabili del Regno, i cui abitanti nutrono per loro grande ammirazione."
 unitID: 101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Picchiere"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lancia cerulea](/it/equipment/Lancia cerulea/) | **ATT** | **DIF** | 
-  | [Elmo di piastre](/it/equipment/Elmo di piastre/) | **PF** | **DIF** | 
-  | [Scudo della Sentinella](/it/equipment/Scudo della Sentinella/) | **ATT** | **DIF** | 
-  | [Spallacci di piastre](/it/equipment/Spallacci di piastre/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lancia cerulea](/images/e/e_1011.png) | [Lancia cerulea](/it/equipment/Azure Lance/) | **ATT** | **DIF** | 
+  | ![Elmo di piastre](/images/e/e_1012.png) | [Elmo di piastre](/it/equipment/Plate Helmet/) | **PF** | **DIF** | 
+  | ![Scudo della Sentinella](/images/e/e_1013.png) | [Scudo della Sentinella](/it/equipment/Sentinel's Shield/) | **ATT** | **DIF** | 
+  | ![Spallacci di piastre](/images/e/e_1014.png) | [Spallacci di piastre](/it/equipment/Plated Shoulderpads/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

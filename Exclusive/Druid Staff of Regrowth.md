@@ -2,7 +2,7 @@
 title: "Esclusivo - Bastone della Ricrescita"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Bastone della Ricrescita. Bastone della Ricrescita. Era of Chaos Esclusivo Bastone della Ricrescita. Druido Esclusivo."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Druid Bastone della Ricrescita.md"
 toc: false

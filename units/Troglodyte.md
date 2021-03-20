@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Troglodita"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lancia d'ossa dello Squartatore](/it/equipment/Lancia d'ossa dello Squartatore/) | **ATT** | **DIF** | 
-  | [Cranio ospite](/it/equipment/Cranio ospite/) | **PF** | **DIF** | 
-  | [Spina dorsale spezzata](/it/equipment/Spina dorsale spezzata/) | **ATT** | **DIF** | 
-  | [Sangue d'acido corrosivo](/it/equipment/Sangue d'acido corrosivo/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lancia d'ossa dello Squartatore](/images/e/e_7011.png) | [Lancia d'ossa dello Squartatore](/it/equipment/Ripper's Bone Spear/) | **ATT** | **DIF** | 
+  | ![Cranio ospite](/images/e/e_7012.png) | [Cranio ospite](/it/equipment/Host Cranium/) | **PF** | **DIF** | 
+  | ![Spina dorsale spezzata](/images/e/e_7013.png) | [Spina dorsale spezzata](/it/equipment/Spine-breaking Stab/) | **ATT** | **DIF** | 
+  | ![Sangue d'acido corrosivo](/images/e/e_7014.png) | [Sangue d'acido corrosivo](/it/equipment/Blood of Strong Acid/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

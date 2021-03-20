@@ -3,7 +3,7 @@ title: "Golem draconico"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'apice della tecnologia degli Gnomi. Ogni singola parte di questa fusione tra macchina e magia trabocca di un potere inesauribile."
 unitID: 609
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Golem draconico"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Artiglio in lega](/it/equipment/Artiglio in lega/) | **ATT** | **DIF** | 
-  | [Testa di Drago di titanio](/it/equipment/Testa di Drago di titanio/) | **PF** | **DIF** | 
-  | [Leva di comando principale](/it/equipment/Leva di comando principale/) | **ATT** | **DIF** | 
-  | [Armatura in lega](/it/equipment/Armatura in lega/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Artiglio in lega](/images/e/e_6091.png) | [Artiglio in lega](/it/equipment/Alloy Claw/) | **ATT** | **DIF** | 
+  | ![Testa di Drago di titanio](/images/e/e_6092.png) | [Testa di Drago di titanio](/it/equipment/Titanium Dragon Head/) | **PF** | **DIF** | 
+  | ![Leva di comando principale](/images/e/e_6093.png) | [Leva di comando principale](/it/equipment/Main Control Stick/) | **ATT** | **DIF** | 
+  | ![Armatura in lega](/images/e/e_6094.png) | [Armatura in lega](/it/equipment/Alloy Armor/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Domatore di lupi"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
 unitID: 402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Domatore di lupi"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lama affilata](/it/equipment/Lama affilata/) | **ATT** | **DIF** | 
-  | [Cintura della potenza](/it/equipment/Cintura della potenza/) | **PF** | **DIF** | 
-  | [Bracciali del lupo](/it/equipment/Bracciali del lupo/) | **ATT** | **DIF** | 
-  | [Spallacci della lingua di lupo](/it/equipment/Spallacci della lingua di lupo/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lama affilata](/images/e/e_4021.png) | [Lama affilata](/it/equipment/Razor-bladed Sabre/) | **ATT** | **DIF** | 
+  | ![Cintura della potenza](/images/e/e_4022.png) | [Cintura della potenza](/it/equipment/Mighty Belt/) | **PF** | **DIF** | 
+  | ![Bracciali del lupo](/images/e/e_4023.png) | [Bracciali del lupo](/it/equipment/Bracer of the Wolf/) | **ATT** | **DIF** | 
+  | ![Spallacci della lingua di lupo](/images/e/e_4024.png) | [Spallacci della lingua di lupo](/it/equipment/Pauldrons of Wolf-tongue/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

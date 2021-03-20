@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione."
 unitID: 201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Centauro"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ascia delle terre selvagge](/it/equipment/Ascia delle terre selvagge/) | **ATT** | **DIF** | 
-  | [Elmo delle terre selvagge](/it/equipment/Elmo delle terre selvagge/) | **PF** | **DIF** | 
-  | [Guanti delle terre selvagge](/it/equipment/Guanti delle terre selvagge/) | **ATT** | **DIF** | 
-  | [Spallacci delle terre selvagge](/it/equipment/Spallacci delle terre selvagge/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ascia delle terre selvagge](/images/e/e_2011.png) | [Ascia delle terre selvagge](/it/equipment/Battleaxe of the Wild/) | **ATT** | **DIF** | 
+  | ![Elmo delle terre selvagge](/images/e/e_2012.png) | [Elmo delle terre selvagge](/it/equipment/Helm of the Wild/) | **PF** | **DIF** | 
+  | ![Guanti delle terre selvagge](/images/e/e_2013.png) | [Guanti delle terre selvagge](/it/equipment/Gauntlets of the Wild/) | **ATT** | **DIF** | 
+  | ![Spallacci delle terre selvagge](/images/e/e_2014.png) | [Spallacci delle terre selvagge](/it/equipment/Pauldrons of Wild/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

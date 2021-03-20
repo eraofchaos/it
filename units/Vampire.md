@@ -3,7 +3,7 @@ title: "Vampiro"
 permalink: /units/Vampire/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Vampiro"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cintura sanguinaria](/it/equipment/Cintura sanguinaria/) | **ATT** | **DIF** | 
-  | [Armatura leggera sanguinaria](/it/equipment/Armatura leggera sanguinaria/) | **PF** | **DIF** | 
-  | [Spallacci d'ombra](/it/equipment/Spallacci d'ombra/) | **ATT** | **DIF** | 
-  | [Manto d'ombra](/it/equipment/Manto d'ombra/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cintura sanguinaria](/images/e/e_3041.png) | [Cintura sanguinaria](/it/equipment/Bloodthirsty Belt/) | **ATT** | **DIF** | 
+  | ![Armatura leggera sanguinaria](/images/e/e_3042.png) | [Armatura leggera sanguinaria](/it/equipment/Light Armor of Bloodthirst/) | **PF** | **DIF** | 
+  | ![Spallacci d'ombra](/images/e/e_3043.png) | [Spallacci d'ombra](/it/equipment/Shadow Shoulders/) | **ATT** | **DIF** | 
+  | ![Manto d'ombra](/images/e/e_3044.png) | [Manto d'ombra](/it/equipment/Shadow Cloak/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

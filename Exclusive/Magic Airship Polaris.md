@@ -2,7 +2,7 @@
 title: "Esclusivo - Stella polare"
 permalink: /Exclusive/Magic Airship Polaris/
 excerpt: "Era of Chaos Stella polare. Stella polare. Era of Chaos Esclusivo Stella polare. Aeronave magica Esclusivo."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Magic Airship Stella polare.md"
 toc: false

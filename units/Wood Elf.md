@@ -3,7 +3,7 @@ title: "Elfo del bosco"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
 unitID: 203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Elfo del bosco"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arco lungo silvano](/it/equipment/Arco lungo silvano/) | **ATT** | **DIF** | 
-  | [Corona d'alloro](/it/equipment/Corona d'alloro/) | **PF** | **DIF** | 
-  | [Frecce di giada](/it/equipment/Frecce di giada/) | **ATT** | **DIF** | 
-  | [Abito d'alloro](/it/equipment/Abito d'alloro/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arco lungo silvano](/images/e/e_2031.png) | [Arco lungo silvano](/it/equipment/Sylvan Longbow/) | **ATT** | **DIF** | 
+  | ![Corona d'alloro](/images/e/e_2032.png) | [Corona d'alloro](/it/equipment/Circlet of Verdurous Leaves/) | **PF** | **DIF** | 
+  | ![Frecce di giada](/images/e/e_2033.png) | [Frecce di giada](/it/equipment/Arrows of Jade/) | **ATT** | **DIF** | 
+  | ![Abito d'alloro](/images/e/e_2034.png) | [Abito d'alloro](/it/equipment/Short Robe of Verdurous Leaves/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

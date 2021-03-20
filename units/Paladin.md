@@ -3,7 +3,7 @@ title: "Paladino"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
 unitID: 108
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Paladino"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Spada del giudizio](/it/equipment/Spada del giudizio/) | **ATT** | **DIF** | 
-  | [Elmo votivo](/it/equipment/Elmo votivo/) | **PF** | **DIF** | 
-  | [Spallacci di ferro](/it/equipment/Spallacci di ferro/) | **ATT** | **DIF** | 
-  | [Bracciali forgiati](/it/equipment/Bracciali forgiati/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Spada del giudizio](/images/e/e_1081.png) | [Spada del giudizio](/it/equipment/Judgment Sword/) | **ATT** | **DIF** | 
+  | ![Elmo votivo](/images/e/e_1082.png) | [Elmo votivo](/it/equipment/Vow Helmet/) | **PF** | **DIF** | 
+  | ![Spallacci di ferro](/images/e/e_1083.png) | [Spallacci di ferro](/it/equipment/Iron Pauldrons/) | **ATT** | **DIF** | 
+  | ![Bracciali forgiati](/images/e/e_1084.png) | [Bracciali forgiati](/it/equipment/Forged Bracers/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

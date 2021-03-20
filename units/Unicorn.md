@@ -3,7 +3,7 @@ title: "Unicorno"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Unicorno"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corno di cristallo](/it/equipment/Corno di cristallo/) | **ATT** | **DIF** | 
-  | [Pietre del Sognatore](/it/equipment/Pietre del Sognatore/) | **PF** | **DIF** | 
-  | [Zoccoli di cristallo](/it/equipment/Zoccoli di cristallo/) | **ATT** | **DIF** | 
-  | [Criniera nebulosa](/it/equipment/Criniera nebulosa/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corno di cristallo](/images/e/e_2061.png) | [Corno di cristallo](/it/equipment/Crystal Longhorn/) | **ATT** | **DIF** | 
+  | ![Pietre del Sognatore](/images/e/e_2062.png) | [Pietre del Sognatore](/it/equipment/Dreamer's Stones/) | **PF** | **DIF** | 
+  | ![Zoccoli di cristallo](/images/e/e_2063.png) | [Zoccoli di cristallo](/it/equipment/Crystal Hooves/) | **ATT** | **DIF** | 
+  | ![Criniera nebulosa](/images/e/e_2064.png) | [Criniera nebulosa](/it/equipment/Misty Mane/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

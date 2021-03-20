@@ -3,7 +3,7 @@ title: "Elementale tempesta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Elementale tempesta"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Fulmine globulare scintillante](/it/equipment/Fulmine globulare scintillante/) | **ATT** | **DIF** | 
-  | [Nucleo di tuono](/it/equipment/Nucleo di tuono/) | **PF** | **DIF** | 
-  | [Artiglio magico](/it/equipment/Artiglio magico/) | **ATT** | **DIF** | 
-  | [Occhio del fulmine](/it/equipment/Occhio del fulmine/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Fulmine globulare scintillante](/images/e/e_9021.png) | [Fulmine globulare scintillante](/it/equipment/Flickering Lightning Ball/) | **ATT** | **DIF** | 
+  | ![Nucleo di tuono](/images/e/e_9022.png) | [Nucleo di tuono](/it/equipment/Thunder Core/) | **PF** | **DIF** | 
+  | ![Artiglio magico](/images/e/e_9023.png) | [Artiglio magico](/it/equipment/Magic Claw/) | **ATT** | **DIF** | 
+  | ![Occhio del fulmine](/images/e/e_9024.png) | [Occhio del fulmine](/it/equipment/Beholder of Lightning/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

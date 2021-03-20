@@ -3,7 +3,7 @@ title: "Pirati di Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
 unitID: 9901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Pirati di Regna"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machete rinforzato](/it/equipment/Machete rinforzato/) | **ATT** | **DIF** | 
-  | [Abito da marinaio](/it/equipment/Abito da marinaio/) | **PF** | **DIF** | 
-  | [Cerchietto virtuoso](/it/equipment/Cerchietto virtuoso/) | **ATT** | **DIF** | 
-  | [Pantaloni da marinaio](/it/equipment/Pantaloni da marinaio/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machete rinforzato](/images/e/e_99011.png) | [Machete rinforzato](/it/equipment/Toughened Machete/) | **ATT** | **DIF** | 
+  | ![Abito da marinaio](/images/e/e_99012.png) | [Abito da marinaio](/it/equipment/Sailor's Shirt/) | **PF** | **DIF** | 
+  | ![Cerchietto virtuoso](/images/e/e_99013.png) | [Cerchietto virtuoso](/it/equipment/Righteous Headband/) | **ATT** | **DIF** | 
+  | ![Pantaloni da marinaio](/images/e/e_99014.png) | [Pantaloni da marinaio](/it/equipment/Sailor's Pants/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

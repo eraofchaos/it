@@ -3,7 +3,7 @@ title: "Catafratto"
 permalink: /units/Cavalier/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Catafratto"
 toc: true
@@ -73,12 +73,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lancia del Catafratto](/it/equipment/Lancia del Catafratto/) | **ATT** | **DIF** | 
-  | [Visiera della difesa](/it/equipment/Visiera della difesa/) | **PF** | **DIF** | 
-  | [Scudo della protezione](/it/equipment/Scudo della protezione/) | **ATT** | **DIF** | 
-  | [Spallacci da Paladino](/it/equipment/Spallacci da Paladino/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lancia del Catafratto](/images/e/e_1061.png) | [Lancia del Catafratto](/it/equipment/Cavalier's Lance/) | **ATT** | **DIF** | 
+  | ![Visiera della difesa](/images/e/e_1062.png) | [Visiera della difesa](/it/equipment/Visor of Defense/) | **PF** | **DIF** | 
+  | ![Scudo della protezione](/images/e/e_1063.png) | [Scudo della protezione](/it/equipment/Shield of Protection/) | **ATT** | **DIF** | 
+  | ![Spallacci da Paladino](/images/e/e_1064.png) | [Spallacci da Paladino](/it/equipment/Paladin's Pauldron/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

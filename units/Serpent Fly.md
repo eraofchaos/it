@@ -3,7 +3,7 @@ title: "Mosca serpente"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie."
 unitID: 803
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Mosca serpente"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ala collare demoniaca](/it/equipment/Ala collare demoniaca/) | **ATT** | **DIF** | 
-  | [Mascella fatale](/it/equipment/Mascella fatale/) | **PF** | **DIF** | 
-  | [Spina tetra](/it/equipment/Spina tetra/) | **ATT** | **DIF** | 
-  | [Zanna tossica](/it/equipment/Zanna tossica/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ala collare demoniaca](/images/e/e_8031.png) | [Ala collare demoniaca](/it/equipment/Fiend's Neck Umbrella/) | **ATT** | **DIF** | 
+  | ![Mascella fatale](/images/e/e_8032.png) | [Mascella fatale](/it/equipment/Fatal Jaw Weapon/) | **PF** | **DIF** | 
+  | ![Spina tetra](/images/e/e_8033.png) | [Spina tetra](/it/equipment/Bleak Barb/) | **ATT** | **DIF** | 
+  | ![Zanna tossica](/images/e/e_8034.png) | [Zanna tossica](/it/equipment/Toxic Fang/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

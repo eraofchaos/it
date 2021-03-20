@@ -3,7 +3,7 @@ title: "Elementale del mare"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Elementale del mare"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lacrima eterna](/it/equipment/Lacrima eterna/) | **ATT** | **DIF** | 
-  | [Nucleo di Elementale dell'acqua](/it/equipment/Nucleo di Elementale dell'acqua/) | **PF** | **DIF** | 
-  | [Flusso ondoso](/it/equipment/Flusso ondoso/) | **ATT** | **DIF** | 
-  | [Cicatrice del Vortice](/it/equipment/Cicatrice del Vortice/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lacrima eterna](/images/e/e_99031.png) | [Lacrima eterna](/it/equipment/Eternal Tear/) | **ATT** | **DIF** | 
+  | ![Nucleo di Elementale dell'acqua](/images/e/e_99032.png) | [Nucleo di Elementale dell'acqua](/it/equipment/Core of Water Elemental/) | **PF** | **DIF** | 
+  | ![Flusso ondoso](/images/e/e_99033.png) | [Flusso ondoso](/it/equipment/Wavy Flow/) | **ATT** | **DIF** | 
+  | ![Cicatrice del Vortice](/images/e/e_99034.png) | [Cicatrice del Vortice](/it/equipment/Vortex Scar/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

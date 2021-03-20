@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Troll sono creature estremamente intelligenti che combattono usando pesanti massi. Preferiscono occupare la prima fila, per spazzare via i nemici con possenti attacchi."
 unitID: 409
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Troll"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cascata di massi](/it/equipment/Cascata di massi/) | **ATT** | **DIF** | 
-  | [Potenza dei Signori](/it/equipment/Potenza dei Signori/) | **PF** | **DIF** | 
-  | [Sfonda-corazza](/it/equipment/Sfonda-corazza/) | **ATT** | **DIF** | 
-  | [Stivali della guarnigione](/it/equipment/Stivali della guarnigione/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cascata di massi](/images/e/e_4091.png) | [Cascata di massi](/it/equipment/Chained Boulder/) | **ATT** | **DIF** | 
+  | ![Potenza dei Signori](/images/e/e_4092.png) | [Potenza dei Signori](/it/equipment/Might of Lords/) | **PF** | **DIF** | 
+  | ![Sfonda-corazza](/images/e/e_4093.png) | [Sfonda-corazza](/it/equipment/Breach Armor/) | **ATT** | **DIF** | 
+  | ![Stivali della guarnigione](/images/e/e_4094.png) | [Stivali della guarnigione](/it/equipment/Garrison Boots/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

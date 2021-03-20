@@ -3,7 +3,7 @@ title: "Tigre bianca"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia."
 unitID: 809
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Tigre bianca"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_8091](/it/equipment/UnknownEquipment_8091/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_8092](/it/equipment/UnknownEquipment_8092/) | **PF** | **DIF** | 
-  | [UnknownEquipment_8093](/it/equipment/UnknownEquipment_8093/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_8094](/it/equipment/UnknownEquipment_8094/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_8091](/images/e/e_8091.png) | [UnknownEquipment_8091](/it/equipment/UnknownEquipment_8091/) | **ATT** | **DIF** | 
+  | ![UnknownEquipment_8092](/images/e/e_8092.png) | [UnknownEquipment_8092](/it/equipment/UnknownEquipment_8092/) | **PF** | **DIF** | 
+  | ![UnknownEquipment_8093](/images/e/e_8093.png) | [UnknownEquipment_8093](/it/equipment/UnknownEquipment_8093/) | **ATT** | **DIF** | 
+  | ![UnknownEquipment_8094](/images/e/e_8094.png) | [UnknownEquipment_8094](/it/equipment/UnknownEquipment_8094/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

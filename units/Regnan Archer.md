@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Arciere di Regna"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Balestra oceanica](/it/equipment/Balestra oceanica/) | **ATT** | **DIF** | 
-  | [Cappello del Prestigio](/it/equipment/Cappello del Prestigio/) | **PF** | **DIF** | 
-  | [Freccia d'acciaio](/it/equipment/Freccia d'acciaio/) | **ATT** | **DIF** | 
-  | [Abiti da cacciatore](/it/equipment/Abiti da cacciatore/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Balestra oceanica](/images/e/e_99021.png) | [Balestra oceanica](/it/equipment/Ocean's Arbalest/) | **ATT** | **DIF** | 
+  | ![Cappello del Prestigio](/images/e/e_99022.png) | [Cappello del Prestigio](/it/equipment/Cap of Prestige/) | **PF** | **DIF** | 
+  | ![Freccia d'acciaio](/images/e/e_99023.png) | [Freccia d'acciaio](/it/equipment/Steel Arrow/) | **ATT** | **DIF** | 
+  | ![Abiti da cacciatore](/images/e/e_99024.png) | [Abiti da cacciatore](/it/equipment/Hunter's Clothing/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

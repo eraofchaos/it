@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue."
 unitID: 606
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Naga"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Lama del flusso eterno](/it/equipment/Lama del flusso eterno/) | **ATT** | **DIF** | 
-  | [Spallacci del navigatore](/it/equipment/Spallacci del navigatore/) | **PF** | **DIF** | 
-  | [Copricapo del Serpente divino](/it/equipment/Copricapo del Serpente divino/) | **ATT** | **DIF** | 
-  | [Cintura resistente e flessibile](/it/equipment/Cintura resistente e flessibile/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Lama del flusso eterno](/images/e/e_6061.png) | [Lama del flusso eterno](/it/equipment/Everflowing Blade/) | **ATT** | **DIF** | 
+  | ![Spallacci del navigatore](/images/e/e_6062.png) | [Spallacci del navigatore](/it/equipment/Seafaring Pauldrons/) | **PF** | **DIF** | 
+  | ![Copricapo del Serpente divino](/images/e/e_6063.png) | [Copricapo del Serpente divino](/it/equipment/Headdress of the Serpent God/) | **ATT** | **DIF** | 
+  | ![Cintura resistente e flessibile](/images/e/e_6064.png) | [Cintura resistente e flessibile](/it/equipment/Strong and Flexible Waistplate/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

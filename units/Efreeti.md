@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Efreet"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Sfera fiammeggiante](/it/equipment/Sfera fiammeggiante/) | **ATT** | **DIF** | 
-  | [Armatura leggera fiammeggiante](/it/equipment/Armatura leggera fiammeggiante/) | **PF** | **DIF** | 
-  | [Bracciali fiammeggianti](/it/equipment/Bracciali fiammeggianti/) | **ATT** | **DIF** | 
-  | [Spallacci fiammeggianti](/it/equipment/Spallacci fiammeggianti/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Sfera fiammeggiante](/images/e/e_5061.png) | [Sfera fiammeggiante](/it/equipment/Orb of Flame/) | **ATT** | **DIF** | 
+  | ![Armatura leggera fiammeggiante](/images/e/e_5062.png) | [Armatura leggera fiammeggiante](/it/equipment/Light Armor of Flame/) | **PF** | **DIF** | 
+  | ![Bracciali fiammeggianti](/images/e/e_5063.png) | [Bracciali fiammeggianti](/it/equipment/Bracers of Flame/) | **ATT** | **DIF** | 
+  | ![Spallacci fiammeggianti](/images/e/e_5064.png) | [Spallacci fiammeggianti](/it/equipment/Pauldrons of Flame/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

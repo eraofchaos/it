@@ -3,7 +3,7 @@ title: "Leprecauno"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Aiutati dalla misteriosa protezione offerta dai loro amuleti magici, i Leprecauni evocati usano il Monolite dell'Albero del Mondo per raggiungere il sanguinoso e violento campo di battaglia e diventare i più imbattibili difensori della natura!"
 unitID: 909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Leprecauno"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Benedizioni fortunate](/it/equipment/Benedizioni fortunate/) | **ATT** | **DIF** | 
-  | [Fonte di potere](/it/equipment/Fonte di potere/) | **PF** | **DIF** | 
-  | [Guardiano della vita](/it/equipment/Guardiano della vita/) | **ATT** | **DIF** | 
-  | [La leggerezza del vento](/it/equipment/La leggerezza del vento/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Benedizioni fortunate](/images/e/e_9091.png) | [Benedizioni fortunate](/it/equipment/Lucky Blessings/) | **ATT** | **DIF** | 
+  | ![Fonte di potere](/images/e/e_9092.png) | [Fonte di potere](/it/equipment/Source of Power/) | **PF** | **DIF** | 
+  | ![Guardiano della vita](/images/e/e_9093.png) | [Guardiano della vita](/it/equipment/Life Guardian/) | **ATT** | **DIF** | 
+  | ![La leggerezza del vento](/images/e/e_9094.png) | [La leggerezza del vento](/it/equipment/The Lightness of the Wind/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

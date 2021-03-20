@@ -3,7 +3,7 @@ title: "Grifone"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
 unitID: 103
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Grifone"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Artigli seghettati](/it/equipment/Artigli seghettati/) | **ATT** | **DIF** | 
-  | [Copricapo della velocità](/it/equipment/Copricapo della velocità/) | **PF** | **DIF** | 
-  | [Piuma di Arcigrifone](/it/equipment/Piuma di Arcigrifone/) | **ATT** | **DIF** | 
-  | [Cimiero dell'Impero](/it/equipment/Cimiero dell'Impero/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Artigli seghettati](/images/e/e_1031.png) | [Artigli seghettati](/it/equipment/Serrated Claws/) | **ATT** | **DIF** | 
+  | ![Copricapo della velocità](/images/e/e_1032.png) | [Copricapo della velocità](/it/equipment/Headplate of Speed/) | **PF** | **DIF** | 
+  | ![Piuma di Arcigrifone](/images/e/e_1033.png) | [Piuma di Arcigrifone](/it/equipment/Archgriffin Feather/) | **ATT** | **DIF** | 
+  | ![Cimiero dell'Impero](/images/e/e_1034.png) | [Cimiero dell'Impero](/it/equipment/Empire's Crest/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

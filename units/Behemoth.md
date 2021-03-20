@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Behemoth"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Artigli feroci](/it/equipment/Artigli feroci/) | **ATT** | **DIF** | 
-  | [Pelle ferrea](/it/equipment/Pelle ferrea/) | **PF** | **DIF** | 
-  | [Zanne feroci](/it/equipment/Zanne feroci/) | **ATT** | **DIF** | 
-  | [Pelliccia](/it/equipment/Pelliccia/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Artigli feroci](/images/e/e_4071.png) | [Artigli feroci](/it/equipment/Ferocious Claws/) | **ATT** | **DIF** | 
+  | ![Pelle ferrea](/images/e/e_4072.png) | [Pelle ferrea](/it/equipment/Ironclad Skin/) | **PF** | **DIF** | 
+  | ![Zanne feroci](/images/e/e_4073.png) | [Zanne feroci](/it/equipment/Ferocious Fangs/) | **ATT** | **DIF** | 
+  | ![Pelliccia](/images/e/e_4074.png) | [Pelliccia](/it/equipment/Thick Fur Hide/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

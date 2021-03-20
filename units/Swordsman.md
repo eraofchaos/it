@@ -3,7 +3,7 @@ title: "Spadaccino"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Spadaccino"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Spada dell'Impero](/it/equipment/Spada dell'Impero/) | **ATT** | **DIF** | 
-  | [Elmo da ufficiale](/it/equipment/Elmo da ufficiale/) | **PF** | **DIF** | 
-  | [Scudo dell'Impero](/it/equipment/Scudo dell'Impero/) | **ATT** | **DIF** | 
-  | [Spallacci dell'Impero](/it/equipment/Spallacci dell'Impero/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Spada dell'Impero](/images/e/e_1041.png) | [Spada dell'Impero](/it/equipment/Empire's Sword/) | **ATT** | **DIF** | 
+  | ![Elmo da ufficiale](/images/e/e_1042.png) | [Elmo da ufficiale](/it/equipment/Officer's Helmet/) | **PF** | **DIF** | 
+  | ![Scudo dell'Impero](/images/e/e_1043.png) | [Scudo dell'Impero](/it/equipment/Empire's Shield/) | **ATT** | **DIF** | 
+  | ![Spallacci dell'Impero](/images/e/e_1044.png) | [Spallacci dell'Impero](/it/equipment/Empire's Pauldrons/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

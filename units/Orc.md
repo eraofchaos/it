@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano."
 unitID: 403
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Orco"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ascia da lancio](/it/equipment/Ascia da lancio/) | **ATT** | **DIF** | 
-  | [Cintura del controllo](/it/equipment/Cintura del controllo/) | **PF** | **DIF** | 
-  | [Spallacci di ferro](/it/equipment/Spallacci di ferro/) | **ATT** | **DIF** | 
-  | [Spallacci sanguinari](/it/equipment/Spallacci sanguinari/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ascia da lancio](/images/e/e_4031.png) | [Ascia da lancio](/it/equipment/Throwing Axe/) | **ATT** | **DIF** | 
+  | ![Cintura del controllo](/images/e/e_4032.png) | [Cintura del controllo](/it/equipment/Belt of Constraint/) | **PF** | **DIF** | 
+  | ![Spallacci di ferro](/images/e/e_4033.png) | [Spallacci di ferro](/it/equipment/Iron Pauldrons/) | **ATT** | **DIF** | 
+  | ![Spallacci sanguinari](/images/e/e_4034.png) | [Spallacci sanguinari](/it/equipment/Bloodthirsty Pauldrons/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

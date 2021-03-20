@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Gnoll"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Machete del Licantropo](/it/equipment/Machete del Licantropo/) | **ATT** | **DIF** | 
-  | [Scudo del Licantropo](/it/equipment/Scudo del Licantropo/) | **PF** | **DIF** | 
-  | [Catena del Licantropo](/it/equipment/Catena del Licantropo/) | **ATT** | **DIF** | 
-  | [Guanti del Licantropo](/it/equipment/Guanti del Licantropo/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Machete del Licantropo](/images/e/e_8011.png) | [Machete del Licantropo](/it/equipment/Werewolf's Machete/) | **ATT** | **DIF** | 
+  | ![Scudo del Licantropo](/images/e/e_8012.png) | [Scudo del Licantropo](/it/equipment/Werewolf's Square Shield/) | **PF** | **DIF** | 
+  | ![Catena del Licantropo](/images/e/e_8013.png) | [Catena del Licantropo](/it/equipment/Werewolf's Chain/) | **ATT** | **DIF** | 
+  | ![Guanti del Licantropo](/images/e/e_8014.png) | [Guanti del Licantropo](/it/equipment/Werewolf's Gauntlets/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

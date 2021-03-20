@@ -3,7 +3,7 @@ title: "Angelo"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Angelo"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Spada dell'Impero](/it/equipment/Spada dell'Impero/) | **ATT** | **DIF** | 
-  | [Armatura da battaglia luminosa](/it/equipment/Armatura da battaglia luminosa/) | **PF** | **DIF** | 
-  | [Guanti luminosi](/it/equipment/Guanti luminosi/) | **ATT** | **DIF** | 
-  | [Spallacci della levità](/it/equipment/Spallacci della levità/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Spada dell'Impero](/images/e/e_1071.png) | [Spada dell'Impero](/it/equipment/Empire's Sword/) | **ATT** | **DIF** | 
+  | ![Armatura da battaglia luminosa](/images/e/e_1072.png) | [Armatura da battaglia luminosa](/it/equipment/Light Battle Armor/) | **PF** | **DIF** | 
+  | ![Guanti luminosi](/images/e/e_1073.png) | [Guanti luminosi](/it/equipment/Light Gauntlets/) | **ATT** | **DIF** | 
+  | ![Spallacci della levità](/images/e/e_1074.png) | [Spallacci della levità](/it/equipment/Pauldrons of Lightness/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

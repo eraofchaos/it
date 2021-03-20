@@ -3,7 +3,7 @@ title: "Elementale del fuoco"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
 unitID: 904
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Elementale del fuoco"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Nucleo di fuoco](/it/equipment/Nucleo di fuoco/) | **ATT** | **DIF** | 
-  | [Scudo ribollente](/it/equipment/Scudo ribollente/) | **PF** | **DIF** | 
-  | [Occhio di zaffiro](/it/equipment/Occhio di zaffiro/) | **ATT** | **DIF** | 
-  | [Artiglio affilato blu](/it/equipment/Artiglio affilato blu/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Nucleo di fuoco](/images/e/e_9041.png) | [Nucleo di fuoco](/it/equipment/Core of Fire/) | **ATT** | **DIF** | 
+  | ![Scudo ribollente](/images/e/e_9042.png) | [Scudo ribollente](/it/equipment/Boiling Shield/) | **PF** | **DIF** | 
+  | ![Occhio di zaffiro](/images/e/e_9043.png) | [Occhio di zaffiro](/it/equipment/Beholder of Sapphire/) | **ATT** | **DIF** | 
+  | ![Artiglio affilato blu](/images/e/e_9044.png) | [Artiglio affilato blu](/it/equipment/Navy Blue Sharp Claw/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

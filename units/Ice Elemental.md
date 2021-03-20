@@ -3,7 +3,7 @@ title: "Elementale del ghiaccio"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Elementale del ghiaccio"
 toc: true
@@ -66,12 +66,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cristallo congelato](/it/equipment/Cristallo congelato/) | **ATT** | **DIF** | 
-  | [Copricapo delle maree](/it/equipment/Copricapo delle maree/) | **PF** | **DIF** | 
-  | [Marchio dell'oceano](/it/equipment/Marchio dell'oceano/) | **ATT** | **DIF** | 
-  | [Telo della Sirena](/it/equipment/Telo della Sirena/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Cristallo congelato](/images/e/e_9031.png) | [Cristallo congelato](/it/equipment/Deep Ice Crystal/) | **ATT** | **DIF** | 
+  | ![Copricapo delle maree](/images/e/e_9032.png) | [Copricapo delle maree](/it/equipment/Tidal Headdress/) | **PF** | **DIF** | 
+  | ![Marchio dell'oceano](/images/e/e_9033.png) | [Marchio dell'oceano](/it/equipment/Mark of the Ocean/) | **ATT** | **DIF** | 
+  | ![Telo della Sirena](/images/e/e_9034.png) | [Telo della Sirena](/it/equipment/Cloth of the Mermaid/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

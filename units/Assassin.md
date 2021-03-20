@@ -3,7 +3,7 @@ title: "Assassino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Assassino"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Cappuccio da Assassino](/it/equipment/Cappuccio da Assassino/) | **ATT** | **DIF** | 
-  | [Lama celata](/it/equipment/Lama celata/) | **PF** | **DIF** | 
-  | [Cintura dell'assassino](/it/equipment/Cintura dell'assassino/) | **ATT** | **DIF** | 
-  | [Stivali di cuoio](/it/equipment/Stivali di cuoio/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  |  | [Cappuccio da Assassino](/it/equipment/Assassin's Hood/) | **ATT** | **DIF** | 
+  |  | [Lama celata](/it/equipment/Hidden Blade/) | **PF** | **DIF** | 
+  |  | [Cintura dell'assassino](/it/equipment/Assassin's Belt/) | **ATT** | **DIF** | 
+  |  | [Stivali di cuoio](/it/equipment/Leather Boots/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

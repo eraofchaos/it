@@ -3,7 +3,7 @@ title: "Progenie velenosa"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi demoni sono nati tra le ombre e le fiamme delle profondità dell'inferno. Secondo le leggende, essi rappresentano gli incubi più terrificanti, e inceneriscono i campi di battaglia con le fiamme del peccato."
 unitID: 509
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Progenie velenosa"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [UnknownEquipment_5091](/it/equipment/UnknownEquipment_5091/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_5092](/it/equipment/UnknownEquipment_5092/) | **PF** | **DIF** | 
-  | [UnknownEquipment_5093](/it/equipment/UnknownEquipment_5093/) | **ATT** | **DIF** | 
-  | [UnknownEquipment_5094](/it/equipment/UnknownEquipment_5094/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![UnknownEquipment_5091](/images/e/e_5091.png) | [UnknownEquipment_5091](/it/equipment/UnknownEquipment_5091/) | **ATT** | **DIF** | 
+  | ![UnknownEquipment_5092](/images/e/e_5092.png) | [UnknownEquipment_5092](/it/equipment/UnknownEquipment_5092/) | **PF** | **DIF** | 
+  | ![UnknownEquipment_5093](/images/e/e_5093.png) | [UnknownEquipment_5093](/it/equipment/UnknownEquipment_5093/) | **ATT** | **DIF** | 
+  | ![UnknownEquipment_5094](/images/e/e_5094.png) | [UnknownEquipment_5094](/it/equipment/UnknownEquipment_5094/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

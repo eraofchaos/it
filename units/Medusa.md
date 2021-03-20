@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
 unitID: 704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Medusa"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Arco lungo del massacro](/it/equipment/Arco lungo del massacro/) | **ATT** | **DIF** | 
-  | [Chioma serpentina](/it/equipment/Chioma serpentina/) | **PF** | **DIF** | 
-  | [Corona della Regina](/it/equipment/Corona della Regina/) | **ATT** | **DIF** | 
-  | [Armatura abissale](/it/equipment/Armatura abissale/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Arco lungo del massacro](/images/e/e_7041.png) | [Arco lungo del massacro](/it/equipment/Slaughter Longbow/) | **ATT** | **DIF** | 
+  | ![Chioma serpentina](/images/e/e_7042.png) | [Chioma serpentina](/it/equipment/Writhing Snake Hair/) | **PF** | **DIF** | 
+  | ![Corona della Regina](/images/e/e_7043.png) | [Corona della Regina](/it/equipment/Queen's Crown/) | **ATT** | **DIF** | 
+  | ![Armatura abissale](/images/e/e_7044.png) | [Armatura abissale](/it/equipment/Abyss Armor/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

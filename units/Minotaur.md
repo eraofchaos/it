@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Minotauro"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ascia della Gorgone](/it/equipment/Ascia della Gorgone/) | **ATT** | **DIF** | 
-  | [Spallacci della Gorgone](/it/equipment/Spallacci della Gorgone/) | **PF** | **DIF** | 
-  | [Fascia della Gorgone](/it/equipment/Fascia della Gorgone/) | **ATT** | **DIF** | 
-  | [Cintura della Gorgone](/it/equipment/Cintura della Gorgone/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ascia della Gorgone](/images/e/e_7051.png) | [Ascia della Gorgone](/it/equipment/Gorgon Battle Axe/) | **ATT** | **DIF** | 
+  | ![Spallacci della Gorgone](/images/e/e_7052.png) | [Spallacci della Gorgone](/it/equipment/Gorgon Shoulder-guards/) | **PF** | **DIF** | 
+  | ![Fascia della Gorgone](/images/e/e_7053.png) | [Fascia della Gorgone](/it/equipment/Gorgon Bands/) | **ATT** | **DIF** | 
+  | ![Cintura della Gorgone](/images/e/e_7054.png) | [Cintura della Gorgone](/it/equipment/Gorgon Belt/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

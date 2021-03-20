@@ -3,7 +3,7 @@ title: "Arpia"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Arpia"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pugnale trafiggi-cuore](/it/equipment/Pugnale trafiggi-cuore/) | **ATT** | **DIF** | 
-  | [Armatura mistica](/it/equipment/Armatura mistica/) | **PF** | **DIF** | 
-  | [Artigli assassini](/it/equipment/Artigli assassini/) | **ATT** | **DIF** | 
-  | [Spallacci dell'Incantatrice](/it/equipment/Spallacci dell'Incantatrice/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pugnale trafiggi-cuore](/images/e/e_7021.png) | [Pugnale trafiggi-cuore](/it/equipment/Heart Stab Dagger/) | **ATT** | **DIF** | 
+  | ![Armatura mistica](/images/e/e_7022.png) | [Armatura mistica](/it/equipment/Mystic Armor/) | **PF** | **DIF** | 
+  | ![Artigli assassini](/images/e/e_7023.png) | [Artigli assassini](/it/equipment/Claw Killer/) | **ATT** | **DIF** | 
+  | ![Spallacci dell'Incantatrice](/images/e/e_7024.png) | [Spallacci dell'Incantatrice](/it/equipment/Enchantress' Shoulder-guards/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

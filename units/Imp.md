@@ -3,7 +3,7 @@ title: "Folletto"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina."
 unitID: 501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Folletto"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Artigli sinistri](/it/equipment/Artigli sinistri/) | **ATT** | **DIF** | 
-  | [Katara sinistra](/it/equipment/Katara sinistra/) | **PF** | **DIF** | 
-  | [Ali sinistre](/it/equipment/Ali sinistre/) | **ATT** | **DIF** | 
-  | [Armatura leggera sinistra](/it/equipment/Armatura leggera sinistra/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Artigli sinistri](/images/e/e_5011.png) | [Artigli sinistri](/it/equipment/Sinister Claws/) | **ATT** | **DIF** | 
+  | ![Katara sinistra](/images/e/e_5012.png) | [Katara sinistra](/it/equipment/Sinister Katar/) | **PF** | **DIF** | 
+  | ![Ali sinistre](/images/e/e_5013.png) | [Ali sinistre](/it/equipment/Sinister Wings/) | **ATT** | **DIF** | 
+  | ![Armatura leggera sinistra](/images/e/e_5014.png) | [Armatura leggera sinistra](/it/equipment/Sinister Light Armor/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

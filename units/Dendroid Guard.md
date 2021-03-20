@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici."
 unitID: 205
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Guardia Dendroide"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ramo della vitalità](/it/equipment/Ramo della vitalità/) | **ATT** | **DIF** | 
-  | [Corona dell'abbondanza](/it/equipment/Corona dell'abbondanza/) | **PF** | **DIF** | 
-  | [Runa sempreverde](/it/equipment/Runa sempreverde/) | **ATT** | **DIF** | 
-  | [Armatura di liane](/it/equipment/Armatura di liane/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ramo della vitalità](/images/e/e_2051.png) | [Ramo della vitalità](/it/equipment/Branch of Vitality/) | **ATT** | **DIF** | 
+  | ![Corona dell'abbondanza](/images/e/e_2052.png) | [Corona dell'abbondanza](/it/equipment/Bountiful's Crown/) | **PF** | **DIF** | 
+  | ![Runa sempreverde](/images/e/e_2053.png) | [Runa sempreverde](/it/equipment/Evergreen Rune/) | **ATT** | **DIF** | 
+  | ![Armatura di liane](/images/e/e_2054.png) | [Armatura di liane](/it/equipment/Vine's Armor/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

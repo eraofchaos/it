@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
 unitID: 401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Goblin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Mazza chiodata](/it/equipment/Mazza chiodata/) | **ATT** | **DIF** | 
-  | [Cintura di cuoio](/it/equipment/Cintura di cuoio/) | **PF** | **DIF** | 
-  | [Collana d'ossa](/it/equipment/Collana d'ossa/) | **ATT** | **DIF** | 
-  | [Spallacci di cuoio](/it/equipment/Spallacci di cuoio/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Mazza chiodata](/images/e/e_4011.png) | [Mazza chiodata](/it/equipment/Spiked Club/) | **ATT** | **DIF** | 
+  | ![Cintura di cuoio](/images/e/e_4012.png) | [Cintura di cuoio](/it/equipment/Leather Belt/) | **PF** | **DIF** | 
+  | ![Collana d'ossa](/images/e/e_4013.png) | [Collana d'ossa](/it/equipment/Necklace of Bone/) | **ATT** | **DIF** | 
+  | ![Spallacci di cuoio](/images/e/e_4014.png) | [Spallacci di cuoio](/it/equipment/Leather Pauldrons/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

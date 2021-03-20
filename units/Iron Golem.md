@@ -3,7 +3,7 @@ title: "Golem di ferro"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia."
 unitID: 603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Golem di ferro"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Guanti di ferro](/it/equipment/Guanti di ferro/) | **ATT** | **DIF** | 
-  | [Spallacci chiodati](/it/equipment/Spallacci chiodati/) | **PF** | **DIF** | 
-  | [Cuore arcano](/it/equipment/Cuore arcano/) | **ATT** | **DIF** | 
-  | [Corazza di ferro temprato](/it/equipment/Corazza di ferro temprato/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Guanti di ferro](/images/e/e_6031.png) | [Guanti di ferro](/it/equipment/Iron Gauntlets/) | **ATT** | **DIF** | 
+  | ![Spallacci chiodati](/images/e/e_6032.png) | [Spallacci chiodati](/it/equipment/Spiked Pauldrons/) | **PF** | **DIF** | 
+  | ![Cuore arcano](/images/e/e_6033.png) | [Cuore arcano](/it/equipment/Arcane Heart/) | **ATT** | **DIF** | 
+  | ![Corazza di ferro temprato](/images/e/e_6034.png) | [Corazza di ferro temprato](/it/equipment/Hardened Iron Chest Armor/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

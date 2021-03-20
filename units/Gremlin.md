@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati."
 unitID: 601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Gremlin"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Flagello del fulmine](/it/equipment/Flagello del fulmine/) | **ATT** | **DIF** | 
-  | [Cappuccio incantato](/it/equipment/Cappuccio incantato/) | **PF** | **DIF** | 
-  | [Guanti incantati](/it/equipment/Guanti incantati/) | **ATT** | **DIF** | 
-  | [Mantello antivento](/it/equipment/Mantello antivento/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Flagello del fulmine](/images/e/e_6011.png) | [Flagello del fulmine](/it/equipment/Lightning's Flail/) | **ATT** | **DIF** | 
+  | ![Cappuccio incantato](/images/e/e_6012.png) | [Cappuccio incantato](/it/equipment/Enchanted Hood/) | **PF** | **DIF** | 
+  | ![Guanti incantati](/images/e/e_6013.png) | [Guanti incantati](/it/equipment/Enchanted Gloves/) | **ATT** | **DIF** | 
+  | ![Mantello antivento](/images/e/e_6014.png) | [Mantello antivento](/it/equipment/Windproof Cloak/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

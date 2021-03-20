@@ -3,7 +3,7 @@ title: "Giudice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi."
 unitID: 109
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Giudice"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bordone della Teocrazia](/it/equipment/Bordone della Teocrazia/) | **ATT** | **DIF** | 
-  | [Cappuccio celestiale della beatitudine](/it/equipment/Cappuccio celestiale della beatitudine/) | **PF** | **DIF** | 
-  | [Mantello luminoso](/it/equipment/Mantello luminoso/) | **ATT** | **DIF** | 
-  | [Vambrace divino](/it/equipment/Vambrace divino/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bordone della Teocrazia](/images/e/e_1091.png) | [Bordone della Teocrazia](/it/equipment/Staff of Theocracy/) | **ATT** | **DIF** | 
+  | ![Cappuccio celestiale della beatitudine](/images/e/e_1092.png) | [Cappuccio celestiale della beatitudine](/it/equipment/Celestial Hood of Bliss/) | **PF** | **DIF** | 
+  | ![Mantello luminoso](/images/e/e_1093.png) | [Mantello luminoso](/it/equipment/Light Cape/) | **ATT** | **DIF** | 
+  | ![Vambrace divino](/images/e/e_1094.png) | [Vambrace divino](/it/equipment/Divine Vambrace/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

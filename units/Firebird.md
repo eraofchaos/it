@@ -3,7 +3,7 @@ title: "Rapace di fuoco"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
 unitID: 907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Rapace di fuoco"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Becco della fiamma furente](/it/equipment/Becco della fiamma furente/) | **ATT** | **DIF** | 
-  | [Runa della Resurrezione](/it/equipment/Runa della Resurrezione/) | **PF** | **DIF** | 
-  | [Artigli della fiamma furente](/it/equipment/Artigli della fiamma furente/) | **ATT** | **DIF** | 
-  | [Ali arcobaleno](/it/equipment/Ali arcobaleno/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Becco della fiamma furente](/images/e/e_9071.png) | [Becco della fiamma furente](/it/equipment/Beak of Raging Flame/) | **ATT** | **DIF** | 
+  | ![Runa della Resurrezione](/images/e/e_9072.png) | [Runa della Resurrezione](/it/equipment/Rune of Resurrection/) | **PF** | **DIF** | 
+  | ![Artigli della fiamma furente](/images/e/e_9073.png) | [Artigli della fiamma furente](/it/equipment/Claws of Raging Flame/) | **ATT** | **DIF** | 
+  | ![Ali arcobaleno](/images/e/e_9074.png) | [Ali arcobaleno](/it/equipment/Rainbow Feathered Wings/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

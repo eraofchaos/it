@@ -3,7 +3,7 @@ title: "Manticora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Manticora"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Artiglio abissale](/it/equipment/Artiglio abissale/) | **ATT** | **DIF** | 
-  | [Zanna avvelenata](/it/equipment/Zanna avvelenata/) | **PF** | **DIF** | 
-  | [Coda velenosa](/it/equipment/Coda velenosa/) | **ATT** | **DIF** | 
-  | [Ali della Manticora](/it/equipment/Ali della Manticora/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Artiglio abissale](/images/e/e_7061.png) | [Artiglio abissale](/it/equipment/Abyss Claw/) | **ATT** | **DIF** | 
+  | ![Zanna avvelenata](/images/e/e_7062.png) | [Zanna avvelenata](/it/equipment/Fatal Poison Fang/) | **PF** | **DIF** | 
+  | ![Coda velenosa](/images/e/e_7063.png) | [Coda velenosa](/it/equipment/Toxic Tail/) | **ATT** | **DIF** | 
+  | ![Ali della Manticora](/images/e/e_7064.png) | [Ali della Manticora](/it/equipment/Manticore Wings/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

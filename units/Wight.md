@@ -3,7 +3,7 @@ title: "Anima"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Anima"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Artigli spettrali](/it/equipment/Artigli spettrali/) | **ATT** | **DIF** | 
-  | [Armatura leggera funerea](/it/equipment/Armatura leggera funerea/) | **PF** | **DIF** | 
-  | [Anima maledetta](/it/equipment/Anima maledetta/) | **ATT** | **DIF** | 
-  | [Vestito funereo](/it/equipment/Vestito funereo/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Artigli spettrali](/images/e/e_3031.png) | [Artigli spettrali](/it/equipment/Ghostly Claws/) | **ATT** | **DIF** | 
+  | ![Armatura leggera funerea](/images/e/e_3032.png) | [Armatura leggera funerea](/it/equipment/Light Armor of Requiem/) | **PF** | **DIF** | 
+  | ![Anima maledetta](/images/e/e_3033.png) | [Anima maledetta](/it/equipment/Cursed Soul/) | **ATT** | **DIF** | 
+  | ![Vestito funereo](/images/e/e_3034.png) | [Vestito funereo](/it/equipment/Dress of Requiem/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

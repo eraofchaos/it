@@ -3,7 +3,7 @@ title: "Mummia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Mummia"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Tocco immortale](/it/equipment/Tocco immortale/) | **ATT** | **DIF** | 
-  | [Bende antiche](/it/equipment/Bende antiche/) | **PF** | **DIF** | 
-  | [Pupilla dei defunti](/it/equipment/Pupilla dei defunti/) | **ATT** | **DIF** | 
-  | [Soffio mortale](/it/equipment/Soffio mortale/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Tocco immortale](/images/e/e_3081.png) | [Tocco immortale](/it/equipment/Immortal Touch/) | **ATT** | **DIF** | 
+  | ![Bende antiche](/images/e/e_3082.png) | [Bende antiche](/it/equipment/Ancient Bandage/) | **PF** | **DIF** | 
+  | ![Pupilla dei defunti](/images/e/e_3083.png) | [Pupilla dei defunti](/it/equipment/Pupil of the Departed/) | **ATT** | **DIF** | 
+  | ![Soffio mortale](/images/e/e_3084.png) | [Soffio mortale](/it/equipment/Breath of Death/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

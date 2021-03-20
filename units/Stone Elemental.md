@@ -3,7 +3,7 @@ title: "Elementale della pietra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Elementale della pietra è il risultato della fusione di numerosi minerali attraverso l'intervento di processi geologici. È in grado di dividersi in Elementali più piccoli, che continuano imperterriti a combattere."
 unitID: 905
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Elementale della pietra"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Nucleo di magma](/it/equipment/Nucleo di magma/) | **ATT** | **DIF** | 
-  | [Magma esplosivo](/it/equipment/Magma esplosivo/) | **PF** | **DIF** | 
-  | [Pietra del crepuscolo](/it/equipment/Pietra del crepuscolo/) | **ATT** | **DIF** | 
-  | [Corona di pietra](/it/equipment/Corona di pietra/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Nucleo di magma](/images/e/e_9051.png) | [Nucleo di magma](/it/equipment/Core of Magma/) | **ATT** | **DIF** | 
+  | ![Magma esplosivo](/images/e/e_9052.png) | [Magma esplosivo](/it/equipment/Exploding Magma/) | **PF** | **DIF** | 
+  | ![Pietra del crepuscolo](/images/e/e_9053.png) | [Pietra del crepuscolo](/it/equipment/Twilight Stone/) | **ATT** | **DIF** | 
+  | ![Corona di pietra](/images/e/e_9054.png) | [Corona di pietra](/it/equipment/Crown of Stone/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

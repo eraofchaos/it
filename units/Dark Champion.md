@@ -3,7 +3,7 @@ title: "Campione oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime."
 unitID: 309
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Campione oscuro"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Falce del Silenzio](/it/equipment/Falce del Silenzio/) | **ATT** | **DIF** | 
-  | [Elmo pesante della Pre-vita](/it/equipment/Elmo pesante della Pre-vita/) | **PF** | **DIF** | 
-  | [Fuoco salvifico dell'Inferno](/it/equipment/Fuoco salvifico dell'Inferno/) | **ATT** | **DIF** | 
-  | [Scapola di Ade](/it/equipment/Scapola di Ade/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Falce del Silenzio](/images/e/e_3091.png) | [Falce del Silenzio](/it/equipment/Sickle of Silence/) | **ATT** | **DIF** | 
+  | ![Elmo pesante della Pre-vita](/images/e/e_3092.png) | [Elmo pesante della Pre-vita](/it/equipment/Heavy Helm of Pre-life/) | **PF** | **DIF** | 
+  | ![Fuoco salvifico dell'Inferno](/images/e/e_3093.png) | [Fuoco salvifico dell'Inferno](/it/equipment/Salvation Inferno Fire/) | **ATT** | **DIF** | 
+  | ![Scapola di Ade](/images/e/e_3094.png) | [Scapola di Ade](/it/equipment/Hades' Scapula/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

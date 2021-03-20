@@ -3,7 +3,7 @@ title: "Pegaso"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Pegasi sono leggendarie creature silvane. Questi esseri sono compagni fedeli dei più forti tra gli elfi e combattono per preservare la pace nella foresta."
 unitID: 204
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Pegaso"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Chakram spinato](/it/equipment/Chakram spinato/) | **ATT** | **DIF** | 
-  | [Cerchietto sempreverde](/it/equipment/Cerchietto sempreverde/) | **PF** | **DIF** | 
-  | [Guanti di rose](/it/equipment/Guanti di rose/) | **ATT** | **DIF** | 
-  | [Armatura delle Meraviglie](/it/equipment/Armatura delle Meraviglie/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Chakram spinato](/images/e/e_2041.png) | [Chakram spinato](/it/equipment/Thorn's Chakram/) | **ATT** | **DIF** | 
+  | ![Cerchietto sempreverde](/images/e/e_2042.png) | [Cerchietto sempreverde](/it/equipment/Evergreen Circlet/) | **PF** | **DIF** | 
+  | ![Guanti di rose](/images/e/e_2043.png) | [Guanti di rose](/it/equipment/Gauntlets of Roses/) | **ATT** | **DIF** | 
+  | ![Armatura delle Meraviglie](/images/e/e_2044.png) | [Armatura delle Meraviglie](/it/equipment/Armor of Wonder/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

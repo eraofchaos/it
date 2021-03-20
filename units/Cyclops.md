@@ -3,7 +3,7 @@ title: "Ciclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
 unitID: 406
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Ciclope"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Macigno](/it/equipment/Macigno/) | **ATT** | **DIF** | 
-  | [Catene della guerra](/it/equipment/Catene della guerra/) | **PF** | **DIF** | 
-  | [Bracciali chiodati](/it/equipment/Bracciali chiodati/) | **ATT** | **DIF** | 
-  | [Pantaloni di cuoio](/it/equipment/Pantaloni di cuoio/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Macigno](/images/e/e_4061.png) | [Macigno](/it/equipment/Boulder/) | **ATT** | **DIF** | 
+  | ![Catene della guerra](/images/e/e_4062.png) | [Catene della guerra](/it/equipment/Shackles of War/) | **PF** | **DIF** | 
+  | ![Bracciali chiodati](/images/e/e_4063.png) | [Bracciali chiodati](/it/equipment/Spiked Bracers/) | **ATT** | **DIF** | 
+  | ![Pantaloni di cuoio](/images/e/e_4064.png) | [Pantaloni di cuoio](/it/equipment/Leather Trousers/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

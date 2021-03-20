@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
 unitID: 804
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Basilisco"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ala collare del Basilisco](/it/equipment/Ala collare del Basilisco/) | **ATT** | **DIF** | 
-  | [Squama indistruttibile](/it/equipment/Squama indistruttibile/) | **PF** | **DIF** | 
-  | [Artiglio avvelenato](/it/equipment/Artiglio avvelenato/) | **ATT** | **DIF** | 
-  | [Zanna pietrificante](/it/equipment/Zanna pietrificante/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ala collare del Basilisco](/images/e/e_8041.png) | [Ala collare del Basilisco](/it/equipment/Basilisk's Neck Umbrella/) | **ATT** | **DIF** | 
+  | ![Squama indistruttibile](/images/e/e_8042.png) | [Squama indistruttibile](/it/equipment/Adamantine Scale/) | **PF** | **DIF** | 
+  | ![Artiglio avvelenato](/images/e/e_8043.png) | [Artiglio avvelenato](/it/equipment/Poisoned Claw/) | **ATT** | **DIF** | 
+  | ![Zanna pietrificante](/images/e/e_8044.png) | [Zanna pietrificante](/it/equipment/Petrification Fang/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

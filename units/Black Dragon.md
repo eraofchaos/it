@@ -3,7 +3,7 @@ title: "Drago nero"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Drago nero"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Artigli magici di Drago](/it/equipment/Artigli magici di Drago/) | **ATT** | **DIF** | 
-  | [Fuoco devastante](/it/equipment/Fuoco devastante/) | **PF** | **DIF** | 
-  | [Ali oscuranti](/it/equipment/Ali oscuranti/) | **ATT** | **DIF** | 
-  | [Scaglia ferrea](/it/equipment/Scaglia ferrea/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Artigli magici di Drago](/images/e/e_7071.png) | [Artigli magici di Drago](/it/equipment/Magic Dragon Claws/) | **ATT** | **DIF** | 
+  | ![Fuoco devastante](/images/e/e_7072.png) | [Fuoco devastante](/it/equipment/Devastative Fire/) | **PF** | **DIF** | 
+  | ![Ali oscuranti](/images/e/e_7073.png) | [Ali oscuranti](/it/equipment/Sky-blocking Wings/) | **ATT** | **DIF** | 
+  | ![Scaglia ferrea](/images/e/e_7074.png) | [Scaglia ferrea](/it/equipment/Ironclad Scale/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

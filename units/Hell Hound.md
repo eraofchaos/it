@@ -3,7 +3,7 @@ title: "Segugio infernale"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Segugi infernali si scagliano sui nemici con le loro tre terrificanti teste. Lava incandescente scorre sui loro corpi e una scia di fiamme si leva al loro passaggio."
 unitID: 503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Segugio infernale"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Denti ustionanti](/it/equipment/Denti ustionanti/) | **ATT** | **DIF** | 
-  | [Armatura infernale](/it/equipment/Armatura infernale/) | **PF** | **DIF** | 
-  | [Artigli ustionanti](/it/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
-  | [Criniera fiammeggiante](/it/equipment/Criniera fiammeggiante/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Denti ustionanti](/images/e/e_5031.png) | [Denti ustionanti](/it/equipment/Scalding Teeth/) | **ATT** | **DIF** | 
+  | ![Armatura infernale](/images/e/e_5032.png) | [Armatura infernale](/it/equipment/Hellish Armor/) | **PF** | **DIF** | 
+  | ![Artigli ustionanti](/images/e/e_5033.png) | [Artigli ustionanti](/it/equipment/Scalding Claws/) | **ATT** | **DIF** | 
+  | ![Criniera fiammeggiante](/images/e/e_5034.png) | [Criniera fiammeggiante](/it/equipment/Mane of Flame/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Osservatore"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Occhio della blasfemia](/it/equipment/Occhio della blasfemia/) | **ATT** | **DIF** | 
-  | [Pupilla della morte](/it/equipment/Pupilla della morte/) | **PF** | **DIF** | 
-  | [Zanna maligna](/it/equipment/Zanna maligna/) | **ATT** | **DIF** | 
-  | [Tentacoli abissali](/it/equipment/Tentacoli abissali/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Occhio della blasfemia](/images/e/e_7031.png) | [Occhio della blasfemia](/it/equipment/Eye of Blasphemy/) | **ATT** | **DIF** | 
+  | ![Pupilla della morte](/images/e/e_7032.png) | [Pupilla della morte](/it/equipment/Pupil of Death/) | **PF** | **DIF** | 
+  | ![Zanna maligna](/images/e/e_7033.png) | [Zanna maligna](/it/equipment/Evil Tusk/) | **ATT** | **DIF** | 
+  | ![Tentacoli abissali](/images/e/e_7034.png) | [Tentacoli abissali](/it/equipment/Tentacles from the Abyss/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Uomo lucertola"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda."
 unitID: 802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Uomo lucertola"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ala collare appuntita](/it/equipment/Ala collare appuntita/) | **ATT** | **DIF** | 
-  | [Bracciali da guerriero](/it/equipment/Bracciali da guerriero/) | **PF** | **DIF** | 
-  | [Spallacci da guerriero](/it/equipment/Spallacci da guerriero/) | **ATT** | **DIF** | 
-  | [Arco lungo da caccia](/it/equipment/Arco lungo da caccia/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ala collare appuntita](/images/e/e_8021.png) | [Ala collare appuntita](/it/equipment/Spiked Neck Umbrella/) | **ATT** | **DIF** | 
+  | ![Bracciali da guerriero](/images/e/e_8022.png) | [Bracciali da guerriero](/it/equipment/Warrior's Bracers/) | **PF** | **DIF** | 
+  | ![Spallacci da guerriero](/images/e/e_8023.png) | [Spallacci da guerriero](/it/equipment/Warrior's Scapula/) | **ATT** | **DIF** | 
+  | ![Arco lungo da caccia](/images/e/e_8024.png) | [Arco lungo da caccia](/it/equipment/Hunting Longbow/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

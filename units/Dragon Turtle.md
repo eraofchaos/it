@@ -3,7 +3,7 @@ title: "Tartaruga draconica"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, domina i mari più profondi con il suo corpo mastodontico."
 unitID: 9906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Tartaruga draconica"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Denti di Tartaruga draconica](/it/equipment/Denti di Tartaruga draconica/) | **ATT** | **DIF** | 
-  | [Guscio di Testuggine spinata](/it/equipment/Guscio di Testuggine spinata/) | **PF** | **DIF** | 
-  | [Artiglio di Tartaruga draconica](/it/equipment/Artiglio di Tartaruga draconica/) | **ATT** | **DIF** | 
-  | [Coda di Tartaruga draconica](/it/equipment/Coda di Tartaruga draconica/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Denti di Tartaruga draconica](/images/e/e_99061.png) | [Denti di Tartaruga draconica](/it/equipment/Dragon Turtle's Sharp Teeth/) | **ATT** | **DIF** | 
+  | ![Guscio di Testuggine spinata](/images/e/e_99062.png) | [Guscio di Testuggine spinata](/it/equipment/Spiked Tortoise Shell/) | **PF** | **DIF** | 
+  | ![Artiglio di Tartaruga draconica](/images/e/e_99063.png) | [Artiglio di Tartaruga draconica](/it/equipment/Dragon Turtle's Sharp Claw/) | **ATT** | **DIF** | 
+  | ![Coda di Tartaruga draconica](/images/e/e_99064.png) | [Coda di Tartaruga draconica](/it/equipment/Dragon Turtle's Tail/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

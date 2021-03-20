@@ -3,7 +3,7 @@ title: "Veggente di Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore."
 unitID: 9907
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Veggente di Regna"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Scettro Anima oceanica divina](/it/equipment/Scettro Anima oceanica divina/) | **ATT** | **DIF** | 
-  | [Collana mistica di Poseidone](/it/equipment/Collana mistica di Poseidone/) | **PF** | **DIF** | 
-  | [Cerchietto dello Splendore](/it/equipment/Cerchietto dello Splendore/) | **ATT** | **DIF** | 
-  | [Braccialetto nobile](/it/equipment/Braccialetto nobile/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Scettro Anima oceanica divina](/images/e/e_99071.png) | [Scettro Anima oceanica divina](/it/equipment/Divine Scepter of the Ocean's Soul/) | **ATT** | **DIF** | 
+  | ![Collana mistica di Poseidone](/images/e/e_99072.png) | [Collana mistica di Poseidone](/it/equipment/Poseidon's Soul Necklace/) | **PF** | **DIF** | 
+  | ![Cerchietto dello Splendore](/images/e/e_99073.png) | [Cerchietto dello Splendore](/it/equipment/Radiance Headband/) | **ATT** | **DIF** | 
+  | ![Braccialetto nobile](/images/e/e_99074.png) | [Braccialetto nobile](/it/equipment/Noble Bracelet/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

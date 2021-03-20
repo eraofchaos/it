@@ -3,7 +3,7 @@ title: "Drago scheletrico"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Drago scheletrico"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Pungolo d'ossa](/it/equipment/Pungolo d'ossa/) | **ATT** | **DIF** | 
-  | [Teschio di Drago](/it/equipment/Teschio di Drago/) | **PF** | **DIF** | 
-  | [Artigli perforanti](/it/equipment/Artigli perforanti/) | **ATT** | **DIF** | 
-  | [Gemma mistica](/it/equipment/Gemma mistica/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Pungolo d'ossa](/images/e/e_3071.png) | [Pungolo d'ossa](/it/equipment/Bone Spike/) | **ATT** | **DIF** | 
+  | ![Teschio di Drago](/images/e/e_3072.png) | [Teschio di Drago](/it/equipment/Draconic Skull/) | **PF** | **DIF** | 
+  | ![Artigli perforanti](/images/e/e_3073.png) | [Artigli perforanti](/it/equipment/Piercing Claws/) | **ATT** | **DIF** | 
+  | ![Gemma mistica](/images/e/e_3074.png) | [Gemma mistica](/it/equipment/Soul Gem/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

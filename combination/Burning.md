@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Combustione"
 permalink: /combination/Burning/
 excerpt: "Informazioni combinazione - Combustione. Units and Heroes Formation."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Combustione.md"
 toc: false

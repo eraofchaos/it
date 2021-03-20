@@ -3,7 +3,7 @@ title: "Addestratore di squali"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo fatale si aggira per gli oceani in sella a uno squalo e brandendo una scimitarra."
 unitID: 9909
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Addestratore di squali"
 toc: true
@@ -68,12 +68,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Scimitarra d'acciaio](/it/equipment/Scimitarra d'acciaio/) | **ATT** | **DIF** | 
-  | [Cinghia protettiva](/it/equipment/Cinghia protettiva/) | **PF** | **DIF** | 
-  | [Guanti protettivi](/it/equipment/Guanti protettivi/) | **ATT** | **DIF** | 
-  | [Redini per squalo](/it/equipment/Redini per squalo/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Scimitarra d'acciaio](/images/e/e_99091.png) | [Scimitarra d'acciaio](/it/equipment/Steel Scimitar/) | **ATT** | **DIF** | 
+  | ![Cinghia protettiva](/images/e/e_99093.png) | [Cinghia protettiva](/it/equipment/Protective Strap/) | **PF** | **DIF** | 
+  | ![Guanti protettivi](/images/e/e_99092.png) | [Guanti protettivi](/it/equipment/Protective Gloves/) | **ATT** | **DIF** | 
+  | ![Redini per squalo](/images/e/e_99094.png) | [Redini per squalo](/it/equipment/Shark Reins/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

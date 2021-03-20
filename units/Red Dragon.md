@@ -3,7 +3,7 @@ title: "Drago rosso"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Signore Supremo dei Draghi. Il suo ruggito, unico per potenza e solennità, richiama i suoi simili alla battaglia."
 unitID: 708
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Drago rosso"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corno del fuoco rosso](/it/equipment/Corno del fuoco rosso/) | **ATT** | **DIF** | 
-  | [Ali antiche](/it/equipment/Ali antiche/) | **PF** | **DIF** | 
-  | [Artigli ustionanti](/it/equipment/Artigli ustionanti/) | **ATT** | **DIF** | 
-  | [Coda di Drago impetuoso](/it/equipment/Coda di Drago impetuoso/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corno del fuoco rosso](/images/e/e_7081.png) | [Corno del fuoco rosso](/it/equipment/Horn of Red Fire/) | **ATT** | **DIF** | 
+  | ![Ali antiche](/images/e/e_7082.png) | [Ali antiche](/it/equipment/Ancient Wings/) | **PF** | **DIF** | 
+  | ![Artigli ustionanti](/images/e/e_7083.png) | [Artigli ustionanti](/it/equipment/Scalding Claws/) | **ATT** | **DIF** | 
+  | ![Coda di Drago impetuoso](/images/e/e_7084.png) | [Coda di Drago impetuoso](/it/equipment/Vehement Dragon Tail/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

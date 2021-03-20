@@ -2,7 +2,7 @@
 title: "Esclusivo - Testa di Idra"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Testa di Idra. Testa di Idra. Era of Chaos Esclusivo Testa di Idra. Idra Esclusivo."
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Hydra Testa di Idra.md"
 toc: false

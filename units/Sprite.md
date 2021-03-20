@@ -3,7 +3,7 @@ title: "Driade"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Driade"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ghirlanda profumata](/it/equipment/Ghirlanda profumata/) | **ATT** | **DIF** | 
-  | [Abito della Luna e delle Stelle](/it/equipment/Abito della Luna e delle Stelle/) | **PF** | **DIF** | 
-  | [Ali di farfalla luminescenti](/it/equipment/Ali di farfalla luminescenti/) | **ATT** | **DIF** | 
-  | [Fascia di smeraldo](/it/equipment/Fascia di smeraldo/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ghirlanda profumata](/images/e/e_9011.png) | [Ghirlanda profumata](/it/equipment/Fragrant Wreath/) | **ATT** | **DIF** | 
+  | ![Abito della Luna e delle Stelle](/images/e/e_9012.png) | [Abito della Luna e delle Stelle](/it/equipment/Gown of Moon and Stars/) | **PF** | **DIF** | 
+  | ![Ali di farfalla luminescenti](/images/e/e_9013.png) | [Ali di farfalla luminescenti](/it/equipment/Phosphorus Butterfly Wings/) | **ATT** | **DIF** | 
+  | ![Fascia di smeraldo](/images/e/e_9014.png) | [Fascia di smeraldo](/it/equipment/Emerald Arm Ring/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

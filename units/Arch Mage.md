@@ -3,7 +3,7 @@ title: "Arcimago"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Solo gli incantatori più potenti possono fregiarsi del titolo di Mago. I loro incantesimi danno un vantaggio notevole ai loro alleati."
 unitID: 604
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Arcimago"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bordone del Potere mistico](/it/equipment/Bordone del Potere mistico/) | **ATT** | **DIF** | 
-  | [Corona magica di cristallo](/it/equipment/Corona magica di cristallo/) | **PF** | **DIF** | 
-  | [Sfera mistica del Mana](/it/equipment/Sfera mistica del Mana/) | **ATT** | **DIF** | 
-  | [Mantello del Mago](/it/equipment/Mantello del Mago/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bordone del Potere mistico](/images/e/e_6041.png) | [Bordone del Potere mistico](/it/equipment/Long Staff of Mystic Power/) | **ATT** | **DIF** | 
+  | ![Corona magica di cristallo](/images/e/e_6042.png) | [Corona magica di cristallo](/it/equipment/Crystal Crown of Magic/) | **PF** | **DIF** | 
+  | ![Sfera mistica del Mana](/images/e/e_6043.png) | [Sfera mistica del Mana](/it/equipment/Mystic Orb of Mana/) | **ATT** | **DIF** | 
+  | ![Mantello del Mago](/images/e/e_6044.png) | [Mantello del Mago](/it/equipment/Mantle of the Magi/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
 unitID: 607
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Gigante"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Fulmine](/it/equipment/Fulmine/) | **ATT** | **DIF** | 
-  | [Spallacci d'oro puro](/it/equipment/Spallacci d'oro puro/) | **PF** | **DIF** | 
-  | [Elmo del Tuono](/it/equipment/Elmo del Tuono/) | **ATT** | **DIF** | 
-  | [Corazza del fulmine](/it/equipment/Corazza del fulmine/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Fulmine](/images/e/e_6071.png) | [Fulmine](/it/equipment/Thunderbolt/) | **ATT** | **DIF** | 
+  | ![Spallacci d'oro puro](/images/e/e_6072.png) | [Spallacci d'oro puro](/it/equipment/Pauldrons of Pure Gold/) | **PF** | **DIF** | 
+  | ![Elmo del Tuono](/images/e/e_6073.png) | [Elmo del Tuono](/it/equipment/Thunder Helmet/) | **ATT** | **DIF** | 
+  | ![Corazza del fulmine](/images/e/e_6074.png) | [Corazza del fulmine](/it/equipment/Breastplate of Lightning/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

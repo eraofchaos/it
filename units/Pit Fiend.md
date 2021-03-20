@@ -3,7 +3,7 @@ title: "Demone dell'abisso"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Demone dell'abisso"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Frusta infernale](/it/equipment/Frusta infernale/) | **ATT** | **DIF** | 
-  | [Armatura leggera stregata](/it/equipment/Armatura leggera stregata/) | **PF** | **DIF** | 
-  | [Corno stregato](/it/equipment/Corno stregato/) | **ATT** | **DIF** | 
-  | [Spallacci stregati](/it/equipment/Spallacci stregati/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Frusta infernale](/images/e/e_5051.png) | [Frusta infernale](/it/equipment/Hellish Whip/) | **ATT** | **DIF** | 
+  | ![Armatura leggera stregata](/images/e/e_5052.png) | [Armatura leggera stregata](/it/equipment/Charmed Light Armor/) | **PF** | **DIF** | 
+  | ![Corno stregato](/images/e/e_5053.png) | [Corno stregato](/it/equipment/Charmed Horn/) | **ATT** | **DIF** | 
+  | ![Spallacci stregati](/images/e/e_5054.png) | [Spallacci stregati](/it/equipment/Charming Pauldrons/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

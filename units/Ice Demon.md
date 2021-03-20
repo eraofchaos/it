@@ -3,7 +3,7 @@ title: "Demone di ghiaccio"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Demone di ghiaccio è una creatura bizzarra anche per gli standard del Piano di Confluenza. È simile a un blocco di ghiaccio che non può sciogliersi. Con i suoi poteri, può privare della vista e mozzare il respiro. Ricorda i cadaveri sepolti nelle grotte glaciali."
 unitID: 908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Demone di ghiaccio"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ghiaccio antico](/it/equipment/Ghiaccio antico/) | **ATT** | **DIF** | 
-  | [Tocco gelante](/it/equipment/Tocco gelante/) | **PF** | **DIF** | 
-  | [Timone gelido](/it/equipment/Timone gelido/) | **ATT** | **DIF** | 
-  | [Trono di ghiaccio](/it/equipment/Trono di ghiaccio/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ghiaccio antico](/images/e/e_9081.png) | [Ghiaccio antico](/it/equipment/Ancient Ice/) | **ATT** | **DIF** | 
+  | ![Tocco gelante](/images/e/e_9082.png) | [Tocco gelante](/it/equipment/Frost Touch/) | **PF** | **DIF** | 
+  | ![Timone gelido](/images/e/e_9083.png) | [Timone gelido](/it/equipment/Frigid Helm/) | **ATT** | **DIF** | 
+  | ![Trono di ghiaccio](/images/e/e_9084.png) | [Trono di ghiaccio](/it/equipment/Throne of Ice/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

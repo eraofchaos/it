@@ -3,7 +3,7 @@ title: "Leviatano"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Leviatano"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Zanne affilate](/it/equipment/Zanne affilate/) | **ATT** | **DIF** | 
-  | [Pinna congelata](/it/equipment/Pinna congelata/) | **PF** | **DIF** | 
-  | [Coda di mostro marino](/it/equipment/Coda di mostro marino/) | **ATT** | **DIF** | 
-  | [Tentacoli tentatori](/it/equipment/Tentacoli tentatori/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Zanne affilate](/images/e/e_99081.png) | [Zanne affilate](/it/equipment/Sharp Fangs/) | **ATT** | **DIF** | 
+  | ![Pinna congelata](/images/e/e_99082.png) | [Pinna congelata](/it/equipment/Ice-cold Fin/) | **PF** | **DIF** | 
+  | ![Coda di mostro marino](/images/e/e_99083.png) | [Coda di mostro marino](/it/equipment/Sea Monster Tail/) | **ATT** | **DIF** | 
+  | ![Tentacoli tentatori](/images/e/e_99084.png) | [Tentacoli tentatori](/it/equipment/Tentacles of Temptation/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

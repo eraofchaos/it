@@ -3,7 +3,7 @@ title: "Elementale psichico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità nata dalla forza delle idee del mondo materiale. È in grado di colpire direttamente la mente dei propri nemici. Chi non possiede forza mentale sufficiente a resistergli viene risucchiato in una spirale di caos e delirio."
 unitID: 906
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Elementale psichico"
 toc: true
@@ -65,12 +65,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Nucleo della Stella Polare](/it/equipment/Nucleo della Stella Polare/) | **ATT** | **DIF** | 
-  | [Stella divina](/it/equipment/Stella divina/) | **PF** | **DIF** | 
-  | [Corona dello Spirito stellare](/it/equipment/Corona dello Spirito stellare/) | **ATT** | **DIF** | 
-  | [Vambrace possente](/it/equipment/Vambrace possente/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Nucleo della Stella Polare](/images/e/e_9061.png) | [Nucleo della Stella Polare](/it/equipment/Core of the Pole Star/) | **ATT** | **DIF** | 
+  | ![Stella divina](/images/e/e_9062.png) | [Stella divina](/it/equipment/Heavenly Star/) | **PF** | **DIF** | 
+  | ![Corona dello Spirito stellare](/images/e/e_9063.png) | [Corona dello Spirito stellare](/it/equipment/Star Spirit Crown/) | **ATT** | **DIF** | 
+  | ![Vambrace possente](/images/e/e_9064.png) | [Vambrace possente](/it/equipment/Mighty Vambrace/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

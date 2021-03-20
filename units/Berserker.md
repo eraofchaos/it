@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia."
 unitID: 408
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Berserker"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Ascia d'ossidiana](/it/equipment/Ascia d'ossidiana/) | **ATT** | **DIF** | 
-  | [Collana d'ossa](/it/equipment/Collana d'ossa/) | **PF** | **DIF** | 
-  | [Elmo d'ossa di bestia](/it/equipment/Elmo d'ossa di bestia/) | **ATT** | **DIF** | 
-  | [Fascia di cuoio](/it/equipment/Fascia di cuoio/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Ascia d'ossidiana](/images/e/e_4081.png) | [Ascia d'ossidiana](/it/equipment/Obsidian Battle Axe/) | **ATT** | **DIF** | 
+  | ![Collana d'ossa](/images/e/e_4082.png) | [Collana d'ossa](/it/equipment/Necklace of Bone/) | **PF** | **DIF** | 
+  | ![Elmo d'ossa di bestia](/images/e/e_4083.png) | [Elmo d'ossa di bestia](/it/equipment/Beast-boned Helmet/) | **ATT** | **DIF** | 
+  | ![Fascia di cuoio](/images/e/e_4084.png) | [Fascia di cuoio](/it/equipment/Leather Band/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

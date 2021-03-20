@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Ogre"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Bordone testa d'ariete](/it/equipment/Bordone testa d'ariete/) | **ATT** | **DIF** | 
-  | [Cintura del Rituale](/it/equipment/Cintura del Rituale/) | **PF** | **DIF** | 
-  | [Talismano tribale](/it/equipment/Talismano tribale/) | **ATT** | **DIF** | 
-  | [Spallacci del Rituale](/it/equipment/Spallacci del Rituale/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Bordone testa d'ariete](/images/e/e_4041.png) | [Bordone testa d'ariete](/it/equipment/Rams-head Staff/) | **ATT** | **DIF** | 
+  | ![Cintura del Rituale](/images/e/e_4042.png) | [Cintura del Rituale](/it/equipment/Belt of Ritual/) | **PF** | **DIF** | 
+  | ![Talismano tribale](/images/e/e_4043.png) | [Talismano tribale](/it/equipment/Tribal Talisman/) | **ATT** | **DIF** | 
+  | ![Spallacci del Rituale](/images/e/e_4044.png) | [Spallacci del Rituale](/it/equipment/Pauldrons of Ritual/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

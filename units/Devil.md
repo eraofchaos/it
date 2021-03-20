@@ -3,7 +3,7 @@ title: "Diavolo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie."
 unitID: 507
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Diavolo"
 toc: true
@@ -69,12 +69,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Falce diabolica](/it/equipment/Falce diabolica/) | **ATT** | **DIF** | 
-  | [Pentacolo di lava](/it/equipment/Pentacolo di lava/) | **PF** | **DIF** | 
-  | [Guanti di lava](/it/equipment/Guanti di lava/) | **ATT** | **DIF** | 
-  | [Spallacci di lava](/it/equipment/Spallacci di lava/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Falce diabolica](/images/e/e_5071.png) | [Falce diabolica](/it/equipment/Devil's Scythe/) | **ATT** | **DIF** | 
+  | ![Pentacolo di lava](/images/e/e_5072.png) | [Pentacolo di lava](/it/equipment/Molten Pentagram/) | **PF** | **DIF** | 
+  | ![Guanti di lava](/images/e/e_5073.png) | [Guanti di lava](/it/equipment/Gauntlets of Molten Lava/) | **ATT** | **DIF** | 
+  | ![Spallacci di lava](/images/e/e_5074.png) | [Spallacci di lava](/it/equipment/Pauldrons of Molten Lava/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

@@ -3,7 +3,7 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei."
 unitID: 405
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Roc"
 toc: true
@@ -72,12 +72,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Becco del tuono](/it/equipment/Becco del tuono/) | **ATT** | **DIF** | 
-  | [Ali saettanti](/it/equipment/Ali saettanti/) | **PF** | **DIF** | 
-  | [Artigli del fulmine](/it/equipment/Artigli del fulmine/) | **ATT** | **DIF** | 
-  | [Armatura del fulmine](/it/equipment/Armatura del fulmine/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Becco del tuono](/images/e/e_4051.png) | [Becco del tuono](/it/equipment/Beak of Thunder/) | **ATT** | **DIF** | 
+  | ![Ali saettanti](/images/e/e_4052.png) | [Ali saettanti](/it/equipment/Wings of a Thunderbolt/) | **PF** | **DIF** | 
+  | ![Artigli del fulmine](/images/e/e_4053.png) | [Artigli del fulmine](/it/equipment/Claws of Lightning/) | **ATT** | **DIF** | 
+  | ![Armatura del fulmine](/images/e/e_4054.png) | [Armatura del fulmine](/it/equipment/Lightning's armor/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

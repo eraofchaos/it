@@ -3,7 +3,7 @@ title: "Gnomo"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli."
 unitID: 202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Gnomo"
 toc: true
@@ -70,12 +70,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Martello pesante](/it/equipment/Martello pesante/) | **ATT** | **DIF** | 
-  | [Elmo cornuto](/it/equipment/Elmo cornuto/) | **PF** | **DIF** | 
-  | [Guanti del Focolare](/it/equipment/Guanti del Focolare/) | **ATT** | **DIF** | 
-  | [Spallacci del Focolare](/it/equipment/Spallacci del Focolare/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Martello pesante](/images/e/e_2021.png) | [Martello pesante](/it/equipment/Strong Hammer/) | **ATT** | **DIF** | 
+  | ![Elmo cornuto](/images/e/e_2022.png) | [Elmo cornuto](/it/equipment/Horned Helmet/) | **PF** | **DIF** | 
+  | ![Guanti del Focolare](/images/e/e_2023.png) | [Guanti del Focolare](/it/equipment/Gauntlets of Hearth Fire/) | **ATT** | **DIF** | 
+  | ![Spallacci del Focolare](/images/e/e_2024.png) | [Spallacci del Focolare](/it/equipment/Pauldrons of Hearth Fire/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

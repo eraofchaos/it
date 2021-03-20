@@ -3,7 +3,7 @@ title: "Druido"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Druido"
 toc: true
@@ -67,12 +67,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Corona della Tranquillità](/it/equipment/Corona della Tranquillità/) | **ATT** | **DIF** | 
-  | [Antico bordone](/it/equipment/Antico bordone/) | **PF** | **DIF** | 
-  | [Veste della Furia tempestosa](/it/equipment/Veste della Furia tempestosa/) | **ATT** | **DIF** | 
-  | [Stivali alti della foresta](/it/equipment/Stivali alti della foresta/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Corona della Tranquillità](/images/e/e_2081.png) | [Corona della Tranquillità](/it/equipment/Crown of Tranquility/) | **ATT** | **DIF** | 
+  | ![Antico bordone](/images/e/e_2082.png) | [Antico bordone](/it/equipment/Elder Staff/) | **PF** | **DIF** | 
+  | ![Veste della Furia tempestosa](/images/e/e_2083.png) | [Veste della Furia tempestosa](/it/equipment/Robe of Storm Rage/) | **ATT** | **DIF** | 
+  | ![Stivali alti della foresta](/images/e/e_2084.png) | [Stivali alti della foresta](/it/equipment/Thigh Boots of the Forest/) | **PF** | **DIF** | 
 
 ## Esclusivo
 

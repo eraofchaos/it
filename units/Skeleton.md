@@ -3,7 +3,7 @@ title: "Scheletro"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-20
 locale: it
 ref: "Scheletro"
 toc: true
@@ -71,12 +71,12 @@ toc: true
 
 ## Equipaggiamento
 
-  |  Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
-  |:-------------|:-------------:|:------------:|
-  | [Scimitarra blasfema](/it/equipment/Scimitarra blasfema/) | **ATT** | **DIF** | 
-  | [Elmo arrugginito](/it/equipment/Elmo arrugginito/) | **PF** | **DIF** | 
-  | [Scudo blasfemo](/it/equipment/Scudo blasfemo/) | **ATT** | **DIF** | 
-  | [Spallacci arrugginiti](/it/equipment/Spallacci arrugginiti/) | **PF** | **DIF** | 
+  | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
+  |:-:|:-------------|:-------------:|:------------:|
+  | ![Scimitarra blasfema](/images/e/e_3011.png) | [Scimitarra blasfema](/it/equipment/Unholy Scimitar/) | **ATT** | **DIF** | 
+  | ![Elmo arrugginito](/images/e/e_3012.png) | [Elmo arrugginito](/it/equipment/Rusted Helmet/) | **PF** | **DIF** | 
+  | ![Scudo blasfemo](/images/e/e_3013.png) | [Scudo blasfemo](/it/equipment/Unholy Shield/) | **ATT** | **DIF** | 
+  | ![Spallacci arrugginiti](/images/e/e_3014.png) | [Spallacci arrugginiti](/it/equipment/Rusted Pauldrons/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
