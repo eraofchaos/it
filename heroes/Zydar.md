@@ -3,7 +3,7 @@ title: "Zydar"
 permalink: /heroes/Zydar/
 excerpt: "Era of Chaos Zydar. Zydar. Zydar ha passato buona parte della propria vita ad addestrarsi nella magia, diventando un potentissimo stregone prima di farsi un nome come generale. È il più affidabile tra tutti i Demoni."
 heroID: 60901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Zydar"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Cancello fiammeggiante
  **Descrizione:** Crea 1 Portale di fuoco nell'area bersaglio che evoca 3 Folletti di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">. I Folletti rimangono in campo per 20 secondi e hanno <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ATT e <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> PF.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Zydar](/it/heroes/Adjutant Zydar/) 
+
+ **Type:**  Statistiche 
+
+ **Tecnica Aiutante:**  Intelligenza profonda 
+
+ **Descrizione:** Aumenta l'Intelligenza degli eroi alleati di <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Informazioni combinazione
+
+* [Combustione](/it/combination/Combustione/) 
 
 ## HERO Biography
 

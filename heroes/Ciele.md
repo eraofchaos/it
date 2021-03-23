@@ -3,7 +3,7 @@ title: "Ciele"
 permalink: /heroes/Ciele/
 excerpt: "Era of Chaos Ciele. Ciele. Ciele è una generale mai sconfitta in battaglia e una tra le prime eroine a unirsi all'esercito della Confluenza. Grazie alle sue frecce magiche, è stata in grado di scoprire il rapporto che unisce i diversi Elementali magici."
 heroID: 60705
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Ciele"
 toc: true
@@ -43,6 +43,24 @@ toc: true
 ### 4 Spell: Freccia della Terra
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> danni da Terra alle unità nemiche nell'area d'effetto e le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 3 secondi.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Ciele](/it/heroes/Adjutant Ciele/) 
+
+ **Type:**  Incantesimo 
+
+ **Tecnica Aiutante:**  Confluenza inarrestabile 
+
+ **Descrizione:** Riduce la RES magica di tutte le unità nemiche (<span style="color: #48b946;font-size:20px">{(8+0.8*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Folgorazione](/it/combination/Folgorazione/) 
+* [Pietrificazione](/it/combination/Pietrificazione/) 
+* [Rallentamento](/it/combination/Rallentamento/) 
+* [Combustione](/it/combination/Combustione/) 
+* [Silenzio](/it/combination/Silenzio/) 
 
 ## HERO Biography
 

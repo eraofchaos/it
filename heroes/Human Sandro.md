@@ -3,7 +3,7 @@ title: "Sandro (umano)"
 permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Sandro (umano). Sandro (umano). La forma umana di Sandro, un giovane mago giunto per mare da Enroth per studiare come apprendista presso Eric, a Bracada. Le sue vere intenzioni, però, sono nascoste persino ai suoi insegnanti e compagni."
 heroID: 60503
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Human Sandro"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Descrizione:** Evoca un'Ombra della durata di 10 secondi che infligge <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> danni da Terra ogni secondo alle unità nemiche nell'area d'effetto, riducendone la Vel ATT del 30%. Inoltre, aumenta del 30% Vel ATT e assorbimento delle unità Necropoli alleate.
 
 
+## Aiutante
+
+ **Aiutante:**  [Aiutante Sandro (umano)](/it/heroes/Adjutant Human Sandro/) 
+
+ **Type:**  Incantesimo 
+
+ **Tecnica Aiutante:**  Negromanzia proibita 
+
+ **Descrizione:** Aumenta l'effetto degli incantesimi di evocazione di tutti gli eroi alleati (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">); aumenta inoltre la Rid DAN (<span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+  none
 ## HERO Biography
 
 ## HERO Skins

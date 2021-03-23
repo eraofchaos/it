@@ -3,7 +3,7 @@ title: "Jenova"
 permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. Jenova è stata catturata da bambina e venduta come schiava dagli Elfi oscuri. Deve la propria libertà all'intervento di un Unicorno vendicativo. Questo l'ha spinta ad adorare tali misteriose creature della foresta, dedicando loro la propria intera vita. Nessuno conosce gli Unicorni meglio di Jenova, che è in grado di comandare la loro incredibile forza e velocità sul campo di battaglia."
 heroID: 60202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Jenova"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Cuore puro
  **Descrizione:** Evoca 4 Re degli Unicorni di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> nell'area bersaglio. I Re degli Unicorni rimangono in campo per 20 secondi e hanno <span style="color: #48b946;font-size:20px">{1200+320*($sklevel-1)}</span><span style="color: black"> ATT e <span style="color: #48b946;font-size:20px">{5000+2200*($sklevel-1)}</span><span style="color: black"> PF.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Jenova](/it/heroes/Adjutant Jenova/) 
+
+ **Type:**  Statistiche 
+
+ **Tecnica Aiutante:**  Sapienza profonda 
+
+ **Descrizione:** Aumenta la Sapienza degli eroi alleati di <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Informazioni combinazione
+
+* [Cecità](/it/combination/Cecità/) 
+* [Scudo](/it/combination/Scudo/) 
 
 ## HERO Biography
 

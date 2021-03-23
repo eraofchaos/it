@@ -3,7 +3,7 @@ title: "Kendal"
 permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. Un fedele generale al servizio della famiglia reale dell'Erathia. Dalla morte di Re Cuor di Grifone, Morgan Kendal ha assunto il ruolo di sovrintendente, nell'attesa del ritorno del legittimo erede al trono."
 heroID: 60104
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Kendal"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Tattiche d'assalto
  **Descrizione:** Aumenta Vel ATT e resistenza magica delle unità alleate nell'area d'effetto rispettivamente del 30% e 50% per <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> sec. Effetto raddoppiato per le unità da 9 membri.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Kendal](/it/heroes/Adjutant Kendal/) 
+
+ **Type:**  Unità 
+
+ **Tecnica Aiutante:**  Bellicosità 
+
+ **Descrizione:** Le unità d'attacco alleate godono di DAN aumentato (<span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Morale alto](/it/combination/Morale alto/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

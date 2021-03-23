@@ -3,7 +3,7 @@ title: "Korbac"
 permalink: /heroes/Korbac/
 excerpt: "Era of Chaos Korbac. Korbac. Korbac è considerato un eroe nell'Erathia per aver salvato il sapiente Valjean. Qualunque sia la verità, Korbac ha dimostrato il proprio valore combattendo per Tatalia."
 heroID: 61502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Korbac"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Nido di Mosche serpente
  **Descrizione:** Evoca 1 Serpente di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> nell'area bersaglio. Il Serpente rimane in campo per 20 secondi e ha <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ATT e <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> PF.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Korbac](/it/heroes/Adjutant Korbac/) 
+
+ **Type:**  Statistiche 
+
+ **Tecnica Aiutante:**  Attacco profondo 
+
+ **Descrizione:** Aumenta l'ATT degli eroi alleati di <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Informazioni combinazione
+
+* [Morale alto](/it/combination/Morale alto/) 
+* [Rallentamento](/it/combination/Rallentamento/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

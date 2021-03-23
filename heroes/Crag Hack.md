@@ -3,7 +3,7 @@ title: "Crag Hack"
 permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack un tempo era uno sconosciuto eroe di Enroth che aveva deciso di fare vela per l'Erathia. Lì ha trovato una terra devastata dalla guerra, luogo ideale per mettere a frutto le sue abilità."
 heroID: 60602
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Crag Hack"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Brama omicida
  **Descrizione:** Aumenta ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) e assorbimento ({($buffaddattr22+$buffaddattr23*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%) di tutte le unità corpo a corpo alleate per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Crag Hack](/it/heroes/Adjutant Crag Hack/) 
+
+ **Type:**  Unità 
+
+ **Tecnica Aiutante:**  Fino alla morte 
+
+ **Descrizione:** Tutte le unità da mischia alleate godono di Perforazione aumentata di <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Informazioni combinazione
+
+* [Sanguinamento](/it/combination/Sanguinamento/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
    - Quando non deve combattere, Crag Hack ama viaggiare in mare, abbordando navi e razziando porti per soddisfare la sua brama di sangue.

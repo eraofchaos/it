@@ -3,7 +3,7 @@ title: "Lord Haart"
 permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart, il generale tornato dalla morte. Alla testa del suo esercito di non morti, detiene un potere ancora più formidabile di quello che aveva in vita."
 heroID: 60401
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Lord Haart"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Licenza di uccidere
  **Descrizione:** Ordina ai Cavalieri della Morte di infliggere un <span style="color: #48b946;font-size:20px">Attacco critico</span><span style="color: black">. Il danno inflitto è aumentato del 20%. Riduce la DIF del bersaglio di {-($buffaddattr12+$buffaddattr13*($sklevel-1))}<-($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)> per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Lord Haart](/it/heroes/Adjutant Lord Haart/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Aura terrificante 
+
+ **Descrizione:** Le unità Necropoli alleate godono di DAN aumentato (<span style="color: #48b946;font-size:20px">{(2+0.2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Morale basso](/it/combination/Morale basso/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

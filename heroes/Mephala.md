@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Cresciuta come guerriera nell'esercito dell'Erathia, Mephala ha un talento naturale per utilizzare il terreno a proprio vantaggio. Pur preferendo la quiete del suo pacifico villaggio, continua a combattere per proteggere la propria terra. "
 heroID: 60302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Mephala"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Sacra egida
  **Descrizione:** Evoca 1 Scudo protettivo gigantesco che rende le unità alleate immuni a ogni danno per <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Mephala](/it/heroes/Adjutant Mephala/) 
+
+ **Type:**  Unità 
+
+ **Tecnica Aiutante:**  Formazione difensiva 
+
+ **Descrizione:** Le unità di difesa alleate godono di un valore degli <scudi> aumentato di <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+
+## Informazioni combinazione
+
+* [Scudo](/it/combination/Scudo/) 
 
 ## HERO Biography
    - Un tremendo incendio devastava la foresta. Mephala è andata a investigare per scoprirne le cause...

@@ -3,7 +3,7 @@ title: "Monere"
 permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere è nato con l'abilità di comandare Elementali magici e psichici. Il suo apporto come generale è irrinunciabile."
 heroID: 60702
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Monere"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Aura mistica
  **Descrizione:** Evoca un'Aura mistica nell'area bersaglio che infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101)*$talent2+$talent1> danni da Terra alle unità nemiche in un'ampia area e causa <span style="color: #e07c44;font-size:20px">Silenzio</span><span style="color: black"> alle unità nemiche nell'area d'effetto per <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"><($olast11+$olast12*($sklevel-1))/1000*$talent4+$talent3>s.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Monere](/it/heroes/Adjutant Monere/) 
+
+ **Type:**  Statistiche 
+
+ **Tecnica Aiutante:**  Sapienza rovinata 
+
+ **Descrizione:** Riduce la Sapienza degli eroi nemici di <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Informazioni combinazione
+
+* [Rallentamento](/it/combination/Rallentamento/) 
+* [Combustione](/it/combination/Combustione/) 
+* [Silenzio](/it/combination/Silenzio/) 
 
 ## HERO Biography
 

@@ -3,7 +3,7 @@ title: "Dracon"
 permalink: /heroes/Dracon/
 excerpt: "Era of Chaos Dracon. Dracon. Gli Anziani considerano Dracon un vero prodigio nell'arte della magia. Il suo obiettivo è diventare il più famoso ammazzadraghi della storia."
 heroID: 61202
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Dracon"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Clonazione
  **Descrizione:** Clona 1 delle tue unità. Il clone ha <span style="color: #48b946;font-size:20px">{($dupliatk11+$dupliatk12*($sklevel-1))}%</span><span style="color: black"> dell'ATT dell'unità originale e subisce {($duplidmg11+$duplidmg12*($sklevel-1))}% dei danni in più. Durata: 30 secondi.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Dracon](/it/heroes/Adjutant Dracon/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Torre potenziata 
+
+ **Descrizione:** Le unità Torre alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Rallentamento](/it/combination/Rallentamento/) 
 
 ## HERO Biography
 

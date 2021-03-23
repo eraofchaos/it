@@ -3,7 +3,7 @@ title: "Mutare"
 permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Mutare, nuova Signora di Nighon, è in grado fin dalla nascita di comandare i Draghi, un'abilità che la rende pressoché invincibile in battaglia."
 heroID: 61301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Mutare"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Frana
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> danni ogni 0,8 secondi alle unità nemiche nell'area d'effetto. Le unità colpite vengono inoltre <span style="color: #e07c44;font-size:20px">stordite</span><span style="color: black"> per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec. L'effetto dura {$olast11/1000} sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Mutare](/it/heroes/Adjutant Mutare/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Dungeon potenziato 
+
+ **Descrizione:** Le unità Dungeon alleate godono di PF aumentati (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Combustione](/it/combination/Combustione/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

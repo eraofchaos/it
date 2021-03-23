@@ -3,7 +3,7 @@ title: "Kassandra"
 permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. L'incredibile abilità in combattimento di Kassandra deriva dall'educazione spartana ricevuta in gioventù. Dopo essere stata lasciata a morire sul monte Taigeto, ha scelto di diventare una mercenaria."
 heroID: 62001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Kassandra"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1> danni da Fuoco alle unità nemiche in un'ampia area e causa <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black"> e <span style="color: #e07c44;font-size:20px">Stordimento</span><span style="color: black"> per {($bufflast11+$bufflast12*($sklevel-1))/1000} s.
 
 
+## Aiutante
+
+ **Aiutante:**  [Aiutante Kassandra](/it/heroes/Adjutant Kassandra/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Potenza di Leonida 
+
+ **Descrizione:** Quando un eroe nemico lancia un incantesimo di tipo Fuoco, le unità neutrali godono di DIF aumentata (<span style="color: #48b946;font-size:20px">{(0.5+0.5*($sklevel-1))}%</span><span style="color: black">) per 10 secondi.
+
+## Informazioni combinazione
+
+  none
 ## HERO Biography
 
 ## HERO Skins

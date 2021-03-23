@@ -3,7 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan è il più anziano dei generi di Re Tralossk, nonché secondo in linea di successione per il trono. Sono anni ormai che anela al titolo di Re."
 heroID: 61504
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Wystan"
 toc: true
@@ -43,6 +43,23 @@ toc: true
 ### 4 Spell: Pantano
  **Descrizione:** Evoca un <Pantano> nell'area bersaglio; le unità Fortezza alleate in un'ampia area godono di Vel ATT aumentata del <span style="color: #e07c44;font-size:20px">10%</span><span style="color: black"> e recuperano PF pari al <span style="color: #e07c44;font-size:20px">3%</span><span style="color: black"> dei propri PF massimi al secondo; le unità non volanti nemiche hanno Vel ATT ridotta del <span style="color: #e07c44;font-size:20px">30%</span><span style="color: black"> e Vel MOV ridotta di <span style="color: #e07c44;font-size:20px">60</span><span style="color: black"> per {($olast11+$olast12*($sklevel-1))/1000} sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Wystan](/it/heroes/Adjutant Wystan/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Fortezza potenziata 
+
+ **Descrizione:** Le unità Fortezza alleate godono di PF aumentati (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Sanguinamento](/it/combination/Sanguinamento/) 
+* [Malattia](/it/combination/Malattia/) 
+* [Stordimento](/it/combination/Stordimento/) 
+* [Scudo](/it/combination/Scudo/) 
 
 ## HERO Biography
 

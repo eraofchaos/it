@@ -3,7 +3,7 @@ title: "Astral"
 permalink: /heroes/Astral/
 excerpt: "Era of Chaos Astral. Astral. Astral è giunto nell'Erathia circa dieci anni orsono, ed è stato subito accettato dalla Gilda dei Maghi di Bracada. Alcuni sostengono, scherzando, che la sua rapidissima scalata nei ranghi della Gilda sia dovuta anch'essa alla magia."
 heroID: 61203
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Astral"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Terra sfavillante
  **Descrizione:** <span style="color: #e07c44;font-size:20px">&lt;Acceca&gt;</span><span style="color: black"> tutte le unità nemiche riducendone la MIRA di 1000 per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Astral](/it/heroes/Adjutant Astral/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Eruzione magica 
+
+ **Descrizione:** Ogni volta che un eroe alleato lancia un incantesimo, le unità Torre alleate recuperano <span style="color: #48b946;font-size:20px">{(0.5+0.05*($sklevel-1))}%</span><span style="color: black"> dei PF massimi. Recupero: 4 secondi.
+
+## Informazioni combinazione
+
+* [Cecità](/it/combination/Cecità/) 
+* [Silenzio](/it/combination/Silenzio/) 
 
 ## HERO Biography
 

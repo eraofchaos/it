@@ -3,7 +3,7 @@ title: "Erdamon"
 permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, antico Re della Lava, ha dormito per secoli sotto le montagne al confine di Eeofol. Ora si è risvegliato e si è unito all'esercito della Confluenza. Erdamon è pronto a tutto per liberare il mondo dalla minaccia dei Kreegan."
 heroID: 60703
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Erdamon"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Trappola di lava
  **Descrizione:** Evoca una Trappola di lava che infligge <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> danni da Terra alle unità non volanti nemiche nelle vicinanze ogni secondo e le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 0,7 secondi. La trappola dura {$olast11/1000} sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Erdamon](/it/heroes/Adjutant Erdamon/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Confluenza potenziata 
+
+ **Descrizione:** Le unità Confluenza alleate godono di PF aumentati (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Stordimento](/it/combination/Stordimento/) 
+* [Scudo](/it/combination/Scudo/) 
 
 ## HERO Biography
 

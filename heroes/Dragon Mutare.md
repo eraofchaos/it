@@ -3,7 +3,7 @@ title: "Mutare (drago)"
 permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Mutare (drago). Mutare (drago). Dopo aver bevuto dalla Fiala del Sangue di drago, Mutare si è trasformata in un Drago dotato di coscienza umana. Alcuni ipotizzano che tale trasformazione sia un presagio della venuta del Padre dei Draghi."
 heroID: 61302
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Dragon Mutare"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Ruggito di drago
  **Descrizione:** Causa <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black"> a tutte le unità nemiche e infligge danni pari a <span style="color: #48b946;font-size:20px">{($ovaluepro21+$ovaluepro22*($sklevel-1))}%</span><span style="color: black"> dei loro PF massimi ogni 2 secondi per 16 secondi; inoltre, le <span style="color: #e07c44;font-size:20px">stordisce</span><span style="color: black"> per 6 secondi. Alcune unità possono diventare immuni al danno da <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black">; le unità affette da <span style="color: #e07c44;font-size:20px">Sanguinamento</span><span style="color: black"> hanno guarigione ridotta.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Mutare (drago)](/it/heroes/Adjutant Dragon Mutare/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Cerchio dei Draghi 
+
+ **Descrizione:** Quando un eroe nemico lancia un incantesimo, le unità Dungeon alleate godono di DAN aumentato (<span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))}%</span><span style="color: black">) per 5 secondi. Cumulabile fino a 5 volte.
+
+## Informazioni combinazione
+
+* [Sanguinamento](/it/combination/Sanguinamento/) 
+* [Combustione](/it/combination/Combustione/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

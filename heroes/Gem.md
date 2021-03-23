@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem è la più potente delle streghe di Enroth. Ha combattuto entrambe le guerre al servizio di Roland Pugno di Ferro. Dopo l'incoronazione di Roland, Gem si è trasferita definitivamente nell'Erathia."
 heroID: 60304
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Gem"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Pioggia serena
  **Descrizione:** Cura le unità alleate di <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> PF più l'1% dei loro PF massimi per 6 secondi.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Gem](/it/heroes/Adjutant Gem/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Rifugio naturale 
+
+ **Descrizione:** Quando le unità Baluardo alleate ottengono uno <span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black">, il valore degli <scudi> aumenta di <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+
+## Informazioni combinazione
+
+* [Rallentamento](/it/combination/Rallentamento/) 
+* [Scudo](/it/combination/Scudo/) 
 
 ## HERO Biography
 

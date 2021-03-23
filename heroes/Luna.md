@@ -3,7 +3,7 @@ title: "Luna"
 permalink: /heroes/Luna/
 excerpt: "Era of Chaos Luna. Luna. Luna abitava a Enroth quando le giunse notizia che un Elementale si era manifestato nell'Erathia. Convinta di poter carpire da esso incredibili magie, partì per mare per studiarne i segreti."
 heroID: 60701
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Luna"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Terra bruciata
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> danni da Fuoco alle unità nemiche in un'ampia area e infligge <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> danni da Fuoco aggiuntivi ai bersagli affetti da <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black">.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Luna](/it/heroes/Adjutant Luna/) 
+
+ **Type:**  Incantesimo 
+
+ **Tecnica Aiutante:**  Magia di Fuoco potenziata 
+
+ **Descrizione:** Aumenta il DAN degli incantesimi di tipo Fuoco degli eroi alleati (<span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Combustione](/it/combination/Combustione/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

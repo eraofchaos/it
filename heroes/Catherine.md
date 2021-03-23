@@ -3,7 +3,7 @@ title: "Caterina"
 permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Caterina. Caterina. La Regina Caterina ha passato una vita intera sui campi di battaglia dell'Erathia per proteggere il regno fondato da suo padre. La sua guerra finirà solo al calare della Spada dell'Armageddon. "
 heroID: 60102
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Catherine"
 toc: true
@@ -45,6 +45,22 @@ toc: true
 ### 4 Spell: Tormenta
  **Descrizione:** Scatena una Tormenta che infligge danni magici da Acqua per 5 volte (fino a un totale di <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)+(($ovalueadd11+$ovalueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*($olast11/$ointerval))*$talent2+$talent1>) alle unità nemiche in un'ampia area, <span style="color: #e07c44;font-size:20px">rallentandole</span><span style="color: black"> per 8 sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Caterina](/it/heroes/Adjutant Catherine/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Castello potenziato 
+
+ **Descrizione:** Le unità Castello alleate godono di PF aumentati (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Morale alto](/it/combination/Morale alto/) 
+* [Rallentamento](/it/combination/Rallentamento/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
    - Per Caterina, la battaglia più difficile fu anche una delle ultime: la battaglia della Rupe dei Grifoni, durante la quale le sue truppe dovettero affrontare un esercito di demoni. La sua vittoria le aprì la strada per la riconquista del trono.

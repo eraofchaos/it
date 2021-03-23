@@ -3,7 +3,7 @@ title: "Vidomina"
 permalink: /heroes/Vidomina/
 excerpt: "Era of Chaos Vidomina. Vidomina. Nonostante il suo enorme potenziale magico, Vidomina venne espulsa da Bracada quando fu scoperta a utilizzare i propri poteri per trasformare i viventi in non morti. Nell'esilio, si lasciò sopraffare dal suo lato malvagio e intraprese un cammino votato all'oscurità."
 heroID: 60502
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Vidomina"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Esercito di Non morti
  **Descrizione:** Evoca una quantità di Scheletri di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black"> pari al numero di unità nemiche nell'area bersaglio. Gli Scheletri rimangono in campo per 20 secondi e hanno <span style="color: #48b946;font-size:20px">{250+68*($sklevel-1)}</span><span style="color: black"> ATT e <span style="color: #48b946;font-size:20px">{2800+1216*($sklevel-1)}</span><span style="color: black"> PF.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Vidomina](/it/heroes/Adjutant Vidomina/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Necropoli potenziata 
+
+ **Descrizione:** Le unità Necropoli alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Morale basso](/it/combination/Morale basso/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
    - Un esperimento considerato eretico ha aiutato Vidomina a dare un senso alla propria vita...

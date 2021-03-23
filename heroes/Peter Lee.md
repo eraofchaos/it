@@ -3,7 +3,7 @@ title: "Peter Lee"
 permalink: /heroes/Peter Lee/
 excerpt: "Era of Chaos Peter Lee. Peter Lee. Peter Lee è un pirata leggendario che ha sempre dimostrato una predilezione per i tesori e le avventure, più che per i massacri e i saccheggi. Si racconta che, a capo della sua flotta, abbia raggiunto i confini stessi del mondo."
 heroID: 61801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Peter Lee"
 toc: true
@@ -43,6 +43,22 @@ toc: true
 ### 4 Spell: Onde di risacca
  **Descrizione:** Peter Lee parte all'assalto con una nave da guerra che infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent3> danni da Acqua a tutte le unità nemiche. Le unità di difesa subiscono danni magici aggiuntivi pari al 10% dei propri PF massimi.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Peter Lee](/it/heroes/Adjutant Peter Lee/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Baia potenziata 
+
+ **Descrizione:** Le unità Baia alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Morale alto](/it/combination/Morale alto/) 
+* [Rallentamento](/it/combination/Rallentamento/) 
+* [Impedimento](/it/combination/Impedimento/) 
 
 ## HERO Biography
 

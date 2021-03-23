@@ -3,7 +3,7 @@ title: "Kilgor"
 permalink: /heroes/Kilgor/
 excerpt: "Era of Chaos Kilgor. Kilgor. In gioventù, Kilgor sconfisse il proprio padre per conquistare il titolo di capoclan. Da allora, la sua fama non ha fatto che crescere nelle terre di Krewlod. È considerato da molti l'unico guerriero della sua generazione in grado di vincere il Festival della Vita."
 heroID: 60601
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Kilgor"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Volontà incrollabile
  **Descrizione:** Aumenta la Tenacia e il DAN CRIT di tutte le unità alleate rispettivamente di 50 e del 10%. Le unità Roccaforte alleate rigenerano <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"> PF ogni 3 secondi per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Kilgor](/it/heroes/Adjutant Kilgor/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Specialista della guerra 
+
+ **Descrizione:** Le unità Roccaforte alleate godono di DAN aumentato (<span style="color: #48b946;font-size:20px">{(1+0.1*($sklevel-1))}%</span><span style="color: black">) ogni 15 secondi. Cumulabile fino a 4 volte.
+
+## Informazioni combinazione
+
+* [Combustione](/it/combination/Combustione/) 
 
 ## HERO Biography
 

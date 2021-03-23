@@ -3,7 +3,7 @@ title: "Ryland"
 permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland è stato il primo, e finora unico, umano a essere stato accettato dal Circolo degli Elfi Anziani. Si dice scherzando che sia lui stesso un Elfo, reincarnato nel corpo di un umano."
 heroID: 60303
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Ryland"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Preghiera
  **Descrizione:** Cura di <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($olast11/$ointerval)*($a123+$a126+0.4*$a128+0.4*$a131+$a133+$a136)> PF le unità alleate in un'ampia area. L'effetto è raddoppiato per le unità protette da uno <span style="color: #e07c44;font-size:20px">scudo</span><span style="color: black">.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Ryland](/it/heroes/Adjutant Ryland/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Baluardo potenziato 
+
+ **Descrizione:** Le unità Baluardo alleate godono di PF aumentati (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Stordimento](/it/combination/Stordimento/) 
+* [Scudo](/it/combination/Scudo/) 
 
 ## HERO Biography
 

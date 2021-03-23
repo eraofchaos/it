@@ -3,7 +3,7 @@ title: "Rashka"
 permalink: /heroes/Rashka/
 excerpt: "Era of Chaos Rashka. Rashka. Rashka usa il terrore per guidare le proprie truppe alla vittoria. Finora questa tattica si è rivelata straordinariamente efficace."
 heroID: 60802
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Rashka"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Fiamma infernale
  **Descrizione:** Evoca una Spaccatura infernale che infligge <span style="color: #48b946;font-size:20px">{($ovalueadd11+$ovalueadd12*($sklevel-1))}</span><span style="color: black"><($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($ovalueadd11+$ovalueadd12*($sklevel-1))+($ovalueadd11+$ovalueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)*$talent2+$talent1>danni da Fuoco alle unità circostanti ogni 0,5 secondi per {$olast11/1000} sec. Le unità Inferno subiscono danni dimezzati.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Rashka](/it/heroes/Adjutant Rashka/) 
+
+ **Type:**  Incantesimo 
+
+ **Tecnica Aiutante:**  Raptus fiammeggiante 
+
+ **Descrizione:** Aumenta il DAN degli incantesimi di tipo Fuoco degli eroi alleati (<span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Combustione](/it/combination/Combustione/) 
 
 ## HERO Biography
    - Rashka è un ambizioso Signore dell'Inferno. Il suo piano per unificare Eeofol ha avuto inizio nel momento della sconfitta di Xenofex.

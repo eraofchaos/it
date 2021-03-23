@@ -3,7 +3,7 @@ title: "Shiva"
 permalink: /heroes/Shiva/
 excerpt: "Era of Chaos Shiva. Shiva. Shiva è nata da una famiglia dedita da sempre alla domesticazione e l'addestramento dei Roc. Ha rinunciato a questa tradizione per arruolarsi come mercenaria nell'esercito di Krewlod."
 heroID: 60603
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Shiva"
 toc: true
@@ -45,6 +45,21 @@ toc: true
 ### 4 Spell: Tempesta
  **Descrizione:** Evoca una Tempesta nell'area bersaglio che infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$sumnum}</span><span style="color: black"><(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum+(($valueadd11+$valueadd12*($sklevel-1))*$sumnum)*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria ogni 0,5 secondi a tutte le unità nell'area d'effetto e ne riduce la Vel ATT del 15% per {$olast11/1000} sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Shiva](/it/heroes/Adjutant Shiva/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Roccaforte potenziata 
+
+ **Descrizione:** Le unità Roccaforte alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Combustione](/it/combination/Combustione/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

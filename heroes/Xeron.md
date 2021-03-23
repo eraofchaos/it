@@ -3,7 +3,7 @@ title: "Xeron"
 permalink: /heroes/Xeron/
 excerpt: "Era of Chaos Xeron. Xeron. Quando Lucifer Kreegan uccise Xenofex per prendere il potere, Xeron fu il primo a giurare fedeltà all'usurpatore. Questo gli fece guadagnare immediatamente il favore del nuovo Re."
 heroID: 60801
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Xeron"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Eco dell'abisso
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101> danni da Fuoco alle unità nemiche nell'area d'effetto ed evoca 1 Diavolo di liv. <span style="color: #48b946;font-size:20px">{$sklevel}</span><span style="color: black">, che ha <span style="color: #48b946;font-size:20px">{15500+4250*($sklevel-1)}</span><span style="color: black"> ATT ed è immune a tutti i danni. Il Diavolo rimane in campo per 10 secondi.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Xeron](/it/heroes/Adjutant Xeron/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Anima in fiamme 
+
+ **Descrizione:** Quando le unità Inferno alleate affrontano unità affette da <span style="color: #e07c44;font-size:20px">&lt;Combustione&gt;</span><span style="color: black">, godono di DAN aumentato (<span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Combustione](/it/combination/Combustione/) 
 
 ## HERO Biography
 

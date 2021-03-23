@@ -3,7 +3,7 @@ title: "Sandro"
 permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro è un negromante che ha esplorato ogni angolo di Enroth e dell'Erathia. Attualmente combatte per Finneas Vilmar, Signore dei negromanti di Deyja."
 heroID: 60501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Sandro"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Momenti bui
  **Descrizione:** Infligge danni da Terra pari a <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> più il 5% dei PF massimi a tutte le unità non Necropoli nemiche e applica <span style="color: #e07c44;font-size:20px">Morale basso</span><span style="color: black"> per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec. Inoltre, le unità Necropoli alleate recuperano PF pari a <span style="color: #48b946;font-size:20px">{($valueadd21+$valueadd22*($sklevel-1))}</span><span style="color: black"><($valueadd21+$valueadd22*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101>, e subiscono <span style="color: #e07c44;font-size:20px">Morale basso</span><span style="color: black">.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Sandro](/it/heroes/Adjutant Sandro/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Invasione oscura 
+
+ **Descrizione:** Quando tutte le unità soffrono di <span style="color: #e07c44;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black">, la Rid DAN si riduce (<span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Morale basso](/it/combination/Morale basso/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
    - Sandro, ottenuti il Mantello del Re Non Morto e l'Armatura dei Dannati, ha deciso di tornare a Deyja...

@@ -3,7 +3,7 @@ title: "Mullich"
 permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. L'autocontrollo e la disciplina di Sir Mullich sono ormai leggendari. Le sue truppe sono note per la loro velocità fulminea, risultato delle sue speciali tattiche di addestramento."
 heroID: 60101
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Mullich"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Blocco temporale
  **Descrizione:** Evoca una distorsione temporale che immobilizza le unità nemiche nell'area d'effetto per <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Mullich](/it/heroes/Adjutant Mullich/) 
+
+ **Type:**  Unità 
+
+ **Tecnica Aiutante:**  Oltre le linee nemiche 
+
+ **Descrizione:** All'inizio della battaglia, le unità d'incursione godono di Rid DAN aumentata (<span style="color: #48b946;font-size:20px">{(4+0.4*($sklevel-1))}%</span><span style="color: black">) per 20 secondi.
+
+## Informazioni combinazione
+
+* [Morale alto](/it/combination/Morale alto/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
    - Mullich è stato nominato cavaliere in una locanda...

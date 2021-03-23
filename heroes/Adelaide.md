@@ -3,7 +3,7 @@ title: "Adelaide"
 permalink: /heroes/Adelaide/
 excerpt: "Era of Chaos Adelaide. Adelaide. Rimasta sola dopo un tremendo naufragio, la giovane Adelaide si ritrovò dispersa nelle terre degli Elfi delle nevi. Quando decise di tornare nell'Erathia dopo venti lunghi anni di addestramento presso i suoi salvatori, era ormai diventata la maga più potente del Regno."
 heroID: 60001
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Adelaide"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Anello congelante
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a123+$a126+$a128+$a131)+$a101)*$talent2+$talent1>danni da Acqua alle unità nemiche in un'ampia area e <span style="color: #e07c44;font-size:20px">congela</span><span style="color: black"> le unità <span style="color: #e07c44;font-size:20px">rallentate</span><span style="color: black"> per 5 sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Adelaide](/it/heroes/Adjutant Adelaide/) 
+
+ **Type:**  Incantesimo 
+
+ **Tecnica Aiutante:**  Magia d'Acqua potenziata 
+
+ **Descrizione:** Aumenta il DAN degli incantesimi di tipo Acqua degli eroi alleati (<span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Rallentamento](/it/combination/Rallentamento/) 
+* [Congelamento](/it/combination/Congelamento/) 
 
 ## HERO Biography
 

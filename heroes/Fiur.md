@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Pur giovane e privo di vera esperienza, Fiur ha un potere senza eguali. Si pensa che col tempo diventerà uno degli eroi più potenti della Confluenza."
 heroID: 60704
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Fiur"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Eruzione fiammeggiante
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a122+$a126+$a127+$a131)+$a101)> danni da Fuoco alle unità nemiche in un'ampia area; inoltre, infligge danni da Fuoco aggiuntivi pari al 35% dei PF massimi ai bersagli affetti da <span style="color: #e07c44;font-size:20px">Combustione</span><span style="color: black">.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Fiur](/it/heroes/Adjutant Fiur/) 
+
+ **Type:**  Statistiche 
+
+ **Tecnica Aiutante:**  Intelligenza rovinata 
+
+ **Descrizione:** Riduce l'Intelligenza degli eroi nemici di <span style="color: #48b946;font-size:20px">{(20+2*($sklevel-1))}</span><span style="color: black">.
+
+## Informazioni combinazione
+
+* [Combustione](/it/combination/Combustione/) 
 
 ## HERO Biography
 

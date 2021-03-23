@@ -3,7 +3,7 @@ title: "Solmyr"
 permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr ha vissuto intrappolato in una lampada magica per più di mille anni. Ha giurato fedeltà eterna al proprio salvatore Gavin Magnus, immortale dominatore delle Highlands di Bracada."
 heroID: 61201
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Solmyr"
 toc: true
@@ -43,6 +43,20 @@ toc: true
 ### 4 Spell: Catena di luce
  **Descrizione:** Scaglia un fulmine che rimbalza tra 5 unità nemiche. Ogni rimbalzo infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> danni da Aria.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Solmyr](/it/heroes/Adjutant Solmyr/) 
+
+ **Type:**  Incantesimo 
+
+ **Tecnica Aiutante:**  Magia d'Aria potenziata 
+
+ **Descrizione:** Aumenta il DAN degli incantesimi di tipo Aria degli eroi alleati (<span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Folgorazione](/it/combination/Folgorazione/) 
 
 ## HERO Biography
    - Una nuova consapevolezza ha preso forma nel Dedalo della Mente...

@@ -3,7 +3,7 @@ title: "Tazar"
 permalink: /heroes/Tazar/
 excerpt: "Era of Chaos Tazar. Tazar. Durante la guerra di confine con Krewlod, Tazar ha condotto una piccola armata all'avamposto di Tatalia e frenato l'avanzata dell'esercito Krewlod, cinque volte più numeroso del suo, per ben otto giorni fino all'arrivo dei rinforzi."
 heroID: 61501
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Tazar"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Scontro mortale
  **Descrizione:** Tutte le unità sul campo di battaglia ottengono 2 debuff casuali che non possono essere rimossi. I debuff infliggono danni doppi alle unità nemiche. Le unità Fortezza alleate ottengono il 10% di assorbimento per <span style="color: #48b946;font-size:20px">{($olast11+$olast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Tazar](/it/heroes/Adjutant Tazar/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Pestilenza aggravata 
+
+ **Descrizione:** Riduce le cure ricevute da tutte le unità (<span style="color: #48b946;font-size:20px">{(5+0.5*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Pietrificazione](/it/combination/Pietrificazione/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

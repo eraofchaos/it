@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth è l'unica strega conosciuta di Antagarich. Si dice sia la figlia illegittima di Re Cuor di Grifone."
 heroID: 61402
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Sephinroth"
 toc: true
@@ -43,6 +43,21 @@ toc: true
 ### 4 Spell: Terra cristallizzata
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a125+$a126+$a130+$a131)+$a101> danni da Terra alle unità nemiche non <span style="color: #e07c44;font-size:20px">pietrificate</span><span style="color: black"> in un'ampia area e le <span style="color: #e07c44;font-size:20px">pietrifica</span><span style="color: black"> per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec. Infligge danni doppi alle unità nemiche <span style="color: #e07c44;font-size:20px">pietrificate</span><span style="color: black">.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Sephinroth](/it/heroes/Adjutant Sephinroth/) 
+
+ **Type:**  Statistiche 
+
+ **Tecnica Aiutante:**  Magia di Terra potenziata 
+
+ **Descrizione:** Aumenta il DAN degli incantesimi di tipo Terra degli eroi alleati (<span style="color: #48b946;font-size:20px">{(10+1*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Pietrificazione](/it/combination/Pietrificazione/) 
+* [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
 

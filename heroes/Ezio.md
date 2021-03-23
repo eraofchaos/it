@@ -3,7 +3,7 @@ title: "Ezio"
 permalink: /heroes/Ezio/
 excerpt: "Era of Chaos Ezio. Ezio. Pur disperso in un mondo sconosciuto, Ezio non perde di vista le proprie convinzioni. Continua ad agire nell'ombra per servire la luce."
 heroID: 61901
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Ezio"
 toc: true
@@ -44,6 +44,19 @@ toc: true
  **Descrizione:** Applica <span style="color: #e07c44;font-size:20px">Occhio di Falco</span><span style="color: black"> a tutte le unità alleate, aumentando CRIT e MIRA di 900 per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
 
+## Aiutante
+
+ **Aiutante:**  [Aiutante Ezio](/it/heroes/Adjutant Ezio/) 
+
+ **Type:**  Fazione 
+
+ **Tecnica Aiutante:**  Nulla è reale 
+
+ **Descrizione:** Quando un eroe alleato lancia un incantesimo d'attacco, le unità neutrali godono di DAN CRIT aumentato (<span style="color: #48b946;font-size:20px">{(9+1*($sklevel-1))}%</span><span style="color: black">) per 10 secondi.
+
+## Informazioni combinazione
+
+  none
 ## HERO Biography
 
 ## HERO Skins

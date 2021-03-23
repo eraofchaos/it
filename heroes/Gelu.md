@@ -3,7 +3,7 @@ title: "Gelu"
 permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu il Mezzelfo è il più famoso guerriero dell'Erathia. Il suo talento per la distruzione è stato scoperto dal generale Morgan Kendal mentre serviva nell'esercito della Regina Caterina."
 heroID: 60301
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-23
 locale: it
 ref: "Gelu"
 toc: true
@@ -45,6 +45,20 @@ toc: true
 ### 4 Spell: Frenesia
  **Descrizione:** Sacrifica il 30% dei PF massimi delle unità alleate in un'ampia area (non infligge danni letali) per aumentarne la Vel ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%,) per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
 
+
+## Aiutante
+
+ **Aiutante:**  [Aiutante Gelu](/it/heroes/Adjutant Gelu/) 
+
+ **Type:**  Unità 
+
+ **Tecnica Aiutante:**  Attacco di precisione 
+
+ **Descrizione:** Le unità a distanza alleate godono di DAN CRIT aumentato (<span style="color: #48b946;font-size:20px">{(3+0.3*($sklevel-1))}%</span><span style="color: black">).
+
+## Informazioni combinazione
+
+* [Rallentamento](/it/combination/Rallentamento/) 
 
 ## HERO Biography
    - Gelu è stato un eccellente esploratore fin da giovane; con l'età il suo talento non ha fatto che aumentare.
