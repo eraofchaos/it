@@ -2,7 +2,7 @@
 title: "Formazione di battaglia "
 permalink: /Battle Formation/
 excerpt: "Formazione di battaglia.Le fazioni hanno un potenziale e caratteristiche ben distinte. Attiva la formazione di battaglia per svelare il tuo potere latente."
-last_modified_at: 2021-03-02
+last_modified_at: 2021-03-23
 locale: it
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
 
 ## Formazione di battaglia by Fazione: 
 
-  [Castello](/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Baluardo](/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Roccaforte](/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Necropoli](/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Inferno](/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Torre](/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Dungeon](/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Fortezza](/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Confluenza](/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Baia](/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
+  [Castello](/it/Battle Formation/Battle Formation Faction Castle){: .btn .btn--primary} [Baluardo](/it/Battle Formation/Battle Formation Faction Rampart){: .btn .btn--success} [Roccaforte](/it/Battle Formation/Battle Formation Faction Stronghold){: .btn .btn--warning} [Necropoli](/it/Battle Formation/Battle Formation Faction Necropolis){: .btn .btn--danger} [Inferno](/it/Battle Formation/Battle Formation Faction Inferno){: .btn .btn--info} [Torre](/it/Battle Formation/Battle Formation Faction Tower){: .btn .btn--primary} [Dungeon](/it/Battle Formation/Battle Formation Faction Dungeon){: .btn .btn--success} [Fortezza](/it/Battle Formation/Battle Formation Faction Fortress){: .btn .btn--warning} [Confluenza](/it/Battle Formation/Battle Formation Faction Conflux){: .btn .btn--danger} [Baia](/it/Battle Formation/Battle Formation Faction Cove){: .btn .btn--info} 
 
 ## Regole
 
