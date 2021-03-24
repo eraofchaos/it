@@ -2,7 +2,7 @@
 title: "Cintura del Rituale"
 permalink: /equipment/Belt of Ritual/
 excerpt: "Era of Chaos Cintura del Rituale. Cintura del Rituale"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Belt of Ritual.md"
 toc: false

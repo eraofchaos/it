@@ -2,7 +2,7 @@
 title: "Teschio di Drago"
 permalink: /equipment/Draconic Skull/
 excerpt: "Era of Chaos Teschio di Drago. Teschio di Drago"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Draconic Skull.md"
 toc: false

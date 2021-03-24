@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Cecità"
 permalink: /combination/Blind/
 excerpt: "Informazioni combinazione - Cecità. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Cecità.md"
 toc: false
@@ -16,12 +16,12 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Unicorno](/units/Unicorno/) | [Astral](/heroes/Astral/) |
+  | 1 | [Unicorno](/it/units/Unicorn/) | [Astral](/it/heroes/Astral/) |
 
 
 #### Unità ed eroi che infliggono danni extra contro unità affette da <Cecità>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | [Jenova](/heroes/Jenova/) |
-  | 2 | [Mosca serpente](/units/Mosca serpente/) | [Astral](/heroes/Astral/) |
+  | 1 | [Gorgone](/it/units/Gorgon/) | [Jenova](/it/heroes/Jenova/) |
+  | 2 | [Mosca serpente](/it/units/Serpent Fly/) | [Astral](/it/heroes/Astral/) |

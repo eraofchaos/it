@@ -2,7 +2,7 @@
 title: "Fuoco salvifico dell'Inferno"
 permalink: /equipment/Salvation Inferno Fire/
 excerpt: "Era of Chaos Fuoco salvifico dell'Inferno. Fuoco salvifico dell'Inferno"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Salvation Inferno Fire.md"
 toc: false

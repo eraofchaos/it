@@ -2,7 +2,7 @@
 title: "Spallacci da guerriero"
 permalink: /equipment/Warrior's Scapula/
 excerpt: "Era of Chaos Spallacci da guerriero. Spallacci da guerriero"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Warrior's Scapula.md"
 toc: false

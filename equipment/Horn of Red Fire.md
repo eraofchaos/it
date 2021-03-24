@@ -2,7 +2,7 @@
 title: "Corno del fuoco rosso"
 permalink: /equipment/Horn of Red Fire/
 excerpt: "Era of Chaos Corno del fuoco rosso. Corno del fuoco rosso"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Horn of Red Fire.md"
 toc: false

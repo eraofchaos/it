@@ -2,7 +2,7 @@
 title: "Sfonda-corazza"
 permalink: /equipment/Breach Armor/
 excerpt: "Era of Chaos Sfonda-corazza. Sfonda-corazza"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Breach Armor.md"
 toc: false

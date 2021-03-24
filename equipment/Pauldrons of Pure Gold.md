@@ -2,7 +2,7 @@
 title: "Spallacci d'oro puro"
 permalink: /equipment/Pauldrons of Pure Gold/
 excerpt: "Era of Chaos Spallacci d'oro puro. Spallacci d'oro puro"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Pauldrons of Pure Gold.md"
 toc: false

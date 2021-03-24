@@ -2,7 +2,7 @@
 title: "Machete del Licantropo"
 permalink: /equipment/Werewolf's Machete/
 excerpt: "Era of Chaos Machete del Licantropo. Machete del Licantropo"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Werewolf's Machete.md"
 toc: false

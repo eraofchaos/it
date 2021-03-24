@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Sanguinamento"
 permalink: /combination/Bleeding/
 excerpt: "Informazioni combinazione - Sanguinamento. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Sanguinamento.md"
 toc: false
@@ -16,27 +16,27 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Centauro](/units/Centauro/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Pegaso](/units/Pegaso/) | [Mutare (drago)](/heroes/Mutare (drago)/) |
-  | 3 | [Orco](/units/Orco/) | [Wystan](/heroes/Wystan/) |
-  | 4 | [Guardia Dendroide](/units/Guardia Dendroide/) | - |
-  | 5 | [Behemoth](/units/Behemoth/) | - |
-  | 6 | [Segugio infernale](/units/Segugio infernale/) | - |
-  | 7 | [Minotauro](/units/Minotauro/) | - |
-  | 8 | [Erbavespa](/units/Erbavespa/) | - |
-  | 9 | [Campione oscuro](/units/Campione oscuro/) | - |
+  | 1 | [Centauro](/it/units/Centaur/) | [Crag Hack](/it/heroes/Crag Hack/) |
+  | 2 | [Pegaso](/it/units/Pegasus/) | [Mutare (drago)](/it/heroes/Dragon Mutare/) |
+  | 3 | [Orco](/it/units/Orc/) | [Wystan](/it/heroes/Wystan/) |
+  | 4 | [Guardia Dendroide](/it/units/Dendroid Guard/) | - |
+  | 5 | [Behemoth](/it/units/Behemoth/) | - |
+  | 6 | [Segugio infernale](/it/units/Hell Hound/) | - |
+  | 7 | [Minotauro](/it/units/Minotaur/) | - |
+  | 8 | [Erbavespa](/it/units/Waspwort/) | - |
+  | 9 | [Campione oscuro](/it/units/Dark Champion/) | - |
 
 
 #### Unità ed eroi che infliggono danni extra contro unità affette da <Sanguinamento>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Drago verde](/units/Drago verde/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 2 | [Segugio infernale](/units/Segugio infernale/) | [Mutare (drago)](/heroes/Mutare (drago)/) |
-  | 3 | [Lich](/units/Lich/) | - |
-  | 4 | [Morto vivente](/units/Morto vivente/) | - |
-  | 5 | [Medusa](/units/Medusa/) | - |
-  | 6 | [Troglodita](/units/Troglodita/) | - |
-  | 7 | [Uomo lucertola](/units/Uomo lucertola/) | - |
-  | 8 | [Gorgone](/units/Gorgone/) | - |
-  | 9 | [Mosca serpente](/units/Mosca serpente/) | - |
+  | 1 | [Drago verde](/it/units/Green Dragon/) | [Crag Hack](/it/heroes/Crag Hack/) |
+  | 2 | [Segugio infernale](/it/units/Hell Hound/) | [Mutare (drago)](/it/heroes/Dragon Mutare/) |
+  | 3 | [Lich](/it/units/Lich/) | - |
+  | 4 | [Morto vivente](/it/units/Walking Dead/) | - |
+  | 5 | [Medusa](/it/units/Medusa/) | - |
+  | 6 | [Troglodita](/it/units/Troglodyte/) | - |
+  | 7 | [Uomo lucertola](/it/units/Lizardman/) | - |
+  | 8 | [Gorgone](/it/units/Gorgon/) | - |
+  | 9 | [Mosca serpente](/it/units/Serpent Fly/) | - |

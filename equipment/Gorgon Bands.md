@@ -2,7 +2,7 @@
 title: "Fascia della Gorgone"
 permalink: /equipment/Gorgon Bands/
 excerpt: "Era of Chaos Fascia della Gorgone. Fascia della Gorgone"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Gorgon Bands.md"
 toc: false

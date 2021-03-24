@@ -15,12 +15,12 @@ classes: wide
 
   |  Nr  | Supporto campo di battaglia | Open Level | Tecnica speciale | Tecnica campo di battaglia | Tecnica globale |
   |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Assalto caric.](/it/Backup/Assalto caric./) |  | Assalto caricato | Tempesta letale | Avanguardia |
-  | 2  | [Benedizione di Luna](/it/Backup/Benedizione di Luna/) | 80 | Benedizione di Luna | Cura | Fonte di energia |
-  | 3  | [Attacco del Mietitore](/it/Backup/Attacco del Mietitore/) | 85 | Attacco del Mietitore | Urto | Erudizione |
-  | 4  | [Coercizione artica](/it/Backup/Coercizione artica/) | 89 | Coercizione artica | Energia dirompente | Nutrimento |
-  | 5  | [Cerchio magico](/it/Backup/Cerchio magico/) | 93 | Cerchio magico | Campo di energia | Incandescenza |
-  | 6  | [Caccia silvana](/it/Backup/Caccia silvana/) | 97 | Caccia silvana | Incentivo | Rafforzamento |
+  | 1  | [Assalto caric.](/it/Backup/Charge Offensive/) |  | Assalto caricato | Tempesta letale | Avanguardia |
+  | 2  | [Benedizione di Luna](/it/Backup/Blessing of Luna/) | 80 | Benedizione di Luna | Cura | Fonte di energia |
+  | 3  | [Attacco del Mietitore](/it/Backup/Scythe of the Death/) | 85 | Attacco del Mietitore | Urto | Erudizione |
+  | 4  | [Coercizione artica](/it/Backup/Arctic Coercion/) | 89 | Coercizione artica | Energia dirompente | Nutrimento |
+  | 5  | [Cerchio magico](/it/Backup/Spell Commandment/) | 93 | Cerchio magico | Campo di energia | Incandescenza |
+  | 6  | [Caccia silvana](/it/Backup/Hunt in the Forest/) | 97 | Caccia silvana | Incentivo | Rafforzamento |
 
 
 ## Tecnica speciale Level up costs:

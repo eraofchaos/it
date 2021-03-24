@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Stordimento"
 permalink: /combination/Stun/
 excerpt: "Informazioni combinazione - Stordimento. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Stordimento.md"
 toc: false
@@ -16,33 +16,33 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Angelo](/units/Angelo/) | [Kendal](/heroes/Kendal/) |
-  | 2 | [Picchiere](/units/Picchiere/) | [Ryland](/heroes/Ryland/) |
-  | 3 | [Catafratto](/units/Catafratto/) | [Mullich](/heroes/Mullich/) |
-  | 4 | [Gnomo](/units/Gnomo/) | [Caterina](/heroes/Caterina/) |
-  | 5 | [Behemoth](/units/Behemoth/) | [Lord Haart](/heroes/Lord Haart/) |
-  | 6 | [Ciclope](/units/Ciclope/) | [Sandro](/heroes/Sandro/) |
-  | 7 | [Folletto](/units/Folletto/) | [Vidomina](/heroes/Vidomina/) |
-  | 8 | [Gremlin](/units/Gremlin/) | [Crag Hack](/heroes/Crag Hack/) |
-  | 9 | [Elementale psichico](/units/Elementale psichico/) | [Shiva](/heroes/Shiva/) |
-  | 10 | [Elementale della pietra](/units/Elementale della pietra/) | [Luna](/heroes/Luna/) |
-  | 11 | [Troglodita](/units/Troglodita/) | [Erdamon](/heroes/Erdamon/) |
-  | 12 | [Gnoll](/units/Gnoll/) | [Mutare (drago)](/heroes/Mutare (drago)/) |
-  | 13 | [Tartaruga draconica](/units/Tartaruga draconica/) | [Mutare](/heroes/Mutare/) |
-  | 14 | [Erbavespa](/units/Erbavespa/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 15 | [Giudice](/units/Giudice/) | [Jeddite](/heroes/Jeddite/) |
-  | 16 | [Golem draconico](/units/Golem draconico/) | [Tazar](/heroes/Tazar/) |
-  | 17 | - | [Korbac](/heroes/Korbac/) |
-  | 18 | - | [Wystan](/heroes/Wystan/) |
-  | 19 | - | [Ciele](/heroes/Ciele/) |
+  | 1 | [Angelo](/it/units/Angel/) | [Kendal](/it/heroes/Kendal/) |
+  | 2 | [Picchiere](/it/units/Pikeman/) | [Ryland](/it/heroes/Ryland/) |
+  | 3 | [Catafratto](/it/units/Cavalier /) | [Mullich](/it/heroes/Mullich/) |
+  | 4 | [Gnomo](/it/units/Dwarf/) | [Caterina](/it/heroes/Catherine/) |
+  | 5 | [Behemoth](/it/units/Behemoth/) | [Lord Haart](/it/heroes/Lord Haart/) |
+  | 6 | [Ciclope](/it/units/Cyclops/) | [Sandro](/it/heroes/Sandro/) |
+  | 7 | [Folletto](/it/units/Imp/) | [Vidomina](/it/heroes/Vidomina/) |
+  | 8 | [Gremlin](/it/units/Gremlin/) | [Crag Hack](/it/heroes/Crag Hack/) |
+  | 9 | [Elementale psichico](/it/units/Psychic Elemental/) | [Shiva](/it/heroes/Shiva/) |
+  | 10 | [Elementale della pietra](/it/units/Stone Elemental/) | [Luna](/it/heroes/Luna/) |
+  | 11 | [Troglodita](/it/units/Troglodyte/) | [Erdamon](/it/heroes/Erdamon/) |
+  | 12 | [Gnoll](/it/units/Gnoll/) | [Mutare (drago)](/it/heroes/Dragon Mutare/) |
+  | 13 | [Tartaruga draconica](/it/units/Dragon Turtle/) | [Mutare](/it/heroes/Mutare/) |
+  | 14 | [Erbavespa](/it/units/Waspwort/) | [Sephinroth](/it/heroes/Sephinroth/) |
+  | 15 | [Giudice](/it/units/Judicator/) | [Jeddite](/it/heroes/Jeddite/) |
+  | 16 | [Golem draconico](/it/units/Dragon Golem/) | [Tazar](/it/heroes/Tazar/) |
+  | 17 | - | [Korbac](/it/heroes/Korbac/) |
+  | 18 | - | [Wystan](/it/heroes/Wystan/) |
+  | 19 | - | [Ciele](/it/heroes/Ciele/) |
 
 
 #### Unità ed eroi che godono di un vantaggio contro unità affette da <Stordimento>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Arpia](/units/Arpia/) | [Jeddite](/heroes/Jeddite/) |
-  | 2 | [Gorgone](/units/Gorgone/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 3 | [Mosca serpente](/units/Mosca serpente/) | [Mutare](/heroes/Mutare/) |
-  | 4 | - | [Mullich](/heroes/Mullich/) |
-  | 5 | - | [Kendal](/heroes/Kendal/) |
+  | 1 | [Arpia](/it/units/Harpy/) | [Jeddite](/it/heroes/Jeddite/) |
+  | 2 | [Gorgone](/it/units/Gorgon/) | [Sephinroth](/it/heroes/Sephinroth/) |
+  | 3 | [Mosca serpente](/it/units/Serpent Fly/) | [Mutare](/it/heroes/Mutare/) |
+  | 4 | - | [Mullich](/it/heroes/Mullich/) |
+  | 5 | - | [Kendal](/it/heroes/Kendal/) |

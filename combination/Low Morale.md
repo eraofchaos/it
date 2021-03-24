@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Morale basso"
 permalink: /combination/Low Morale/
 excerpt: "Informazioni combinazione - Morale basso. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Morale basso.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Cavaliere nero](/units/Cavaliere nero/) | [Lord Haart](/heroes/Lord Haart/) |
-  | 2 | [Drago scheletrico](/units/Drago scheletrico/) | [Vidomina](/heroes/Vidomina/) |
-  | 3 | - | [Sandro](/heroes/Sandro/) |
+  | 1 | [Cavaliere nero](/it/units/Black Knight/) | [Lord Haart](/it/heroes/Lord Haart/) |
+  | 2 | [Drago scheletrico](/it/units/Bone Dragon/) | [Vidomina](/it/heroes/Vidomina/) |
+  | 3 | - | [Sandro](/it/heroes/Sandro/) |
 
 
 #### Unità ed eroi che godono di un vantaggio contro unità affette da <Morale basso>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Morto vivente](/units/Morto vivente/) | [Lord Haart](/heroes/Lord Haart/) |
-  | 2 | [Drago scheletrico](/units/Drago scheletrico/) | [Sandro](/heroes/Sandro/) |
-  | 3 | [Gorgone](/units/Gorgone/) | - |
-  | 4 | [Mosca serpente](/units/Mosca serpente/) | - |
+  | 1 | [Morto vivente](/it/units/Walking Dead/) | [Lord Haart](/it/heroes/Lord Haart/) |
+  | 2 | [Drago scheletrico](/it/units/Bone Dragon/) | [Sandro](/it/heroes/Sandro/) |
+  | 3 | [Gorgone](/it/units/Gorgon/) | - |
+  | 4 | [Mosca serpente](/it/units/Serpent Fly/) | - |

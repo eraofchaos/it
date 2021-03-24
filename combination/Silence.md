@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Silenzio"
 permalink: /combination/Silence/
 excerpt: "Informazioni combinazione - Silenzio. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Silenzio.md"
 toc: false
@@ -16,17 +16,17 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Driade](/units/Driade/) | [Astral](/heroes/Astral/) |
-  | 2 | [Manticora](/units/Manticora/) | [Monere](/heroes/Monere/) |
-  | 3 | [Diavolo](/units/Diavolo/) | [Ciele](/heroes/Ciele/) |
-  | 4 | [Drago scheletrico](/units/Drago scheletrico/) | - |
-  | 5 | [Anima](/units/Anima/) | - |
-  | 6 | [Campione oscuro](/units/Campione oscuro/) | - |
+  | 1 | [Driade](/it/units/Sprite/) | [Astral](/it/heroes/Astral/) |
+  | 2 | [Manticora](/it/units/Manticore/) | [Monere](/it/heroes/Monere/) |
+  | 3 | [Diavolo](/it/units/Devil/) | [Ciele](/it/heroes/Ciele/) |
+  | 4 | [Drago scheletrico](/it/units/Bone Dragon/) | - |
+  | 5 | [Anima](/it/units/Wight/) | - |
+  | 6 | [Campione oscuro](/it/units/Dark Champion/) | - |
 
 
 #### Unità ed eroi che godono di un vantaggio contro unità affette da <Silenzio>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | - |
-  | 2 | [Mosca serpente](/units/Mosca serpente/) | - |
+  | 1 | [Gorgone](/it/units/Gorgon/) | - |
+  | 2 | [Mosca serpente](/it/units/Serpent Fly/) | - |

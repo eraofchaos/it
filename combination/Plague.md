@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Pestilenza"
 permalink: /combination/Plague/
 excerpt: "Informazioni combinazione - Pestilenza. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Pestilenza.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Mosca serpente](/units/Mosca serpente/) | - |
-  | 2 | [Uomo lucertola](/units/Uomo lucertola/) | - |
-  | 3 | [Viverna](/units/Viverna/) | - |
-  | 4 | [Erbavespa](/units/Erbavespa/) | - |
+  | 1 | [Mosca serpente](/it/units/Serpent Fly/) | - |
+  | 2 | [Uomo lucertola](/it/units/Lizardman/) | - |
+  | 3 | [Viverna](/it/units/Wyvern/) | - |
+  | 4 | [Erbavespa](/it/units/Waspwort/) | - |
 
 
 #### Unità ed eroi che godono di un vantaggio contro unità affette da <Pestilenza>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | - |
-  | 2 | [Mosca serpente](/units/Mosca serpente/) | - |
-  | 3 | [Viverna](/units/Viverna/) | - |
+  | 1 | [Gorgone](/it/units/Gorgon/) | - |
+  | 2 | [Mosca serpente](/it/units/Serpent Fly/) | - |
+  | 3 | [Viverna](/it/units/Wyvern/) | - |

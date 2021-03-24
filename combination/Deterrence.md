@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Impedimento"
 permalink: /combination/Deterrence/
 excerpt: "Informazioni combinazione - Impedimento. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Impedimento.md"
 toc: false
@@ -16,16 +16,16 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Berserker](/units/Berserker/) | [Cassanbel](/heroes/Cassanbel/) |
-  | 2 | [Serpente di Regna](/units/Serpente di Regna/) | [Peter Lee](/heroes/Peter Lee/) |
-  | 3 | [Leviatano](/units/Leviatano/) | - |
+  | 1 | [Berserker](/it/units/Berserker/) | [Cassanbel](/it/heroes/Cassanbel/) |
+  | 2 | [Serpente di Regna](/it/units/Regnan Serpent/) | [Peter Lee](/it/heroes/Peter Lee/) |
+  | 3 | [Leviatano](/it/units/Revyaratan/) | - |
 
 
 #### Unità ed eroi che godono di un vantaggio contro unità affette da <Impedimento>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Veggente di Regna](/units/Veggente di Regna/) | [Peter Lee](/heroes/Peter Lee/) |
-  | 2 | [Serpente di Regna](/units/Serpente di Regna/) | - |
-  | 3 | [Gorgone](/units/Gorgone/) | - |
-  | 4 | [Mosca serpente](/units/Mosca serpente/) | - |
+  | 1 | [Veggente di Regna](/it/units/Regnan Seer/) | [Peter Lee](/it/heroes/Peter Lee/) |
+  | 2 | [Serpente di Regna](/it/units/Regnan Serpent/) | - |
+  | 3 | [Gorgone](/it/units/Gorgon/) | - |
+  | 4 | [Mosca serpente](/it/units/Serpent Fly/) | - |

@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Morale alto"
 permalink: /combination/High Morale/
 excerpt: "Informazioni combinazione - Morale alto. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Morale alto.md"
 toc: false
@@ -16,21 +16,21 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Monaco](/units/Monaco/) | [Roland](/heroes/Roland/) |
-  | 2 | [Paladino](/units/Paladino/) | [Mullich](/heroes/Mullich/) |
-  | 3 | [Giudice](/units/Giudice/) | [Caterina](/heroes/Caterina/) |
-  | 4 | - | [Korbac](/heroes/Korbac/) |
-  | 5 | - | [Kendal](/heroes/Kendal/) |
-  | 6 | - | [Peter Lee](/heroes/Peter Lee/) |
+  | 1 | [Monaco](/it/units/Monk/) | [Roland](/it/heroes/Roland/) |
+  | 2 | [Paladino](/it/units/Paladin/) | [Mullich](/it/heroes/Mullich/) |
+  | 3 | [Giudice](/it/units/Judicator/) | [Caterina](/it/heroes/Catherine/) |
+  | 4 | - | [Korbac](/it/heroes/Korbac/) |
+  | 5 | - | [Kendal](/it/heroes/Kendal/) |
+  | 6 | - | [Peter Lee](/it/heroes/Peter Lee/) |
 
 
 #### Unità ed eroi che ricevono buff extra se godono di <Morale alto>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Picchiere](/units/Picchiere/) | [Roland](/heroes/Roland/) |
-  | 2 | [Tiratore scelto](/units/Tiratore scelto/) | [Caterina](/heroes/Caterina/) |
-  | 3 | [Grifone](/units/Grifone/) | - |
-  | 4 | [Spadaccino](/units/Spadaccino/) | - |
-  | 5 | [Catafratto](/units/Catafratto/) | - |
-  | 6 | [Paladino](/units/Paladino/) | - |
+  | 1 | [Picchiere](/it/units/Pikeman/) | [Roland](/it/heroes/Roland/) |
+  | 2 | [Tiratore scelto](/it/units/Marksman/) | [Caterina](/it/heroes/Catherine/) |
+  | 3 | [Grifone](/it/units/Griffin/) | - |
+  | 4 | [Spadaccino](/it/units/Swordsman/) | - |
+  | 5 | [Catafratto](/it/units/Cavalier /) | - |
+  | 6 | [Paladino](/it/units/Paladin/) | - |

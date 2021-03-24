@@ -2,7 +2,7 @@
 title: "Scimitarra d'acciaio"
 permalink: /equipment/Steel Scimitar/
 excerpt: "Era of Chaos Scimitarra d'acciaio. Scimitarra d'acciaio"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Steel Scimitar.md"
 toc: false

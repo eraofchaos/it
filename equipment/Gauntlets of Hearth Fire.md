@@ -2,7 +2,7 @@
 title: "Guanti del Focolare"
 permalink: /equipment/Gauntlets of Hearth Fire/
 excerpt: "Era of Chaos Guanti del Focolare. Guanti del Focolare"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Gauntlets of Hearth Fire.md"
 toc: false

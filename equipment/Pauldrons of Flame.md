@@ -2,7 +2,7 @@
 title: "Spallacci fiammeggianti"
 permalink: /equipment/Pauldrons of Flame/
 excerpt: "Era of Chaos Spallacci fiammeggianti. Spallacci fiammeggianti"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Pauldrons of Flame.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Zanna della Pestilenza"
 permalink: /equipment/Plague Fang/
 excerpt: "Era of Chaos Zanna della Pestilenza. Zanna della Pestilenza"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Plague Fang.md"
 toc: false

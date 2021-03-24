@@ -2,7 +2,7 @@
 title: "Artiglio affilato blu"
 permalink: /equipment/Navy Blue Sharp Claw/
 excerpt: "Era of Chaos Artiglio affilato blu. Artiglio affilato blu"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Navy Blue Sharp Claw.md"
 toc: false

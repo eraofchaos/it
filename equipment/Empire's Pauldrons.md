@@ -2,7 +2,7 @@
 title: "Spallacci dell'Impero"
 permalink: /equipment/Empire's Pauldrons/
 excerpt: "Era of Chaos Spallacci dell'Impero. Spallacci dell'Impero"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Empire's Pauldrons.md"
 toc: false

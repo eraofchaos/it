@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Rallentamento"
 permalink: /combination/Slow/
 excerpt: "Informazioni combinazione - Rallentamento. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Rallentamento.md"
 toc: false
@@ -16,24 +16,24 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Guardia Dendroide](/units/Guardia Dendroide/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Centauro](/units/Centauro/) | [Caterina](/heroes/Caterina/) |
-  | 3 | [Morto vivente](/units/Morto vivente/) | [Dracon](/heroes/Dracon/) |
-  | 4 | [Elementale del ghiaccio](/units/Elementale del ghiaccio/) | [Gem](/heroes/Gem/) |
-  | 5 | [Elementale del mare](/units/Elementale del mare/) | [Monere](/heroes/Monere/) |
-  | 6 | [Arciere di Regna](/units/Arciere di Regna/) | [Korbac](/heroes/Korbac/) |
-  | 7 | - | [Ciele](/heroes/Ciele/) |
-  | 8 | - | [Cassanbel](/heroes/Cassanbel/) |
-  | 9 | - | [Peter Lee](/heroes/Peter Lee/) |
+  | 1 | [Guardia Dendroide](/it/units/Dendroid Guard/) | [Adelaide](/it/heroes/Adelaide/) |
+  | 2 | [Centauro](/it/units/Centaur/) | [Caterina](/it/heroes/Catherine/) |
+  | 3 | [Morto vivente](/it/units/Walking Dead/) | [Dracon](/it/heroes/Dracon/) |
+  | 4 | [Elementale del ghiaccio](/it/units/Ice Elemental/) | [Gem](/it/heroes/Gem/) |
+  | 5 | [Elementale del mare](/it/units/Sea Elemental/) | [Monere](/it/heroes/Monere/) |
+  | 6 | [Arciere di Regna](/it/units/Regnan Archer/) | [Korbac](/it/heroes/Korbac/) |
+  | 7 | - | [Ciele](/it/heroes/Ciele/) |
+  | 8 | - | [Cassanbel](/it/heroes/Cassanbel/) |
+  | 9 | - | [Peter Lee](/it/heroes/Peter Lee/) |
 
 
 #### Unità ed eroi che attaccano due volte le unità affette da <Rallentamento>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Tiratore scelto](/units/Tiratore scelto/) | [Adelaide](/heroes/Adelaide/) |
-  | 2 | [Spadaccino](/units/Spadaccino/) | [Gelu](/heroes/Gelu/) |
-  | 3 | [Elfo del bosco](/units/Elfo del bosco/) | [Peter Lee](/heroes/Peter Lee/) |
-  | 4 | [Domatore di lupi](/units/Domatore di lupi/) | - |
-  | 5 | [Gorgone](/units/Gorgone/) | - |
-  | 6 | [Mosca serpente](/units/Mosca serpente/) | - |
+  | 1 | [Tiratore scelto](/it/units/Marksman/) | [Adelaide](/it/heroes/Adelaide/) |
+  | 2 | [Spadaccino](/it/units/Swordsman/) | [Gelu](/it/heroes/Gelu/) |
+  | 3 | [Elfo del bosco](/it/units/Wood Elf/) | [Peter Lee](/it/heroes/Peter Lee/) |
+  | 4 | [Domatore di lupi](/it/units/Wolf Rider/) | - |
+  | 5 | [Gorgone](/it/units/Gorgon/) | - |
+  | 6 | [Mosca serpente](/it/units/Serpent Fly/) | - |

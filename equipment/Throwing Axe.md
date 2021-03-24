@@ -2,7 +2,7 @@
 title: "Ascia da lancio"
 permalink: /equipment/Throwing Axe/
 excerpt: "Era of Chaos Ascia da lancio. Ascia da lancio"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Throwing Axe.md"
 toc: false

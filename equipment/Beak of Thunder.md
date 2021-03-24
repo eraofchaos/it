@@ -2,7 +2,7 @@
 title: "Becco del tuono"
 permalink: /equipment/Beak of Thunder/
 excerpt: "Era of Chaos Becco del tuono. Becco del tuono"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Beak of Thunder.md"
 toc: false

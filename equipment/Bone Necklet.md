@@ -2,7 +2,7 @@
 title: "Collana d'ossa"
 permalink: /equipment/Bone Necklet/
 excerpt: "Era of Chaos Collana d'ossa. Collana d'ossa"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Bone Necklet.md"
 toc: false

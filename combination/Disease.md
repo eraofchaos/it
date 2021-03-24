@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Malattia"
 permalink: /combination/Disease/
 excerpt: "Informazioni combinazione - Malattia. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Malattia.md"
 toc: false
@@ -16,13 +16,13 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Mummia](/units/Mummia/) | [Wystan](/heroes/Wystan/) |
+  | 1 | [Mummia](/it/units/Mummy/) | [Wystan](/it/heroes/Wystan/) |
 
 
 #### Unità ed eroi che godono di un vantaggio contro unità affette da <Malattia>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Mummia](/units/Mummia/) | - |
-  | 2 | [Gorgone](/units/Gorgone/) | - |
-  | 3 | [Mosca serpente](/units/Mosca serpente/) | - |
+  | 1 | [Mummia](/it/units/Mummy/) | - |
+  | 2 | [Gorgone](/it/units/Gorgon/) | - |
+  | 3 | [Mosca serpente](/it/units/Serpent Fly/) | - |

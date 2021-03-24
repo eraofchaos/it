@@ -2,7 +2,7 @@
 title: "Esclusivo - Drago scheletrico immortale"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Drago scheletrico immortale. Drago scheletrico immortale. Era of Chaos Esclusivo Drago scheletrico immortale. Drago scheletrico Esclusivo."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Bone Dragon Drago scheletrico immortale.md"
 toc: false

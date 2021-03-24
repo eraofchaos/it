@@ -2,7 +2,7 @@
 title: "Corona dello Spirito stellare"
 permalink: /equipment/Star Spirit Crown/
 excerpt: "Era of Chaos Corona dello Spirito stellare. Corona dello Spirito stellare"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Star Spirit Crown.md"
 toc: false

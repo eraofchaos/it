@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Combustione"
 permalink: /combination/Burning/
 excerpt: "Informazioni combinazione - Combustione. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Combustione.md"
 toc: false
@@ -16,28 +16,28 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gog](/units/Gog/) | [Xeron](/heroes/Xeron/) |
-  | 2 | [Efreet](/units/Efreet/) | [Mutare (drago)](/heroes/Mutare (drago)/) |
-  | 3 | [Ciclope](/units/Ciclope/) | [Roland](/heroes/Roland/) |
-  | 4 | [Elementale del fuoco](/units/Elementale del fuoco/) | [Kilgor](/heroes/Kilgor/) |
-  | 5 | [Elementale psichico](/units/Elementale psichico/) | [Shiva](/heroes/Shiva/) |
-  | 6 | [Drago nero](/units/Drago nero/) | [Yog](/heroes/Yog/) |
-  | 7 | [Drago rosso](/units/Drago rosso/) | [Luna](/heroes/Luna/) |
-  | 8 | - | [Monere](/heroes/Monere/) |
-  | 9 | - | [Rashka](/heroes/Rashka/) |
-  | 10 | - | [Zydar](/heroes/Zydar/) |
-  | 11 | - | [Mutare](/heroes/Mutare/) |
-  | 12 | - | [Fiur](/heroes/Fiur/) |
-  | 13 | - | [Ciele](/heroes/Ciele/) |
+  | 1 | [Gog](/it/units/Gog/) | [Xeron](/it/heroes/Xeron/) |
+  | 2 | [Efreet](/it/units/Efreeti/) | [Mutare (drago)](/it/heroes/Dragon Mutare/) |
+  | 3 | [Ciclope](/it/units/Cyclops/) | [Roland](/it/heroes/Roland/) |
+  | 4 | [Elementale del fuoco](/it/units/Fire Elemental/) | [Kilgor](/it/heroes/Kilgor/) |
+  | 5 | [Elementale psichico](/it/units/Psychic Elemental/) | [Shiva](/it/heroes/Shiva/) |
+  | 6 | [Drago nero](/it/units/Black Dragon/) | [Yog](/it/heroes/Yog/) |
+  | 7 | [Drago rosso](/it/units/Red Dragon/) | [Luna](/it/heroes/Luna/) |
+  | 8 | - | [Monere](/it/heroes/Monere/) |
+  | 9 | - | [Rashka](/it/heroes/Rashka/) |
+  | 10 | - | [Zydar](/it/heroes/Zydar/) |
+  | 11 | - | [Mutare](/it/heroes/Mutare/) |
+  | 12 | - | [Fiur](/it/heroes/Fiur/) |
+  | 13 | - | [Ciele](/it/heroes/Ciele/) |
 
 
 #### Unità ed eroi che infliggono danni extra contro unità affette da <Combustione>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Diavolo](/units/Diavolo/) | [Luna](/heroes/Luna/) |
-  | 2 | [Rapace di fuoco](/units/Rapace di fuoco/) | [Xeron](/heroes/Xeron/) |
-  | 3 | [Drago nero](/units/Drago nero/) | [Fiur](/heroes/Fiur/) |
-  | 4 | [Gorgone](/units/Gorgone/) | [Mutare (drago)](/heroes/Mutare (drago)/) |
-  | 5 | [Mosca serpente](/units/Mosca serpente/) | - |
-  | 6 | [Strega malvagia](/units/Strega malvagia/) | - |
+  | 1 | [Diavolo](/it/units/Devil/) | [Luna](/it/heroes/Luna/) |
+  | 2 | [Rapace di fuoco](/it/units/Firebird/) | [Xeron](/it/heroes/Xeron/) |
+  | 3 | [Drago nero](/it/units/Black Dragon/) | [Fiur](/it/heroes/Fiur/) |
+  | 4 | [Gorgone](/it/units/Gorgon/) | [Mutare (drago)](/it/heroes/Dragon Mutare/) |
+  | 5 | [Mosca serpente](/it/units/Serpent Fly/) | - |
+  | 6 | [Strega malvagia](/it/units/Evil Sorceress/) | - |

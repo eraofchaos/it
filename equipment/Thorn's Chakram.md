@@ -2,7 +2,7 @@
 title: "Chakram spinato"
 permalink: /equipment/Thorn's Chakram/
 excerpt: "Era of Chaos Chakram spinato. Chakram spinato"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Thorn's Chakram.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Collana d'acciaio"
 permalink: /equipment/Steel Necklet/
 excerpt: "Era of Chaos Collana d'acciaio. Collana d'acciaio"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Steel Necklet.md"
 toc: false

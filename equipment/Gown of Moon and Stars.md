@@ -2,7 +2,7 @@
 title: "Abito della Luna e delle Stelle"
 permalink: /equipment/Gown of Moon and Stars/
 excerpt: "Era of Chaos Abito della Luna e delle Stelle. Abito della Luna e delle Stelle"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Gown of Moon and Stars.md"
 toc: false

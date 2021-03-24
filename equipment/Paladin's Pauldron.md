@@ -2,7 +2,7 @@
 title: "Spallacci da Paladino"
 permalink: /equipment/Paladin's Pauldron/
 excerpt: "Era of Chaos Spallacci da Paladino. Spallacci da Paladino"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Paladin's Pauldron.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Armatura leggera sanguinaria"
 permalink: /equipment/Light Armor of Bloodthirst/
 excerpt: "Era of Chaos Armatura leggera sanguinaria. Armatura leggera sanguinaria"
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Light Armor of Bloodthirst.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Pietrificazione"
 permalink: /combination/Petrify/
 excerpt: "Informazioni combinazione - Pietrificazione. Units and Heroes Formation."
-last_modified_at: 2021-03-20
+last_modified_at: 2021-03-24
 locale: it
 ref: "Pietrificazione.md"
 toc: false
@@ -16,15 +16,15 @@ classes: wide
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Medusa](/units/Medusa/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 2 | [Basilisco](/units/Basilisco/) | [Jeddite](/heroes/Jeddite/) |
-  | 3 | - | [Ciele](/heroes/Ciele/) |
-  | 4 | - | [Tazar](/heroes/Tazar/) |
+  | 1 | [Medusa](/it/units/Medusa/) | [Sephinroth](/it/heroes/Sephinroth/) |
+  | 2 | [Basilisco](/it/units/Basilisk/) | [Jeddite](/it/heroes/Jeddite/) |
+  | 3 | - | [Ciele](/it/heroes/Ciele/) |
+  | 4 | - | [Tazar](/it/heroes/Tazar/) |
 
 
 #### Unità ed eroi che godono di un vantaggio contro unità affette da <Pietrificazione>
 
   | Nr |  List of Units  | List of Heroes | 
   |:---|:----------------|:---------------| 
-  | 1 | [Gorgone](/units/Gorgone/) | [Sephinroth](/heroes/Sephinroth/) |
-  | 2 | [Mosca serpente](/units/Mosca serpente/) | - |
+  | 1 | [Gorgone](/it/units/Gorgon/) | [Sephinroth](/it/heroes/Sephinroth/) |
+  | 2 | [Mosca serpente](/it/units/Serpent Fly/) | - |
