@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname mitico"
 permalink: /Items/mat_62/
 excerpt: "Era of Chaos  Legname mitico"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: it
 ref: "mat_62.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname segreto"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Legname segreto"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: it
 ref: "mat_76.md"
 toc: false

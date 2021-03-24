@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme eterne"
 permalink: /Items/mat_72/
 excerpt: "Era of Chaos  Gemme eterne"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: it
 ref: "mat_72.md"
 toc: false

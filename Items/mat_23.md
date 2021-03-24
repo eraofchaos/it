@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme superiori"
 permalink: /Items/mat_23/
 excerpt: "Era of Chaos  Gemme superiori"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-24
 locale: it
 ref: "mat_23.md"
 toc: false
