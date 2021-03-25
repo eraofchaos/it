@@ -2,7 +2,7 @@
 title: "Artigli sinistri"
 permalink: /equipment/Sinister Claws/
 excerpt: "Era of Chaos Artigli sinistri. Artigli sinistri"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Sinister Claws.md"
 toc: false

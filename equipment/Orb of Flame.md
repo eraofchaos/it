@@ -2,7 +2,7 @@
 title: "Sfera fiammeggiante"
 permalink: /equipment/Orb of Flame/
 excerpt: "Era of Chaos Sfera fiammeggiante. Sfera fiammeggiante"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Orb of Flame.md"
 toc: false

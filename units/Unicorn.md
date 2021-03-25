@@ -3,7 +3,7 @@ title: "Unicorno"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Unicorno"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
- **Race:** Unicorno
+ **Race:** Bestia divina
 
  **Members:** [x4](/it/units/Unit Member x4/)
 

@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 14  Settimana della Necropoli
+
+  |  Date  |      Reward    |    Reward Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Apr** | **3x [Scheletro](/it/Items/unt_208/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **6 Apr** | **3x [Morto vivente](/it/Items/unt_209/)**  | Un gruppo di Morti viventi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **7 Apr** | **100x <i class="fas fa-gem"/>**  | Le tue truppe hanno trovato diversi tesori all'interno della tomba antica profanata! |
+  | **8 Apr** | **2x [Vampiro](/it/Items/unt_211/)**  | Un gruppo di Vampiri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **9 Apr** | **2x [Anima](/it/Items/unt_210/)**  | Un gruppo di Anime è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **10 Apr** | **5x [Scrigno Unità Necropoli](/it/Items/con_1271/)**  | Le tue unità Necropoli ti donano numerosi scrigni del tesoro! |
+  | **11 Apr** | **3x [Vidomina](/it/Items/her_372/)**  | Vidomina nutre un certo interesse per i tuoi guerrieri non morti e ha intenzione di unirsi alla tua squadra! |
+
 
 #### 2021 Week 13  Settimana del Dungeon
 

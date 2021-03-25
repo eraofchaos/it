@@ -3,7 +3,7 @@ title: "Serpente di Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Serpente di Regna"
 toc: true

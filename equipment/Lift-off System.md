@@ -2,7 +2,7 @@
 title: "Dispositivo di decollo"
 permalink: /equipment/Lift-off System/
 excerpt: "Era of Chaos Dispositivo di decollo. Dispositivo di decollo"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Lift-off System.md"
 toc: false

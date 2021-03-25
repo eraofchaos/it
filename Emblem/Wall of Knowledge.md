@@ -2,7 +2,7 @@
 title: "Emblema sacro - Muro della Sapienza"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Era of Chaos Muro della Sapienza. Muro della Sapienza. Era of Chaos Emblema sacro Muro della Sapienza. Era of Chaos Bontà Muro della Sapienza"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: it
 ref: "Wall of Knowledge.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nome            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nome    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Muro della Sapienza](/it/Emblem/Wall of Knowledge/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +13, DIF +0,5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta il DAN delle unità schierate del 4% per ogni unità della stessa classe presente in formazione.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +30, DIF +1,5%</span> | 
   | [Muro della Sapienza](/it/Emblem/Wall of Knowledge/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +20, DIF +1%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Aumenta il DAN delle unità schierate del 5% per ogni unità della stessa classe presente in formazione.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +55, DIF +2%</span> | 

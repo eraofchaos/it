@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme leggendarie"
 permalink: /Items/mat_58/
 excerpt: "Era of Chaos  Gemme leggendarie"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "mat_58.md"
 toc: false

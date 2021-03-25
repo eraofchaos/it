@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Star 2"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
   | 15 | [Minotauro](/it/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Re dei Minotauri  |
   | 16 | [Uomo lucertola](/it/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
   | 17 | [Elfo del bosco](/it/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Elfo Gigante  |
-  | 18 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 18 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Mosca drago  |
   | 19 | [Pegaso](/it/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Argenteo  |
   | 20 | [Pirati di Regna](/it/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Re dei Pirati  |
   | 21 | [Guardia Dendroide](/it/units/Dendroid Guard/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldato Dendroide  |

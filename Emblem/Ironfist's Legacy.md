@@ -2,7 +2,7 @@
 title: "Emblema sacro - Retaggio dei Pugno di Ferro"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Retaggio dei Pugno di Ferro. Retaggio dei Pugno di Ferro. Era of Chaos Emblema sacro Retaggio dei Pugno di Ferro. Era of Chaos Ordine Retaggio dei Pugno di Ferro"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: it
 ref: "Ironfist's Legacy.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nome            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nome    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +3%, DIF Emblema sacro +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Riduce la guarigione del bersaglio del 18% per 6 s. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +7%, DIF Emblema sacro +16</span> | 
   | [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/){: .btn .btn--era2} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +1%, DIF Emblema sacro +2</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Riduce la guarigione del bersaglio del 10% per 6 s. Recupero: 10 secondi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +2%, DIF Emblema sacro +6</span> | 

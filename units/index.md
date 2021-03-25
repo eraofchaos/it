@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "index.md"
 toc: false
@@ -83,7 +83,7 @@ classes: wide
   | 61 | [Minotauro](/it/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Re dei Minotauri  |
   | 62 | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
   | 63 | [Morto vivente](/it/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombi  |
-  | 64 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 64 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Mosca drago  |
   | 65 | [Mummia](/it/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |
   | 66 | [Naga](/it/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Regina delle Naga  |
   | 67 | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre mago  |

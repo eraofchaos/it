@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo"
 permalink: /Exclusive/Lizardman Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Uomo lucertola Esclusivo."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Lizardman Arco lungo.md"
 toc: false

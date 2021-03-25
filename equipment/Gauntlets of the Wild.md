@@ -2,7 +2,7 @@
 title: "Guanti delle terre selvagge"
 permalink: /equipment/Gauntlets of the Wild/
 excerpt: "Era of Chaos Guanti delle terre selvagge. Guanti delle terre selvagge"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Gauntlets of the Wild.md"
 toc: false

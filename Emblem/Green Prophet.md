@@ -2,7 +2,7 @@
 title: "Emblema sacro - Profeta verde"
 permalink: /Emblem/Green Prophet/
 excerpt: "Era of Chaos Profeta verde. Profeta verde. Era of Chaos Emblema sacro Profeta verde. Era of Chaos Bontà Profeta verde"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: it
 ref: "Green Prophet.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nome            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nome    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Profeta verde](/it/Emblem/Green Prophet/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vel ATT +1%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Le unità schierate hanno il 35% di probabilità di essere immuni a &lt;Pietrificazione&gt;, &lt;Stordimento&gt; e &lt;Congelamento&gt;.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vel ATT +2%, DIF Emblema sacro +55</span> | 
   | [Profeta verde](/it/Emblem/Green Prophet/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; Vel ATT +0,5%, DIF Emblema sacro +13</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Le unità schierate hanno il 25% di probabilità di essere immuni a &lt;Pietrificazione&gt;, &lt;Stordimento&gt; e &lt;Congelamento&gt;.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; Vel ATT +1,5%, DIF Emblema sacro +30</span> | 

@@ -2,7 +2,7 @@
 title: "Corona d'alloro"
 permalink: /equipment/Circlet of Verdurous Leaves/
 excerpt: "Era of Chaos Corona d'alloro. Corona d'alloro"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Circlet of Verdurous Leaves.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Cappuccio celestiale della beatitudine"
 permalink: /equipment/Celestial Hood of Bliss/
 excerpt: "Era of Chaos Cappuccio celestiale della beatitudine. Cappuccio celestiale della beatitudine"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Celestial Hood of Bliss.md"
 toc: false

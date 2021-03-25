@@ -2,7 +2,7 @@
 title: "Katara sinistra"
 permalink: /equipment/Sinister Katar/
 excerpt: "Era of Chaos Katara sinistra. Katara sinistra"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Sinister Katar.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Unit Rank SR"
 toc: false
@@ -41,7 +41,7 @@ classes: wide
   | 27 | [Uomo lucertola](/it/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
   | 28 | [Catafratto](/it/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Cavalieri campioni  |
   | 29 | [Elfo del bosco](/it/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Elfo Gigante  |
-  | 30 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 30 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Mosca drago  |
   | 31 | [Manticora](/it/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicora  |
   | 32 | [Pegaso](/it/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Argenteo  |
   | 33 | [Basilisco](/it/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

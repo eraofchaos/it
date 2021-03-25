@@ -3,7 +3,7 @@ title: "Idra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Idra"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
- **Race:** Unicorno
+ **Race:** Bestia divina
 
  **Members:** [x1](/it/units/Unit Member x1/)
 

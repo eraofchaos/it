@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale mistico"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Minerale mistico"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "mat_82.md"
 toc: false

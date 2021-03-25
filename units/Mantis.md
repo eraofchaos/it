@@ -3,7 +3,7 @@ title: "Mantide"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le sue immense, affilatissime lame la distinguono come una vera creatura leggendaria. Gli elfi di Vori hanno donato una resistenza preternaturale alla Mantide."
 unitID: 209
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Mantide"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Fazione:** [Baluardo](/it/units/Faction Rampart/)
 
- **Race:** Unicorno
+ **Race:** Bestia divina
 
  **Members:** [x1](/it/units/Unit Member x1/)
 

@@ -2,7 +2,7 @@
 title: "Manufatti - Anello del Mago - Cappa della Congiura"
 permalink: /artifacts/Cape of Conjuring/
 excerpt: "Era of Chaos  Anello del Mago - Cappa della Congiura. Una cappa attraversata da un flusso magico. Uno dei componenti dell'Anello del Mago."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Cape of Conjuring.md"
 toc: false

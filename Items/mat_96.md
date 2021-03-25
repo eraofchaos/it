@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale splendente"
 permalink: /Items/mat_96/
 excerpt: "Era of Chaos  Minerale splendente"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "mat_96.md"
 toc: false

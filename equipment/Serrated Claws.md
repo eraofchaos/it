@@ -2,7 +2,7 @@
 title: "Artigli seghettati"
 permalink: /equipment/Serrated Claws/
 excerpt: "Era of Chaos Artigli seghettati. Artigli seghettati"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Serrated Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Units.md"
 toc: false
@@ -119,7 +119,7 @@ classes: wide
   | 105 | [Pietra mistica Maestro arciere](/it/Items/unt_283/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio del Tiratore scelto. |
   | 106 | [Pietra mistica Magog](/it/Items/unt_314/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio della Magog |
   | 107 | [Pietra mistica Messaggero di morte](/it/Items/unt_312/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio del Messaggero di morte |
-  | 108 | [Pietra mistica Mosca serpente pestilenziale](/it/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio della Mosca serpente pestilenziale. |
+  | 108 | [Pietra mistica Mosca serpente pestilenziale](/it/Items/unt_337/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio della Mosca drago. |
   | 109 | [Pietra mistica Occhio del Diavolo](/it/Items/unt_330/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio dell'Occhio del Diavolo |
   | 110 | [Pietra mistica Ogre mago](/it/Items/unt_308/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio dell'Ogre mago |
   | 111 | [Pietra mistica Orco comandante](/it/Items/unt_307/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio dell'Orco comandante. |
@@ -158,7 +158,7 @@ classes: wide
   | 144 | [Tiratore scelto](/it/Items/unt_191/){: .btn .btn--era3} | Unit Soul | Una volta raccolti 10 token dell'anima, potrai evocare un Tiratore scelto, un'unità di rarità R. |
   | 145 | [Tool_3209](/it/Items/unt_207/){: .btn .btn--era6} | Unit Soul |  |
   | 146 | [Tool_3509](/it/Items/unt_234/){: .btn .btn--era6} | Unit Soul |  |
-  | 147 | [Tool_3709](/it/Items/unt_252/){: .btn .btn--era6} | Unit Soul |  |
+  | 147 | [Tool_3709](/it/Items/unt_252/){: .btn .btn--era6} | Unit Soul | Una volta raccolti 80 token dell'anima, potrai evocare una Strega malvagia. È inoltre possibile usare i token per aumentare il rango della Strega malvagia. |
   | 148 | [Tool_3809](/it/Items/unt_261/){: .btn .btn--era6} | Unit Soul |  |
   | 149 | [Tool_94601](/it/Items/unt_320/){: .btn .btn--era5} | Awakening Soul |  |
   | 150 | [Tool_94602](/it/Items/unt_321/){: .btn .btn--era5} | Awakening Soul |  |

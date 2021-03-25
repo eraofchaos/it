@@ -2,7 +2,7 @@
 title: "Manufatti - Occhio di Falco"
 permalink: /artifacts/Live Hawkeye/
 excerpt: "Era of Chaos  Occhio di Falco. Occhio di Falco Sopravvivi. Solo così potrai godere di maggiori ricchezze."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Live Hawkeye.md"
 toc: false

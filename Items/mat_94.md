@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo stellare"
 permalink: /Items/mat_94/
 excerpt: "Era of Chaos  Cristallo stellare"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "mat_94.md"
 toc: false

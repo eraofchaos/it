@@ -2,7 +2,7 @@
 title: "Manufatti - Alleanza Angelica"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Alleanza Angelica. Alleanza Angelica Una reliquia sacra forgiata a partire da oggetti preziosi tramite il potere degli Angeli. Può aumentare la forza dei tuoi alleati."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Angelic Alliance.md"
 toc: false
@@ -51,8 +51,8 @@ classes: wide
   |:--------|:----------------| 
   | **2** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 20 secondi. | 
   | **5** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 20 secondi. | 
-  | **8** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 25 secondi. | 
-  | **11** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 25 secondi. | 
-  | **14** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 25 secondi. | 
-  | **17** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 25 secondi. | 
-  | **20** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 25 secondi. | 
+  | **8** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 40 secondi. | 
+  | **11** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 40 secondi. | 
+  | **14** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 40 secondi. | 
+  | **17** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 40 secondi. | 
+  | **20** | Le unità alleate godono di ATT aumentato (<span style="color: #48b946;font-size:20px">+{($buffaddattr12+$buffaddattr13*($sklevel-1))}%</span>), Vel ATT aumentata (<span style="color: #48b946;font-size:20px">+{($buffaddattr22+$buffaddattr23*($sklevel-1))}%</span>) e Vel MOV aumentata di 30. Durata: 40 secondi. | 

@@ -2,7 +2,7 @@
 title: "Copricapo delle maree"
 permalink: /equipment/Tidal Headdress/
 excerpt: "Era of Chaos Copricapo delle maree. Copricapo delle maree"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Tidal Headdress.md"
 toc: false

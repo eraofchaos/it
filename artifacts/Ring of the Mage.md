@@ -2,7 +2,7 @@
 title: "Manufatti - Anello del Mago"
 permalink: /artifacts/Ring of the Mage/
 excerpt: "Era of Chaos  Anello del Mago. Anello del Mago Anello magico realizzato usando oggetti incantati. Può aumentare il danno magico."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Ring of the Mage.md"
 toc: false

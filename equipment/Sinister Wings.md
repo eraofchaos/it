@@ -2,7 +2,7 @@
 title: "Ali sinistre"
 permalink: /equipment/Sinister Wings/
 excerpt: "Era of Chaos Ali sinistre. Ali sinistre"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Sinister Wings.md"
 toc: false

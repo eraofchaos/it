@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Inferno"
 permalink: /Battle Formation/Battle Formation Faction Inferno internal
 excerpt: "Formazione di battaglia Inferno"
-last_modified_at: 2021-03-23
+last_modified_at: 2021-03-25
 locale: it
 ref: "BattleFormationFactionInferno"
 toc: false

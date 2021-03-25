@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo comune"
 permalink: /Items/mat_11/
 excerpt: "Era of Chaos  Cristallo comune"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "mat_11.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Behemoth"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Fazione:** [Roccaforte](/it/units/Faction Stronghold/)
 
- **Race:** Unicorno
+ **Race:** Bestia divina
 
  **Members:** [x1](/it/units/Unit Member x1/)
 

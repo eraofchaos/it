@@ -3,7 +3,7 @@ title: "Elementale psichico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità nata dalla forza delle idee del mondo materiale. È in grado di colpire direttamente la mente dei propri nemici. Chi non possiede forza mentale sufficiente a resistergli viene risucchiato in una spirale di caos e delirio."
 unitID: 906
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Elementale psichico"
 toc: true

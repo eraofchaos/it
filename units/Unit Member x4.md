@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Unit Member x4"
 toc: false
@@ -33,7 +33,7 @@ classes: wide
   | 19 | [Aeronave magica](/it/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 20 | [Uomo lucertola](/it/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1144 |   -   |
   | 21 | [Catafratto](/it/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Cavalieri campioni  |
-  | 22 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |    |
+  | 22 | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Mosca drago  |
   | 23 | [Manticora](/it/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicora  |
   | 24 | [Pegaso](/it/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Argenteo  |
   | 25 | [Basilisco](/it/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

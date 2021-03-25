@@ -2,7 +2,7 @@
 title: "Emblema sacro - Giudizio degli antenati"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Era of Chaos Giudizio degli antenati. Giudizio degli antenati. Era of Chaos Emblema sacro Giudizio degli antenati. Era of Chaos Neutrale Giudizio degli antenati"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: it
 ref: "The Judgment of Fathers.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nome            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nome    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +20, PF +10%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta del 5%. Il DAN aumenta di un ulteriore 15% contro bersagli &lt;storditi&gt;.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +55, PF +20%</span> | 
   | [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/){: .btn .btn--era4} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT Emblema sacro +13, PF +5%</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Il DAN delle unità aumenta del 3%. Il DAN aumenta di un ulteriore 9% contro bersagli &lt;storditi&gt;.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT Emblema sacro +30, PF +15%</span> | 

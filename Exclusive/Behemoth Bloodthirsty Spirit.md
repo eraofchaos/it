@@ -2,7 +2,7 @@
 title: "Esclusivo - Spirito sanguinario"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Spirito sanguinario. Spirito sanguinario. Era of Chaos Esclusivo Spirito sanguinario. Behemoth Esclusivo."
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Behemoth Spirito sanguinario.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Monaco"
 toc: true
@@ -110,36 +110,34 @@ toc: true
 ### Tecnica suprema: Preghiera
  **Descrizione:** <span style="color: #645252;font-size:20px">I Monaci curano di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> PF l'unità alleata con la percentuale di PF minore ogni 17 secondi.</span><span style="color: black">
 
-### Tecnica normale 1 : Benedizione del valoroso
- **Descrizione:** <span style="color: #645252;font-size:20px">All'inizio del combattimento, i Monaci applicano </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale alto&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> a tutte le unità alleate sul proprio percorso per </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> sec.</span><span style="color: black">
+### Tecnica normale 1 : null
+ **Descrizione:** 
 
 ### Tecnica normale 2 : Meditazione
- **Descrizione:** <span style="color: #645252;font-size:20px">Se i Monaci sono sul campo di battaglia, il tasso di recupero degli incantesimi degli eroi aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se i Monaci sono sul campo di battaglia, il tasso di recupero degli incantesimi degli eroi aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica normale 3 : Rigenerazione
- **Descrizione:** <span style="color: #645252;font-size:20px">PF dei Monaci aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 50%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">PF dei Monaci aumentati (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Guarigione aumentata del 50%.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Assedio
- **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono molto efficaci contro i Draghi. Quando affrontano unità singole, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Riverbero difensivo
- **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Castello sono efficaci nell'unire le forze per alzare le difese. Per ogni unità ancora in vita, la loro DIF aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str5 = "(LEVEL*1.5+2.5)"
-    let str6 = "(LEVEL*0.5+2.5)"
-    let str3 = "LEVEL*0.05+0.25"
-    let str4 = "LEVEL*4+16"
+    let str5 = "(LEVEL*0.5+2.5)"
+    let str3 = "LEVEL*4+16"
+    let str4 = "(LEVEL*1.5+2.5)"
     let str1 = "(LEVEL*15+285)*0.01*ATK"
-    let str2 = "(LEVEL*1+11)"
+    let str2 = "LEVEL*0.05+0.25"
     let res="ERR";
     try {
      res = eval(str5); document.getElementById('str5').textContent = res;
-     res = eval(str6); document.getElementById('str6').textContent = res;
      res = eval(str3); document.getElementById('str3').textContent = res;
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;

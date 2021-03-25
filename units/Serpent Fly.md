@@ -3,7 +3,7 @@ title: "Mosca serpente"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie."
 unitID: 803
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Mosca serpente"
 toc: true
@@ -193,40 +193,40 @@ toc: true
 
 ## Awaking
 ### Awaking Dettagli
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Mosca drago
 
- **Awaking Descrizione:** null
+ **Awaking Descrizione:** Poiché la natura prospera sotto la legge del più forte, le armi delle Mosche serpente sono in costante evoluzione. Più affilati sono i loro aculei, più il loro veleno risulta letale. Questi predatori terrificanti dominano Terrafanga.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #876741;font-size:18px">Schiera una Mosca serpente con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Fortezza e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> risorse durante un'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Mosca drago nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Schiera una Mosca serpente con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Fortezza e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): Peste
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pestilenza palustre&gt;</span><span style="color: #645252;font-size:18px"> DAN contro il bersaglio aumentato del 50%. Se l'unità bersaglio è &lt;pietrificata&gt;, inoltre, la sua Rid DAN si riduce del 20%. Durata: 6 secondi.</span>
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): Forma pestilenziale
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Pestilenza palustre&gt;</span><span style="color: #645252;font-size:18px"> DAN contro il bersaglio aumentato del 50%. Se l'unità bersaglio è &lt;pietrificata&gt;, inoltre, il suo DAN si riduce del 20%. Durata: 6 secondi.</span>
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): Soffio miasmatico
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sciame di mosche&gt;</span><span style="color: #645252;font-size:18px"> Raddoppia l'aumento di Vel ATT della Mosca serpente.</span>
 
-### 4th Skill (or 3rd): Muro cavo
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): Potenza delle paludi
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Sciame di mosche&gt;</span><span style="color: #645252;font-size:18px"> Raddoppia l'aumento del CRIT della Mosca serpente.</span>
 
-### 5th Skill (or 6th): Infiltrazione
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): Spossatezza
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Debolezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce ulteriormente del 5% la Rid DAN e di 80 la Tenacia delle unità nemiche nel raggio d'azione. Durata: 10 secondi. Cumulabile fino a 3 volte.</span>
 
-### 6th Skill (or 5th): Assalto estenuante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): Vuoto d'energia
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Debolezza&gt;</span><span style="color: #645252;font-size:18px"> Riduce ulteriormente del 5% la DIF e di 80 la Schivata delle unità nemiche nel raggio d'azione. Durata: 10 secondi. Cumulabile fino a 3 volte.</span>
 
 ## Technical info
  **runart:** 0

@@ -2,7 +2,7 @@
 title: "Elmo del Tuono"
 permalink: /equipment/Thunder Helmet/
 excerpt: "Era of Chaos Elmo del Tuono. Elmo del Tuono"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Thunder Helmet.md"
 toc: false

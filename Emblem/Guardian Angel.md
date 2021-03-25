@@ -2,7 +2,7 @@
 title: "Emblema sacro - Angelo custode"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Era of Chaos Angelo custode. Angelo custode. Era of Chaos Emblema sacro Angelo custode. Era of Chaos Bontà Angelo custode"
-last_modified_at: 2021-03-18
+last_modified_at: 2021-03-25
 locale: it
 ref: "Guardian Angel.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
   [Ordine](/it/Emblem/Type Order/){: .btn .btn--warning}   [Bontà](/it/Emblem/Type Goodness/){: .btn .btn--success}   [Neutrale](/it/Emblem/Type Neutral/){: .btn .btn--info}   [Caos](/it/Emblem/Type Chaos/){: .btn .btn--danger}   [Malvagio](/it/Emblem/Type Evil/){: .btn .btn--primary} 
 
-  |         Nome            |    2 Set Effect    |   4 Set Effect   | 6 Set Effect   | 
+  |  Nome    | [2-piece Set Effect] | [4-piece Set Effect] | [6-piece Set Effect]  | 
   |:-----------------------:|:-------------------|:-----------------|----------------| 
   | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era5} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +10%, DIF Emblema sacro +20</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate infliggono un colpo critico, hanno il 30% di probabilità di ripristinare il 5% dei PF massimi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +20%, DIF Emblema sacro +55</span> | 
   | [Angelo custode](/it/Emblem/Guardian Angel/){: .btn .btn--era3} | <span style="color: #645252;font-size:20px">&lt;2&gt; ATT +3%, DIF Emblema sacro +6</span> | <span style="color: #645252;font-size:20px">&lt;4&gt; Quando le unità schierate infliggono un colpo critico, hanno il 15% di probabilità di ripristinare il 3% dei PF massimi.</span> | <span style="color: #645252;font-size:20px">&lt;6&gt; ATT +7%, DIF Emblema sacro +16</span> | 

@@ -3,7 +3,7 @@ title: "Arcimago"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Solo gli incantatori più potenti possono fregiarsi del titolo di Mago. I loro incantesimi danno un vantaggio notevole ai loro alleati."
 unitID: 604
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Arcimago"
 toc: true
@@ -111,7 +111,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">Gli attacchi base dei Maghi ne aumentano l'ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Cumulabile fino a 20 volte. L'effetto continua finché il bersaglio non cambia. L'effetto si annulla quando il bersaglio cambia.</span><span style="color: black">
 
 ### Tecnica normale 1 : Uragano
- **Descrizione:** <span style="color: #645252;font-size:20px">I Maghi evocano un tornado che solleva 1 unità casuale nelle retrovie nemiche; l'unità non può attaccare né usare tecniche, ma la sua Rid DAN aumenta del 100%. Il tornado applica <span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all'unità bersaglio. Il tornado e la &lt;Folgorazione&gt; durano </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> sec. (La retrovia è composta dalle unità nemiche in fondo a ciascuna colonna)</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">I Maghi evocano un tornado che solleva 1 unità casuale nelle retrovie nemiche; l'unità non può attaccare né usare tecniche e la sua Rid DAN è ridotta del 20%. Il tornado applica <span style="color: #48b946;font-size:20px">&lt;Folgorazione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> all'unità bersaglio. Il tornado e la &lt;Folgorazione&gt; durano </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> sec. (Le retrovie sono composte dalle unità nemiche in fondo a ciascuna colonna)</span><span style="color: black">
 
 ### Tecnica normale 2 : Fiacchezza
  **Descrizione:** <span style="color: #645252;font-size:20px">Se i Maghi sono sul campo di battaglia, il tempo di recupero degli incantesimi degli eroi nemici aumenta di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando un eroe alleato lancia un incantesimo, recupera 2 punti mana.</span><span style="color: black">

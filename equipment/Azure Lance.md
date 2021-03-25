@@ -2,7 +2,7 @@
 title: "Lancia cerulea"
 permalink: /equipment/Azure Lance/
 excerpt: "Era of Chaos Lancia cerulea. Lancia cerulea"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Azure Lance.md"
 toc: false

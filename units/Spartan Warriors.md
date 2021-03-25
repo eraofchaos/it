@@ -3,7 +3,7 @@ title: "Guerrieri spartani"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
 unitID: 9702
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Guerrieri spartani"
 toc: true

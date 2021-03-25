@@ -2,7 +2,7 @@
 title: "Armatura abissale"
 permalink: /equipment/Abyss Armor/
 excerpt: "Era of Chaos Armatura abissale. Armatura abissale"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Abyss Armor.md"
 toc: false

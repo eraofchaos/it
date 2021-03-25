@@ -3,7 +3,7 @@ title: "Tigre bianca"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia."
 unitID: 809
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Tigre bianca"
 toc: true
@@ -20,7 +20,7 @@ toc: true
 
  **Fazione:** [Fortezza](/it/units/Faction Fortress/)
 
- **Race:** Unicorno
+ **Race:** Bestia divina
 
  **Members:** [x1](/it/units/Unit Member x1/)
 

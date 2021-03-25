@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Osservatore"
 toc: true

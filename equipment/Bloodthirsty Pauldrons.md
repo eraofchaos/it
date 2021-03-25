@@ -2,7 +2,7 @@
 title: "Spallacci sanguinari"
 permalink: /equipment/Bloodthirsty Pauldrons/
 excerpt: "Era of Chaos Spallacci sanguinari. Spallacci sanguinari"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Bloodthirsty Pauldrons.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname prezioso"
 permalink: /Items/mat_27/
 excerpt: "Era of Chaos  Legname prezioso"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "mat_27.md"
 toc: false

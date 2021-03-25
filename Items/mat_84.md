@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio mistico"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Mercurio mistico"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "mat_84.md"
 toc: false

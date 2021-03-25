@@ -2,7 +2,7 @@
 title: "Artigli spettrali"
 permalink: /equipment/Ghostly Claws/
 excerpt: "Era of Chaos Artigli spettrali. Artigli spettrali"
-last_modified_at: 2021-03-24
+last_modified_at: 2021-03-25
 locale: it
 ref: "Ghostly Claws.md"
 toc: false
