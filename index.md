@@ -10,6 +10,24 @@ sidebar:
   nav: "docs"
 ---
 
+
+{% capture notice-update20210325 %}
+Wiki updated to Client version. All Schedule, Altars, etc are updated too.
+
+Changes in latest update:
+
+* Artifact [Angelic Alliance](/artifacts/Angelic Alliance/): Changed from "Lasts **25** seconds." to "Lasts **40** seconds."
+* Unit [Arch Mage](/units/Arch Mage/): Regular Skill 1 changed
+* Awake for [Serpent Fly](/units/Serpent Fly/)
+
+{% endcapture %}
+
+<div class="notice--danger">
+  <h4 class="no_toc">25 March 2021 Update: Client version 146(3295/3294) </h4>
+  {{ notice-update20210325 | markdownify }}
+</div>
+
+
 {% capture notice-update20210216 %}
 **Aggiornamento client** (versione **142 (3100)**):
 
