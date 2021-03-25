@@ -2,9 +2,9 @@
 title: "Era Of Chaos Wiki: Units, Heroes, Items, Artifacts, Quests and more"
 excerpt: "Era of Chaos, Era of Chaos Wiki. Complete information about the Era Of Chaos: Units, Heroes, Items, Artifacts, Quests and more. Be strongest player with us. Information about future updates and events."
 author_profile: false
-last_modified_at: 2021-02-12
+last_modified_at: 2021-03-25
 toc: false
-locale: de
+locale: it
 classes: wide
 sidebar:
   nav: "docs"
@@ -16,14 +16,14 @@ Wiki updated to Client version. All Schedule, Altars, etc are updated too.
 
 Changes in latest update:
 
-* Artifact [Angelic Alliance](/artifacts/Angelic Alliance/): Changed from "Lasts **25** seconds." to "Lasts **40** seconds."
-* Unit [Arch Mage](/units/Arch Mage/): Regular Skill 1 changed
-* Awake for [Serpent Fly](/units/Serpent Fly/)
+* Artifact [Angelic Alliance](/it/artifacts/Angelic Alliance/): Changed from "Lasts **25** seconds." to "Lasts **40** seconds."
+* Unit [Arch Mage](/it/units/Arch Mage/): Regular Skill 1 changed
+* Awake for [Serpent Fly](/it/units/Serpent Fly/)
 
 {% endcapture %}
 
 <div class="notice--danger">
-  <h4 class="no_toc">25 March 2021 Update: Client version 146(3295/3294) </h4>
+  <h4 class="no_toc">25 March 2021 Update: Client version 146 (3295) </h4>
   {{ notice-update20210325 | markdownify }}
 </div>
 
@@ -75,8 +75,7 @@ Puoi trovare qui:
 
 <br/>
 <br/>
-**IL TUO feedback è il benvenuto!**
-[Per favore contattami tramite Discord](https://discordapp.com/users/351705203038224385/)
+ **IL TUO feedback è il benvenuto!**[Per favore contattami tramite Discord](https://discordapp.com/users/351705203038224385/)
 
 
 
@@ -87,4 +86,3 @@ Aggiorna cronologia:
 * [Era of Chaos Client Update History](/Era_Of_Chaos_Client_Update_History.html)
 
 {: .notice--danger}
-
