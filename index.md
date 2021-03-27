@@ -37,9 +37,9 @@ Changes in latest update:
 
 **Aggiornamento Wiki**
 
-[Altare della fazione per il 2021](https://eraofchaos.github.io/FactionAltar/) - Completa l'altare della fazione con unità / anime e probabilità di rilascio. Fai clic su "Dettagli rilascio altare della fazione" per vedere di più.
+[Altare della fazione per il 2021](https://eraofchaos.github.io/FactionAltar/) - Completa l'altare della fazione con unitÃ  / anime e probabilitÃ  di rilascio. Fai clic su "Dettagli rilascio altare della fazione" per vedere di piÃ¹.
 
-Grazie per la tua attività. Abbiamo **3600 utenti unici**, circa **30000 visitatori a settimana** da **86 paesi**.
+Grazie per la tua attivitÃ . Abbiamo **3600 utenti unici**, circa **30000 visitatori a settimana** da **86 paesi**.
 A causa delle limitazioni tecniche su Github (abbiamo circa 4000 pagine nel wiki) dovremmo dividere il wiki per ogni lingua. Quindi le lingue DE / FR / RU / IT / ES verranno aggiornate allo stato corrente del gioco.
 {% endcapture %}
 
@@ -54,8 +54,8 @@ Puoi trovare qui:
 * <i class="fas fa-gavel"/> [Oggettos](/it/Items/)
 * <i class="fas fa-chess-king"/>  [Eroi](/it/heroes/)
 * <i class="fas fa-mask"/>  [Aiutante](/it/heroes/Adjutants/)
-* <i class="fab fa-optin-monster"/>  [Unit�](/it/units/)
-* <i class="fas fa-fist-raised"/> [Informazioni combinazione: Eroi & Unit�](/it/combination/)
+* <i class="fab fa-optin-monster"/>  [Unità](/it/units/)
+* <i class="fas fa-fist-raised"/> [Informazioni combinazione: Eroi & Unità](/it/combination/)
 * <i class="fas fa-atom"/>  [Emblema sacro](/it/Emblem/)
 * <i class="fas fa-hand-sparkles"/>  [Manufatti](/it/artifacts/)
 
@@ -75,7 +75,7 @@ Puoi trovare qui:
 
 <br/>
 <br/>
- **IL TUO feedback è il benvenuto!**[Per favore contattami tramite Discord](https://discordapp.com/users/351705203038224385/)
+ **IL TUO feedback Ã¨ il benvenuto!**[Per favore contattami tramite Discord](https://discordapp.com/users/351705203038224385/)
 
 
 
