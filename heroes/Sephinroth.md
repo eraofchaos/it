@@ -3,7 +3,7 @@ title: "Sephinroth"
 permalink: /heroes/Sephinroth/
 excerpt: "Era of Chaos Sephinroth. Sephinroth. Sephinroth è l'unica strega conosciuta di Antagarich. Si dice sia la figlia illegittima di Re Cuor di Grifone."
 heroID: 61402
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-28
 locale: it
 ref: "Sephinroth"
 toc: true
@@ -15,6 +15,8 @@ toc: true
  **Race:** Dungeon
 
  **Rate:** R
+
+ **User Rate:** R
 
  **Specialty:** Sguardo cristallizzante
 
