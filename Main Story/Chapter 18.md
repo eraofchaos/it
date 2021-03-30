@@ -1,7 +1,7 @@
 ---
-title: "Storia principale - Capitolo 18"
+title: "Storia principale - Capitolo 18 A braccetto con il diavolo"
 permalink: /Main Story/Chapter 18/
-excerpt: "Capitolo 18. Era of Chaos  Storia principale - Capitolo 18."
+excerpt: "Capitolo 18. Era of Chaos  Storia principale - Capitolo 18. A braccetto con il diavolo"
 last_modified_at: 2021-03-30
 locale: it
 ref: "Chapter 18.md"

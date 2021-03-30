@@ -1,7 +1,7 @@
 ---
-title: "Storia principale - Capitolo 26"
+title: "Storia principale - Capitolo 26 Sempre al comando"
 permalink: /Main Story/Chapter 26/
-excerpt: "Capitolo 26. Era of Chaos  Storia principale - Capitolo 26."
+excerpt: "Capitolo 26. Era of Chaos  Storia principale - Capitolo 26. Sempre al comando"
 last_modified_at: 2021-03-30
 locale: it
 ref: "Chapter 26.md"

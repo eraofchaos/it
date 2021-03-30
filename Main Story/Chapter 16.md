@@ -1,7 +1,7 @@
 ---
-title: "Storia principale - Capitolo 16"
+title: "Storia principale - Capitolo 16 Per il Re e per il paese"
 permalink: /Main Story/Chapter 16/
-excerpt: "Capitolo 16. Era of Chaos  Storia principale - Capitolo 16."
+excerpt: "Capitolo 16. Era of Chaos  Storia principale - Capitolo 16. Per il Re e per il paese"
 last_modified_at: 2021-03-30
 locale: it
 ref: "Chapter 16.md"

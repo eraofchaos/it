@@ -1,7 +1,7 @@
 ---
-title: "Storia principale - Capitolo 12"
+title: "Storia principale - Capitolo 12 Acque ghiacciate"
 permalink: /Main Story/Chapter 12/
-excerpt: "Capitolo 12. Era of Chaos  Storia principale - Capitolo 12."
+excerpt: "Capitolo 12. Era of Chaos  Storia principale - Capitolo 12. Acque ghiacciate"
 last_modified_at: 2021-03-30
 locale: it
 ref: "Chapter 12.md"

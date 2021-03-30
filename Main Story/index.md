@@ -19,7 +19,7 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 1](/it/Main Story/Chapter 1/) | TBD | 
+  | [Capitolo 1](/it/Main Story/Chapter 1/) | L'isola di Evenmorn | 
 
 
 ## Il ritorno della Regina: Capitolo 2 - Capitolo 4
@@ -34,9 +34,9 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 2](/it/Main Story/Chapter 2/) | TBD | 
-  | [Capitolo 3](/it/Main Story/Chapter 3/) | TBD | 
-  | [Capitolo 4](/it/Main Story/Chapter 4/) | TBD | 
+  | [Capitolo 2](/it/Main Story/Chapter 2/) | Il ritorno della Regina | 
+  | [Capitolo 3](/it/Main Story/Chapter 3/) | Angelo custode | 
+  | [Capitolo 4](/it/Main Story/Chapter 4/) | Le Rupi dei Grifoni | 
 
 
 ## Legione infernale: Capitolo 5 - Capitolo 8
@@ -51,10 +51,10 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 5](/it/Main Story/Chapter 5/) | TBD | 
-  | [Capitolo 6](/it/Main Story/Chapter 6/) | TBD | 
-  | [Capitolo 7](/it/Main Story/Chapter 7/) | TBD | 
-  | [Capitolo 8](/it/Main Story/Chapter 8/) | TBD | 
+  | [Capitolo 5](/it/Main Story/Chapter 5/) | Byrds | 
+  | [Capitolo 6](/it/Main Story/Chapter 6/) | Un nuovo inizio | 
+  | [Capitolo 7](/it/Main Story/Chapter 7/) | Erathia | 
+  | [Capitolo 8](/it/Main Story/Chapter 8/) | Terre di confine | 
 
 
 ## Battaglia sul confine: Capitolo 9 - Capitolo 12
@@ -69,10 +69,10 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 9](/it/Main Story/Chapter 9/) | TBD | 
-  | [Capitolo 10](/it/Main Story/Chapter 10/) | TBD | 
-  | [Capitolo 11](/it/Main Story/Chapter 11/) | TBD | 
-  | [Capitolo 12](/it/Main Story/Chapter 12/) | TBD | 
+  | [Capitolo 9](/it/Main Story/Chapter 9/) | La terra del caos | 
+  | [Capitolo 10](/it/Main Story/Chapter 10/) | Le Terre paludose | 
+  | [Capitolo 11](/it/Main Story/Chapter 11/) | Tatalia | 
+  | [Capitolo 12](/it/Main Story/Chapter 12/) | Acque ghiacciate | 
 
 
 ## Rinforzi magici: Capitolo 13 - Capitolo 15
@@ -87,9 +87,9 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 13](/it/Main Story/Chapter 13/) | TBD | 
-  | [Capitolo 14](/it/Main Story/Chapter 14/) | TBD | 
-  | [Capitolo 15](/it/Main Story/Chapter 15/) | TBD | 
+  | [Capitolo 13](/it/Main Story/Chapter 13/) | Dal giorno alla notte | 
+  | [Capitolo 14](/it/Main Story/Chapter 14/) | Un passaggio sicuro | 
+  | [Capitolo 15](/it/Main Story/Chapter 15/) | Fronte unito | 
 
 
 ## La vendetta di AvLee: Capitolo 16 - Capitolo 18
@@ -104,9 +104,9 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 16](/it/Main Story/Chapter 16/) | TBD | 
-  | [Capitolo 17](/it/Main Story/Chapter 17/) | TBD | 
-  | [Capitolo 18](/it/Main Story/Chapter 18/) | TBD | 
+  | [Capitolo 16](/it/Main Story/Chapter 16/) | Per il Re e per il paese | 
+  | [Capitolo 17](/it/Main Story/Chapter 17/) | La liberazione dell'impero | 
+  | [Capitolo 18](/it/Main Story/Chapter 18/) | A braccetto con il diavolo | 
 
 
 ## Forza e magia: Capitolo 19 - Capitolo 21
@@ -121,9 +121,9 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 19](/it/Main Story/Chapter 19/) | TBD | 
-  | [Capitolo 20](/it/Main Story/Chapter 20/) | TBD | 
-  | [Capitolo 21](/it/Main Story/Chapter 21/) | TBD | 
+  | [Capitolo 19](/it/Main Story/Chapter 19/) | Terreno neutrale | 
+  | [Capitolo 20](/it/Main Story/Chapter 20/) | Tunnel e trogloditi | 
+  | [Capitolo 21](/it/Main Story/Chapter 21/) | Il Graal | 
 
 
 ## Ammazzadraghi: Capitolo 22 - Capitolo 24
@@ -138,9 +138,9 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 22](/it/Main Story/Chapter 22/) | TBD | 
-  | [Capitolo 23](/it/Main Story/Chapter 23/) | TBD | 
-  | [Capitolo 24](/it/Main Story/Chapter 24/) | TBD | 
+  | [Capitolo 22](/it/Main Story/Chapter 22/) | Drago di cristallo | 
+  | [Capitolo 23](/it/Main Story/Chapter 23/) | Drago di ruggine | 
+  | [Capitolo 24](/it/Main Story/Chapter 24/) | Drago fatato | 
 
 
 ## Sangue di drago: Capitolo 25 - Capitolo 27
@@ -155,9 +155,9 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [Capitolo 25](/it/Main Story/Chapter 25/) | TBD | 
-  | [Capitolo 26](/it/Main Story/Chapter 26/) | TBD | 
-  | [Capitolo 27](/it/Main Story/Chapter 27/) | TBD | 
+  | [Capitolo 25](/it/Main Story/Chapter 25/) | La legge del più forte | 
+  | [Capitolo 26](/it/Main Story/Chapter 26/) | Sempre al comando | 
+  | [Capitolo 27](/it/Main Story/Chapter 27/) | Sangue del Padre dei Draghi | 
 
 
 ## Verso una nuova alba: Capitolo 28 - Capitolo 30
@@ -172,8 +172,8 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [](/it/Main Story/Chapter 28/) | TBD | 
-  | [](/it/Main Story/Chapter 29/) | TBD | 
-  | [](/it/Main Story/Chapter 30/) | TBD | 
+  | [](/it/Main Story/Chapter 28/) | Tunnel e trogloditi | 
+  | [](/it/Main Story/Chapter 29/) |  | 
+  | [](/it/Main Story/Chapter 30/) |  | 
 
 

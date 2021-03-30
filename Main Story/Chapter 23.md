@@ -1,7 +1,7 @@
 ---
-title: "Storia principale - Capitolo 23"
+title: "Storia principale - Capitolo 23 Drago di ruggine"
 permalink: /Main Story/Chapter 23/
-excerpt: "Capitolo 23. Era of Chaos  Storia principale - Capitolo 23."
+excerpt: "Capitolo 23. Era of Chaos  Storia principale - Capitolo 23. Drago di ruggine"
 last_modified_at: 2021-03-30
 locale: it
 ref: "Chapter 23.md"

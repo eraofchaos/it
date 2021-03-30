@@ -1,7 +1,7 @@
 ---
-title: "Storia principale - Capitolo 13"
+title: "Storia principale - Capitolo 13 Dal giorno alla notte"
 permalink: /Main Story/Chapter 13/
-excerpt: "Capitolo 13. Era of Chaos  Storia principale - Capitolo 13."
+excerpt: "Capitolo 13. Era of Chaos  Storia principale - Capitolo 13. Dal giorno alla notte"
 last_modified_at: 2021-03-30
 locale: it
 ref: "Chapter 13.md"

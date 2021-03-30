@@ -1,7 +1,7 @@
 ---
-title: "Storia principale - Capitolo 9"
+title: "Storia principale - Capitolo 9 La terra del caos"
 permalink: /Main Story/Chapter 9/
-excerpt: "Capitolo 9. Era of Chaos  Storia principale - Capitolo 9."
+excerpt: "Capitolo 9. Era of Chaos  Storia principale - Capitolo 9. La terra del caos"
 last_modified_at: 2021-03-30
 locale: it
 ref: "Chapter 9.md"
