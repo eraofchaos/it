@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio raro"
 permalink: /Items/mat_42/
 excerpt: "Era of Chaos  Mercurio raro"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_42.md"
 toc: false

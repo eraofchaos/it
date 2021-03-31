@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale prezioso"
 permalink: /Items/mat_26/
 excerpt: "Era of Chaos  Minerale prezioso"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_26.md"
 toc: false

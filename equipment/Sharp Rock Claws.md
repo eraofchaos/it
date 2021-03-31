@@ -2,7 +2,7 @@
 title: "Artigli affilati di pietra"
 permalink: /equipment/Sharp Rock Claws/
 excerpt: "Era of Chaos Artigli affilati di pietra. Artigli affilati di pietra"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Sharp Rock Claws.md"
 toc: false

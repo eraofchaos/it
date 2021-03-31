@@ -2,7 +2,7 @@
 title: "Mantello antivento"
 permalink: /equipment/Windproof Cloak/
 excerpt: "Era of Chaos Mantello antivento. Mantello antivento"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Windproof Cloak.md"
 toc: false

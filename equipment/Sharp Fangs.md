@@ -2,7 +2,7 @@
 title: "Zanne affilate"
 permalink: /equipment/Sharp Fangs/
 excerpt: "Era of Chaos Zanne affilate. Zanne affilate"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Sharp Fangs.md"
 toc: false

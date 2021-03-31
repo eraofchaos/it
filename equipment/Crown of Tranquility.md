@@ -2,7 +2,7 @@
 title: "Corona della Tranquillità"
 permalink: /equipment/Crown of Tranquility/
 excerpt: "Era of Chaos Corona della Tranquillità. Corona della Tranquillità"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Crown of Tranquility.md"
 toc: false

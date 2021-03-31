@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-7 La canzone della poetessa"
 permalink: /Main Story/Chapter 18_7/
 excerpt: "Capitolo 18 - 7. Era of Chaos  Storia principale - Capitolo 18_7. 18-7 La canzone della poetessa"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 18_7.md"
 toc: false

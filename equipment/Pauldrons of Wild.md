@@ -2,7 +2,7 @@
 title: "Spallacci delle terre selvagge"
 permalink: /equipment/Pauldrons of Wild/
 excerpt: "Era of Chaos Spallacci delle terre selvagge. Spallacci delle terre selvagge"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Pauldrons of Wild.md"
 toc: false

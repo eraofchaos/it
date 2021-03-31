@@ -2,7 +2,7 @@
 title: "Ali della Manticora"
 permalink: /equipment/Manticore Wings/
 excerpt: "Era of Chaos Ali della Manticora. Ali della Manticora"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Manticore Wings.md"
 toc: false

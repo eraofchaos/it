@@ -2,7 +2,7 @@
 title: "Artigli di Drago"
 permalink: /equipment/Dragon Claws/
 excerpt: "Era of Chaos Artigli di Drago. Artigli di Drago"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Dragon Claws.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Arpia"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Arpia"
 toc: true
@@ -172,40 +172,40 @@ toc: true
 
 ## Awaking
 ### Awaking Dettagli
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Arpia deforme
 
- **Awaking Descrizione:** null
+ **Awaking Descrizione:** Scocca la mezzanotte e le Arpie danzano sulle note del canto del Fauno. La luce lunare risplende sulle loro lame, un gelido bagliore che accompagna il loro volo in una splendida dimostrazione di letale forza.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #876741;font-size:18px">Schiera un'Arpia con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Dungeon e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #876741;font-size:18px">Nell'Avventura della Gilda del Sottosuolo, occupa la città </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> volta.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Arpia nei livelli del Sottosuolo 16-2 e 16-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Schiera un'Arpia con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità d'incursione e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): Lama affilata dell'Arpia
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Artiglio affilato dell'Arpia&gt;</span><span style="color: #645252;font-size:18px"> Quando un'unità schiva un suo attacco, l'arpia lancia &lt;Artiglio affilato dell'Arpia&gt; 1 volta. Recupero: 5 secondi.</span>
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): Lama avvelenata dell'Arpia
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Artiglio affilato dell'Arpia&gt;</span><span style="color: #645252;font-size:18px"> Le Tecniche infliggono danni aggiuntivi pari al 200% dell'ATT e applicano &lt;Veleno&gt; per 5 secondi.</span>
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): Difesa dello spezzaincantesimi
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Urlo dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px"> Quando un eroe nemico lancia un incantesimo, riduce ulteriormente del 4% la Vel ATT delle unità nemiche in prima linea. Cumulabile fino a 5 volte. Durata: 8 secondi.</span>
 
-### 4th Skill (or 3rd): Muro cavo
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): Invasione dello Spezzaincantesimi
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Urlo dello Spezzaincantesimi&gt;</span><span style="color: #645252;font-size:18px"> Quando un eroe nemico lancia un incantesimo, aumenta ulteriormente del 4% la Vel ATT delle unità alleate in prima linea. Cumulabile fino a 5 volte. Durata: 8 secondi.</span>
 
-### 5th Skill (or 6th): Infiltrazione
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): Mira in volo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Mira a mezz'aria&gt;</span><span style="color: #645252;font-size:18px"> Il DAN aumenta del 20% contro unità affette da &lt;Sanguinamento&gt;.</span>
 
-### 6th Skill (or 5th): Assalto estenuante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): Massacro aereo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Mira a mezz'aria&gt;</span><span style="color: #645252;font-size:18px"> La Rid DAN aumenta del 20% contro unità affette da &lt;Veleno&gt;.</span>
 
 ## Technical info
  **runart:** 1

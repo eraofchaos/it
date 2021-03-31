@@ -2,7 +2,7 @@
 title: "Ferro cinereo"
 permalink: /equipment/Ash Horseshoe/
 excerpt: "Era of Chaos Ferro cinereo. Ferro cinereo"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Ash Horseshoe.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Units"
 permalink: /Items/Units/
 excerpt: "Units in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Units.md"
 toc: false
@@ -109,7 +109,7 @@ classes: wide
   | 95 | [Pietra mistica Genio superiore](/it/Items/unt_324/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio del Genio superiore |
   | 96 | [Pietra mistica Golem d'oro](/it/Items/unt_322/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio del Golem d'oro |
   | 97 | [Pietra mistica Gorgone Invincibile](/it/Items/unt_339/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio della Gorgone Invincibile |
-  | 98 | [Pietra mistica Grifone sacro](/it/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio del Grifone sacro. |
+  | 98 | [Pietra mistica Grifone sacro](/it/Items/unt_284/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio del Grifone reale. |
   | 99 | [Pietra mistica Guardia infernale](/it/Items/unt_315/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio della Guardia infernale. |
   | 100 | [Pietra mistica Guerriero gnoll](/it/Items/unt_336/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio del Guerriero gnoll |
   | 101 | [Pietra mistica Hobgoblin](/it/Items/unt_305/){: .btn .btn--era5} | Awakening Soul | Pietra mistica utilizzabile per aumentare il livello di Risveglio dell'Hobgoblin |

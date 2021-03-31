@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-7 Il ladro di cavalli"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "Capitolo 2 - 7. Era of Chaos  Storia principale - Capitolo 2_7. 2-7 Il ladro di cavalli"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 2_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname eccezionale"
 permalink: /Items/mat_34/
 excerpt: "Era of Chaos  Legname eccezionale"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_34.md"
 toc: false

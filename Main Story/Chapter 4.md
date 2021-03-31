@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 Le Rupi dei Grifoni"
 permalink: /Main Story/Chapter 4/
 excerpt: "Capitolo 4. Era of Chaos  Storia principale - Capitolo 4. Le Rupi dei Grifoni"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 4.md"
 toc: false

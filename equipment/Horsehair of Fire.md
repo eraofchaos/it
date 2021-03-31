@@ -2,7 +2,7 @@
 title: "Criniera di fuoco"
 permalink: /equipment/Horsehair of Fire/
 excerpt: "Era of Chaos Criniera di fuoco. Criniera di fuoco"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Horsehair of Fire.md"
 toc: false

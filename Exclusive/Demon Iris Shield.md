@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Demone Esclusivo."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Demon Scudo dell'Iride.md"
 toc: false

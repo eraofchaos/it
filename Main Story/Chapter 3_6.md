@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-6 L'accampamento dei banditi"
 permalink: /Main Story/Chapter 3_6/
 excerpt: "Capitolo 3 - 6. Era of Chaos  Storia principale - Capitolo 3_6. 3-6 L'accampamento dei banditi"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 3_6.md"
 toc: false

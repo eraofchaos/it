@@ -2,7 +2,7 @@
 title: "Emblema sacro - Ali di Grifone"
 permalink: /Emblem/Griffin Wings/
 excerpt: "Era of Chaos Ali di Grifone. Ali di Grifone. Era of Chaos Emblema sacro Ali di Grifone. Era of Chaos Ordine Ali di Grifone"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Griffin Wings.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pinna blu profondo"
 permalink: /equipment/Mazarine Fin/
 excerpt: "Era of Chaos Pinna blu profondo. Pinna blu profondo"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Mazarine Fin.md"
 toc: false

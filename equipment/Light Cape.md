@@ -2,7 +2,7 @@
 title: "Mantello luminoso"
 permalink: /equipment/Light Cape/
 excerpt: "Era of Chaos Mantello luminoso. Mantello luminoso"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Light Cape.md"
 toc: false

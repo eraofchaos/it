@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-15 Il guardiano"
 permalink: /Main Story/Chapter 25_15/
 excerpt: "Capitolo 25 - 15. Era of Chaos  Storia principale - Capitolo 25_15. 25-15 Il guardiano"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 25_15.md"
 toc: false

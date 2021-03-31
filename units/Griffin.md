@@ -3,7 +3,7 @@ title: "Grifone"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
 unitID: 103
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Grifone"
 toc: true
@@ -182,7 +182,7 @@ toc: true
 ### Awaking Dettagli
  **Is it possible right now?** YES
 
- **Awaking Name:** Grifone sacro
+ **Awaking Name:** Grifone reale
 
  **Awaking Descrizione:** I Grifoni addestrati dalla famiglia Edric ora combattono per difendere l'Erathia. Pattugliano i cieli sopra il castello notte e giorno. Chiunque abbia l'audacia e la stoltezza di avvicinarsi viene ridotto in brandelli dai loro affilatissimi artigli.
 
@@ -191,7 +191,7 @@ toc: true
 
  2. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> risorse durante un'Avventura della Gilda.</span>
 
- 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Grifone sacro nei livelli del Sottosuolo 15-2 e 15-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Grifone reale nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
  4. <span style="color: #876741;font-size:18px">Schiera un Grifone con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Castello e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 

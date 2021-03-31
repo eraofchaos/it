@@ -2,7 +2,7 @@
 title: "Spallacci di cuoio"
 permalink: /equipment/Leather Pauldrons/
 excerpt: "Era of Chaos Spallacci di cuoio. Spallacci di cuoio"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Leather Pauldrons.md"
 toc: false

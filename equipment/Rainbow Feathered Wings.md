@@ -2,7 +2,7 @@
 title: "Ali arcobaleno"
 permalink: /equipment/Rainbow Feathered Wings/
 excerpt: "Era of Chaos Ali arcobaleno. Ali arcobaleno"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Rainbow Feathered Wings.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Telo della Sirena"
 permalink: /equipment/Cloth of the Mermaid/
 excerpt: "Era of Chaos Telo della Sirena. Telo della Sirena"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Cloth of the Mermaid.md"
 toc: false

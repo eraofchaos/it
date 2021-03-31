@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
 unitID: 704
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Medusa"
 toc: true
@@ -80,7 +80,7 @@ toc: true
 
  **Nome:** [Arco della Medusa](/it/Exclusive/Medusa Medusa's Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rango ↑:** [Token Arco di Medusa](/it/Items/con_991/)
 

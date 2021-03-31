@@ -2,7 +2,7 @@
 title: "Esclusivo - Peso insostenibile"
 permalink: /Exclusive/Giant Thousand Ton/
 excerpt: "Era of Chaos Peso insostenibile. Peso insostenibile. Era of Chaos Esclusivo Peso insostenibile. Gigante Esclusivo."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Giant Peso insostenibile.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo leggendario"
 permalink: /Items/mat_59/
 excerpt: "Era of Chaos  Cristallo leggendario"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_59.md"
 toc: false

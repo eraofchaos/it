@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-4 La veste del Gigante"
 permalink: /Main Story/Chapter 16_4/
 excerpt: "Capitolo 16 - 4. Era of Chaos  Storia principale - Capitolo 16_4. 16-4 La veste del Gigante"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 16_4.md"
 toc: false

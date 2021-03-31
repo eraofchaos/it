@@ -2,7 +2,7 @@
 title: "Esclusivo - Lama del sottosuolo"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Lama del sottosuolo. Lama del sottosuolo. Era of Chaos Esclusivo Lama del sottosuolo. Cavaliere nero Esclusivo."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Black Knight Lama del sottosuolo.md"
 toc: false

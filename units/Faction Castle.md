@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Castle -  Units"
 permalink: /units/Faction Castle/
 excerpt: "Era of Chaos Faction Castle. Faction Castle. List of Faction in Era of Chaos"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Faction Castle"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   |:---|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | [Picchiere](/it/units/Pikeman/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardiere  |
   | 2 | [Tiratore scelto](/it/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Maestro arciere  |
-  | 3 | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifone sacro  |
+  | 3 | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifone reale  |
   | 4 | [Spadaccino](/it/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crociato  |
   | 5 | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
   | 6 | [Catafratto](/it/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Cavalieri campioni  |

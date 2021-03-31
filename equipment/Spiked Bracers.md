@@ -2,7 +2,7 @@
 title: "Bracciali chiodati"
 permalink: /equipment/Spiked Bracers/
 excerpt: "Era of Chaos Bracciali chiodati. Bracciali chiodati"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Spiked Bracers.md"
 toc: false

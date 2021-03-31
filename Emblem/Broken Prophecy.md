@@ -2,7 +2,7 @@
 title: "Emblema sacro - Profezia infranta"
 permalink: /Emblem/Broken Prophecy/
 excerpt: "Era of Chaos Profezia infranta. Profezia infranta. Era of Chaos Emblema sacro Profezia infranta. Era of Chaos Malvagio Profezia infranta"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Broken Prophecy.md"
 toc: false

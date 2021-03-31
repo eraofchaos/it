@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-12 Le fazioni magiche"
 permalink: /Main Story/Chapter 20_12/
 excerpt: "Capitolo 20 - 12. Era of Chaos  Storia principale - Capitolo 20_12. 20-12 Le fazioni magiche"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 20_12.md"
 toc: false

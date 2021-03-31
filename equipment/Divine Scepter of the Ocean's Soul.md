@@ -2,7 +2,7 @@
 title: "Scettro Anima oceanica divina"
 permalink: /equipment/Divine Scepter of the Ocean's Soul/
 excerpt: "Era of Chaos Scettro Anima oceanica divina. Scettro Anima oceanica divina"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Divine Scepter of the Ocean's Soul.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Spada maledetta"
 permalink: /equipment/Cursed Sword/
 excerpt: "Era of Chaos Spada maledetta. Spada maledetta"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Cursed Sword.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Jeddite"
 permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite è un uomo misterioso, con stretti legami con gli ufficiali di più alto rango in svariati paesi. Nessuno conosce il suo passato, e lui non ne fa mai menzione."
 heroID: 61401
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: it
 ref: "Jeddite"
 toc: true
@@ -62,12 +62,27 @@ toc: true
 * [Stordimento](/it/combination/Stordimento/) 
 
 ## HERO Biography
+   - Jeddite parte alla ricerca di un incantesimo che possa riportare in vita la sua amata.
+   - Sotto la guida di Eric, Jeddite studia a fondo l'incantesimo di resurrezione.
+   - Le strade di Jeddite, Eric e Sandro si separano sempre più...
+   - Leggenda vuole che Jeddite e il Re dei Demoni abbiano stretto un accordo i cui termini sono noti solo a loro.
+   - Il Dungeon offre protezione e aiuto a Jeddite. Jeddite accetta immediatamente; tutto per salvare la moglie defunta.
 
 ## HERO Skins
 ### Skin 1: **Classica**
 
  **Descrizione:** <span style="color: #ffffff;font-size:20px">I negromanti hanno una comprensione della morte infinitamente più profonda di chiunque altro.</span>
 
+
+### Skin 2: **Amore immortale**
+
+ **Descrizione:** <span style="color: #ffffff;font-size:20px">Tutto quello che fa Jeddite è volto a resuscitare la moglie.</span>
+
+ **Skin features:** 
+
+   - Un mago pazzo d'amore
+   - Nuovo design eroe
+   - Avatar unico
 
 
 ## Initial Mastery

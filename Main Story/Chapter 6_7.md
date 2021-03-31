@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 - 6-7 La palude del sangue"
 permalink: /Main Story/Chapter 6_7/
 excerpt: "Capitolo 6 - 7. Era of Chaos  Storia principale - Capitolo 6_7. 6-7 La palude del sangue"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 6_7.md"
 toc: false

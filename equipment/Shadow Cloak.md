@@ -2,7 +2,7 @@
 title: "Manto d'ombra"
 permalink: /equipment/Shadow Cloak/
 excerpt: "Era of Chaos Manto d'ombra. Manto d'ombra"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Shadow Cloak.md"
 toc: false

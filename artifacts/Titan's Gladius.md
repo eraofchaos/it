@@ -2,7 +2,7 @@
 title: "Manufatti - Tuono del Titano - Spadone del Titano"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Era of Chaos  Tuono del Titano - Spadone del Titano. Una spada brandita da un antico Gigante. Uno dei componenti del Tuono del Titano."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Titan's Gladius.md"
 toc: false

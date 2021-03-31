@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 15  Settimana della Confluenza
+
+  |  Date  |      Reward    |    Reward Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Apr** | **5x [Driade](/it/Items/unt_262/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **13 Apr** | **3x [Elementale del ghiaccio](/it/Items/unt_264/)**  | Un gruppo di Elementali del ghiaccio è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **14 Apr** | **100x <i class="fas fa-gem"/>**  | Le creature del Piano di Confluenza ti fanno omaggio di un mucchietto di Diamanti! |
+  | **15 Apr** | **3x [Elementale della pietra](/it/Items/unt_266/)**  | Un gruppo di Elementali della pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **16 Apr** | **3x [Elementale della tempesta](/it/Items/unt_263/)**  | Un gruppo di Elementali della tempesta è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **17 Apr** | **5x [Scrigno Unità Confluenza](/it/Items/con_1275/)**  | I tuoi soldati ti hanno portato alcuni scrigni traboccanti di potenza elementale! |
+  | **18 Apr** | **5x [Luna](/it/Items/her_378/)**  | Il potere elementale che fluisce nei tuoi territori ha attirato la visita di un mago elementale! |
+
 
 #### 2021 Week 14  Settimana della Necropoli
 

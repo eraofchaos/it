@@ -2,7 +2,7 @@
 title: "Ghirlanda profumata"
 permalink: /equipment/Fragrant Wreath/
 excerpt: "Era of Chaos Ghirlanda profumata. Ghirlanda profumata"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Fragrant Wreath.md"
 toc: false

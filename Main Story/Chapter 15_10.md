@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-10 Gli uomini cambiano"
 permalink: /Main Story/Chapter 15_10/
 excerpt: "Capitolo 15 - 10. Era of Chaos  Storia principale - Capitolo 15_10. 15-10 Gli uomini cambiano"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 15_10.md"
 toc: false

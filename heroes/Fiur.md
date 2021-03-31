@@ -3,7 +3,7 @@ title: "Fiur"
 permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Pur giovane e privo di vera esperienza, Fiur ha un potere senza eguali. Si pensa che col tempo diventerà uno degli eroi più potenti della Confluenza."
 heroID: 60704
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: it
 ref: "Fiur"
 toc: true

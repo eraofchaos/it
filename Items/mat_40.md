@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale raro"
 permalink: /Items/mat_40/
 excerpt: "Era of Chaos  Minerale raro"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_40.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Golem di ferro"
 permalink: /units/Iron Golem/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Golem di ferro sono costrutti creati dai maghi. Essi nascono da una combinazione di raffinate tecniche di costruzione e complessi incantesimi, caratteristica che li rende impervi a ogni forma di magia."
 unitID: 603
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Golem di ferro"
 toc: true

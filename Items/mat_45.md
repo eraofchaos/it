@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo raro"
 permalink: /Items/mat_45/
 excerpt: "Era of Chaos  Cristallo raro"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_45.md"
 toc: false

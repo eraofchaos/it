@@ -2,7 +2,7 @@
 title: "Tocco gelante"
 permalink: /equipment/Frost Touch/
 excerpt: "Era of Chaos Tocco gelante. Tocco gelante"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Frost Touch.md"
 toc: false

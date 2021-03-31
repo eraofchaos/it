@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Baia"
 permalink: /Battle Formation/Battle Formation Faction Cove internal
 excerpt: "Formazione di battaglia Baia"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "BattleFormationFactionCove"
 toc: false

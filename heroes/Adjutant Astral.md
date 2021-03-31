@@ -2,7 +2,7 @@
 title: "Aiutante Astral"
 permalink: /heroes/Adjutant Astral/
 excerpt: "Era of Chaos  Aiutante Astral"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: it
 ref: "Adjutant Astral.md"
 toc: false

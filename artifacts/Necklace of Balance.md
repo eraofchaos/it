@@ -2,7 +2,7 @@
 title: "Manufatti - Specchio della vendetta - Collana dell'Equilibrio"
 permalink: /artifacts/Necklace of Balance/
 excerpt: "Era of Chaos  Specchio della vendetta - Collana dell'Equilibrio. Un oggetto utilizzato per tenere sotto controllo la fusione di grandi poteri magici. Uno dei componenti dello Specchio della vendetta."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Necklace of Balance.md"
 toc: false

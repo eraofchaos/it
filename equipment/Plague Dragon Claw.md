@@ -2,7 +2,7 @@
 title: "Artiglio di Drago pestilenziale"
 permalink: /equipment/Plague Dragon Claw/
 excerpt: "Era of Chaos Artiglio di Drago pestilenziale. Artiglio di Drago pestilenziale"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Plague Dragon Claw.md"
 toc: false

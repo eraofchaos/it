@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-3 Il santuario"
 permalink: /Main Story/Chapter 2_3/
 excerpt: "Capitolo 2 - 3. Era of Chaos  Storia principale - Capitolo 2_3. 2-3 Il santuario"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 2_3.md"
 toc: false

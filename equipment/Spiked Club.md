@@ -2,7 +2,7 @@
 title: "Mazza chiodata"
 permalink: /equipment/Spiked Club/
 excerpt: "Era of Chaos Mazza chiodata. Mazza chiodata"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Spiked Club.md"
 toc: false

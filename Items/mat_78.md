@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo segreto"
 permalink: /Items/mat_78/
 excerpt: "Era of Chaos  Zolfo segreto"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_78.md"
 toc: false

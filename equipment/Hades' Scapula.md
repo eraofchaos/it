@@ -2,7 +2,7 @@
 title: "Scapola di Ade"
 permalink: /equipment/Hades' Scapula/
 excerpt: "Era of Chaos Scapola di Ade. Scapola di Ade"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Hades' Scapula.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio inferiore"
 permalink: /Items/mat_2/
 excerpt: "Era of Chaos  Mercurio inferiore"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_2.md"
 toc: false

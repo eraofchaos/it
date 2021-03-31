@@ -2,7 +2,7 @@
 title: "Aiutante Jeddite"
 permalink: /heroes/Adjutant Jeddite/
 excerpt: "Era of Chaos  Aiutante Jeddite"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: it
 ref: "Adjutant Jeddite.md"
 toc: false

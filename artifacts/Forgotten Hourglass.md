@@ -2,7 +2,7 @@
 title: "Manufatti - Specchio della vendetta - Clessidra dimenticata"
 permalink: /artifacts/Forgotten Hourglass/
 excerpt: "Era of Chaos  Specchio della vendetta - Clessidra dimenticata. Questo oggetto protegge chi usa incantesimi proibiti dal contrattacco delle forze del male. Uno dei componenti dello Specchio della vendetta."
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Forgotten Hourglass.md"
 toc: false

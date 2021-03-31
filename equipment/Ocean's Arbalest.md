@@ -2,7 +2,7 @@
 title: "Balestra oceanica"
 permalink: /equipment/Ocean's Arbalest/
 excerpt: "Era of Chaos Balestra oceanica. Balestra oceanica"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Ocean's Arbalest.md"
 toc: false

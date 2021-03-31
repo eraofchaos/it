@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-6 Una piantagione di funghi"
 permalink: /Main Story/Chapter 27_6/
 excerpt: "Capitolo 27 - 6. Era of Chaos  Storia principale - Capitolo 27_6. 27-6 Una piantagione di funghi"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 27_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Ali saettanti"
 permalink: /equipment/Wings of a Thunderbolt/
 excerpt: "Era of Chaos Ali saettanti. Ali saettanti"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Wings of a Thunderbolt.md"
 toc: false

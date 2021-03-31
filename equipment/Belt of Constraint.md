@@ -2,7 +2,7 @@
 title: "Cintura del controllo"
 permalink: /equipment/Belt of Constraint/
 excerpt: "Era of Chaos Cintura del controllo. Cintura del controllo"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Belt of Constraint.md"
 toc: false

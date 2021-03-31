@@ -2,7 +2,7 @@
 title: "Chioma serpentina"
 permalink: /equipment/Writhing Snake Hair/
 excerpt: "Era of Chaos Chioma serpentina. Chioma serpentina"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Writhing Snake Hair.md"
 toc: false

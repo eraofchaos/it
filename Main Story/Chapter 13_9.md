@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-9 Un branco di lupi"
 permalink: /Main Story/Chapter 13_9/
 excerpt: "Capitolo 13 - 9. Era of Chaos  Storia principale - Capitolo 13_9. 13-9 Un branco di lupi"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 13_9.md"
 toc: false

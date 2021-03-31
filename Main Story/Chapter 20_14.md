@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-14 Le montagne"
 permalink: /Main Story/Chapter 20_14/
 excerpt: "Capitolo 20 - 14. Era of Chaos  Storia principale - Capitolo 20_14. 20-14 Le montagne"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 20_14.md"
 toc: false

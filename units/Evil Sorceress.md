@@ -3,7 +3,7 @@ title: "Strega malvagia"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un tempo era l'ancella divina del Tempio di Baa. La sua pelle è coperta di rune, che le donano un terrificante potere pari a quello dei demoni."
 unitID: 709
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "Strega malvagia"
 toc: true
@@ -35,45 +35,45 @@ toc: true
  **Position :** Riflette gli incantesimi. Applica buff con l'aura.
 
 ## Statistiche base
- **Base HP: 5770.0**
+ **Base HP: 6000.0**
 
- **Base ATK: 633.6**
+ **Base ATK: 550.0**
 
  **Unit Upgrade:** [Unit EXP Upgrade cost per Level](/units/UnitUpgradeEXPPerLevel/)
 
   |          Grade      |   <i class="fas fa-fan"/>   | <i class="fas fa-shield-alt"/> |    <i class="fas fa-heart"/>   |
   |:--------------------|:--------:|:--------:|:--------:|
-  | Verde | 316.8 | 12.0 | 4327.5 |
-  | Blu | 633.6 | 24.0 | 8655.0 |
-  | Blu +1 | 950.4 | 36.0 | 12982.5 |
-  | Blu +2 | 1330.56 | 50.4 | 18175.5 |
-  | Viola | 1710.72 | 64.8 | 23368.5 |
-  | Viola +1 | 2090.88 | 79.2 | 28561.5 |
-  | Viola +2 | 2534.4 | 96.0 | 34620.0 |
-  | Viola +3 | 2977.92 | 112.8 | 40678.5 |
-  | Arancione | 3421.44 | 129.6 | 46737.0 |
-  | Arancione +1 | 3928.32 | 148.8 | 53661.0 |
-  | Arancione +2 | 4435.2 | 168.0 | 60585.0 |
-  | Arancione +3 | 4942.08 | 187.2 | 67509.0 |
-  | Arancione +4 | 5448.96 | 206.4 | 74433.0 |
-  | Arancione +5 | 6209.28 | 235.2 | 84819.0 |
-  | Rosso | 7223.04 | 273.6 | 98667.0 |
+  | Verde | 275.0 | 13.0 | 4500.0 |
+  | Blu | 550.0 | 26.0 | 9000.0 |
+  | Blu +1 | 825.0 | 39.0 | 13500.0 |
+  | Blu +2 | 1155.0 | 54.6 | 18900.0 |
+  | Viola | 1485.0 | 70.2 | 24300.0 |
+  | Viola +1 | 1815.0 | 85.8 | 29700.0 |
+  | Viola +2 | 2200.0 | 104.0 | 36000.0 |
+  | Viola +3 | 2585.0 | 122.2 | 42300.0 |
+  | Arancione | 2970.0 | 140.4 | 48600.0 |
+  | Arancione +1 | 3410.0 | 161.2 | 55800.0 |
+  | Arancione +2 | 3850.0 | 182.0 | 63000.0 |
+  | Arancione +3 | 4290.0 | 202.8 | 70200.0 |
+  | Arancione +4 | 4730.0 | 223.6 | 77400.0 |
+  | Arancione +5 | 5390.0 | 254.8 | 88200.0 |
+  | Rosso | 6270.0 | 296.4 | 102600.0 |
 
   |          Stars      |  Extra ATK |  ATK Speed | Extra DEF |    Extra HP   | 
   |:--------------------|:----------:|:----------:|:---------:|:-------------:|
-  | **3x** <i class="fas fa-star"/> | 88.704 | 0.55 | 6.28 | 807.8 |
-  | **4x** <i class="fas fa-star"/> | 101.376 | 0.58 | 7.02 | 923.2 |
-  | **5x** <i class="fas fa-star"/> | 114.048 | 0.6 | 7.76 | 1038.6 |
-  | **6x** <i class="fas fa-star"/> | 126.72 | 0.63 | 8.5 | 1154.0 |
+  | **3x** <i class="fas fa-star"/> | 77.0 | 0.55 | 6.72 | 840.0 |
+  | **4x** <i class="fas fa-star"/> | 88.0 | 0.58 | 7.48 | 960.0 |
+  | **5x** <i class="fas fa-star"/> | 99.0 | 0.6 | 8.24 | 1080.0 |
+  | **6x** <i class="fas fa-star"/> | 110.0 | 0.63 | 9.0 | 1200.0 |
 
 ## Equipaggiamento
 
   | I | Equipaggiamento  |  Basic stat 1 | Basic stat 2 | 
   |:-:|:-------------|:-------------:|:------------:|
-  | ![UnknownEquipment_7091](/images/e/e_7091.png) | [UnknownEquipment_7091](/it/equipment/UnknownEquipment_7091/) | **ATT** | **DIF** | 
-  | ![UnknownEquipment_7092](/images/e/e_7092.png) | [UnknownEquipment_7092](/it/equipment/UnknownEquipment_7092/) | **PF** | **DIF** | 
-  | ![UnknownEquipment_7093](/images/e/e_7093.png) | [UnknownEquipment_7093](/it/equipment/UnknownEquipment_7093/) | **ATT** | **DIF** | 
-  | ![UnknownEquipment_7094](/images/e/e_7094.png) | [UnknownEquipment_7094](/it/equipment/UnknownEquipment_7094/) | **PF** | **DIF** | 
+  | ![Bordone dello Spezzaincantesimi](/images/e/e_7091.png) | [Bordone dello Spezzaincantesimi](/it/equipment/Spell Breaker's Staff/) | **ATT** | **DIF** | 
+  | ![Ali demoniache](/images/e/e_7092.png) | [Ali demoniache](/it/equipment/Demonic Wings/) | **PF** | **DIF** | 
+  | ![Guanti cranici](/images/e/e_7093.png) | [Guanti cranici](/it/equipment/Cranial Gauntlets/) | **ATT** | **DIF** | 
+  | ![Osso rinforzato](/images/e/e_7094.png) | [Osso rinforzato](/it/equipment/Hard Bone/) | **PF** | **DIF** | 
 
 ## Esclusivo
 
@@ -104,36 +104,38 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">La Strega malvagia diventa immune al </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Silenzio&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Se la Strega malvagia è sul campo di battaglia, aumenta il mana iniziale dei tuoi eroi di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">. All'inizio della battaglia, lancia &lt;Specchio magico&gt; su di sé e su 1 unità non grande; l'effetto dura fino al termine della battaglia. Quando affronta unità a distanza e incantatori, la Strega malvagia gode di Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 2 : Bordone dello Spezzaincantesimi
- **Descrizione:** <span style="color: #645252;font-size:20px">La Strega malvagia gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando un eroe avversario lancia un incantesimo, la Strega malvagia infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT, più </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi a tutte le unità nemiche nelle vicinanze dell'unità bersaglio; inoltre, infligge danni pari all'1,5% dei propri PF massimi a tutte le unità nemiche. Applica inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stordimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 4 secondi alle unità </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;avvelenate&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e infligge danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi alle unità affette da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando affronta unità Torre, la Strega malvagia gode di DAN aumentato del 50%.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">La Strega malvagia gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e DIF aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando un eroe nemico lancia un incantesimo, la Strega malvagia infligge danni pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> del proprio ATT, più </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi a tutte le unità nemiche nelle vicinanze dell'unità bersaglio; inoltre, infligge danni pari all'1,5% dei propri PF massimi a tutte le unità nemiche. Applica inoltre </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Stordimento&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 4 secondi alle unità </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;avvelenate&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> e infligge danni aggiuntivi pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei PF massimi alle unità affette da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Combustione&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">. Quando affronta unità Torre, la Strega malvagia gode di DAN aumentato del 50%.</span><span style="color: black">
 
 ### Tecnica normale 3 : Teletrasporto
- **Descrizione:** <span style="color: #645252;font-size:20px">Aumenta la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Gli attacchi base delle unità d'incursione Dungeon hanno il 5% di probabilità di &lt;stordire&gt; le unità </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;avvelenate&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 2 secondi. 4 secondi dopo essere scesa in campo, la Strega malvagia aumenta la Vel ATT delle unità d'incursione alleate del 15%. L'effetto dura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi. La Strega malvagia passa senza sforzo dalle ombre al mondo reale. La Strega malvagia è immune al DAN delle unità, ma non può essere curata finché resta nelle ombre. Durata: 2 secondi. Recupero: 5 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Aumenta la Vel ATT (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Gli attacchi base delle unità d'incursione Dungeon hanno il 5% di probabilità di &lt;stordire&gt; le unità </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;avvelenate&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 2 secondi. 4 secondi dopo essere scesa in campo, la Strega malvagia aumenta la Vel ATT delle unità d'incursione alleate di </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">. L'effetto dura </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> secondi. La Strega malvagia passa senza sforzo dalle ombre al mondo reale. La Strega malvagia è immune al DAN delle unità, ma non può essere curata finché resta nelle ombre. Durata: 2 secondi. Recupero: 5 secondi.</span><span style="color: black">
 
 ### Tecnica speciale fazione : Conflitto oscuro
- **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str12"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Dungeon piegano l'ambiente circostante alla propria volontà. Quando affrontano unità non Dungeon, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 6 : Dungeon sanguinario
- **Descrizione:** <span style="color: #645252;font-size:20px">Se sono schierate 3 unità Dungeon, gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str13"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str14"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando lancia &lt;Esplosione mistica&gt;, evoca un'<span style="color: #645252;font-size:20px">Aura</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #F0F000;font-size:20px"> &lt;Dungeon sanguinario&gt;</span><span style="color: black">, che cresce all'aumentare del livello. L'Aura ha una durata di 15 secondi. Recupero: 30 secondi.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se sono schierate 3 unità Dungeon, gode di DAN aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str15"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str16"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando lancia &lt;Esplosione mistica&gt;, evoca un'<span style="color: #645252;font-size:20px">Aura</span><span style="color: black"><span style="color: #645252;font-size:20px"></span><span style="color: black"><span style="color: #F0F000;font-size:20px"> &lt;Dungeon sanguinario&gt;</span><span style="color: black">, che cresce all'aumentare del livello. L'Aura ha una durata di 15 secondi. Recupero: 30 secondi.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
     var LEVEL = document.getElementById('level').value;
     var ATK = document.getElementById('atk').value;
     var TLEVEL = document.getElementById('unitlevel').value;
-    let str7 = "LEVEL*3+11"
-    let str8 = "LEVEL*0.1+0.9"
-    let str5 = "LEVEL*2+20"
-    let str6 = "LEVEL*1+2"
-    let str3 = "LEVEL*0.1+2.6"
+    let str7 = "LEVEL*1+5"
+    let str8 = "LEVEL*3+11"
+    let str5 = "LEVEL*4+40"
+    let str6 = "LEVEL*1+5"
+    let str3 = "LEVEL*0.1+2.5"
     let str4 = "LEVEL*1+2"
     let str1 = "LEVEL*10+150"
     let str2 = "LEVEL*0.3+2.5"
-    let str12 = "(LEVEL*1+5)"
-    let str13 = "LEVEL*1+15"
-    let str10 = "LEVEL*1+10"
-    let str11 = "(LEVEL*1+15)"
-    let str9 = "LEVEL*0.1+3.5"
-    let str14 = "LEVEL*1+15"
+    let str12 = "(LEVEL*1.5+7.5)"
+    let str13 = "(LEVEL*1+15)"
+    let str10 = "LEVEL*0.1+3.5"
+    let str11 = "LEVEL*1+10"
+    let str16 = "LEVEL*1+15"
+    let str9 = "LEVEL*0.1+0.9"
+    let str14 = "(LEVEL*1+5)"
+    let str15 = "LEVEL*1+15"
     let res="ERR";
     try {
      res = eval(str7); document.getElementById('str7').textContent = res;
@@ -148,8 +150,10 @@ toc: true
      res = eval(str13); document.getElementById('str13').textContent = res;
      res = eval(str10); document.getElementById('str10').textContent = res;
      res = eval(str11); document.getElementById('str11').textContent = res;
+     res = eval(str16); document.getElementById('str16').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
      res = eval(str14); document.getElementById('str14').textContent = res;
+     res = eval(str15); document.getElementById('str15').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)
       event.preventDefault();

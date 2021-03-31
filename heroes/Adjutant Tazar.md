@@ -2,7 +2,7 @@
 title: "Aiutante Tazar"
 permalink: /heroes/Adjutant Tazar/
 excerpt: "Era of Chaos  Aiutante Tazar"
-last_modified_at: 2021-03-28
+last_modified_at: 2021-03-31
 locale: it
 ref: "Adjutant Tazar.md"
 toc: false

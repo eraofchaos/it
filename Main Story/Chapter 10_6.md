@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-6 In cerca dei frammenti"
 permalink: /Main Story/Chapter 10_6/
 excerpt: "Capitolo 10 - 6. Era of Chaos  Storia principale - Capitolo 10_6. 10-6 In cerca dei frammenti"
-last_modified_at: 2021-03-30
+last_modified_at: 2021-03-31
 locale: it
 ref: "Chapter 10_6.md"
 toc: false

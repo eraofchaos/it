@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio leggendario"
 permalink: /Items/mat_56/
 excerpt: "Era of Chaos  Mercurio leggendario"
-last_modified_at: 2021-03-25
+last_modified_at: 2021-03-31
 locale: it
 ref: "mat_56.md"
 toc: false
