@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Minotauro Esclusivo."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Minotaur Scudo dell'Iride.md"
 toc: false

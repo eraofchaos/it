@@ -3,7 +3,7 @@ title: "Leprecauno"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Aiutati dalla misteriosa protezione offerta dai loro amuleti magici, i Leprecauni evocati usano il Monolite dell'Albero del Mondo per raggiungere il sanguinoso e violento campo di battaglia e diventare i più imbattibili difensori della natura!"
 unitID: 909
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Leprecauno"
 toc: true

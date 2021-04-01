@@ -2,7 +2,7 @@
 title: "Guanti di ferro"
 permalink: /equipment/Iron Gauntlets/
 excerpt: "Era of Chaos Guanti di ferro. Guanti di ferro"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Iron Gauntlets.md"
 toc: false

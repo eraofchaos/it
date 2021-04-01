@@ -2,7 +2,7 @@
 title: "Tentacoli tentatori"
 permalink: /equipment/Tentacles of Temptation/
 excerpt: "Era of Chaos Tentacoli tentatori. Tentacoli tentatori"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Tentacles of Temptation.md"
 toc: false

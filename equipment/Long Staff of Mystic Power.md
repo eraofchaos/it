@@ -2,7 +2,7 @@
 title: "Bordone del Potere mistico"
 permalink: /equipment/Long Staff of Mystic Power/
 excerpt: "Era of Chaos Bordone del Potere mistico. Bordone del Potere mistico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Long Staff of Mystic Power.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Lama celata"
 permalink: /equipment/Hidden Blade/
 excerpt: "Era of Chaos Lama celata. Lama celata"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Hidden Blade.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Elmo delle terre selvagge"
 permalink: /equipment/Helm of the Wild/
 excerpt: "Era of Chaos Elmo delle terre selvagge. Elmo delle terre selvagge"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Helm of the Wild.md"
 toc: false

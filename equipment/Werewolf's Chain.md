@@ -2,7 +2,7 @@
 title: "Catena del Licantropo"
 permalink: /equipment/Werewolf's Chain/
 excerpt: "Era of Chaos Catena del Licantropo. Catena del Licantropo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Werewolf's Chain.md"
 toc: false

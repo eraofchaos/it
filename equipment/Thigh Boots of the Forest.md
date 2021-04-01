@@ -2,7 +2,7 @@
 title: "Stivali alti della foresta"
 permalink: /equipment/Thigh Boots of the Forest/
 excerpt: "Era of Chaos Stivali alti della foresta. Stivali alti della foresta"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Thigh Boots of the Forest.md"
 toc: false

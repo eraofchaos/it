@@ -2,7 +2,7 @@
 title: "Spallacci dell'Incubo"
 permalink: /equipment/Nightmare Pauldrons/
 excerpt: "Era of Chaos Spallacci dell'Incubo. Spallacci dell'Incubo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Nightmare Pauldrons.md"
 toc: false

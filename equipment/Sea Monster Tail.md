@@ -2,7 +2,7 @@
 title: "Coda di mostro marino"
 permalink: /equipment/Sea Monster Tail/
 excerpt: "Era of Chaos Coda di mostro marino. Coda di mostro marino"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Sea Monster Tail.md"
 toc: false

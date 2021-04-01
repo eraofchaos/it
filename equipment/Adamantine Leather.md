@@ -2,7 +2,7 @@
 title: "Cuoio indistruttibile"
 permalink: /equipment/Adamantine Leather/
 excerpt: "Era of Chaos Cuoio indistruttibile. Cuoio indistruttibile"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Adamantine Leather.md"
 toc: false

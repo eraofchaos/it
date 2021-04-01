@@ -2,7 +2,7 @@
 title: "Ali antiche"
 permalink: /equipment/Ancient Wings/
 excerpt: "Era of Chaos Ali antiche. Ali antiche"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Ancient Wings.md"
 toc: false

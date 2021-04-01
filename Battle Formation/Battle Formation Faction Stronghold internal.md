@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Roccaforte"
 permalink: /Battle Formation/Battle Formation Faction Stronghold internal
 excerpt: "Formazione di battaglia Roccaforte"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "BattleFormationFactionStronghold"
 toc: false

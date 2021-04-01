@@ -2,7 +2,7 @@
 title: "Pinna congelata"
 permalink: /equipment/Ice-cold Fin/
 excerpt: "Era of Chaos Pinna congelata. Pinna congelata"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Ice-cold Fin.md"
 toc: false

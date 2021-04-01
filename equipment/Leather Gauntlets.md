@@ -2,7 +2,7 @@
 title: "Guanti di cuoio"
 permalink: /equipment/Leather Gauntlets/
 excerpt: "Era of Chaos Guanti di cuoio. Guanti di cuoio"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Leather Gauntlets.md"
 toc: false

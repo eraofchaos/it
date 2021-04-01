@@ -2,7 +2,7 @@
 title: "Denti ustionanti"
 permalink: /equipment/Scalding Teeth/
 excerpt: "Era of Chaos Denti ustionanti. Denti ustionanti"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Scalding Teeth.md"
 toc: false

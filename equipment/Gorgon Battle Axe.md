@@ -2,7 +2,7 @@
 title: "Ascia della Gorgone"
 permalink: /equipment/Gorgon Battle Axe/
 excerpt: "Era of Chaos Ascia della Gorgone. Ascia della Gorgone"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Gorgon Battle Axe.md"
 toc: false

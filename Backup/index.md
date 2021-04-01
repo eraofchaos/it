@@ -48,21 +48,21 @@ classes: wide
 
   |  Level  | Tecnica campo di battaglia | Tecnica globale | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Energy Scroll](/Items/con_830/) | **5x** [Energy Scroll](/Items/con_830/) | 
-  | 2 | **2x** [Energy Scroll](/Items/con_830/) | **10x** [Energy Scroll](/Items/con_830/) | 
-  | 3 | **3x** [Energy Scroll](/Items/con_830/) | **15x** [Energy Scroll](/Items/con_830/) | 
-  | 4 | **4x** [Energy Scroll](/Items/con_830/) | **20x** [Energy Scroll](/Items/con_830/) | 
-  | 5 | **5x** [Energy Scroll](/Items/con_830/) | **25x** [Energy Scroll](/Items/con_830/) | 
-  | 6 | **9x** [Energy Scroll](/Items/con_830/) | **45x** [Energy Scroll](/Items/con_830/) | 
-  | 7 | **12x** [Energy Scroll](/Items/con_830/) | **60x** [Energy Scroll](/Items/con_830/) | 
-  | 8 | **20x** [Energy Scroll](/Items/con_830/) | **100x** [Energy Scroll](/Items/con_830/) | 
-  | 9 | **30x** [Energy Scroll](/Items/con_830/) | **150x** [Energy Scroll](/Items/con_830/) | 
-  | 10 | **40x** [Energy Scroll](/Items/con_830/) | **200x** [Energy Scroll](/Items/con_830/) | 
-  | 11 | **50x** [Energy Scroll](/Items/con_830/) | **250x** [Energy Scroll](/Items/con_830/) | 
-  | 12 | **60x** [Energy Scroll](/Items/con_830/) | **300x** [Energy Scroll](/Items/con_830/) | 
-  | 13 | **100x** [Energy Scroll](/Items/con_830/) | **500x** [Energy Scroll](/Items/con_830/) | 
-  | 14 | **160x** [Energy Scroll](/Items/con_830/) | **800x** [Energy Scroll](/Items/con_830/) | 
-  | 15 | **200x** [Energy Scroll](/Items/con_830/) | **1000x** [Energy Scroll](/Items/con_830/) | 
+  | 1 | **1x** [Pergamena dell'energia](/it/Items/con_830/) | **5x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 2 | **2x** [Pergamena dell'energia](/it/Items/con_830/) | **10x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 3 | **3x** [Pergamena dell'energia](/it/Items/con_830/) | **15x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 4 | **4x** [Pergamena dell'energia](/it/Items/con_830/) | **20x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 5 | **5x** [Pergamena dell'energia](/it/Items/con_830/) | **25x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 6 | **9x** [Pergamena dell'energia](/it/Items/con_830/) | **45x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 7 | **12x** [Pergamena dell'energia](/it/Items/con_830/) | **60x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 8 | **20x** [Pergamena dell'energia](/it/Items/con_830/) | **100x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 9 | **30x** [Pergamena dell'energia](/it/Items/con_830/) | **150x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 10 | **40x** [Pergamena dell'energia](/it/Items/con_830/) | **200x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 11 | **50x** [Pergamena dell'energia](/it/Items/con_830/) | **250x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 12 | **60x** [Pergamena dell'energia](/it/Items/con_830/) | **300x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 13 | **100x** [Pergamena dell'energia](/it/Items/con_830/) | **500x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 14 | **160x** [Pergamena dell'energia](/it/Items/con_830/) | **800x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 15 | **200x** [Pergamena dell'energia](/it/Items/con_830/) | **1000x** [Pergamena dell'energia](/it/Items/con_830/) | 
 
 
 ## Regole
