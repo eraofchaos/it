@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo mistico"
 permalink: /Items/mat_85/
 excerpt: "Era of Chaos  Zolfo mistico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_85.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 24 (Drago fatato) -> 24-4 
-*    Capitolo 24 (Drago fatato) -> 24-10 
-*    Capitolo 24 (Drago fatato) -> 24-13 
+*    Avventura della Gilda 
+*    [Capitolo 24: Drago fatato -> 24-4](/it/Main Story/Chapter 24_4/) 
+*    [Capitolo 24: Drago fatato -> 24-10](/it/Main Story/Chapter 24_10/) 
+*    [Capitolo 24: Drago fatato -> 24-13](/it/Main Story/Chapter 24_13/) 
 
 ## This item contains:
 

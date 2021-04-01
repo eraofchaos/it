@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname splendente"
 permalink: /Items/mat_97/
 excerpt: "Era of Chaos  Legname splendente"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_97.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 27 (Sangue del Padre dei Draghi) -> 27-2 
-*    Capitolo 27 (Sangue del Padre dei Draghi) -> 27-8 
+*    Avventura della Gilda 
+*    [Capitolo 27: Sangue del Padre dei Draghi -> 27-2](/it/Main Story/Chapter 27_2/) 
+*    [Capitolo 27: Sangue del Padre dei Draghi -> 27-8](/it/Main Story/Chapter 27_8/) 
 
 ## This item contains:
 

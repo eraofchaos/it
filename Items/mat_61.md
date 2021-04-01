@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale mitico"
 permalink: /Items/mat_61/
 excerpt: "Era of Chaos  Minerale mitico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_61.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-1 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-4 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-7 
+*    Avventura della Gilda 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-1](/it/Main Story/Chapter 18_1/) 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-4](/it/Main Story/Chapter 18_4/) 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-7](/it/Main Story/Chapter 18_7/) 
 
 ## This item contains:
 

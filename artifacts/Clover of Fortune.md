@@ -2,7 +2,7 @@
 title: "Manufatti - Ferro Portafortuna - Quadrifoglo della Sorte"
 permalink: /artifacts/Clover of Fortune/
 excerpt: "Era of Chaos  Ferro Portafortuna - Quadrifoglo della Sorte. Un quadrifoglio portafortuna. Uno dei componenti del Ferro Portafortuna."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Clover of Fortune.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-2 Il caos della guerra"
 permalink: /Main Story/Chapter 13_2/
 excerpt: "Capitolo 13 - 2. Era of Chaos  Storia principale - Capitolo 13_2. 13-2 Il caos della guerra"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 13_2.md"
 toc: false

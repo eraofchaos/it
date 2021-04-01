@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname di buona qualità"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Legname di buona qualità"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_13.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 4 (Le Rupi dei Grifoni) -> 4-2 
-*    Capitolo 4 (Le Rupi dei Grifoni) -> 4-5 
-*    Capitolo 4 (Le Rupi dei Grifoni) -> 4-8 
+*    Avventura della Gilda 
+*    [Capitolo 4: Le Rupi dei Grifoni -> 4-2](/it/Main Story/Chapter 4_2/) 
+*    [Capitolo 4: Le Rupi dei Grifoni -> 4-5](/it/Main Story/Chapter 4_5/) 
+*    [Capitolo 4: Le Rupi dei Grifoni -> 4-8](/it/Main Story/Chapter 4_8/) 
 
 ## This item contains:
 

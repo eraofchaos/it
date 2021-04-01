@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme leggendarie"
 permalink: /Items/mat_58/
 excerpt: "Era of Chaos  Gemme leggendarie"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_58.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 17 (La liberazione dell'impero) -> 17-1 
-*    Capitolo 17 (La liberazione dell'impero) -> 17-5 
-*    Capitolo 17 (La liberazione dell'impero) -> 17-11 
+*    Avventura della Gilda 
+*    [Capitolo 17: La liberazione dell'impero -> 17-1](/it/Main Story/Chapter 17_1/) 
+*    [Capitolo 17: La liberazione dell'impero -> 17-5](/it/Main Story/Chapter 17_5/) 
+*    [Capitolo 17: La liberazione dell'impero -> 17-11](/it/Main Story/Chapter 17_11/) 
 
 ## This item contains:
 

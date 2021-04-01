@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname inferiore"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Legname inferiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_1.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 1 (L'isola di Evenmorn) -> 1-2 
-*    Capitolo 1 (L'isola di Evenmorn) -> 1-3 
-*    Capitolo 1 (L'isola di Evenmorn) -> 1-5 
+*    Avventura della Gilda 
+*    [Capitolo 1: L'isola di Evenmorn -> 1-2](/it/Main Story/Chapter 1_2/) 
+*    [Capitolo 1: L'isola di Evenmorn -> 1-3](/it/Main Story/Chapter 1_3/) 
+*    [Capitolo 1: L'isola di Evenmorn -> 1-5](/it/Main Story/Chapter 1_5/) 
 
 ## This item contains:
 

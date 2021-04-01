@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio eccezionale"
 permalink: /Items/mat_35/
 excerpt: "Era of Chaos  Mercurio eccezionale"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_35.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 10 (Le Terre paludose) -> 10-3 
-*    Capitolo 10 (Le Terre paludose) -> 10-6 
-*    Capitolo 10 (Le Terre paludose) -> 10-9 
+*    Avventura della Gilda 
+*    [Capitolo 10: Le Terre paludose -> 10-3](/it/Main Story/Chapter 10_3/) 
+*    [Capitolo 10: Le Terre paludose -> 10-6](/it/Main Story/Chapter 10_6/) 
+*    [Capitolo 10: Le Terre paludose -> 10-9](/it/Main Story/Chapter 10_9/) 
 
 ## This item contains:
 

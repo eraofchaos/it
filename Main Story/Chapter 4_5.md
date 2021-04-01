@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-5 Un piano rivelato"
 permalink: /Main Story/Chapter 4_5/
 excerpt: "Capitolo 4 - 5. Era of Chaos  Storia principale - Capitolo 4_5. 4-5 Un piano rivelato"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 4_5.md"
 toc: false

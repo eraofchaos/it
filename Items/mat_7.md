@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname comune"
 permalink: /Items/mat_7/
 excerpt: "Era of Chaos  Legname comune"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_7.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-3 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-7 
-*    Capitolo 3 (Angelo custode) -> 3-2 
+*    Avventura della Gilda 
+*    [Capitolo 2: Il ritorno della Regina -> 2-3](/it/Main Story/Chapter 2_3/) 
+*    [Capitolo 2: Il ritorno della Regina -> 2-7](/it/Main Story/Chapter 2_7/) 
+*    [Capitolo 3: Angelo custode -> 3-2](/it/Main Story/Chapter 3_2/) 
 
 ## This item contains:
 

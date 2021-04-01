@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname epico"
 permalink: /Items/mat_48/
 excerpt: "Era of Chaos  Legname epico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_48.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-2 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-5 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-8 
+*    Avventura della Gilda 
+*    [Capitolo 14: Un passaggio sicuro -> 14-2](/it/Main Story/Chapter 14_2/) 
+*    [Capitolo 14: Un passaggio sicuro -> 14-5](/it/Main Story/Chapter 14_5/) 
+*    [Capitolo 14: Un passaggio sicuro -> 14-8](/it/Main Story/Chapter 14_8/) 
 
 ## This item contains:
 

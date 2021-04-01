@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-6 La taverna degli Gnomi"
 permalink: /Main Story/Chapter 17_6/
 excerpt: "Capitolo 17 - 6. Era of Chaos  Storia principale - Capitolo 17_6. 17-6 La taverna degli Gnomi"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 17_6.md"
 toc: false

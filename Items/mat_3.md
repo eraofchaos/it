@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo inferiore"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Zolfo inferiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_3.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 1 (L'isola di Evenmorn) -> 1-2 
-*    Capitolo 1 (L'isola di Evenmorn) -> 1-5 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-4 
+*    Avventura della Gilda 
+*    [Capitolo 1: L'isola di Evenmorn -> 1-2](/it/Main Story/Chapter 1_2/) 
+*    [Capitolo 1: L'isola di Evenmorn -> 1-5](/it/Main Story/Chapter 1_5/) 
+*    [Capitolo 2: Il ritorno della Regina -> 2-4](/it/Main Story/Chapter 2_4/) 
 
 ## This item contains:
 

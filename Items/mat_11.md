@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo comune"
 permalink: /Items/mat_11/
 excerpt: "Era of Chaos  Cristallo comune"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_11.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 3 (Angelo custode) -> 3-6 
-*    Capitolo 3 (Angelo custode) -> 3-12 
-*    Capitolo 3 (Angelo custode) -> 3-15 
+*    Avventura della Gilda 
+*    [Capitolo 3: Angelo custode -> 3-6](/it/Main Story/Chapter 3_6/) 
+*    [Capitolo 3: Angelo custode -> 3-12](/it/Main Story/Chapter 3_12/) 
+*    [Capitolo 3: Angelo custode -> 3-15](/it/Main Story/Chapter 3_15/) 
 
 ## This item contains:
 

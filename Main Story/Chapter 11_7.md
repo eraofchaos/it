@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-7 Ali d'angelo"
 permalink: /Main Story/Chapter 11_7/
 excerpt: "Capitolo 11 - 7. Era of Chaos  Storia principale - Capitolo 11_7. 11-7 Ali d'angelo"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 11_7.md"
 toc: false

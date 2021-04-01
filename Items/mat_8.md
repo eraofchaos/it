@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio comune"
 permalink: /Items/mat_8/
 excerpt: "Era of Chaos  Mercurio comune"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_8.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-4 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-8 
-*    Capitolo 3 (Angelo custode) -> 3-3 
+*    Avventura della Gilda 
+*    [Capitolo 2: Il ritorno della Regina -> 2-4](/it/Main Story/Chapter 2_4/) 
+*    [Capitolo 2: Il ritorno della Regina -> 2-8](/it/Main Story/Chapter 2_8/) 
+*    [Capitolo 3: Angelo custode -> 3-3](/it/Main Story/Chapter 3_3/) 
 
 ## This item contains:
 

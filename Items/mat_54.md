@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale leggendario"
 permalink: /Items/mat_54/
 excerpt: "Era of Chaos  Minerale leggendario"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_54.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-1 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-4 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-7 
+*    Avventura della Gilda 
+*    [Capitolo 16: Per il Re e per il paese -> 16-1](/it/Main Story/Chapter 16_1/) 
+*    [Capitolo 16: Per il Re e per il paese -> 16-4](/it/Main Story/Chapter 16_4/) 
+*    [Capitolo 16: Per il Re e per il paese -> 16-7](/it/Main Story/Chapter 16_7/) 
 
 ## This item contains:
 

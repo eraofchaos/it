@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-15 Storie di Nighon"
 permalink: /Main Story/Chapter 26_15/
 excerpt: "Capitolo 26 - 15. Era of Chaos  Storia principale - Capitolo 26_15. 26-15 Storie di Nighon"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 26_15.md"
 toc: false

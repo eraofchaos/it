@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale mistico"
 permalink: /Items/mat_82/
 excerpt: "Era of Chaos  Minerale mistico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_82.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 24 (Drago fatato) -> 24-7 
-*    Capitolo 25 (La legge del più forte) -> 25-7 
+*    Avventura della Gilda 
+*    [Capitolo 24: Drago fatato -> 24-7](/it/Main Story/Chapter 24_7/) 
+*    [Capitolo 25: La legge del più forte -> 25-7](/it/Main Story/Chapter 25_7/) 
 
 ## This item contains:
 

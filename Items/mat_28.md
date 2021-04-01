@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio prezioso"
 permalink: /Items/mat_28/
 excerpt: "Era of Chaos  Mercurio prezioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_28.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 8 (Terre di confine) -> 8-3 
-*    Capitolo 8 (Terre di confine) -> 8-6 
-*    Capitolo 8 (Terre di confine) -> 8-9 
+*    Avventura della Gilda 
+*    [Capitolo 8: Terre di confine -> 8-3](/it/Main Story/Chapter 8_3/) 
+*    [Capitolo 8: Terre di confine -> 8-6](/it/Main Story/Chapter 8_6/) 
+*    [Capitolo 8: Terre di confine -> 8-9](/it/Main Story/Chapter 8_9/) 
 
 ## This item contains:
 

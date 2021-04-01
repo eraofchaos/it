@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio superiore"
 permalink: /Items/mat_21/
 excerpt: "Era of Chaos  Mercurio superiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_21.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 6 (Un nuovo inizio) -> 6-3 
-*    Capitolo 6 (Un nuovo inizio) -> 6-6 
-*    Capitolo 6 (Un nuovo inizio) -> 6-9 
+*    Avventura della Gilda 
+*    [Capitolo 6: Un nuovo inizio -> 6-3](/it/Main Story/Chapter 6_3/) 
+*    [Capitolo 6: Un nuovo inizio -> 6-6](/it/Main Story/Chapter 6_6/) 
+*    [Capitolo 6: Un nuovo inizio -> 6-9](/it/Main Story/Chapter 6_9/) 
 
 ## This item contains:
 

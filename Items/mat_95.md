@@ -2,7 +2,7 @@
 title: "Item - Materials - Certificato di leggendarietà"
 permalink: /Items/mat_95/
 excerpt: "Era of Chaos  Certificato di leggendarietà"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_95.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Avventura della Gilda 
 *    Capitolo - Il suono del destino 
 
 ## This item contains:

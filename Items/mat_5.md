@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo inferiore"
 permalink: /Items/mat_5/
 excerpt: "Era of Chaos  Cristallo inferiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_5.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 1 (L'isola di Evenmorn) -> 1-4 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-1 
-*    Capitolo 3 (Angelo custode) -> 3-1 
+*    Avventura della Gilda 
+*    [Capitolo 1: L'isola di Evenmorn -> 1-4](/it/Main Story/Chapter 1_4/) 
+*    [Capitolo 2: Il ritorno della Regina -> 2-1](/it/Main Story/Chapter 2_1/) 
+*    [Capitolo 3: Angelo custode -> 3-1](/it/Main Story/Chapter 3_1/) 
 
 ## This item contains:
 

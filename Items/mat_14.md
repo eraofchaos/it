@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio di buona qualità"
 permalink: /Items/mat_14/
 excerpt: "Era of Chaos  Mercurio di buona qualità"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_14.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 4 (Le Rupi dei Grifoni) -> 4-3 
-*    Capitolo 4 (Le Rupi dei Grifoni) -> 4-6 
-*    Capitolo 4 (Le Rupi dei Grifoni) -> 4-9 
+*    Avventura della Gilda 
+*    [Capitolo 4: Le Rupi dei Grifoni -> 4-3](/it/Main Story/Chapter 4_3/) 
+*    [Capitolo 4: Le Rupi dei Grifoni -> 4-6](/it/Main Story/Chapter 4_6/) 
+*    [Capitolo 4: Le Rupi dei Grifoni -> 4-9](/it/Main Story/Chapter 4_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname eterno"
 permalink: /Items/mat_69/
 excerpt: "Era of Chaos  Legname eterno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_69.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 20 (Tunnel e trogloditi) -> 20-2 
-*    Capitolo 20 (Tunnel e trogloditi) -> 20-5 
-*    Capitolo 20 (Tunnel e trogloditi) -> 20-8 
+*    Avventura della Gilda 
+*    [Capitolo 20: Tunnel e trogloditi -> 20-2](/it/Main Story/Chapter 20_2/) 
+*    [Capitolo 20: Tunnel e trogloditi -> 20-5](/it/Main Story/Chapter 20_5/) 
+*    [Capitolo 20: Tunnel e trogloditi -> 20-8](/it/Main Story/Chapter 20_8/) 
 
 ## This item contains:
 

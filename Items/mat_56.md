@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio leggendario"
 permalink: /Items/mat_56/
 excerpt: "Era of Chaos  Mercurio leggendario"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_56.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-3 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-6 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-9 
+*    Avventura della Gilda 
+*    [Capitolo 16: Per il Re e per il paese -> 16-3](/it/Main Story/Chapter 16_3/) 
+*    [Capitolo 16: Per il Re e per il paese -> 16-6](/it/Main Story/Chapter 16_6/) 
+*    [Capitolo 16: Per il Re e per il paese -> 16-9](/it/Main Story/Chapter 16_9/) 
 
 ## This item contains:
 

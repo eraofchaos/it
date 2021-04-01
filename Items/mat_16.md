@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme di buona qualità"
 permalink: /Items/mat_16/
 excerpt: "Era of Chaos  Gemme di buona qualità"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_16.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 5 (Byrds) -> 5-1 
-*    Capitolo 5 (Byrds) -> 5-5 
-*    Capitolo 5 (Byrds) -> 5-11 
+*    Avventura della Gilda 
+*    [Capitolo 5: Byrds -> 5-1](/it/Main Story/Chapter 5_1/) 
+*    [Capitolo 5: Byrds -> 5-5](/it/Main Story/Chapter 5_5/) 
+*    [Capitolo 5: Byrds -> 5-11](/it/Main Story/Chapter 5_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname eccezionale"
 permalink: /Items/mat_34/
 excerpt: "Era of Chaos  Legname eccezionale"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_34.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 10 (Le Terre paludose) -> 10-2 
-*    Capitolo 10 (Le Terre paludose) -> 10-5 
-*    Capitolo 10 (Le Terre paludose) -> 10-8 
+*    Avventura della Gilda 
+*    [Capitolo 10: Le Terre paludose -> 10-2](/it/Main Story/Chapter 10_2/) 
+*    [Capitolo 10: Le Terre paludose -> 10-5](/it/Main Story/Chapter 10_5/) 
+*    [Capitolo 10: Le Terre paludose -> 10-8](/it/Main Story/Chapter 10_8/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname superiore"
 permalink: /Items/mat_20/
 excerpt: "Era of Chaos  Legname superiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_20.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 6 (Un nuovo inizio) -> 6-2 
-*    Capitolo 6 (Un nuovo inizio) -> 6-5 
-*    Capitolo 6 (Un nuovo inizio) -> 6-8 
+*    Avventura della Gilda 
+*    [Capitolo 6: Un nuovo inizio -> 6-2](/it/Main Story/Chapter 6_2/) 
+*    [Capitolo 6: Un nuovo inizio -> 6-5](/it/Main Story/Chapter 6_5/) 
+*    [Capitolo 6: Un nuovo inizio -> 6-8](/it/Main Story/Chapter 6_8/) 
 
 ## This item contains:
 

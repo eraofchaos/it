@@ -2,7 +2,7 @@
 title: "Item - Materials - Libro delle essenze"
 permalink: /Items/mat_53/
 excerpt: "Era of Chaos  Libro delle essenze"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_53.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Avventura della Gilda 
 *    Capitolo - Punizione corporale 
 *    Capitolo - Dal giorno alla notte 
 *    Capitolo - Un passaggio sicuro 

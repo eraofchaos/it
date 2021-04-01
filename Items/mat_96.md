@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale splendente"
 permalink: /Items/mat_96/
 excerpt: "Era of Chaos  Minerale splendente"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_96.md"
 toc: false
@@ -19,8 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 27 (Sangue del Padre dei Draghi) -> 27-7 
+*    Avventura della Gilda 
+*    [Capitolo 27: Sangue del Padre dei Draghi -> 27-7](/it/Main Story/Chapter 27_7/) 
 
 ## This item contains:
 

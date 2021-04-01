@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo epico"
 permalink: /Items/mat_50/
 excerpt: "Era of Chaos  Zolfo epico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_50.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-10 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-14 
-*    Capitolo 15 (Fronte unito) -> 15-4 
+*    Avventura della Gilda 
+*    [Capitolo 14: Un passaggio sicuro -> 14-10](/it/Main Story/Chapter 14_10/) 
+*    [Capitolo 14: Un passaggio sicuro -> 14-14](/it/Main Story/Chapter 14_14/) 
+*    [Capitolo 15: Fronte unito -> 15-4](/it/Main Story/Chapter 15_4/) 
 
 ## This item contains:
 

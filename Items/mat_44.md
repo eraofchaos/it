@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme rare"
 permalink: /Items/mat_44/
 excerpt: "Era of Chaos  Gemme rare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_44.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 13 (Dal giorno alla notte) -> 13-1 
-*    Capitolo 13 (Dal giorno alla notte) -> 13-5 
-*    Capitolo 13 (Dal giorno alla notte) -> 13-11 
+*    Avventura della Gilda 
+*    [Capitolo 13: Dal giorno alla notte -> 13-1](/it/Main Story/Chapter 13_1/) 
+*    [Capitolo 13: Dal giorno alla notte -> 13-5](/it/Main Story/Chapter 13_5/) 
+*    [Capitolo 13: Dal giorno alla notte -> 13-11](/it/Main Story/Chapter 13_11/) 
 
 ## This item contains:
 

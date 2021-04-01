@@ -2,7 +2,7 @@
 title: "Item - Consumables"
 permalink: /Items/Consumables/
 excerpt: "Consumables in Era of Chaos"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Consumables.md"
 toc: false
@@ -52,14 +52,14 @@ classes: wide
   | 38 | [8300 zucche candite](/it/Items/con_1826/){: .btn .btn--era4} | Gift | Contiene 8300 Zucche candite e 250 Diamanti. |
   | 39 | [Acciaio draconico](/it/Items/con_880/){: .btn .btn--era5} | Other | Un cumulo di Acciaio draconico (risorsa di livello 3); si può usare per migliorare la Caserma. |
   | 40 | [Acqua divina](/it/Items/con_959/){: .btn .btn--era5} | Other | Una risorsa ottenuta durante la Prova della Statua sacra. Utilizzala per acquistare oggetti nel negozio. |
-  | 41 | [Adelaide Arcimaga](/it/Items/con_1024/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Adelaide Arcimaga Vori |
-  | 42 | [Adelaide Canto di Natale](/it/Items/con_1025/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Adelaide Canto di Natale |
+  | 41 | [Adelaide Arcimaga](/it/Items/con_1024/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Adelaide Arcimaga Vori |
+  | 42 | [Adelaide Canto di Natale](/it/Items/con_1025/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Adelaide Canto di Natale |
   | 43 | [Albero di Natale giocattolo](/it/Items/con_1090/){: .btn .btn--era4} | Event related | Oggetto per l'evento Ruota natalizia. Può essere scambiato con ricompense di vario tipo durante l'evento. |
-  | 44 | [Ali del trionfo: Caterina](/it/Items/con_1032/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Ali del trionfo per Caterina |
-  | 45 | [Ali del trionfo: Gelu](/it/Items/con_1040/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Ali del trionfo: Gelu |
+  | 44 | [Ali del trionfo: Caterina](/it/Items/con_1032/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Ali del trionfo per Caterina |
+  | 45 | [Ali del trionfo: Gelu](/it/Items/con_1040/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Ali del trionfo: Gelu |
   | 46 | [Amazzone (Kassandra)](/it/Items/con_1819/){: .btn .btn--era4} | Gift | Contiene 980 Diamanti e 1 skin Amazzone per Kassandra. |
-  | 47 | [Amazzone: Kassandra](/it/Items/con_1082/){: .btn .btn--era5} | Unknown | Contiene la skin Amazzone per Kassandra. |
-  | 48 | [Amore immortale di Jeddite](/it/Items/con_1076/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Amore immortale di Jeddite |
+  | 47 | [Amazzone: Kassandra](/it/Items/con_1082/){: .btn .btn--era5} | Special Skin | Contiene la skin Amazzone per Kassandra. |
+  | 48 | [Amore immortale di Jeddite](/it/Items/con_1076/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Amore immortale di Jeddite |
   | 49 | [Anima di Alabardiere](/it/Items/con_2012/){: .btn .btn--era5} | Event related | Anima eroica immortale utilizzabile per attivare il Risveglio dei Picchieri |
   | 50 | [Anima di Arcangelo](/it/Items/con_2018/){: .btn .btn--era5} | Event related | Antica anima immortale di un eroe, utilizzabile per attivare il Risveglio dell'Angelo |
   | 51 | [Anima di Arcidiavolo](/it/Items/con_2048/){: .btn .btn--era5} | Event related | Antica anima immortale di un eroe, utilizzabile per attivare il Risveglio del Diavolo |
@@ -124,7 +124,7 @@ classes: wide
   | 110 | [Anima di stendardo Splendore del Santuario](/it/Items/con_975/){: .btn .btn--era6} | WEAPON PIECE | L'anima di uno stendardo del Castello da una campagna storica. Usala per risvegliare il potere dello stendardo del Giudice: Splendore del Santuario. |
   | 111 | [Anima eroica Regina Medusa](/it/Items/con_2061/){: .btn .btn--era5} | Event related | Antica anima immortale di un eroe. Utilizzabile per attivare il Risveglio della Medusa. |
   | 112 | [Anima eroica di Aro gigante](/it/Items/con_2072/){: .btn .btn--era5} | Event related | Antica anima immortale di un eroe. Utilizzabile per attivare il Risveglio dell'Erbavespa. |
-  | 113 | [Anima stellare](/it/Items/con_926/){: .btn .btn--era5} | Unknown | Materiale utilizzabile per attivare le Stelle. Si può ottenere convertendo i token Eroe. Ogni eroe necessita di un'Anima stellare differente. |
+  | 113 | [Anima stellare](/it/Items/con_926/){: .btn .btn--era5} | VIP related | Materiale utilizzabile per attivare le Stelle. Si può ottenere convertendo i token Eroe. Ogni eroe necessita di un'Anima stellare differente. |
   | 114 | [Anima unità R](/it/Items/con_533/){: .btn .btn--era3} | Event related | Trovane 10 per ottenere un'unità casuale a 1 stella di rarità R. |
   | 115 | [Anima unità R/SR casuale](/it/Items/con_541/){: .btn .btn--era4} | Event related | Raccogline 30 per ottenere 30 token unità R (prob. 30%) o un token unità SR (prob. 70%). (Token unità SR: Grifone, Spadaccino, Monaco, Catafratto, Gnomo, Elfo del bosco, Pegaso, Guardia Dendroide, Unicorno, Orco, Ogre, Roc, Ciclope, Anima, Vampiro, Segugio infernale, Demone, Demone dell'abisso, Efreet, Gargolla di pietra, Golem di ferro, Mago, Elementale della tempesta, Elementale del ghiaccio, Arpia o Minotauro. Token unità R: Picchiere, Tiratore scelto, Centauro, Goblin, Domatore di lupi, Scheletro, Morto vivente, Folletto, Gog, Gremlin, Driade o Troglodita.) |
   | 116 | [Anima unità SR](/it/Items/con_534/){: .btn .btn--era4} | Event related | Raccogline 30 per ottenere una a caso delle seguenti unità a 2 stelle: Grifone, Spadaccino, Monaco, Catafratto, Gnomo, Elfo del bosco, Pegaso, Guardia Dendroide, Unicorno, Orco, Ogre, Roc, Ciclope, Anima, Vampiro, Segugio infernale, Demone, Demone dell'abisso, Efreet, Gargolla di pietra,Pirati di Regna, Golem di ferro, Mago, Elementale della tempesta, Elementale del ghiaccio, Arpia, Minotauro o Uomo lucertola. |
@@ -132,46 +132,46 @@ classes: wide
   | 118 | [Anima unità casuale](/it/Items/con_1697/){: .btn .btn--era5} | Gift | Ottieni 1 anima di unità R (20%), 1 anima di unità SR (50%) o 1 anima di unità SSR (30%). |
   | 119 | [Anima unità élite](/it/Items/con_536/){: .btn .btn--era5} | Event related | Raccogline 80 per ottenere 80 token per unità élite scelti casualmente. (Unità élite: Lich, Mummia, Genio, Manticora, Osservatore, Medusa o Elementale della pietra.) |
   | 120 | [Apice della Prova - Tazar.](/it/Items/con_1732/){: .btn .btn--era4} | Gift | Contiene 1980 Diamanti e la skin Apice della Prova per Tazar. |
-  | 121 | [Argento](/it/Items/con_942/){: .btn .btn--era5} | Unknown |  |
+  | 121 | [Argento](/it/Items/con_942/){: .btn .btn--era5} | VIP related |  |
   | 122 | [Argento astrale](/it/Items/con_969/){: .btn .btn--era5} | Other | Misteriosa moneta di provenienza ignota che si dice possa elargire Argento astrale a chi ne fa uso. |
-  | 123 | [Armatura dorata: PhuThieu](/it/Items/con_972/){: .btn .btn--era5} | Unknown |  |
-  | 124 | [Astral Illusionista](/it/Items/con_1067/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Astral Illusionista |
-  | 125 | [Asura: skin Troll](/it/Items/con_1989/){: .btn .btn--era5} | Unknown | Contiene la skin Asura per il Troll. |
-  | 126 | [Aura crescente - Avatar Mantide](/it/Items/con_593/){: .btn .btn--era5} | Unknown |  |
-  | 127 | [Avatar Adelaide](/it/Items/con_581/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Adelaide |
-  | 128 | [Avatar Campione](/it/Items/con_586/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Campione di Sephinroth |
-  | 129 | [Avatar Capitano](/it/Items/con_566/){: .btn .btn--era5} | Unknown | Usalo per ricevere la skin e l'avatar Capitano per Caterina |
-  | 130 | [Avatar Cassanbel](/it/Items/con_588/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Cassanbel |
-  | 131 | [Avatar Caterina](/it/Items/con_561/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Caterina |
-  | 132 | [Avatar Ciele](/it/Items/con_585/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Ciele |
-  | 133 | [Avatar Cristallo di ghiaccio](/it/Items/con_569/){: .btn .btn--era5} | Unknown | Usalo per ricevere la skin e l'avatar Cristallo di ghiaccio per Adelaide |
-  | 134 | [Avatar Demone di ghiaccio](/it/Items/con_596/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Demone di ghiaccio. |
-  | 135 | [Avatar Dolcetto o Streghetta](/it/Items/con_583/){: .btn .btn--era5} | Unknown | Avatar Vidomina Dolcetto o Streghetta |
-  | 136 | [Avatar Duca dorato](/it/Items/con_571/){: .btn .btn--era5} | Unknown | Usalo per ricevere la skin e l'avatar Duca dorato per Crag Hack |
-  | 137 | [Avatar Figlio della foresta](/it/Items/con_567/){: .btn .btn--era5} | Unknown | Usalo per ricevere la skin e l'avatar Figlio della foresta per Ryland |
-  | 138 | [Avatar Gelu](/it/Items/con_562/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Gelu |
-  | 139 | [Avatar Gem](/it/Items/con_580/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Gem |
-  | 140 | [Avatar Giudice](/it/Items/con_597/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Giudice. |
-  | 141 | [Avatar Giudice - Seguace](/it/Items/con_584/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Giudice - Seguace |
-  | 142 | [Avatar Luna](/it/Items/con_575/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Luna |
-  | 143 | [Avatar Mephala](/it/Items/con_563/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Mephala |
-  | 144 | [Avatar Nato dalle ceneri](/it/Items/con_576/){: .btn .btn--era5} | Unknown | Usalo per ricevere la skin e l'avatar Nata dalle ceneri per Luna |
-  | 145 | [Avatar Rashka](/it/Items/con_572/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Rashka |
-  | 146 | [Avatar Sandro (umano)](/it/Items/con_579/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Sandro (umano) |
-  | 147 | [Avatar Sephinroth](/it/Items/con_578/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Sephinroth |
-  | 148 | [Avatar Shiva](/it/Items/con_1007/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Shiva |
-  | 149 | [Avatar Squadra di esploratori](/it/Items/con_570/){: .btn .btn--era5} | Unknown | Usalo per ricevere la skin e l'avatar Squadra di esploratori per Gelu |
-  | 150 | [Avatar Strega malvagia](/it/Items/con_599/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Strega malvagia. |
-  | 151 | [Avatar Tiranno della Cenere](/it/Items/con_568/){: .btn .btn--era5} | Unknown | Usalo per ricevere la skin e l'avatar Tiranno della Cenere per Rashka |
-  | 152 | [Avatar Troll](/it/Items/con_598/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Troll. |
-  | 153 | [Avatar Veggente di Regna](/it/Items/con_2117/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Veggente di Regna. |
-  | 154 | [Avatar Volo del drago, balzo del leone](/it/Items/con_873/){: .btn .btn--era5} | Unknown |  |
-  | 155 | [Avatar Wystan](/it/Items/con_582/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Wystan |
-  | 156 | [Avatar Yog](/it/Items/con_574/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Yog |
-  | 157 | [Avatar bozzetto Antico mostro marino](/it/Items/con_1103/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Effetti speciali Antico mostro marino. |
-  | 158 | [Avatar bozzetto Elementale delle maree](/it/Items/con_1099/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Effetti speciali Elementale delle maree. |
-  | 159 | [Avatar bozzetto Re dei Pirati](/it/Items/con_1101/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Effetti speciali Re dei Pirati. |
-  | 160 | [Balzo del leone - Avatar Gem](/it/Items/con_874/){: .btn .btn--era5} | Unknown |  |
+  | 123 | [Armatura dorata: PhuThieu](/it/Items/con_972/){: .btn .btn--era5} | Hero Avatar |  |
+  | 124 | [Astral Illusionista](/it/Items/con_1067/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Astral Illusionista |
+  | 125 | [Asura: skin Troll](/it/Items/con_1989/){: .btn .btn--era5} | Unit Skin | Contiene la skin Asura per il Troll. |
+  | 126 | [Aura crescente - Avatar Mantide](/it/Items/con_593/){: .btn .btn--era5} | Hero Avatar |  |
+  | 127 | [Avatar Adelaide](/it/Items/con_581/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Adelaide |
+  | 128 | [Avatar Campione](/it/Items/con_586/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Campione di Sephinroth |
+  | 129 | [Avatar Capitano](/it/Items/con_566/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Capitano per Caterina |
+  | 130 | [Avatar Cassanbel](/it/Items/con_588/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Cassanbel |
+  | 131 | [Avatar Caterina](/it/Items/con_561/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Caterina |
+  | 132 | [Avatar Ciele](/it/Items/con_585/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Ciele |
+  | 133 | [Avatar Cristallo di ghiaccio](/it/Items/con_569/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Cristallo di ghiaccio per Adelaide |
+  | 134 | [Avatar Demone di ghiaccio](/it/Items/con_596/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Demone di ghiaccio. |
+  | 135 | [Avatar Dolcetto o Streghetta](/it/Items/con_583/){: .btn .btn--era5} | Hero Avatar | Avatar Vidomina Dolcetto o Streghetta |
+  | 136 | [Avatar Duca dorato](/it/Items/con_571/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Duca dorato per Crag Hack |
+  | 137 | [Avatar Figlio della foresta](/it/Items/con_567/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Figlio della foresta per Ryland |
+  | 138 | [Avatar Gelu](/it/Items/con_562/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Gelu |
+  | 139 | [Avatar Gem](/it/Items/con_580/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Gem |
+  | 140 | [Avatar Giudice](/it/Items/con_597/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Giudice. |
+  | 141 | [Avatar Giudice - Seguace](/it/Items/con_584/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Giudice - Seguace |
+  | 142 | [Avatar Luna](/it/Items/con_575/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Luna |
+  | 143 | [Avatar Mephala](/it/Items/con_563/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Mephala |
+  | 144 | [Avatar Nato dalle ceneri](/it/Items/con_576/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Nata dalle ceneri per Luna |
+  | 145 | [Avatar Rashka](/it/Items/con_572/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Rashka |
+  | 146 | [Avatar Sandro (umano)](/it/Items/con_579/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Sandro (umano) |
+  | 147 | [Avatar Sephinroth](/it/Items/con_578/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Sephinroth |
+  | 148 | [Avatar Shiva](/it/Items/con_1007/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Shiva |
+  | 149 | [Avatar Squadra di esploratori](/it/Items/con_570/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Squadra di esploratori per Gelu |
+  | 150 | [Avatar Strega malvagia](/it/Items/con_599/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Strega malvagia. |
+  | 151 | [Avatar Tiranno della Cenere](/it/Items/con_568/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere la skin e l'avatar Tiranno della Cenere per Rashka |
+  | 152 | [Avatar Troll](/it/Items/con_598/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Troll. |
+  | 153 | [Avatar Veggente di Regna](/it/Items/con_2117/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Veggente di Regna. |
+  | 154 | [Avatar Volo del drago, balzo del leone](/it/Items/con_873/){: .btn .btn--era5} | Hero Avatar |  |
+  | 155 | [Avatar Wystan](/it/Items/con_582/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Wystan |
+  | 156 | [Avatar Yog](/it/Items/con_574/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Yog |
+  | 157 | [Avatar bozzetto Antico mostro marino](/it/Items/con_1103/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Antico mostro marino. |
+  | 158 | [Avatar bozzetto Elementale delle maree](/it/Items/con_1099/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Elementale delle maree. |
+  | 159 | [Avatar bozzetto Re dei Pirati](/it/Items/con_1101/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Effetti speciali Re dei Pirati. |
+  | 160 | [Balzo del leone - Avatar Gem](/it/Items/con_874/){: .btn .btn--era5} | Hero Avatar |  |
   | 161 | [Base di brodo chiaro](/it/Items/con_1158/){: .btn .btn--era4} | Event related | Ha un sapore delicato e gradevole. È anche un piatto nutriente dall'aroma leggero. Questo incredibile brodo nutre il corpo e rende la pelle più luminosa. |
   | 162 | [Base di brodo piccante](/it/Items/con_1159/){: .btn .btn--era4} | Event related | La base, che deve la propria sapidità al mala, risulta incredibilmente versatile grazie ai tantissimi aromi che la compongono, evidenziati dall'uso generoso di condimenti. Questo brodo rende unica qualsiasi ricetta grazie all'enfasi nell'uso di ingredienti naturali. |
   | 163 | [Base di brodo speciale](/it/Items/con_1160/){: .btn .btn--era4} | Event related | L'inconfondibile ricetta di questa base accompagna chiunque l'assaggi in un viaggio tra sapori innovativi e variegati. |
@@ -190,11 +190,11 @@ classes: wide
   | 176 | [Calza di Natale](/it/Items/con_810/){: .btn .btn--era3} | Event related | Disponibile nel periodo natalizio. Scambialo per ottenere una skin personalizzata Adelaide natalizia. |
   | 177 | [Calza di Natale giocattolo](/it/Items/con_1091/){: .btn .btn--era4} | Event related | Oggetto per l'evento Ruota natalizia. Può essere scambiato con ricompense di vario tipo durante l'evento. |
   | 178 | [Campana di Natale](/it/Items/con_809/){: .btn .btn--era5} | Event related | Disponibile nel periodo natalizio. Scambialo per ottenere una skin personalizzata Adelaide natalizia. |
-  | 179 | [Campionessa indomita: Mephala](/it/Items/con_1043/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Campionessa indomita per Mephala |
-  | 180 | [Canto di Natale](/it/Items/con_1058/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Crag Hack Canto di Natale |
+  | 179 | [Campionessa indomita: Mephala](/it/Items/con_1043/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Campionessa indomita per Mephala |
+  | 180 | [Canto di Natale](/it/Items/con_1058/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Crag Hack Canto di Natale |
   | 181 | [Canto di Natale - Skin Adelaide (2 giorni)](/it/Items/con_1018/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin Canto di Natale per Adelaide per 2 giorni. |
   | 182 | [Canto di Natale - Skin avatar Adelaide (2 giorni)](/it/Items/con_1016/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin avatar Canto di Natale per Adelaide per 2 giorni. |
-  | 183 | [Capitano: Caterina](/it/Items/con_1029/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Capitano per Caterina |
+  | 183 | [Capitano: Caterina](/it/Items/con_1029/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Capitano per Caterina |
   | 184 | [Cappello di Natale](/it/Items/con_811/){: .btn .btn--era4} | Event related | Disponibile nel periodo natalizio. Scambialo per ottenere una skin personalizzata Adelaide natalizia. |
   | 185 | [Caramella gommosa](/it/Items/con_1085/){: .btn .btn--era4} | Event related | Una caramella di Halloween disponibile per un tempo limitato. Donala alla Fata che trovi nella Capitale. La userà per decorare l'ambiente! |
   | 186 | [Carta Crescita](/it/Items/con_1911/){: .btn .btn--era5} | Gift | Ogni giorno, per 7 giorni dopo l'acquisto, otterrai i seguenti oggetti: 300 Acciaio draconico, 300 Ombracciaio, 300 Biancoargento e 60 Diamanti. |
@@ -219,7 +219,7 @@ classes: wide
   | 205 | [Collezionista - Avanzato](/it/Items/con_1108/){: .btn .btn--era5} | Gift | Collezionista - Avanzato |
   | 206 | [Collezionista - Base](/it/Items/con_1107/){: .btn .btn--era5} | Gift | Collezionista - Base |
   | 207 | [Collezionista - Esperto](/it/Items/con_1109/){: .btn .btn--era5} | Gift | Collezionista - Esperto |
-  | 208 | [Comandante: Mephala](/it/Items/con_1041/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Comandante per Mephala |
+  | 208 | [Comandante: Mephala](/it/Items/con_1041/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Comandante per Mephala |
   | 209 | [Componente 1 Potenza del Padre dei Draghi](/it/Items/con_1346/){: .btn .btn--era5} | Gift | Uno scrigno di componenti della Potenza del Padre dei Draghi. Aprilo per ricevere uno di questi componenti: Spada del Drago rosso, Corona di Denti di Drago o Collana di Denti di Drago. |
   | 210 | [Componente 2 Potenza del Padre dei Draghi](/it/Items/con_1347/){: .btn .btn--era5} | Gift | Uno scrigno di componenti della Potenza del Padre dei Draghi. Aprilo per ricevere uno di questi componenti: Scudo del drago, Armatura del drago e Schinieri di Ossa di Drago. |
   | 211 | [Condottiero del mare](/it/Items/con_1095/){: .btn .btn--era5} | Gift | Usalo per ricevere la cornice avatar Condottiero del mare. |
@@ -231,71 +231,71 @@ classes: wide
   | 217 | [Cristallo arancione](/it/Items/con_730/){: .btn .btn--era5} | Material | Una misteriosa Pietra runica. Migliora enormemente la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 1.000 ESP tecnica. |
   | 218 | [Cristallo bianco](/it/Items/con_707/){: .btn .btn--era1} | Material | Una misteriosa Pietra runica. Migliora leggermente la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 10 ESP tecnica. |
   | 219 | [Cristallo blu](/it/Items/con_716/){: .btn .btn--era3} | Material | Una misteriosa Pietra runica. Migliora la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 150 ESP tecnica. |
-  | 220 | [Cristallo dei ricordi](/it/Items/con_941/){: .btn .btn--era5} | Unknown | I Cristalli dei ricordi vengono ottenuti estraendo ricordi e possono essere scambiati con vari oggetti nel Negozio dei ricordi. |
+  | 220 | [Cristallo dei ricordi](/it/Items/con_941/){: .btn .btn--era5} | VIP related | I Cristalli dei ricordi vengono ottenuti estraendo ricordi e possono essere scambiati con vari oggetti nel Negozio dei ricordi. |
   | 221 | [Cristallo della Confluenza](/it/Items/con_799/){: .btn .btn--era4} | Event related | Un cristallo forgiato grazie al potere dei veri Elementali. Si può scambiare con oggetti della fazione Confluenza negli eventi corrispondenti. |
-  | 222 | [Cristallo di ghiaccio: Adelaide](/it/Items/con_1023/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Cristallo di ghiaccio per Adelaide |
+  | 222 | [Cristallo di ghiaccio: Adelaide](/it/Items/con_1023/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Cristallo di ghiaccio per Adelaide |
   | 223 | [Cristallo di sangue draconico](/it/Items/con_879/){: .btn .btn--era5} | Other | Un cumulo di Cristalli di sangue draconico (risorsa di livello 4); si può usare per migliorare la Caserma. |
-  | 224 | [Cristallo magico](/it/Items/con_895/){: .btn .btn--era4} | Unknown | Fanne uso per migliorare i tuoi incantesimi presso la Gilda dei Maghi. Si ottiene completando i livelli. |
+  | 224 | [Cristallo magico](/it/Items/con_895/){: .btn .btn--era4} | VIP related | Fanne uso per migliorare i tuoi incantesimi presso la Gilda dei Maghi. Si ottiene completando i livelli. |
   | 225 | [Cristallo mistico](/it/Items/con_924/){: .btn .btn--era5} | Other | Scambia il Cristallo mistico con degli Emblemi sacri nel negozio del Colpo fortunato. Si può ottenere giocando a Colpo fortunato. |
   | 226 | [Cristallo sacro](/it/Items/con_927/){: .btn .btn--era5} | Other | Un cristallo condensato soprannaturale. Si può scambiare per ottenere rifornimenti rari nel negozio Inter-server. Si può ottenere nello Scontro degli Dei inter-server. |
   | 227 | [Cristallo scintillante](/it/Items/con_807/){: .btn .btn--era4} | Event related | Un Cristallo custodito da potenti draghi. Si può scambiare con oggetti della fazione Dungeon negli eventi corrispondenti. |
   | 228 | [Cristallo verde](/it/Items/con_711/){: .btn .btn--era2} | Material | Una misteriosa Pietra runica. Migliora moderatamente la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 50 ESP tecnica. |
   | 229 | [Cristallo viola](/it/Items/con_720/){: .btn .btn--era4} | Material | Una misteriosa Pietra runica. Migliora notevolmente la conoscenza delle tecniche delle tue unità. Fanne uso per ottenere 450 ESP tecnica. |
-  | 230 | [Dadi](/it/Items/con_946/){: .btn .btn--era4} | Unknown | Splendidi dadi utilizzabili durante l'evento Mare curativo. |
-  | 231 | [Dadi fortunati](/it/Items/con_891/){: .btn .btn--era4} | Unknown | Fanne uso per trovare dei tesori segreti! |
-  | 232 | [Dea bendata - Driade](/it/Items/con_2001/){: .btn .btn--era5} | Unknown | Contiene la skin Dea bendata per la Driade. |
-  | 233 | [Demone alato: skin Diavolo](/it/Items/con_1990/){: .btn .btn--era5} | Unknown | Aprilo per ottenere la skin Diavolo: Demone alato. |
-  | 234 | [Diamante](/it/Items/con_898/){: .btn .btn--era9} | Unknown | I Diamanti rappresentano la ricchezza. |
+  | 230 | [Dadi](/it/Items/con_946/){: .btn .btn--era4} | VIP related | Splendidi dadi utilizzabili durante l'evento Mare curativo. |
+  | 231 | [Dadi fortunati](/it/Items/con_891/){: .btn .btn--era4} | VIP related | Fanne uso per trovare dei tesori segreti! |
+  | 232 | [Dea bendata - Driade](/it/Items/con_2001/){: .btn .btn--era5} | Unit Skin | Contiene la skin Dea bendata per la Driade. |
+  | 233 | [Demone alato: skin Diavolo](/it/Items/con_1990/){: .btn .btn--era5} | Unit Skin | Aprilo per ottenere la skin Diavolo: Demone alato. |
+  | 234 | [Diamante](/it/Items/con_898/){: .btn .btn--era9} | VIP related | I Diamanti rappresentano la ricchezza. |
   | 235 | [Diamante di tenebra](/it/Items/con_554/){: .btn .btn--era4} | Event related | Acquistabile od ottenibile tramite la Preparazione alla Caccia. Si usa per partecipare alla Caccia al tesoro una volta. |
-  | 236 | [Diavolo in bottiglia: Solmyr](/it/Items/con_1065/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Diavolo in bottiglia per Solmyr |
-  | 237 | [Dio della Guerra Vichingo: Crag Hack](/it/Items/con_1056/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Dio della Guerra Vichingo per Crag Hack |
+  | 236 | [Diavolo in bottiglia: Solmyr](/it/Items/con_1065/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Diavolo in bottiglia per Solmyr |
+  | 237 | [Dio della Guerra Vichingo: Crag Hack](/it/Items/con_1056/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Dio della Guerra Vichingo per Crag Hack |
   | 238 | [Dispositivo di precisione](/it/Items/con_920/){: .btn .btn--era4} | Other | Dispositivo di precisione utile a migliorare i componenti. Si può ottenere scomponendo i componenti. |
   | 239 | [Dolcetto blu](/it/Items/con_551/){: .btn .btn--era4} | Event related | Un dolcetto blu in una splendida confezione. Utilizzabile durante l'evento Sconti doppi di Capodanno. |
   | 240 | [Dolcetto giallo](/it/Items/con_550/){: .btn .btn--era4} | Event related | Un dolcetto giallo in una splendida confezione. Utilizzabile durante l'evento Sconti doppi di Capodanno. |
   | 241 | [Dolcetto natalizio](/it/Items/con_531/){: .btn .btn--era4} | Event related | Un oggetto esclusivo del periodo natalizio. Può essere scambiato con ricompense dell'evento. |
-  | 242 | [Dolcetto o Streghetta](/it/Items/con_1053/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Vidomina Dolcetto o Streghetta |
+  | 242 | [Dolcetto o Streghetta](/it/Items/con_1053/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Vidomina Dolcetto o Streghetta |
   | 243 | [Dolcetto rosso](/it/Items/con_549/){: .btn .btn--era4} | Event related | Un dolcetto rosso in una splendida confezione. Utilizzabile durante l'evento Sconti doppi di Capodanno. |
   | 244 | [Dolcetto verde](/it/Items/con_552/){: .btn .btn--era4} | Event related | Un dolcetto verde in una splendida confezione. Utilizzabile durante l'evento Sconti doppi di Capodanno. |
   | 245 | [Dominatore del fato (14 giorni)](/it/Items/con_1021/){: .btn .btn--era5} | Experience Card | Ottenibile vincendo il titolo di Campione dello Scontro degli Dei inter-server |
-  | 246 | [Don Mullich](/it/Items/con_1028/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Don Mullich |
+  | 246 | [Don Mullich](/it/Items/con_1028/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Don Mullich |
   | 247 | [Dono misterioso dell'elfo](/it/Items/con_1403/){: .btn .btn--era4} | Gift | Il dono misterioso di una Driade. Aprilo per ricevere una ricompensa! |
-  | 248 | [Drago d'Ossidiana: skin Drago scheletrico](/it/Items/con_1984/){: .btn .btn--era5} | Unknown | Contiene la skin Drago d'Ossidiana per il Drago scheletrico |
-  | 249 | [Drago del cielo: skin Drago verde](/it/Items/con_1980/){: .btn .btn--era5} | Unknown | Contiene la skin Drago del cielo per il Drago verde. |
-  | 250 | [Drago di cristallo sanguigno: skin per Drago rosso](/it/Items/con_1996/){: .btn .btn--era5} | Unknown | Contiene la skin Drago di cristallo sanguigno per il Drago rosso. |
-  | 251 | [Drago incantato](/it/Items/con_1073/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin: Costellazione del Drago incantato - Mutare (Drago) |
-  | 252 | [Duca dorato: Crag Hack](/it/Items/con_1057/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Duca dorato per Crag Hack |
-  | 253 | [ESP VIP](/it/Items/con_888/){: .btn .btn--era5} | Unknown | L'ESP VIP è un segno di nobiltà. |
-  | 254 | [ESP giocatore](/it/Items/con_897/){: .btn .btn--era4} | Unknown | A tutti piace guadagnare più esperienza! |
+  | 248 | [Drago d'Ossidiana: skin Drago scheletrico](/it/Items/con_1984/){: .btn .btn--era5} | Unit Skin | Contiene la skin Drago d'Ossidiana per il Drago scheletrico |
+  | 249 | [Drago del cielo: skin Drago verde](/it/Items/con_1980/){: .btn .btn--era5} | Unit Skin | Contiene la skin Drago del cielo per il Drago verde. |
+  | 250 | [Drago di cristallo sanguigno: skin per Drago rosso](/it/Items/con_1996/){: .btn .btn--era5} | Unit Skin | Contiene la skin Drago di cristallo sanguigno per il Drago rosso. |
+  | 251 | [Drago incantato](/it/Items/con_1073/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin: Costellazione del Drago incantato - Mutare (Drago) |
+  | 252 | [Duca dorato: Crag Hack](/it/Items/con_1057/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Duca dorato per Crag Hack |
+  | 253 | [ESP VIP](/it/Items/con_888/){: .btn .btn--era5} | VIP related | L'ESP VIP è un segno di nobiltà. |
+  | 254 | [ESP giocatore](/it/Items/con_897/){: .btn .btn--era4} | VIP related | A tutti piace guadagnare più esperienza! |
   | 255 | [ESP tessera Premium](/it/Items/con_943/){: .btn .btn--era5} | Other | L'ESP tessera Premium aumenta il livello della tessera Premium attiva al momento. |
-  | 256 | [ESP unità](/it/Items/con_902/){: .btn .btn--era9} | Unknown | Aumentare il livello delle tue unità consuma ESP unità. |
-  | 257 | [Elfo di Natale](/it/Items/con_1074/){: .btn .btn--era5} | Unknown | Elfo natalizio che gioca con la neve |
+  | 256 | [ESP unità](/it/Items/con_902/){: .btn .btn--era9} | VIP related | Aumentare il livello delle tue unità consuma ESP unità. |
+  | 257 | [Elfo di Natale](/it/Items/con_1074/){: .btn .btn--era5} | Special Skin | Elfo natalizio che gioca con la neve |
   | 258 | [Emblema sacro blu casuale](/it/Items/con_1970/){: .btn .btn--era3} | Gift | Uno scrigno Emblema sacro blu ottenuto in Colpo fortunato. Aprilo per ottenere un Grumo di gelosia blu o un Autonimo dimenticato. |
   | 259 | [Emblema sacro verde casuale](/it/Items/con_1969/){: .btn .btn--era2} | Gift | Uno scrigno Emblema sacro verde ottenuto in Colpo fortunato. Aprilo per ottenere un Grumo di gelosia verde o un Autonimo dimenticato. |
-  | 260 | [Energia](/it/Items/con_900/){: .btn .btn--era4} | Unknown | Giocando in modalità Storia o Sottosuolo consumerai Energia. |
-  | 261 | [Essenza di affinamento Attacco](/it/Items/con_1110/){: .btn .btn--era3} | Unknown | Custodisce i segreti fondamentali della battaglia. Fanne uso per migliorare l'attacco delle unità. |
-  | 262 | [Essenza di affinamento Attacco rapido](/it/Items/con_1113/){: .btn .btn--era3} | Unknown | Custodisce i segreti fondamentali della battaglia. Fanne uso per migliorare gli attacchi rapidi delle unità. |
-  | 263 | [Essenza di affinamento Aumento del danno](/it/Items/con_1117/){: .btn .btn--era5} | Unknown | Custodisce i segreti della battaglia di livello esperto. Fanne uso per migliorare l'aumento del danno delle unità. |
-  | 264 | [Essenza di affinamento Colpo critico](/it/Items/con_1115/){: .btn .btn--era4} | Unknown | Custodisce i segreti della battaglia di livello avanzato. Fanne uso per migliorare i colpi critici delle unità. |
-  | 265 | [Essenza di affinamento Difesa](/it/Items/con_1112/){: .btn .btn--era3} | Unknown | Custodisce i segreti fondamentali della battaglia. Fanne uso per migliorare la difesa delle unità. |
-  | 266 | [Essenza di affinamento Resistenza magica](/it/Items/con_1118/){: .btn .btn--era4} | Unknown | Custodisce i segreti della battaglia di livello avanzato. Fanne uso per migliorare la resistenza magica delle unità. |
-  | 267 | [Essenza di affinamento Riduzione del danno](/it/Items/con_1116/){: .btn .btn--era5} | Unknown | Custodisce i segreti della battaglia di livello esperto. Fanne uso per migliorare la riduzione del danno delle unità. |
-  | 268 | [Essenza di affinamento Schivata](/it/Items/con_1114/){: .btn .btn--era4} | Unknown | Custodisce i segreti della battaglia di livello avanzato. Fanne uso per migliorare la Schivata delle unità. |
-  | 269 | [Essenza di affinamento Sopravvivenza](/it/Items/con_1111/){: .btn .btn--era3} | Unknown | Custodisce i segreti fondamentali della battaglia. Fanne uso per migliorare la capacità di sopravvivenza delle unità. |
-  | 270 | [Essenza di manufatto](/it/Items/con_905/){: .btn .btn--era5} | Unknown | Scambia l'essenza di manufatto per ottenere manufatti presso il Mercante di manufatti. |
+  | 260 | [Energia](/it/Items/con_900/){: .btn .btn--era4} | VIP related | Giocando in modalità Storia o Sottosuolo consumerai Energia. |
+  | 261 | [Essenza di affinamento Attacco](/it/Items/con_1110/){: .btn .btn--era3} | Skill Essence | Custodisce i segreti fondamentali della battaglia. Fanne uso per migliorare l'attacco delle unità. |
+  | 262 | [Essenza di affinamento Attacco rapido](/it/Items/con_1113/){: .btn .btn--era3} | Skill Essence | Custodisce i segreti fondamentali della battaglia. Fanne uso per migliorare gli attacchi rapidi delle unità. |
+  | 263 | [Essenza di affinamento Aumento del danno](/it/Items/con_1117/){: .btn .btn--era5} | Skill Essence | Custodisce i segreti della battaglia di livello esperto. Fanne uso per migliorare l'aumento del danno delle unità. |
+  | 264 | [Essenza di affinamento Colpo critico](/it/Items/con_1115/){: .btn .btn--era4} | Skill Essence | Custodisce i segreti della battaglia di livello avanzato. Fanne uso per migliorare i colpi critici delle unità. |
+  | 265 | [Essenza di affinamento Difesa](/it/Items/con_1112/){: .btn .btn--era3} | Skill Essence | Custodisce i segreti fondamentali della battaglia. Fanne uso per migliorare la difesa delle unità. |
+  | 266 | [Essenza di affinamento Resistenza magica](/it/Items/con_1118/){: .btn .btn--era4} | Skill Essence | Custodisce i segreti della battaglia di livello avanzato. Fanne uso per migliorare la resistenza magica delle unità. |
+  | 267 | [Essenza di affinamento Riduzione del danno](/it/Items/con_1116/){: .btn .btn--era5} | Skill Essence | Custodisce i segreti della battaglia di livello esperto. Fanne uso per migliorare la riduzione del danno delle unità. |
+  | 268 | [Essenza di affinamento Schivata](/it/Items/con_1114/){: .btn .btn--era4} | Skill Essence | Custodisce i segreti della battaglia di livello avanzato. Fanne uso per migliorare la Schivata delle unità. |
+  | 269 | [Essenza di affinamento Sopravvivenza](/it/Items/con_1111/){: .btn .btn--era3} | Skill Essence | Custodisce i segreti fondamentali della battaglia. Fanne uso per migliorare la capacità di sopravvivenza delle unità. |
+  | 270 | [Essenza di manufatto](/it/Items/con_905/){: .btn .btn--era5} | VIP related | Scambia l'essenza di manufatto per ottenere manufatti presso il Mercante di manufatti. |
   | 271 | [Essenza di potenziamento](/it/Items/con_696/){: .btn .btn--era3} | Event related | Essenza magica pura. Fanne uso per potenziare le tue unità. |
-  | 272 | [Estate da cardiopalmo - Cassanbel](/it/Items/con_1080/){: .btn .btn--era5} | Unknown | Angelo dell'Amore in boccio |
+  | 272 | [Estate da cardiopalmo - Cassanbel](/it/Items/con_1080/){: .btn .btn--era5} | Special Skin | Angelo dell'Amore in boccio |
   | 273 | [Fagottino di riso](/it/Items/con_1485/){: .btn .btn--era4} | Gift |  |
   | 274 | [Favore divino (14 giorni)](/it/Items/con_1020/){: .btn .btn--era5} | Experience Card | Ottenibile raggiungendo la seconda posizione nello Scontro degli Dei inter-server |
   | 275 | [Fervore](/it/Items/con_954/){: .btn .btn--era5} | Other | Un oggetto utilizzabile per affrontare i boss durante l'evento Assalto alla Baia. |
   | 276 | [Fiala grande del legame energetico](/it/Items/con_726/){: .btn .btn--era4} | EXP | Una fiala stracolma di essenza di manufatto. Fanne uso per ottenere 30 essenze di manufatto. |
   | 277 | [Fiala media del legame energetico](/it/Items/con_725/){: .btn .btn--era4} | EXP | Una fiala contenente essenza di manufatto. Fanne uso per ottenere 20 essenze di manufatto. |
   | 278 | [Fiala piccola del legame energetico](/it/Items/con_724/){: .btn .btn--era4} | EXP | Una fiala contenente un po' di essenza di manufatto. Fanne uso per ottenere 10 essenze di manufatto. |
-  | 279 | [Figlio della foresta: Ryland](/it/Items/con_1044/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Figlio della foresta per Ryland |
+  | 279 | [Figlio della foresta: Ryland](/it/Items/con_1044/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Figlio della foresta per Ryland |
   | 280 | [Fondo Gilda](/it/Items/con_930/){: .btn .btn--era4} | Other | Si può ottenere tramite delle donazioni. Utilizzabile per l'Asta cittadina nella Guerra tra Gilde inter-server. |
   | 281 | [Frattaglie di pesce dello Hubei](/it/Items/con_1223/){: .btn .btn--era3} | Event related | Vellutati intestini di pesce, una tenera vescica natatoria e un fegato delicato vengono cotti insieme in una salsina fragrante. La combinazione delle diverse consistenze offre un'esperienza sensoriale unica. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 282 | [Freccia](/it/Items/con_890/){: .btn .btn--era4} | Unknown | Freccia usata abitualmente dagli Elfi del bosco. |
+  | 282 | [Freccia](/it/Items/con_890/){: .btn .btn--era4} | VIP related | Freccia usata abitualmente dagli Elfi del bosco. |
   | 283 | [Frutto dell'Eden premium](/it/Items/con_1881/){: .btn .btn--era5} | Gift | Contiene 1 scrigno Componenti Frutto dell'Eden e 3880 Diamanti. |
-  | 284 | [Gelu Sagra della Primavera](/it/Items/con_1039/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Gelu Sagra della Primavera |
+  | 284 | [Gelu Sagra della Primavera](/it/Items/con_1039/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Gelu Sagra della Primavera |
   | 285 | [Gem Calciatrice](/it/Items/con_1807/){: .btn .btn--era4} | Gift | Contiene 1980 Diamanti e 1 skin Calciatrice per Gem. |
   | 286 | [Gemma del Sottosuolo](/it/Items/con_540/){: .btn .btn--era4} | Event related | Una gemma speciale ottenuta tramite Estrazione mineraria. Puoi convertirla con oggetti di vario tipo presso il negozio degli scambi. |
   | 287 | [Genio](/it/Items/con_1573/){: .btn .btn--era4} | Gift | Genio |
@@ -304,22 +304,22 @@ classes: wide
   | 290 | [Gnocco di riso con fagioli rossi](/it/Items/con_545/){: .btn .btn--era4} | Event related | Un delizioso gnocco di riso con fagioli rossi. Utilizzabile durante l'evento Sconti doppi. |
   | 291 | [Gnocco di riso con maiale](/it/Items/con_542/){: .btn .btn--era4} | Event related | Un delizioso gnocco di riso con maiale. Utilizzabile durante l'evento Sconti doppi. |
   | 292 | [Gnocco di riso con uova](/it/Items/con_543/){: .btn .btn--era4} | Event related | Un delizioso gnocco di riso con uova. Utilizzabile durante l'evento Sconti doppi. |
-  | 293 | [Gorgone tonante - skin Gorgone](/it/Items/con_1998/){: .btn .btn--era5} | Unknown | Apri per ottenere la skin Gorgone tonante per la Gorgone. |
-  | 294 | [Guardiano della foresta - Centauro](/it/Items/con_1978/){: .btn .btn--era5} | Unknown | Contiene la skin Guardiano della foresta per il Centauro. |
+  | 293 | [Gorgone tonante - skin Gorgone](/it/Items/con_1998/){: .btn .btn--era5} | Unit Skin | Apri per ottenere la skin Gorgone tonante per la Gorgone. |
+  | 294 | [Guardiano della foresta - Centauro](/it/Items/con_1978/){: .btn .btn--era5} | Unit Skin | Contiene la skin Guardiano della foresta per il Centauro. |
   | 295 | [Guerriero leggendario (14 giorni)](/it/Items/con_1019/){: .btn .btn--era5} | Experience Card | Ottenibile raggiungendo la terza posizione nello Scontro degli Dei inter-server |
   | 296 | [Heroes](/it/Items/con_862/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
-  | 297 | [Il campione di Adelaide](/it/Items/con_1026/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Il campione di Adelaide |
-  | 298 | [Il campione di Sephinroth](/it/Items/con_1077/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Il campione di Sephinroth |
+  | 297 | [Il campione di Adelaide](/it/Items/con_1026/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Il campione di Adelaide |
+  | 298 | [Il campione di Sephinroth](/it/Items/con_1077/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Il campione di Sephinroth |
   | 299 | [Il ritorno](/it/Items/con_863/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
   | 300 | [Ingredienti Pozione di Talento](/it/Items/con_1120/){: .btn .btn--era3} | Gift | Gli ingredienti per una Pozione di Talento. Una volta preparata, riceverai una Pozione di Talento per un'unità casuale. |
   | 301 | [Intestini con verdure in salamoia di Zhangzhou](/it/Items/con_1241/){: .btn .btn--era3} | Event related | Verdure sott'aceto agrodolci di Luxi, intestino crasso bollito denso e profumato, germogli freschi di bambù e brodo d'ossa aromatico si uniscono per dare a questo piatto il tipico sapore della cucina di Zhangzhou. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 302 | [Intrigo fatale: Lord Haart](/it/Items/con_1049/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Intrigo fatale per Lord Haart |
-  | 303 | [Intrigo fatale: Sandro](/it/Items/con_1051/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Intrigo fatale per Sandro |
-  | 304 | [Invito al chiar di luna - Gem](/it/Items/con_1048/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Invito al chiar di luna per Gem |
-  | 305 | [Kilgor Spada di Ghiaccio](/it/Items/con_1055/){: .btn .btn--era5} | Unknown | Contiene la skin \"Spada di Ghiaccio\" per Kilgor. |
-  | 306 | [La morte di Deyja](/it/Items/con_1050/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Lord Haart La morte di Deyja |
+  | 302 | [Intrigo fatale: Lord Haart](/it/Items/con_1049/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Intrigo fatale per Lord Haart |
+  | 303 | [Intrigo fatale: Sandro](/it/Items/con_1051/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Intrigo fatale per Sandro |
+  | 304 | [Invito al chiar di luna - Gem](/it/Items/con_1048/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Invito al chiar di luna per Gem |
+  | 305 | [Kilgor Spada di Ghiaccio](/it/Items/con_1055/){: .btn .btn--era5} | Special Skin | Contiene la skin \"Spada di Ghiaccio\" per Kilgor. |
+  | 306 | [La morte di Deyja](/it/Items/con_1050/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Lord Haart La morte di Deyja |
   | 307 | [Lacrima dell'oceano](/it/Items/con_955/){: .btn .btn--era5} | Other | Usa la Lacrima dell'Oceano quando evochi un boss durante l'Assalto alla Baia per aumentare la probabilità di evocare un boss raro, aumentando notevolmente le ricompense in palio. |
-  | 308 | [Lamento della montagna fiammeggiante: skin per Tartaruga draconica](/it/Items/con_2004/){: .btn .btn--era5} | Unknown | Contiene la skin Lamento della montagna fiammeggiante per Tartaruga draconica. |
+  | 308 | [Lamento della montagna fiammeggiante: skin per Tartaruga draconica](/it/Items/con_2004/){: .btn .btn--era5} | Unit Skin | Contiene la skin Lamento della montagna fiammeggiante per Tartaruga draconica. |
   | 309 | [Lettera di reclutamento](/it/Items/con_965/){: .btn .btn--era5} | Event related | Le Lettere di reclutamento servono a dimostrare le tue abilità e rendono più facile ottenere la fiducia degli abitanti di questo misterioso continente. Vai alla taverna per reclutare nuove unità. |
   | 310 | [Libro delle essenze di livello avanzato](/it/Items/con_1121/){: .btn .btn--era4} | Gift | Un misterioso libro ricolmo di segreti. Contiene i segreti di una tecnica unità casuale di livello avanzato. |
   | 311 | [Libro delle essenze di livello esperto](/it/Items/con_1122/){: .btn .btn--era5} | Gift | Custodisce i segreti della battaglia di livello avanzato. Fanne uso per migliorare la resistenza magica delle unità. |
@@ -335,43 +335,43 @@ classes: wide
   | 321 | [Materiali di costruzione rari](/it/Items/con_805/){: .btn .btn--era5} | Event related | Utilizzati per costruire le mura durante la battaglia difensiva di Steadwick |
   | 322 | [Matrimonio reale - Skin Caterina (2 giorni)](/it/Items/con_1017/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin Matrimonio reale per Caterina per 2 giorni. |
   | 323 | [Matrimonio reale - Skin avatar Caterina (2 giorni)](/it/Items/con_1015/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin avatar Matrimonio reale per Caterina per 2 giorni. |
-  | 324 | [Matrimonio reale: Caterina](/it/Items/con_1030/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Matrimonio reale per Caterina |
+  | 324 | [Matrimonio reale: Caterina](/it/Items/con_1030/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Matrimonio reale per Caterina |
   | 325 | [Medaglia Ranger](/it/Items/con_795/){: .btn .btn--era4} | Event related | Un cimelio del Ranger leggendario. Si può scambiare con oggetti della fazione Baluardo negli eventi corrispondenti. |
   | 326 | [Medaglia Reale](/it/Items/con_794/){: .btn .btn--era4} | Event related | Una medaglia assegnata dalla Corte imperiale erathiana. Si può scambiare con oggetti della fazione Castello negli eventi corrispondenti. |
   | 327 | [Medaglia Spedizione](/it/Items/con_960/){: .btn .btn--era5} | Other | Una medaglia donata agli eroi che hanno combattuto a lungo in prima linea. Si può scambiare con varie ricompense presso il negozio della Spedizione. Al termine del periodo attuale di Risuonano i corni, tutte le Medaglie verranno convertite. |
   | 328 | [Medaglia del Lavoro](/it/Items/con_512/){: .btn .btn--era4} | Event related |  |
-  | 329 | [Medaglia dell'impero](/it/Items/con_904/){: .btn .btn--era9} | Unknown | Ottieni Medaglie dell'impero combattendo nelle Campagne. |
-  | 330 | [Messo di Bracada](/it/Items/con_1066/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Solmyr Messo di Bracada |
+  | 329 | [Medaglia dell'impero](/it/Items/con_904/){: .btn .btn--era9} | VIP related | Ottieni Medaglie dell'impero combattendo nelle Campagne. |
+  | 330 | [Messo di Bracada](/it/Items/con_1066/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Solmyr Messo di Bracada |
   | 331 | [Might](/it/Items/con_859/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
   | 332 | [Minerale stellare](/it/Items/con_956/){: .btn .btn--era4} | Other | ESP Museo. Accumulane una certa quantità per aumentare il livello del Museo. |
   | 333 | [Mithril del vuoto](/it/Items/con_817/){: .btn .btn--era4} | Event related | Un misterioso meteorite giunto dal cielo e carico di un enorme potere magico. È un materiale necessario a forgiare equipaggiamento magico di alta qualità. |
-  | 334 | [Mondo dei tarocchi](/it/Items/con_1054/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Sandro (umano) Mondo dei tarocchi |
-  | 335 | [Moneta Arena](/it/Items/con_903/){: .btn .btn--era9} | Unknown | Ottieni Monete Arena combattendo nell'Arena o tramite le Ricompense giornaliere. |
+  | 334 | [Mondo dei tarocchi](/it/Items/con_1054/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Sandro (umano) Mondo dei tarocchi |
+  | 335 | [Moneta Arena](/it/Items/con_903/){: .btn .btn--era9} | VIP related | Ottieni Monete Arena combattendo nell'Arena o tramite le Ricompense giornaliere. |
   | 336 | [Moneta Auto Chess](/it/Items/con_935/){: .btn .btn--era5} | Other | Affronta la campagna Heroes Auto Chess per ottenere Monete Auto Chess. |
-  | 337 | [Moneta Duello](/it/Items/con_907/){: .btn .btn--era5} | Unknown | Ottieni Monete Duello giocando in modalità Duello degli Eroi. |
-  | 338 | [Moneta Gilda](/it/Items/con_896/){: .btn .btn--era4} | Unknown | Scambia al negozio della Gilda per ottenere degli oggetti. |
+  | 337 | [Moneta Duello](/it/Items/con_907/){: .btn .btn--era5} | VIP related | Ottieni Monete Duello giocando in modalità Duello degli Eroi. |
+  | 338 | [Moneta Gilda](/it/Items/con_896/){: .btn .btn--era4} | VIP related | Scambia al negozio della Gilda per ottenere degli oggetti. |
   | 339 | [Moneta Gilda inter-server](/it/Items/con_929/){: .btn .btn--era4} | Other | Si può ottenere partecipando alla Guerra tra Gilde inter-server. |
   | 340 | [Moneta Gloria](/it/Items/con_922/){: .btn .btn--era4} | Other | Forgiata dalla gloriosa luce del Regno. Si può ottenere combattendo nelle battaglie del Torneo Reale. |
-  | 341 | [Moneta Lega](/it/Items/con_892/){: .btn .btn--era4} | Unknown | Ottieni le Monete Lega nel Duello dei Campioni e tramite le Ricompense stagionali. |
+  | 341 | [Moneta Lega](/it/Items/con_892/){: .btn .btn--era4} | VIP related | Ottieni le Monete Lega nel Duello dei Campioni e tramite le Ricompense stagionali. |
   | 342 | [Moneta Rifornimenti militari](/it/Items/con_921/){: .btn .btn--era4} | Other | È possibile usare le Monete Rifornimenti militari per produrre componenti. |
   | 343 | [Moneta UBI](/it/Items/con_546/){: .btn .btn--era4} | Event related | Oggetto evento a tempo limitato. Può essere scambiato con ricompense di vario tipo esclusivamente nel corso di questo evento! |
   | 344 | [Moneta commemorativa](/it/Items/con_877/){: .btn .btn--era5} | Other | Prova tangibile della partecipazione allo Scontro degli Dei. |
   | 345 | [Moneta d'argento di Regna](/it/Items/con_952/){: .btn .btn--era5} | Other | Un oggetto ottenuto durante l'evento Assalto alla Baia. Può essere utilizzato per evocare e affrontare un boss. |
   | 346 | [Moneta d'oro di Regna](/it/Items/con_951/){: .btn .btn--era5} | Other | Un oggetto ottenuto durante l'evento Assalto alla Baia. Può essere utilizzato per evocare e affrontare un boss. |
   | 347 | [Moneta di rame di Regna](/it/Items/con_953/){: .btn .btn--era5} | Other | Un oggetto ottenuto durante l'evento Assalto alla Baia. Può essere utilizzato per evocare e affrontare un boss. |
-  | 348 | [Moneta fortunata](/it/Items/con_909/){: .btn .btn--era5} | Unknown | Moneta commemorativa |
+  | 348 | [Moneta fortunata](/it/Items/con_909/){: .btn .btn--era5} | VIP related | Moneta commemorativa |
   | 349 | [Monete Accesso](/it/Items/con_928/){: .btn .btn--era4} | Other | Monete rare. È possibile scambiarle con vari oggetti nel Negozio Accessi |
   | 350 | [Monete celebrative Festival](/it/Items/con_808/){: .btn .btn--era4} | Event related | Disponibile durante la Celebrazione semestrale. Puoi scambiarlo con oggetti rari! |
   | 351 | [Monete celebrative dell'anniversario](/it/Items/con_514/){: .btn .btn--era4} | Event related | Oggetti esclusivi dell'Anniversario. Scambiali per ottenere ricompense dell'evento. |
   | 352 | [Montone alla pechinese](/it/Items/con_1166/){: .btn .btn--era3} | Event related | Il montone viene cotto su una fiamma a carbone in un'autentica pentola di rame pechinese, che ne rimuove l'eccessivo odore di selvatico donandogli una consistenza tenera e delicata. Una volta bollito, il montone risulta morbido e saporito. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 353 | [Movimento](/it/Items/con_894/){: .btn .btn--era4} | Unknown | All'avventura! |
-  | 354 | [Mullich d'Erathia](/it/Items/con_1027/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Mullich d'Erathia |
+  | 353 | [Movimento](/it/Items/con_894/){: .btn .btn--era4} | VIP related | All'avventura! |
+  | 354 | [Mullich d'Erathia](/it/Items/con_1027/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Mullich d'Erathia |
   | 355 | [Muschio fresco](/it/Items/con_532/){: .btn .btn--era4} | Event related | Si dice che sia uno degli alimenti preferiti dalle renne. Portalo con te! Se sarai fortunato, troverai una renna disposta a seguirti fedelmente in battaglia. |
   | 356 | [Nata dalle ceneri](/it/Items/con_1022/){: .btn .btn--era5} | Experience Card | Ottenibile nell'Arena della Gloria |
-  | 357 | [Nata dalle ceneri: Luna](/it/Items/con_1060/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Nata dalle ceneri per Luna |
+  | 357 | [Nata dalle ceneri: Luna](/it/Items/con_1060/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Nata dalle ceneri per Luna |
   | 358 | [Negozio del Re](/it/Items/con_1408/){: .btn .btn--era4} | Gift | Aprilo per una possibilità di ottenere una certa quantità di punti privilegio. |
-  | 359 | [Nirvana sfavillante: skin per Rapace di fuoco](/it/Items/con_2002/){: .btn .btn--era5} | Unknown | Contiene la skin Nirvana sfavillante per Rapace di fuoco. |
-  | 360 | [Nucleo di energia](/it/Items/con_931/){: .btn .btn--era5} | Unknown | Si può usare per attivare nodi di formazione. |
+  | 359 | [Nirvana sfavillante: skin per Rapace di fuoco](/it/Items/con_2002/){: .btn .btn--era5} | Unit Skin | Contiene la skin Nirvana sfavillante per Rapace di fuoco. |
+  | 360 | [Nucleo di energia](/it/Items/con_931/){: .btn .btn--era5} | Battle Formation | Si può usare per attivare nodi di formazione. |
   | 361 | [Nucleo di magma](/it/Items/con_819/){: .btn .btn--era4} | Event related | Un oggetto ottenuto durante l'evento La cattura di Xeron. Può essere utilizzato nel corso dell'evento per potenziare il vulcano. |
   | 362 | [Offerta Armatura dei Dannati](/it/Items/con_1554/){: .btn .btn--era4} | Gift | Ottieni 1 Spada della magia nera, 1 Scudo spettrale, 1 Corazza d'ossa e 1 Corona d'ossa. Utile ad attivare il Manufatto \"Armatura maledetta\". |
   | 363 | [Offerta Astral Illusionista](/it/Items/con_1924/){: .btn .btn--era5} | Gift | Contiene 6480 Diamanti, 1 skin Illusionista per Astral, 40 token Astral, 5 token (eroe) universali e 15 Pergamene del tempio antiche. |
@@ -438,7 +438,7 @@ classes: wide
   | 424 | [Offerta speciale token Eroe universali](/it/Items/con_1823/){: .btn .btn--era4} | Gift | Contiene 10 token Eroe universali e 1280 Diamanti. |
   | 425 | [Ombracciaio](/it/Items/con_881/){: .btn .btn--era4} | Other | Un cumulo di Ombracciaio (risorsa di livello 2); si può usare per migliorare la Caserma. |
   | 426 | [Omino di marzapane](/it/Items/con_1092/){: .btn .btn--era4} | Event related | Un oggetto per l'evento Allegro Natale. Può essere scambiato con regali di Natale. |
-  | 427 | [Oro](/it/Items/con_899/){: .btn .btn--era9} | Unknown | L'oro può essere usato in tanti modi diversi. |
+  | 427 | [Oro](/it/Items/con_899/){: .btn .btn--era9} | VIP related | L'oro può essere usato in tanti modi diversi. |
   | 428 | [Ossidiana](/it/Items/con_797/){: .btn .btn--era4} | Event related | Una gemma esotica proveniente dall'Inferno. Si può scambiare con oggetti della fazione Inferno negli eventi corrispondenti. |
   | 429 | [Pacchetto 100 token unità SSR a scelta (Angelo, Diavolo, Cavaliere nero)](/it/Items/con_1321/){: .btn .btn--era4} | Gift | Aprilo per ottenere 100 token per Angelo, Diavolo o Cavaliere nero. |
   | 430 | [Pacchetto 150 token unità SSR a scelta (Angelo, Diavolo, Cavaliere nero)](/it/Items/con_1322/){: .btn .btn--era4} | Gift | Aprilo per ottenere 150 token per Angelo, Diavolo o Cavaliere nero. |
@@ -474,7 +474,7 @@ classes: wide
   | 460 | [Pacchetto Chiave d'oro E](/it/Items/con_1571/){: .btn .btn--era5} | Gift | 20 chiavi d'oro e 3380 Diamanti |
   | 461 | [Pacchetto Comandante degli eroi](/it/Items/con_1689/){: .btn .btn--era5} | Gift | Aprilo per scegliere uno dei seguenti eroi: Roland, Sandro o Kilgor. Se sceglierai un eroe già in tuo possesso otterrai invece 30 token per lo stesso eroe. |
   | 462 | [Pacchetto Comandante della Morte](/it/Items/con_1439/){: .btn .btn--era4} | Gift | Aprilo per ottenere 1 ricompensa a tua scelta tra le seguenti: 1 token Lich o 1 Pietra mistica Lich |
-  | 463 | [Pacchetto Commentatori popolari](/it/Items/con_615/){: .btn .btn--era5} | Unknown | Ricompense evento Commentatori popolari. Apri per ricevere una cornice avatar. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 463 | [Pacchetto Commentatori popolari](/it/Items/con_615/){: .btn .btn--era5} | Avatar frame | Ricompense evento Commentatori popolari. Apri per ricevere una cornice avatar. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
   | 464 | [Pacchetto Componenti Manufatto premium](/it/Items/con_1507/){: .btn .btn--era5} | Gift | Aprilo per ottenere 1 ricompensa a tua scelta tra le seguenti: 1 Scrigno Componenti del Cappello dell'Incantatore, 1 Scrigno Componenti Occhio di Falco e 1 Scrigno Componenti del Titano |
   | 465 | [Pacchetto Componenti del gelo](/it/Items/con_1352/){: .btn .btn--era5} | Gift | Uno scrigno di componenti della Spada di Ghiaccio. Aprilo per selezionare 1 componente dei manufatti della Spada di Ghiaccio. |
   | 466 | [Pacchetto Componenti premium](/it/Items/con_1363/){: .btn .btn--era5} | Gift | Scegli quale ricevere tra i seguenti oggetti: 1 accessorio Potenza del Padre dei Draghi, 1 accessorio Spada di Ghiaccio, 1 accessorio Alleanza Angelica, 1 Spada dell'Armageddon |
@@ -627,10 +627,10 @@ classes: wide
   | 613 | [Pacchetto Regalo divino](/it/Items/con_1457/){: .btn .btn--era5} | Gift | Aprilo per ottenere 1 Scrigno di componenti celesti, 6480 Diamanti e 5 token Angelo |
   | 614 | [Pacchetto Regno](/it/Items/con_1154/){: .btn .btn--era4} | Gift | Un pacchetto proveniente da un regno. Aprilo e potresti ottenere Monete Gilda, Rune delle Tecniche e un Box Roster. |
   | 615 | [Pacchetto Ricarica giornaliera](/it/Items/con_1798/){: .btn .btn--era4} | Gift | Aprilo per ottenere 1 ricompensa a tua scelta tra le seguenti: 1 scrigno Componenti dello Spirito, 1 scrigno Componenti del Re Non Morto o 1 scrigno Componenti del tesoro. |
-  | 616 | [Pacchetto Ricompensa gratuita](/it/Items/con_842/){: .btn .btn--era5} | Unknown | Hai completato il livello 3 della Prova degli Angeli! Puoi inviare gratuitamente una busta rossa ai membri della tua Gilda! |
+  | 616 | [Pacchetto Ricompensa gratuita](/it/Items/con_842/){: .btn .btn--era5} | Guild member gift | Hai completato il livello 3 della Prova degli Angeli! Puoi inviare gratuitamente una busta rossa ai membri della tua Gilda! |
   | 617 | [Pacchetto Ricompensa pre-registrazione](/it/Items/con_1337/){: .btn .btn--era5} | Gift | Un simbolo di gloria e maestria. Si sblocca dopo il livello 40. Fanne uso per ricevere 800 Biancoargento, 500 Ombracciaio e 200 Acciaio draconico. |
-  | 618 | [Pacchetto Ricompense Diamanti](/it/Items/con_557/){: .btn .btn--era5} | Unknown | Un pacchetto Ricompense pieno di Diamanti. Aprilo e tenta la sorte! (L'oggetto verrà eliminato al termine dell'evento) |
-  | 619 | [Pacchetto Ricompense Monete](/it/Items/con_556/){: .btn .btn--era4} | Unknown | Un pacchetto Ricompense pieno di Monete. Aprilo e tenta la sorte! (L'oggetto verrà eliminato al termine dell'evento) |
+  | 618 | [Pacchetto Ricompense Diamanti](/it/Items/con_557/){: .btn .btn--era5} | Event related | Un pacchetto Ricompense pieno di Diamanti. Aprilo e tenta la sorte! (L'oggetto verrà eliminato al termine dell'evento) |
+  | 619 | [Pacchetto Ricompense Monete](/it/Items/con_556/){: .btn .btn--era4} | Event related | Un pacchetto Ricompense pieno di Monete. Aprilo e tenta la sorte! (L'oggetto verrà eliminato al termine dell'evento) |
   | 620 | [Pacchetto Rifornimenti Talento (prima fila)](/it/Items/con_1400/){: .btn .btn--era4} | Gift | Fanne uso per ricevere 1 tra le 488 Pozioni di Talento per le unità di Attacco/Difesa/Incursione. |
   | 621 | [Pacchetto Rifornimenti Talento (retrovie)](/it/Items/con_1401/){: .btn .btn--era4} | Gift | Fanne uso per ricevere 1 tra le 488 Pozioni di Talento per le unità Incantatori/A distanza/Incursione. |
   | 622 | [Pacchetto Rifornimenti per lavoratori A](/it/Items/con_1674/){: .btn .btn--era4} | Gift | Un pacchetto esclusivo della Festa dei lavoratori. Ottieni la quantità corrispondente di Diamanti ed ESP VIP, e non solo! Sono in palio anche tantissime chiavi d'oro e oggetti esclusivi dell'evento! |
@@ -671,22 +671,22 @@ classes: wide
   | 657 | [Pacchetto a tempo limitato Rapace di fuoco a 5 stelle](/it/Items/con_1873/){: .btn .btn--era5} | Gift | Contiene 150 token Rapace di fuoco, un pacchetto Materiali e 1280 Diamanti. |
   | 658 | [Pacchetto abilità Esperto](/it/Items/con_1387/){: .btn .btn--era4} | Gift | Contiene il set completo della Corazza maledetta. Fanne uso e otterrai in aggiunta la tecnica Maledizione! |
   | 659 | [Pacchetto astrale](/it/Items/con_728/){: .btn .btn--era3} | Gift | Una piccola scatola regalo. Potrebbe contenere dell'Argento astrale! |
-  | 660 | [Pacchetto bonus Gratitudine](/it/Items/con_2114/){: .btn .btn--era4} | Unknown | Aprilo per ricevere 1 token Arma universale a scelta |
+  | 660 | [Pacchetto bonus Gratitudine](/it/Items/con_2114/){: .btn .btn--era4} | Weapon Token related | Aprilo per ricevere 1 token Arma universale a scelta |
   | 661 | [Pacchetto con 118 Diamanti](/it/Items/con_736/){: .btn .btn--era3} | EXP | Un pacchetto con 118 Diamanti! |
   | 662 | [Pacchetto con 198 Diamanti](/it/Items/con_737/){: .btn .btn--era4} | EXP | Un pacchetto con 198 Diamanti! |
   | 663 | [Pacchetto con 428 Diamanti](/it/Items/con_738/){: .btn .btn--era4} | EXP | Uno scrigno del tesoro contenente 428 Diamanti! |
   | 664 | [Pacchetto con 68 Diamanti](/it/Items/con_735/){: .btn .btn--era2} | EXP | Un pacchetto con 68 Diamanti! |
   | 665 | [Pacchetto convenienza Celeste](/it/Items/con_1752/){: .btn .btn--era5} | Gift | Contiene 1 scrigno Componenti celesti e 3880 Diamanti. |
-  | 666 | [Pacchetto cornice avatar Bianco Natale](/it/Items/con_640/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Gelido Natale. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 667 | [Pacchetto cornice avatar Dominatore del cielo](/it/Items/con_637/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Dominatore del cielo. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 668 | [Pacchetto cornice avatar Dominatore del gelo](/it/Items/con_634/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Dominatore del gelo. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 669 | [Pacchetto cornice avatar Dominatore del vuoto](/it/Items/con_638/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Dominatore del vuoto. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 670 | [Pacchetto cornice avatar Dominatore della terra](/it/Items/con_636/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Dominatore della terra. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 671 | [Pacchetto cornice avatar Dominatore delle fiamme](/it/Items/con_635/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Dominatore delle fiamme. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 666 | [Pacchetto cornice avatar Bianco Natale](/it/Items/con_640/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Gelido Natale. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 667 | [Pacchetto cornice avatar Dominatore del cielo](/it/Items/con_637/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del cielo. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 668 | [Pacchetto cornice avatar Dominatore del gelo](/it/Items/con_634/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del gelo. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 669 | [Pacchetto cornice avatar Dominatore del vuoto](/it/Items/con_638/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore del vuoto. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 670 | [Pacchetto cornice avatar Dominatore della terra](/it/Items/con_636/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore della terra. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 671 | [Pacchetto cornice avatar Dominatore delle fiamme](/it/Items/con_635/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Dominatore delle fiamme. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
   | 672 | [Pacchetto cornice avatar In guerra](/it/Items/con_1525/){: .btn .btn--era5} | Gift | Contiene una cornice avatar In guerra. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 673 | [Pacchetto cornice avatar Maestro di magie](/it/Items/con_633/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Maestro di magie. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 674 | [Pacchetto cornice avatar Messaggero celeste](/it/Items/con_639/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Messaggero celestiale. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
-  | 675 | [Pacchetto cornice avatar Viveur](/it/Items/con_631/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Viveur. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 673 | [Pacchetto cornice avatar Maestro di magie](/it/Items/con_633/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Maestro di magie. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 674 | [Pacchetto cornice avatar Messaggero celeste](/it/Items/con_639/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Messaggero celestiale. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
+  | 675 | [Pacchetto cornice avatar Viveur](/it/Items/con_631/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Viveur. Se hai già sbloccato la cornice avatar, otterrai 30 Diamanti. |
   | 676 | [Pacchetto del Ringraziamento](/it/Items/con_1487/){: .btn .btn--era4} | Gift | Grazie per il tuo supporto a Heroes of Might and Magic! |
   | 677 | [Pacchetto del Ritorno](/it/Items/con_1488/){: .btn .btn--era4} | Gift | Mio Signore, bentornato in Erathia! Disponibile dopo 8 giorni dalla creazione del personaggio e al raggiungimento del livello 35. Aprilo per ricevere 888 Diamanti. |
   | 678 | [Pacchetto del Ritorno 2](/it/Items/con_1489/){: .btn .btn--era4} | Gift | Mio Signore, bentornato in Erathia! Disponibile dopo 8 giorni dalla creazione del personaggio e al raggiungimento del livello 37. Aprilo per ricevere 5 Chiavi d'oro. |
@@ -740,27 +740,27 @@ classes: wide
   | 726 | [Pacchetto premium V7](/it/Items/con_1303/){: .btn .btn--era4} | Gift | Pacchetto premium per giocatori di livello VIP 7 e superiore |
   | 727 | [Pacchetto premium V8](/it/Items/con_1304/){: .btn .btn--era4} | Gift | Pacchetto premium per giocatori di livello VIP 8 e superiore |
   | 728 | [Pacchetto premium V9](/it/Items/con_1305/){: .btn .btn--era4} | Gift | Pacchetto premium per giocatori di livello VIP 9 e superiore |
-  | 729 | [Pacchetto regalo Comandante letale](/it/Items/con_622/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Comandante letale. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 730 | [Pacchetto regalo Comandante tattico](/it/Items/con_621/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Comandante tattico. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 731 | [Pacchetto regalo cornice avatar Amore di ghiaccio e fuoco](/it/Items/con_629/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Amore di ghiaccio e fuoco. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 732 | [Pacchetto regalo cornice avatar Atleta](/it/Items/con_603/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Atleta! |
-  | 733 | [Pacchetto regalo cornice avatar Baluardo](/it/Items/con_613/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Baluardo! |
-  | 734 | [Pacchetto regalo cornice avatar Castello](/it/Items/con_612/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Castello! |
-  | 735 | [Pacchetto regalo cornice avatar Collezionista di tesori](/it/Items/con_620/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Collezionista di tesori! |
-  | 736 | [Pacchetto regalo cornice avatar Cuor di Grifone](/it/Items/con_607/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Cuor di Grifone! |
-  | 737 | [Pacchetto regalo cornice avatar Cuore di fuoco](/it/Items/con_624/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Cuore di fuoco. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 738 | [Pacchetto regalo cornice avatar Danza delle Lame](/it/Items/con_627/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Danza delle Lame. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 739 | [Pacchetto regalo cornice avatar Furia della natura](/it/Items/con_630/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Furia della natura. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 740 | [Pacchetto regalo cornice avatar Guerriero](/it/Items/con_602/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Guerriero! |
-  | 741 | [Pacchetto regalo cornice avatar Inferno](/it/Items/con_604/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Inferno! |
-  | 742 | [Pacchetto regalo cornice avatar Maestro d'incantesimi](/it/Items/con_611/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Maestro d'incantesimi! |
-  | 743 | [Pacchetto regalo cornice avatar Necropoli](/it/Items/con_614/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Necropoli! |
-  | 744 | [Pacchetto regalo cornice avatar Nirvana della Fenice](/it/Items/con_618/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Nirvana della Fenice! |
-  | 745 | [Pacchetto regalo cornice avatar Roccaforte](/it/Items/con_605/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Roccaforte! |
-  | 746 | [Pacchetto regalo cornice avatar Segreti della Sfinge](/it/Items/con_626/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Segreti della Sfinge. Sbloccando questa cornice riceverai 30 Diamanti. |
-  | 747 | [Pacchetto regalo cornice avatar Signore dei cieli](/it/Items/con_619/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Signore dei cieli! |
-  | 748 | [Pacchetto regalo cornice avatar Signore della guerra](/it/Items/con_610/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Signore della guerra! |
-  | 749 | [Pacchetto regalo cornice avatar Torre](/it/Items/con_606/){: .btn .btn--era5} | Unknown | Contiene una cornice avatar Torre! |
+  | 729 | [Pacchetto regalo Comandante letale](/it/Items/con_622/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Comandante letale. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 730 | [Pacchetto regalo Comandante tattico](/it/Items/con_621/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Comandante tattico. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 731 | [Pacchetto regalo cornice avatar Amore di ghiaccio e fuoco](/it/Items/con_629/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Amore di ghiaccio e fuoco. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 732 | [Pacchetto regalo cornice avatar Atleta](/it/Items/con_603/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Atleta! |
+  | 733 | [Pacchetto regalo cornice avatar Baluardo](/it/Items/con_613/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Baluardo! |
+  | 734 | [Pacchetto regalo cornice avatar Castello](/it/Items/con_612/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Castello! |
+  | 735 | [Pacchetto regalo cornice avatar Collezionista di tesori](/it/Items/con_620/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Collezionista di tesori! |
+  | 736 | [Pacchetto regalo cornice avatar Cuor di Grifone](/it/Items/con_607/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Cuor di Grifone! |
+  | 737 | [Pacchetto regalo cornice avatar Cuore di fuoco](/it/Items/con_624/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Cuore di fuoco. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 738 | [Pacchetto regalo cornice avatar Danza delle Lame](/it/Items/con_627/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Danza delle Lame. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 739 | [Pacchetto regalo cornice avatar Furia della natura](/it/Items/con_630/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Furia della natura. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 740 | [Pacchetto regalo cornice avatar Guerriero](/it/Items/con_602/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Guerriero! |
+  | 741 | [Pacchetto regalo cornice avatar Inferno](/it/Items/con_604/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Inferno! |
+  | 742 | [Pacchetto regalo cornice avatar Maestro d'incantesimi](/it/Items/con_611/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Maestro d'incantesimi! |
+  | 743 | [Pacchetto regalo cornice avatar Necropoli](/it/Items/con_614/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Necropoli! |
+  | 744 | [Pacchetto regalo cornice avatar Nirvana della Fenice](/it/Items/con_618/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Nirvana della Fenice! |
+  | 745 | [Pacchetto regalo cornice avatar Roccaforte](/it/Items/con_605/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Roccaforte! |
+  | 746 | [Pacchetto regalo cornice avatar Segreti della Sfinge](/it/Items/con_626/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Segreti della Sfinge. Sbloccando questa cornice riceverai 30 Diamanti. |
+  | 747 | [Pacchetto regalo cornice avatar Signore dei cieli](/it/Items/con_619/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Signore dei cieli! |
+  | 748 | [Pacchetto regalo cornice avatar Signore della guerra](/it/Items/con_610/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Signore della guerra! |
+  | 749 | [Pacchetto regalo cornice avatar Torre](/it/Items/con_606/){: .btn .btn--era5} | Avatar frame | Contiene una cornice avatar Torre! |
   | 750 | [Pacchetto rifornimenti Talento universale](/it/Items/con_1418/){: .btn .btn--era4} | Gift | Aprilo per ottenere 100 Pozioni Talento a tua scelta tra Attacco, Difesa, Incursione, A distanza e Magia. |
   | 751 | [Pacchetto rifornimenti dell'Astrologo](/it/Items/con_1436/){: .btn .btn--era4} | Gift | Aprilo per ottenere 5 Argento astrale |
   | 752 | [Pacchetto rune speciale](/it/Items/con_1411/){: .btn .btn--era4} | Gift | Aprilo per ricevere 5 Pietre runiche di Cristallo viola, 5 Pietre runiche di Cristallo blu e 5 Pietre runiche di Cristallo verde. |
@@ -773,7 +773,7 @@ classes: wide
   | 759 | [Pass Sfida Arena](/it/Items/con_695/){: .btn .btn--era3} | Event related | Solo i più fortunati trovano questo prezioso oggetto. Ti garantisce un ulteriore accesso all'Arena. |
   | 760 | [Pass Sfida Festeggiamenti anno nuovo](/it/Items/con_867/){: .btn .btn--era5} | Event related | Un pass Sfida misterioso ottenibile durante i festeggiamenti per l'anno nuovo. Ottienine a sufficienza per partecipare alla nuova fase Festeggiamenti anno nuovo a tempo limitato! |
   | 761 | [Patto dell'Oracolo](/it/Items/con_816/){: .btn .btn--era6} | Event related | Una pergamena misteriosa lasciata dai profeti. Usala per evocare un potere straordinario. |
-  | 762 | [Pattuglia selvaggia - Ogre](/it/Items/con_1987/){: .btn .btn--era5} | Unknown | Contiene la skin Pattuglia selvaggia per l'Ogre. |
+  | 762 | [Pattuglia selvaggia - Ogre](/it/Items/con_1987/){: .btn .btn--era5} | Unit Skin | Contiene la skin Pattuglia selvaggia per l'Ogre. |
   | 763 | [Penna](/it/Items/con_548/){: .btn .btn--era4} | Event related | Una penna intinta in un inchiostro magico. Utilizzabile durante l'evento Bingo. |
   | 764 | [Pergamena del Tempio antico](/it/Items/con_697/){: .btn .btn--era4} | Event related | Una pergamena misteriosa proveniente da un tempio antico. Solo i più fortunati possono usufruirne. Resetta gratuitamente la Maestria di un eroe una singola volta. |
   | 765 | [Pergamena dell'energia](/it/Items/con_830/){: .btn .btn--era4} | Event related | Utile a migliorare le tecniche di battaglia e le tecniche delle unità di supporto. |
@@ -785,18 +785,18 @@ classes: wide
   | 771 | [Pesce stufato della regione nordorientale](/it/Items/con_1217/){: .btn .btn--era3} | Event related | Il pesce selvatico di lago o di fiume viene cotto lentamente in una grande stufa metallica insieme a verdure di ogni tipo. Nel frattempo, il lato della pentola viene utilizzato per riscaldare particolari focacce di farina di mais. Si tratta di un piatto molto diffuso tra i contadini della regione nordorientale. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
   | 772 | [Piccone di ferro](/it/Items/con_539/){: .btn .btn--era4} | Event related | Usalo per partecipare all'evento Estrazione mineraria; tieni presente che, essendo composto da materiali poco resistenti, si romperà dopo 1 estrazione. |
   | 773 | [Pietra Calendario](/it/Items/con_813/){: .btn .btn--era4} | Event related | Pietra Calendario di pregiata fattura. Puoi scambiarla con oggetti della fazione Fortezza negli eventi corrispondenti! |
-  | 774 | [Pietra del Caos](/it/Items/con_1126/){: .btn .btn--era5} | Unknown | Pietra del Caos, necessaria a forgiare Emblemi sacri del Caos. |
-  | 775 | [Pietra del Male](/it/Items/con_1127/){: .btn .btn--era5} | Unknown | Pietra del Male, necessaria a forgiare Emblemi sacri del Male. |
+  | 774 | [Pietra del Caos](/it/Items/con_1126/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pietra del Caos, necessaria a forgiare Emblemi sacri del Caos. |
+  | 775 | [Pietra del Male](/it/Items/con_1127/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pietra del Male, necessaria a forgiare Emblemi sacri del Male. |
   | 776 | [Pietra del raffinamento](/it/Items/con_814/){: .btn .btn--era4} | Artifact | Pietra del raffinamento infusa dell'essenza delle armi, usata per forgiare oggetti potenti. Si ottiene combattendo nell'Arena della Gloria. |
-  | 777 | [Pietra dell'Ordine](/it/Items/con_1123/){: .btn .btn--era5} | Unknown | Pietra dell'Ordine, necessaria a forgiare Emblemi sacri dell'Ordine. |
-  | 778 | [Pietra della Bontà](/it/Items/con_1124/){: .btn .btn--era5} | Unknown | Pietra della Bontà, necessaria a forgiare Emblemi sacri della Bontà. |
+  | 777 | [Pietra dell'Ordine](/it/Items/con_1123/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pietra dell'Ordine, necessaria a forgiare Emblemi sacri dell'Ordine. |
+  | 778 | [Pietra della Bontà](/it/Items/con_1124/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pietra della Bontà, necessaria a forgiare Emblemi sacri della Bontà. |
   | 779 | [Pietra della Preghiera](/it/Items/con_971/){: .btn .btn--era5} | Other | Una pietra mistica lavorata minuziosamente dagli stregoni, da utilizzare per effettuare Preghiere incantate. |
   | 780 | [Pietra mistica](/it/Items/con_923/){: .btn .btn--era4} | Other | Pietra mistica ottenuta scomponendo gli Emblemi sacri. Si può usare per acquistare oggetti nel negozio degli Emblemi. |
   | 781 | [Pietra mistica Elfa maga](/it/Items/con_2073/){: .btn .btn--era5} | Event related | Antica anima immortale di un eroe. Utilizzabile per attivare il Risveglio della Driade. |
-  | 782 | [Pietra neutrale](/it/Items/con_1125/){: .btn .btn--era5} | Unknown | Pietra neutrale, necessaria a forgiare Emblemi sacri neutrali. |
+  | 782 | [Pietra neutrale](/it/Items/con_1125/){: .btn .btn--era5} | Holy Emblems Cast Stone | Pietra neutrale, necessaria a forgiare Emblemi sacri neutrali. |
   | 783 | [Pietra runica dell'alchimia](/it/Items/con_798/){: .btn .btn--era4} | Event related | Valuta in uso tra gli studiosi del mana di alto rango. Si può scambiare con oggetti della fazione Torre negli eventi corrispondenti. |
   | 784 | [Pietre mistiche Selezione Soldati](/it/Items/con_1617/){: .btn .btn--era4} | Gift | Scegli se ottenere 1 Pietra mistica Scheletro o 1 Pietra mistica Picchiere |
-  | 785 | [Potenza del Padre dei Draghi](/it/Items/con_1068/){: .btn .btn--era5} | Unknown | Utilizzala per ottenere la skin Potenza del Padre dei Draghi per Astral. |
+  | 785 | [Potenza del Padre dei Draghi](/it/Items/con_1068/){: .btn .btn--era5} | Special Skin | Utilizzala per ottenere la skin Potenza del Padre dei Draghi per Astral. |
   | 786 | [Pozione ESP enorme](/it/Items/con_703/){: .btn .btn--era4} | EXP | Bottiglia contenente una pozione ESP altamente purificata. Bevi per guadagnare 7.500 ESP unità. |
   | 787 | [Pozione ESP grande](/it/Items/con_702/){: .btn .btn--era3} | EXP | Bottiglia contenente una pozione ESP purificata. Bevi per guadagnare 1.500 ESP unità. |
   | 788 | [Pozione ESP piccola](/it/Items/con_701/){: .btn .btn--era2} | EXP | Piccola bottiglia contenente una pozione ESP opaca. Bevi per guadagnare 300 ESP unità. |
@@ -811,13 +811,13 @@ classes: wide
   | 797 | [Pozione di Talento Incantatori](/it/Items/con_790/){: .btn .btn--era4} | Event related | Questa pozione migliora gli attributi degli incantatori e ne potenzia le tecniche. |
   | 798 | [Pozione di Talento Incursione](/it/Items/con_788/){: .btn .btn--era4} | Event related | Questa pozione migliora gli attributi delle unità d'incursione e ne potenzia le tecniche. |
   | 799 | [Pozioni ESP giocatore](/it/Items/con_676/){: .btn .btn--era2} | EXP | Necessario per aumentare il rango dei Rapaci di fuoco: un'unità di rarità SR. |
-  | 800 | [Principe squattrinato: Roland](/it/Items/con_1033/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Principe squattrinato per Roland |
+  | 800 | [Principe squattrinato: Roland](/it/Items/con_1033/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Principe squattrinato per Roland |
   | 801 | [Punta di petto d'agnello alla cantonese stufata su carbone](/it/Items/con_1169/){: .btn .btn--era3} | Event related | L'utilizzo di un vaso d'argilla su stufa a carbone, pur simile alla pentola utilizzata a Guangdong, richiede una bollitura meno prolungata della punta di petto. La carne d'agnello ha una forte consistenza e la salsa vanta un aroma intenso. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
   | 802 | [Punti Talento massimi](/it/Items/con_934/){: .btn .btn--era5} | Other | Punti Talento Apice che è possibile usare per migliorare gli Attributi Apice. Si possono ottenere guadagnando Livelli Apice. |
   | 803 | [Punti missione](/it/Items/con_949/){: .btn .btn--era4} | Other | Completa le missioni per ottenere punti, da utilizzare per sbloccare oggetti speciali. |
   | 804 | [Punto Amicizia](/it/Items/con_918/){: .btn .btn--era4} | Other | Un certificato di amicizia che si ottiene invitando gli amici e completando le missioni insieme a loro. |
   | 805 | [Punto Privilegio](/it/Items/con_820/){: .btn .btn--era4} | Other | Fanne uso per sbloccare o ottenere punti Privilegio. Si ottiene tramite gli scrigni attività delle Missioni giornaliere. |
-  | 806 | [Ranger della foresta: Mephala](/it/Items/con_1042/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Ranger della foresta per Mephala |
+  | 806 | [Ranger della foresta: Mephala](/it/Items/con_1042/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Ranger della foresta per Mephala |
   | 807 | [Regalo del 1° aprile](/it/Items/con_2130/){: .btn .btn--era5} | Gift | Usalo per ottenere 200 Diamanti... forse. |
   | 808 | [Regalo misterioso](/it/Items/con_529/){: .btn .btn--era4} | Event related | Anche se non sono firmati, questi regali dimostrano senza ombra di dubbio che sei molto apprezzato. |
   | 809 | [Renna giocattolo](/it/Items/con_1088/){: .btn .btn--era4} | Event related | Oggetto per l'evento Ruota natalizia. Può essere scambiato con ricompense di vario tipo durante l'evento. |
@@ -826,12 +826,12 @@ classes: wide
   | 812 | [Rifornimenti bellici](/it/Items/con_919/){: .btn .btn--era4} | Other | Rifornimenti bellici utili a migliorare le macchine da guerra. |
   | 813 | [Rifornimenti esercito](/it/Items/con_1083/){: .btn .btn--era5} | Gift | Una ricompensa donata da Xeron per l'evento La cattura di Roland. Contiene una selezione casuale di risorse di grande valore. |
   | 814 | [Risarcimento Fusione del server](/it/Items/con_1448/){: .btn .btn--era4} | Gift | Aprilo per ottenere 500 Diamanti, 20 Monete celebrative, 10 token universali, 10 Pergamene del tempio e 2 Cristalli della Forgiatura |
-  | 815 | [Ritorno spettrale: skin per Cavaliere nero](/it/Items/con_1983/){: .btn .btn--era5} | Unknown | Contiene la skin Ritorno spettrale per il Cavaliere nero. |
+  | 815 | [Ritorno spettrale: skin per Cavaliere nero](/it/Items/con_1983/){: .btn .btn--era5} | Unit Skin | Contiene la skin Ritorno spettrale per il Cavaliere nero. |
   | 816 | [Rivelazioni (Ezio)](/it/Items/con_1817/){: .btn .btn--era4} | Gift | Contiene 980 Diamanti e 1 skin Rivelazioni per Ezio. |
-  | 817 | [Rivelazioni: Ezio](/it/Items/con_1081/){: .btn .btn--era5} | Unknown | Contiene la skin Rivelazioni per Ezio. |
-  | 818 | [Roland Matrimonio reale](/it/Items/con_1035/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Roland Matrimonio reale |
-  | 819 | [Roland Notte del raccolto](/it/Items/con_1034/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Roland Notte del raccolto |
-  | 820 | [Roland Padre e figlio](/it/Items/con_1036/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Roland Padre e figlio |
+  | 817 | [Rivelazioni: Ezio](/it/Items/con_1081/){: .btn .btn--era5} | Special Skin | Contiene la skin Rivelazioni per Ezio. |
+  | 818 | [Roland Matrimonio reale](/it/Items/con_1035/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Roland Matrimonio reale |
+  | 819 | [Roland Notte del raccolto](/it/Items/con_1034/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Roland Notte del raccolto |
+  | 820 | [Roland Padre e figlio](/it/Items/con_1036/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Roland Padre e figlio |
   | 821 | [Rosa blu](/it/Items/con_801/){: .btn .btn--era4} | Event related |  |
   | 822 | [Rosa lunare](/it/Items/con_558/){: .btn .btn--era4} | Event related | Una rosa esotica colta da un eroe nel corso di una Campagna. Può essere scambiata con varie ricompense durante l'evento di conversione rose San Valentino 2021. |
   | 823 | [Rosa rossa](/it/Items/con_800/){: .btn .btn--era4} | Event related |  |
@@ -862,7 +862,7 @@ classes: wide
   | 848 | [Rune roster unità grandi](/it/Items/con_749/){: .btn .btn--era3} | Event related | Oggetto utile ad aumentare la valutazione delle tue unità grandi. |
   | 849 | [Rune roster unità medie](/it/Items/con_748/){: .btn .btn--era3} | Event related | Oggetto utile ad aumentare la valutazione delle tue unità medie. |
   | 850 | [Rune roster unità piccole](/it/Items/con_747/){: .btn .btn--era3} | Event related | Oggetto utile ad aumentare la valutazione delle tue unità piccole. |
-  | 851 | [Ryland Guardiano di Vernin](/it/Items/con_1045/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Ryland Guardiano di Vernin |
+  | 851 | [Ryland Guardiano di Vernin](/it/Items/con_1045/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Ryland Guardiano di Vernin |
   | 852 | [Sacca di Diamanti](/it/Items/con_710/){: .btn .btn--era4} | EXP | Un pacchetto contenente 128 Diamanti! |
   | 853 | [Sacca di Oro](/it/Items/con_714/){: .btn .btn--era4} | EXP | Un pacchetto contenente 60.000 Oro. |
   | 854 | [Sacca di Oro grande](/it/Items/con_715/){: .btn .btn--era4} | EXP | Un pacchetto contenente 200.000 Oro. |
@@ -874,7 +874,7 @@ classes: wide
   | 860 | [Sacco regalo Festa di Pasqua](/it/Items/con_1657/){: .btn .btn--era4} | Gift | Pacchetto esclusivo per il periodo di Pasqua. Ottieni la quantità corrispondente di Diamanti ed ESP VIP, e non solo! Sono in palio anche tantissime chiavi d'oro e oggetti esclusivi dell'evento! |
   | 861 | [Santo convertito - Skin Monaco (2 giorni)](/it/Items/con_1014/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin Santo convertito per il Monaco per 2 giorni. |
   | 862 | [Santo convertito - Skin avatar Monaco (2 giorni)](/it/Items/con_1012/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin avatar Santo convertito per il Monaco per 2 giorni. |
-  | 863 | [Santo convertito: skin Monaco](/it/Items/con_1972/){: .btn .btn--era5} | Unknown | Aprilo per ottenere la skin Monaco: Santo convertito. |
+  | 863 | [Santo convertito: skin Monaco](/it/Items/con_1972/){: .btn .btn--era5} | Unit Skin | Aprilo per ottenere la skin Monaco: Santo convertito. |
   | 864 | [Scatola con 128 Potenziamenti](/it/Items/con_733/){: .btn .btn--era4} | Gift | Uno scrigno del tesoro contenente 128 Pietre Potenziamento. |
   | 865 | [Scatola con 48 Potenziamenti](/it/Items/con_731/){: .btn .btn--era2} | Gift | Uno scrigno del tesoro contenente 48 Pietre Potenziamento. |
   | 866 | [Scatola con 68 Potenziamenti](/it/Items/con_732/){: .btn .btn--era3} | Gift | Uno scrigno del tesoro contenente 68 Pietre Potenziamento. |
@@ -889,7 +889,7 @@ classes: wide
   | 875 | [Scatola regalo componenti per manufatti premium arancioni a scelta](/it/Items/con_1315/){: .btn .btn--era5} | Gift | Aprilo per scegliere uno dei seguenti Pacchetti componenti: Potenza del Padre dei Draghi, Spada di Ghiaccio, Spada dell'Armageddon, Alleanza Angelica o Mela dell'Eden. |
   | 876 | [Scatola regalo di Capodanno](/it/Items/con_1901/){: .btn .btn--era5} | Gift | Contiene 3280 Diamanti e 1 scrigno di Capodanno a scelta. (scrigno di Capodanno a scelta: Aprilo per ottenere 1 ricompensa a tua scelta tra le seguenti - 1 scrigno Componenti Re dei Draghi, 1 scrigno Componenti del Gelo, 1 scrigno Componenti celesti, 1 scrigno Componenti Frutto dell'Eden, 1 scrigno Componenti Apocalisse, 40 Pietre mistiche Angelo, 40 Pietre mistiche Behemoth, 40 Pietre mistiche Naga, 40 Pietre mistiche Elementale psichico, 40 Pietre mistiche Drago scheletrico, 40 Pietre mistiche Drago verde, 40 Pietre mistiche Drago nero o 40 Pietre mistiche Demone.) |
   | 877 | [Scatola regalo manufatto arancione casuale](/it/Items/con_963/){: .btn .btn--era5} | Gift | Aprila per ottenere un manufatto arancione casuale. |
-  | 878 | [Sconfitte in battaglia](/it/Items/con_893/){: .btn .btn--era4} | Unknown | Rappresenta il danno subito nelle Guerre tra Gilde. Quando il valore raggiungerà lo 0, dovrai essere rianimato. |
+  | 878 | [Sconfitte in battaglia](/it/Items/con_893/){: .btn .btn--era4} | VIP related | Rappresenta il danno subito nelle Guerre tra Gilde. Quando il valore raggiungerà lo 0, dovrai essere rianimato. |
   | 879 | [Scrigno Altare dell'Anima oscura](/it/Items/con_1472/){: .btn .btn--era5} | Gift | Uno scrigno del tesoro permeato di un'energia oscura e mortale. Puoi aprirlo solo se possiedi un Drago scheletrico. |
   | 880 | [Scrigno Auto Chess](/it/Items/con_2007/){: .btn .btn--era5} | Gift | Gli scrigni Auto Chess vengono dati in ricompensa a chi ottiene risultati eccezionali in Heroes Auto Chess. |
   | 881 | [Scrigno Baia](/it/Items/con_1278/){: .btn .btn--era4} | Gift | Contiene 1 token Elementale del mare o Pirata di Regna. |
@@ -923,7 +923,7 @@ classes: wide
   | 909 | [Scrigno Cuore avido](/it/Items/con_1519/){: .btn .btn--era5} | Gift | Uno scrigno del tesoro vincolato al potere delle maree. Puoi aprirlo solo se possiedi un Arciere di Regna. |
   | 910 | [Scrigno Dungeon](/it/Items/con_1276/){: .btn .btn--era4} | Gift | Aprilo per ottenere un token unità casuale della fazione Dungeon. |
   | 911 | [Scrigno Emblema sacro](/it/Items/con_1963/){: .btn .btn--era4} | Gift | Uno scrigno Emblema sacro ottenuto in Inferno senza fine. Aprilo e potresti ottenere un Emblema sacro. |
-  | 912 | [Scrigno Essenza di Scheletro](/it/Items/con_1327/){: .btn .btn--era4} | Unknown | Possibilità del 50% di ottenere un token Vidomina! |
+  | 912 | [Scrigno Essenza di Scheletro](/it/Items/con_1327/){: .btn .btn--era4} | Unit Essence | Possibilità del 50% di ottenere un token Vidomina! |
   | 913 | [Scrigno Festa di Pasqua](/it/Items/con_1659/){: .btn .btn--era5} | Gift | Pacchetto esclusivo per il periodo di Pasqua. Ottieni la quantità corrispondente di Diamanti ed ESP VIP, e non solo! Sono in palio anche tantissime chiavi d'oro e oggetti esclusivi dell'evento! |
   | 914 | [Scrigno Fortezza](/it/Items/con_1277/){: .btn .btn--era4} | Gift | Ottieni un token unità casuale della fazione Fortezza. |
   | 915 | [Scrigno Furia del berserker](/it/Items/con_1537/){: .btn .btn--era5} | Gift | Uno scrigno del tesoro sigillato con il sangue. Puoi aprirlo solo se possiedi un Berserker. |
@@ -936,12 +936,12 @@ classes: wide
   | 922 | [Scrigno Materiali arancioni +3](/it/Items/con_1266/){: .btn .btn--era5} | Gift | Ottieni un oggetto arancione +3 casuale per il potenziamento dell'equipaggiamento. |
   | 923 | [Scrigno Materiali arancioni +4](/it/Items/con_1267/){: .btn .btn--era5} | Gift | Ottieni un oggetto arancione +4 casuale per il potenziamento dell'equipaggiamento. |
   | 924 | [Scrigno Materiali arancioni +5](/it/Items/con_1268/){: .btn .btn--era5} | Gift | Ottieni un oggetto arancione +5 casuale per il potenziamento dell'equipaggiamento. |
-  | 925 | [Scrigno Materiali base](/it/Items/con_756/){: .btn .btn--era3} | Unknown | Fornisce oggetti per il potenziamento dell'equipaggiamento basati sul livello del giocatore. |
+  | 925 | [Scrigno Materiali base](/it/Items/con_756/){: .btn .btn--era3} | Material Chest | Fornisce oggetti per il potenziamento dell'equipaggiamento basati sul livello del giocatore. |
   | 926 | [Scrigno Materiali bianchi](/it/Items/con_1254/){: .btn .btn--era1} | Gift | Ottieni un oggetto bianco casuale per il potenziamento dell'equipaggiamento. |
   | 927 | [Scrigno Materiali blu](/it/Items/con_1256/){: .btn .btn--era3} | Gift | Ottieni un oggetto blu casuale per il potenziamento dell'equipaggiamento. |
   | 928 | [Scrigno Materiali blu +1](/it/Items/con_1257/){: .btn .btn--era3} | Gift | Ottieni un oggetto blu +1 casuale per il potenziamento dell'equipaggiamento. |
   | 929 | [Scrigno Materiali blu +2](/it/Items/con_1258/){: .btn .btn--era3} | Gift | Ottieni un oggetto blu +2 casuale per il potenziamento dell'equipaggiamento. |
-  | 930 | [Scrigno Materiali rari](/it/Items/con_757/){: .btn .btn--era4} | Unknown | Fornisce oggetti rari per il potenziamento dell'equipaggiamento basati sul livello del giocatore. |
+  | 930 | [Scrigno Materiali rari](/it/Items/con_757/){: .btn .btn--era4} | Material Chest | Fornisce oggetti rari per il potenziamento dell'equipaggiamento basati sul livello del giocatore. |
   | 931 | [Scrigno Materiali verdi](/it/Items/con_1255/){: .btn .btn--era2} | Gift | Ottieni un oggetto verde casuale per il potenziamento dell'equipaggiamento. |
   | 932 | [Scrigno Materiali viola](/it/Items/con_1259/){: .btn .btn--era4} | Gift | Ottieni un oggetto viola casuale per il potenziamento dell'equipaggiamento. |
   | 933 | [Scrigno Materiali viola +1](/it/Items/con_1260/){: .btn .btn--era4} | Gift | Ottieni un oggetto viola +1 casuale per il potenziamento dell'equipaggiamento. |
@@ -1018,62 +1018,62 @@ classes: wide
   | 1004 | [Scrigno token unità SR+ a scelta](/it/Items/con_1619/){: .btn .btn--era4} | Gift | Contiene 1 token da scegliere tra le seguenti unità: Lich, Genio, Elementale della pietra, Manticora o Mummia. |
   | 1005 | [Scrigno token unità SSR](/it/Items/con_1599/){: .btn .btn--era5} | Gift | Contiene 80 token scelti a caso tra le seguenti unità: Angelo, Drago verde, Behemoth, Drago scheletrico, Diavolo, Naga, Gigante o Elementale psichico. |
   | 1006 | [Scrigno token unità SSR a scelta](/it/Items/con_1636/){: .btn .btn--era5} | Gift | Contiene 1 token da scegliere tra le seguenti unità: Angelo, Drago verde, Behemoth, Drago scheletrico, Diavolo, Naga, Gigante, Elementale psichico o Drago nero. |
-  | 1007 | [Seguace oscuro: skin per Titano](/it/Items/con_2131/){: .btn .btn--era5} | Unknown | Contiene la skin Seguace oscuro per il Titano. |
+  | 1007 | [Seguace oscuro: skin per Titano](/it/Items/con_2131/){: .btn .btn--era5} | Unit Skin | Contiene la skin Seguace oscuro per il Titano. |
   | 1008 | [Set Occhio di Falco a tempo limitato](/it/Items/con_1635/){: .btn .btn--era4} | Gift | Contiene 3280 Diamanti, 1 Uccello della percezione, 1 Anello dell'Occhio d'aquila, 1 Vedetta stoica e 1 Medaglia della Verità. |
   | 1009 | [Siclo](/it/Items/con_950/){: .btn .btn--era4} | Other | Un token marino ottenuto durante l'evento Assalto alla Baia. Può essere scambiato con varie ricompense nel negozio dell'evento. |
   | 1010 | [Sigillo del Male](/it/Items/con_793/){: .btn .btn--era4} | Event related | Un sigillo che possiede poteri letali. Si può scambiare con oggetti della fazione Necropoli negli eventi corrispondenti. |
   | 1011 | [Sigillo stellare](/it/Items/con_876/){: .btn .btn--era5} | Other | Il potere di una stella, disseminato ai quattro angoli di Enroth e infine intrappolato nell'ambra. Può distruggere il potere dei manufatti. |
-  | 1012 | [Signor Zucca: Skin Cavaliere nero](/it/Items/con_1982/){: .btn .btn--era5} | Unknown | Contiene la skin Signor Zucca per il Cavaliere nero. |
-  | 1013 | [Signora del Gelo](/it/Items/con_1075/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Signora del Gelo per Mutare (drago). |
+  | 1012 | [Signor Zucca: Skin Cavaliere nero](/it/Items/con_1982/){: .btn .btn--era5} | Unit Skin | Contiene la skin Signor Zucca per il Cavaliere nero. |
+  | 1013 | [Signora del Gelo](/it/Items/con_1075/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Signora del Gelo per Mutare (drago). |
   | 1014 | [Signora delle Lame - Skin Naga (2 giorni)](/it/Items/con_1013/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin Signora delle Lame per la Naga per 2 giorni. |
   | 1015 | [Signora delle Lame - Skin avatar Naga (2 giorni)](/it/Items/con_1011/){: .btn .btn--era5} | Experience Card | Rende disponibile la skin avatar Signora delle Lame per la Naga per 2 giorni. |
-  | 1016 | [Signora delle Lame - skin Naga](/it/Items/con_1993/){: .btn .btn--era5} | Unknown | Contiene la skin Signora delle Lame per Naga. |
+  | 1016 | [Signora delle Lame - skin Naga](/it/Items/con_1993/){: .btn .btn--era5} | Unit Skin | Contiene la skin Signora delle Lame per Naga. |
   | 1017 | [Signore Supremo del mare](/it/Items/con_1097/){: .btn .btn--era5} | Gift | Usalo per ricevere la cornice avatar Effetti speciali Signore Supremo dell'oceano. |
-  | 1018 | [Signore del Gelo: skin Demone di ghiaccio](/it/Items/con_2003/){: .btn .btn--era5} | Unknown | Contiene la skin Signore del Gelo per il Demone di ghiaccio. |
-  | 1019 | [Skin Angelo - Guardiano della Luce](/it/Items/con_1973/){: .btn .btn--era5} | Unknown | Ottieni la skin Angelo - Guardiano della Luce dopo l'apertura |
-  | 1020 | [Skin Armatura dorata (Angelo)](/it/Items/con_1974/){: .btn .btn--era5} | Unknown | Contiene la skin Armatura dorata per l'Angelo. |
-  | 1021 | [Skin Campione oscuro - Azrael](/it/Items/con_1985/){: .btn .btn--era5} | Unknown | Ottieni la skin Campione oscuro - Azrael dopo l'apertura |
-  | 1022 | [Skin Elfo del bosco - Elfo di giada](/it/Items/con_1979/){: .btn .btn--era5} | Unknown | Ottieni la skin Elfo del bosco - Elfo di giada dopo l'apertura |
-  | 1023 | [Skin Giudice - Seguace](/it/Items/con_1976/){: .btn .btn--era5} | Unknown | Ottieni la skin Giudice - Seguace dopo l'apertura |
-  | 1024 | [Skin Golem draconico - Behemoth meccanico β](/it/Items/con_1994/){: .btn .btn--era5} | Unknown | Ottieni la skin Golem draconico - Behemoth meccanico β dopo l'apertura |
+  | 1018 | [Signore del Gelo: skin Demone di ghiaccio](/it/Items/con_2003/){: .btn .btn--era5} | Unit Skin | Contiene la skin Signore del Gelo per il Demone di ghiaccio. |
+  | 1019 | [Skin Angelo - Guardiano della Luce](/it/Items/con_1973/){: .btn .btn--era5} | Unit Skin | Ottieni la skin Angelo - Guardiano della Luce dopo l'apertura |
+  | 1020 | [Skin Armatura dorata (Angelo)](/it/Items/con_1974/){: .btn .btn--era5} | Unit Skin | Contiene la skin Armatura dorata per l'Angelo. |
+  | 1021 | [Skin Campione oscuro - Azrael](/it/Items/con_1985/){: .btn .btn--era5} | Unit Skin | Ottieni la skin Campione oscuro - Azrael dopo l'apertura |
+  | 1022 | [Skin Elfo del bosco - Elfo di giada](/it/Items/con_1979/){: .btn .btn--era5} | Unit Skin | Ottieni la skin Elfo del bosco - Elfo di giada dopo l'apertura |
+  | 1023 | [Skin Giudice - Seguace](/it/Items/con_1976/){: .btn .btn--era5} | Unit Skin | Ottieni la skin Giudice - Seguace dopo l'apertura |
+  | 1024 | [Skin Golem draconico - Behemoth meccanico β](/it/Items/con_1994/){: .btn .btn--era5} | Unit Skin | Ottieni la skin Golem draconico - Behemoth meccanico β dopo l'apertura |
   | 1025 | [Skin Kilgor del Ghiaccio](/it/Items/con_1704/){: .btn .btn--era4} | Gift | Contiene 1980 Diamanti e 1 skin Spada di Ghiaccio per Kilgor. |
-  | 1026 | [Skin Veggente di Regna - Oceanide](/it/Items/con_2005/){: .btn .btn--era5} | Unknown | Ottieni la skin Veggente di Regna - Oceanide dopo l'apertura |
-  | 1027 | [Skin speciale Ala di drago splendente](/it/Items/con_644/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Ala di drago splendente. |
-  | 1028 | [Skin speciale Arco di Medusa](/it/Items/con_659/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di Arco di Medusa. |
-  | 1029 | [Skin speciale Ascia del Berserker](/it/Items/con_651/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Ascia del Berserker. |
-  | 1030 | [Skin speciale Bastone della Ricrescita](/it/Items/con_645/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di: Bastone della Ricrescita. |
-  | 1031 | [Skin speciale Benda](/it/Items/con_649/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di: Bende. |
-  | 1032 | [Skin speciale Coda di Viverna](/it/Items/con_664/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di: Coda di Viverna. |
-  | 1033 | [Skin speciale Coda di scorpione](/it/Items/con_660/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di Coda di scorpione. |
-  | 1034 | [Skin speciale Corno di Gorgone](/it/Items/con_663/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Corno di Gorgone. |
-  | 1035 | [Skin speciale Drago scheletrico immortale](/it/Items/con_648/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di Drago scheletrico immortale. |
-  | 1036 | [Skin speciale Durlindana](/it/Items/con_641/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Durlindana. |
-  | 1037 | [Skin speciale Energia del Fuoco](/it/Items/con_666/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di Energia del Fuoco. |
-  | 1038 | [Skin speciale Falce diabolica](/it/Items/con_652/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di Falce diabolica. |
-  | 1039 | [Skin speciale Fiamma eterna](/it/Items/con_669/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di Fiamma eterna. |
-  | 1040 | [Skin speciale Impavida](/it/Items/con_642/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Impavida. |
-  | 1041 | [Skin speciale Lama del sottosuolo](/it/Items/con_647/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di Lama del sottosuolo. |
-  | 1042 | [Skin speciale Lira](/it/Items/con_654/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di: Lira. |
-  | 1043 | [Skin speciale Maree diurne](/it/Items/con_671/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di: Maree diurne. |
-  | 1044 | [Skin speciale Maree notturne](/it/Items/con_672/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di: Maree notturne. |
-  | 1045 | [Skin speciale Nucleo di energia](/it/Items/con_667/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di Nucleo di energia. |
-  | 1046 | [Skin speciale Nucleo mistico](/it/Items/con_668/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Nucleo mistico. |
-  | 1047 | [Skin speciale Obbedienza](/it/Items/con_673/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Obbedienza. |
-  | 1048 | [Skin speciale Peso insostenibile](/it/Items/con_656/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Peso insostenibile. |
-  | 1049 | [Skin speciale Sguardo oscuro](/it/Items/con_658/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di: Sguardo oscuro. |
-  | 1050 | [Skin speciale Spada delle Naga](/it/Items/con_655/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di Spada delle Naga. |
-  | 1051 | [Skin speciale Spirito sanguinario](/it/Items/con_650/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di: Spirito sanguinario. |
-  | 1052 | [Skin speciale Squama del Drago nero](/it/Items/con_661/){: .btn .btn--era5} | Unknown | Sblocca la skin al risveglio di Squama del Drago nero. |
-  | 1053 | [Skin speciale Stella polare](/it/Items/con_657/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di: Stella polare. |
-  | 1054 | [Skin speciale Tributo di morte](/it/Items/con_646/){: .btn .btn--era4} | Unknown | Sblocca la skin al risveglio di Tributo di morte. |
+  | 1026 | [Skin Veggente di Regna - Oceanide](/it/Items/con_2005/){: .btn .btn--era5} | Unit Skin | Ottieni la skin Veggente di Regna - Oceanide dopo l'apertura |
+  | 1027 | [Skin speciale Ala di drago splendente](/it/Items/con_644/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Ala di drago splendente. |
+  | 1028 | [Skin speciale Arco di Medusa](/it/Items/con_659/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Arco di Medusa. |
+  | 1029 | [Skin speciale Ascia del Berserker](/it/Items/con_651/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Ascia del Berserker. |
+  | 1030 | [Skin speciale Bastone della Ricrescita](/it/Items/con_645/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Bastone della Ricrescita. |
+  | 1031 | [Skin speciale Benda](/it/Items/con_649/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Bende. |
+  | 1032 | [Skin speciale Coda di Viverna](/it/Items/con_664/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Coda di Viverna. |
+  | 1033 | [Skin speciale Coda di scorpione](/it/Items/con_660/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Coda di scorpione. |
+  | 1034 | [Skin speciale Corno di Gorgone](/it/Items/con_663/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Corno di Gorgone. |
+  | 1035 | [Skin speciale Drago scheletrico immortale](/it/Items/con_648/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Drago scheletrico immortale. |
+  | 1036 | [Skin speciale Durlindana](/it/Items/con_641/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Durlindana. |
+  | 1037 | [Skin speciale Energia del Fuoco](/it/Items/con_666/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Energia del Fuoco. |
+  | 1038 | [Skin speciale Falce diabolica](/it/Items/con_652/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Falce diabolica. |
+  | 1039 | [Skin speciale Fiamma eterna](/it/Items/con_669/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Fiamma eterna. |
+  | 1040 | [Skin speciale Impavida](/it/Items/con_642/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Impavida. |
+  | 1041 | [Skin speciale Lama del sottosuolo](/it/Items/con_647/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Lama del sottosuolo. |
+  | 1042 | [Skin speciale Lira](/it/Items/con_654/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Lira. |
+  | 1043 | [Skin speciale Maree diurne](/it/Items/con_671/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Maree diurne. |
+  | 1044 | [Skin speciale Maree notturne](/it/Items/con_672/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Maree notturne. |
+  | 1045 | [Skin speciale Nucleo di energia](/it/Items/con_667/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Nucleo di energia. |
+  | 1046 | [Skin speciale Nucleo mistico](/it/Items/con_668/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Nucleo mistico. |
+  | 1047 | [Skin speciale Obbedienza](/it/Items/con_673/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Obbedienza. |
+  | 1048 | [Skin speciale Peso insostenibile](/it/Items/con_656/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Peso insostenibile. |
+  | 1049 | [Skin speciale Sguardo oscuro](/it/Items/con_658/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Sguardo oscuro. |
+  | 1050 | [Skin speciale Spada delle Naga](/it/Items/con_655/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Spada delle Naga. |
+  | 1051 | [Skin speciale Spirito sanguinario](/it/Items/con_650/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di: Spirito sanguinario. |
+  | 1052 | [Skin speciale Squama del Drago nero](/it/Items/con_661/){: .btn .btn--era5} | Special Skin | Sblocca la skin al risveglio di Squama del Drago nero. |
+  | 1053 | [Skin speciale Stella polare](/it/Items/con_657/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di: Stella polare. |
+  | 1054 | [Skin speciale Tributo di morte](/it/Items/con_646/){: .btn .btn--era4} | Special Skin | Sblocca la skin al risveglio di Tributo di morte. |
   | 1055 | [Slitta giocattolo](/it/Items/con_1089/){: .btn .btn--era4} | Event related | Oggetto per l'evento Ruota natalizia. Può essere scambiato con ricompense di vario tipo durante l'evento. |
   | 1056 | [Sorgente curativa](/it/Items/con_1333/){: .btn .btn--era4} | Gift | Misteriosa acqua di sorgente proveniente da un'oasi nel deserto. Ripristina 100 punti azione. |
-  | 1057 | [Spada dell'Armageddon: Gelu](/it/Items/con_1037/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Spada dell'Armageddon per Gelu |
-  | 1058 | [Spada della primavera: skin Paladino](/it/Items/con_1975/){: .btn .btn--era5} | Unknown | Contiene la skin Spada della primavera per il Paladino. |
+  | 1057 | [Spada dell'Armageddon: Gelu](/it/Items/con_1037/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Spada dell'Armageddon per Gelu |
+  | 1058 | [Spada della primavera: skin Paladino](/it/Items/con_1975/){: .btn .btn--era5} | Unit Skin | Contiene la skin Spada della primavera per il Paladino. |
   | 1059 | [Spedizione globale](/it/Items/con_1094/){: .btn .btn--era5} | Gift | Usalo per ricevere la cornice avatar Spedizione globale. |
   | 1060 | [Spezzatino di manzo di Leshan](/it/Items/con_1175/){: .btn .btn--era3} | Event related | I tagli di manzo vengono posizionati in una pentola di brodo piuttosto che in una piccola ciotola. Questo permette di aumentare la dimensione delle porzioni e lascia spazio per bollire altri ingredienti in aggiunta alla carne. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
   | 1061 | [Spiedini di stufato di Sichuan](/it/Items/con_1199/){: .btn .btn--era3} | Event related | Questa ricetta vanta un'origine popolare, dalla quale si è evoluta fino alla forma odierna. Gli spiedini possono essere decorati con una varietà di ingredienti, anche se i più popolari sono composti da frattaglie d'uccello. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
-  | 1062 | [Squadra di esploratori: Gelu](/it/Items/con_1038/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Squadra di esploratori per Gelu |
+  | 1062 | [Squadra di esploratori: Gelu](/it/Items/con_1038/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Squadra di esploratori per Gelu |
   | 1063 | [Statua commemorativa](/it/Items/con_947/){: .btn .btn--era4} | Other | Usala per riscuotere i doni di Pasqua. |
   | 1064 | [Statuina del Duca Ivan](/it/Items/con_515/){: .btn .btn--era5} | Event related | Congratulazioni! Hai ottenuto una statuina del Duca Ivan. Ti invieremo l'oggetto reale al più presto! |
   | 1065 | [Statuina dell'Angelo Michael](/it/Items/con_516/){: .btn .btn--era5} | Event related | Congratulazioni! Hai ottenuto una statuina dell'Angelo Michael. Ti invieremo l'oggetto reale al più presto! |
@@ -1103,12 +1103,12 @@ classes: wide
   | 1089 | [Tesoro della Campagna grande](/it/Items/con_723/){: .btn .btn--era4} | EXP | Uno scrigno del tesoro contenente 60 Medaglie dell'impero! |
   | 1090 | [Tesoro della Campagna medio](/it/Items/con_722/){: .btn .btn--era3} | EXP | Uno scrigno del tesoro contenente 30 Medaglie dell'impero! |
   | 1091 | [Tesoro della Campagna piccolo](/it/Items/con_721/){: .btn .btn--era2} | EXP | Uno scrigno del tesoro contenente 6 Medaglie dell'impero! |
-  | 1092 | [Tessera mensile VIP](/it/Items/con_883/){: .btn .btn--era5} | Unknown | Un oggetto misterioso capace di produrre ricchezza ininterrottamente. Solo i più fortunati potranno possederlo. |
-  | 1093 | [Tessera mensile base](/it/Items/con_884/){: .btn .btn--era4} | Unknown | Un oggetto misterioso capace di produrre ricchezza ininterrottamente. Solo i più fortunati potranno possederlo. |
+  | 1092 | [Tessera mensile VIP](/it/Items/con_883/){: .btn .btn--era5} | VIP related | Un oggetto misterioso capace di produrre ricchezza ininterrottamente. Solo i più fortunati potranno possederlo. |
+  | 1093 | [Tessera mensile base](/it/Items/con_884/){: .btn .btn--era4} | VIP related | Un oggetto misterioso capace di produrre ricchezza ininterrottamente. Solo i più fortunati potranno possederlo. |
   | 1094 | [Tessuto antifreddo](/it/Items/con_530/){: .btn .btn--era4} | Event related | Un tessuto speciale derivato dalla pelliccia di una creatura del nord. La comodità e l'eccellente resistenza al freddo ne giustificano il prezzo assai elevato. |
-  | 1095 | [Tiranno della Cenere: Rashka](/it/Items/con_1064/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Tiranno della Cenere per Rashka |
-  | 1096 | [Tiratore esperto](/it/Items/con_564/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Tiratore esperto |
-  | 1097 | [Tiratrice esperta](/it/Items/con_565/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Tiratrice esperta |
+  | 1095 | [Tiranno della Cenere: Rashka](/it/Items/con_1064/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Tiranno della Cenere per Rashka |
+  | 1096 | [Tiratore esperto](/it/Items/con_564/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Tiratore esperto |
+  | 1097 | [Tiratrice esperta](/it/Items/con_565/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Tiratrice esperta |
   | 1098 | [Token Ala di drago splendente](/it/Items/con_976/){: .btn .btn--era5} | WEAPON PIECE | Token di Ala di drago splendente da una campagna storica. Usalo per risvegliare il potere esclusivo del Drago verde: Ala di drago splendente. |
   | 1099 | [Token Arco di Medusa](/it/Items/con_991/){: .btn .btn--era4} | WEAPON PIECE | Token Arco di Medusa proveniente da una campagna storica. Usalo per risvegliare il potenziale di Medusa: Arco di Medusa. |
   | 1100 | [Token Arco lungo](/it/Items/con_914/){: .btn .btn--era4} | WEAPON PIECE | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale delle unità a distanza: Arco lungo. |
@@ -1151,10 +1151,10 @@ classes: wide
   | 1137 | [Token casuale unità SSR](/it/Items/con_1962/){: .btn .btn--era5} | Gift | Contiene 1 token casuale tra le seguenti unità: Angelo, Drago verde, Behemoth, Drago scheletrico, Diavolo, Naga, Gigante, Elementale psichico o Drago nero. |
   | 1138 | [Token della Sapienza](/it/Items/con_911/){: .btn .btn--era5} | Other | Scambia questa risorsa per ottenere token Libro di incantesimi presso il negozio dei Libri di incantesimi. Si può ottenere scomponendo i libri di incantesimi. |
   | 1139 | [Token della Spada](/it/Items/con_912/){: .btn .btn--era4} | WEAPON PIECE | Token esclusivo da una campagna storica. Usalo per risvegliare il potenziale delle unità d'attacco: Spada. |
-  | 1140 | [Token della Velocità](/it/Items/con_906/){: .btn .btn--era4} | Unknown | Fanne uso per velocizzare la tua attuale missione Cantiere di 30 minuti. |
+  | 1140 | [Token della Velocità](/it/Items/con_906/){: .btn .btn--era4} | Shipyard related | Fanne uso per velocizzare la tua attuale missione Cantiere di 30 minuti. |
   | 1141 | [Token eroe casuali](/it/Items/con_1435/){: .btn .btn--era5} | Gift | Aprilo per ottenere dei Token eroe casuali! |
   | 1142 | [Token planari](/it/Items/con_910/){: .btn .btn--era5} | Other | Forgiati nel corso delle ere dagli Elementali tra diversi piani esistenziali. Estremamente preziosi, è possibile scambiarli per ottenere oggetti. |
-  | 1143 | [Token universale](/it/Items/con_1458/){: .btn .btn--era4} | Unknown | *Hai il 33% di probabilità di ottenere un token universale! |
+  | 1143 | [Token universale](/it/Items/con_1458/){: .btn .btn--era4} | Unit Essence | *Hai il 33% di probabilità di ottenere un token universale! |
   | 1144 | [Tomo della preghiera](/it/Items/con_917/){: .btn .btn--era5} | Other | Lancia l'incantesimo per risvegliare la fontana incantata e ottenere una probabilità gratuita per la Preghiera incantata. |
   | 1145 | [Tool_10001](/it/Items/con_511/){: .btn .btn--era4} | Event related | Oggetti esclusivi dell'evento di Capodanno. Puoi scambiarli con oggetti rari negli eventi corrispondenti! |
   | 1146 | [Tool_10008](/it/Items/con_517/){: .btn .btn--era4} | Event related | Si può scambiare con oggetti rari negli eventi corrispondenti. Buon divertimento! |
@@ -1163,44 +1163,44 @@ classes: wide
   | 1149 | [Tool_10011](/it/Items/con_525/){: .btn .btn--era4} | Event related |  |
   | 1150 | [Tool_10012](/it/Items/con_526/){: .btn .btn--era4} | Event related |  |
   | 1151 | [Tool_10014](/it/Items/con_528/){: .btn .btn--era4} | Event related | Si può scambiare con oggetti rari negli eventi corrispondenti. Buon divertimento! |
-  | 1152 | [Tool_10130](/it/Items/con_589/){: .btn .btn--era5} | Unknown | Usalo per ricevere l'avatar Peter Lee |
-  | 1153 | [Tool_10131](/it/Items/con_590/){: .btn .btn--era5} | Unknown |  |
-  | 1154 | [Tool_10133](/it/Items/con_592/){: .btn .btn--era5} | Unknown |  |
-  | 1155 | [Tool_10135](/it/Items/con_594/){: .btn .btn--era5} | Unknown |  |
-  | 1156 | [Tool_10136](/it/Items/con_595/){: .btn .btn--era5} | Unknown |  |
-  | 1157 | [Tool_21007](/it/Items/con_608/){: .btn .btn--era5} | Unknown |  |
-  | 1158 | [Tool_21008](/it/Items/con_609/){: .btn .btn--era5} | Unknown |  |
-  | 1159 | [Tool_21015](/it/Items/con_616/){: .btn .btn--era5} | Unknown |  |
-  | 1160 | [Tool_21016](/it/Items/con_617/){: .btn .btn--era5} | Unknown |  |
-  | 1161 | [Tool_21022](/it/Items/con_623/){: .btn .btn--era5} | Unknown |  |
-  | 1162 | [Tool_21024](/it/Items/con_625/){: .btn .btn--era5} | Unknown |  |
-  | 1163 | [Tool_21027](/it/Items/con_628/){: .btn .btn--era5} | Unknown |  |
-  | 1164 | [Tool_21035](/it/Items/con_632/){: .btn .btn--era5} | Unknown |  |
-  | 1165 | [Tool_210909](/it/Items/con_643/){: .btn .btn--era6} | Unknown |  |
-  | 1166 | [Tool_250809](/it/Items/con_653/){: .btn .btn--era4} | Unknown |  |
-  | 1167 | [Tool_2990309](/it/Items/con_670/){: .btn .btn--era4} | Unknown |  |
-  | 1168 | [Tool_2990709](/it/Items/con_674/){: .btn .btn--era6} | Unknown |  |
+  | 1152 | [Tool_10130](/it/Items/con_589/){: .btn .btn--era5} | Hero Avatar | Usalo per ricevere l'avatar Peter Lee |
+  | 1153 | [Tool_10131](/it/Items/con_590/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1154 | [Tool_10133](/it/Items/con_592/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1155 | [Tool_10135](/it/Items/con_594/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1156 | [Tool_10136](/it/Items/con_595/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1157 | [Tool_21007](/it/Items/con_608/){: .btn .btn--era5} | Avatar frame |  |
+  | 1158 | [Tool_21008](/it/Items/con_609/){: .btn .btn--era5} | Avatar frame |  |
+  | 1159 | [Tool_21015](/it/Items/con_616/){: .btn .btn--era5} | Avatar frame |  |
+  | 1160 | [Tool_21016](/it/Items/con_617/){: .btn .btn--era5} | Avatar frame |  |
+  | 1161 | [Tool_21022](/it/Items/con_623/){: .btn .btn--era5} | Avatar frame |  |
+  | 1162 | [Tool_21024](/it/Items/con_625/){: .btn .btn--era5} | Avatar frame |  |
+  | 1163 | [Tool_21027](/it/Items/con_628/){: .btn .btn--era5} | Avatar frame |  |
+  | 1164 | [Tool_21035](/it/Items/con_632/){: .btn .btn--era5} | Avatar frame |  |
+  | 1165 | [Tool_210909](/it/Items/con_643/){: .btn .btn--era6} | Special Skin |  |
+  | 1166 | [Tool_250809](/it/Items/con_653/){: .btn .btn--era4} | Special Skin |  |
+  | 1167 | [Tool_2990309](/it/Items/con_670/){: .btn .btn--era4} | Special Skin |  |
+  | 1168 | [Tool_2990709](/it/Items/con_674/){: .btn .btn--era6} | Special Skin |  |
   | 1169 | [Tool_2991](/it/Items/con_675/){: .btn .btn--era4} | Gift |  |
   | 1170 | [Tool_303001](/it/Items/con_743/){: .btn .btn--era4} | Gift |  |
   | 1171 | [Tool_303002](/it/Items/con_744/){: .btn .btn--era4} | Gift |  |
   | 1172 | [Tool_303003](/it/Items/con_745/){: .btn .btn--era4} | Gift |  |
   | 1173 | [Tool_3064](/it/Items/con_806/){: .btn .btn--era4} | Event related |  |
-  | 1174 | [Tool_31022](/it/Items/con_843/){: .btn .btn--era5} | Unknown |  |
-  | 1175 | [Tool_31023](/it/Items/con_844/){: .btn .btn--era5} | Unknown |  |
-  | 1176 | [Tool_31024](/it/Items/con_845/){: .btn .btn--era5} | Unknown |  |
-  | 1177 | [Tool_31025](/it/Items/con_846/){: .btn .btn--era5} | Unknown |  |
-  | 1178 | [Tool_31026](/it/Items/con_847/){: .btn .btn--era5} | Unknown |  |
-  | 1179 | [Tool_31027](/it/Items/con_848/){: .btn .btn--era5} | Unknown |  |
-  | 1180 | [Tool_31028](/it/Items/con_849/){: .btn .btn--era5} | Unknown |  |
-  | 1181 | [Tool_31029](/it/Items/con_850/){: .btn .btn--era5} | Unknown |  |
-  | 1182 | [Tool_31030](/it/Items/con_851/){: .btn .btn--era5} | Unknown |  |
-  | 1183 | [Tool_31031](/it/Items/con_852/){: .btn .btn--era5} | Unknown |  |
-  | 1184 | [Tool_31032](/it/Items/con_853/){: .btn .btn--era5} | Unknown |  |
-  | 1185 | [Tool_31033](/it/Items/con_854/){: .btn .btn--era5} | Unknown |  |
-  | 1186 | [Tool_31034](/it/Items/con_855/){: .btn .btn--era5} | Unknown |  |
-  | 1187 | [Tool_31035](/it/Items/con_856/){: .btn .btn--era5} | Unknown |  |
-  | 1188 | [Tool_31036](/it/Items/con_857/){: .btn .btn--era5} | Unknown |  |
-  | 1189 | [Tool_31037](/it/Items/con_858/){: .btn .btn--era5} | Unknown |  |
+  | 1174 | [Tool_31022](/it/Items/con_843/){: .btn .btn--era5} | Guild member gift |  |
+  | 1175 | [Tool_31023](/it/Items/con_844/){: .btn .btn--era5} | Guild member gift |  |
+  | 1176 | [Tool_31024](/it/Items/con_845/){: .btn .btn--era5} | Guild member gift |  |
+  | 1177 | [Tool_31025](/it/Items/con_846/){: .btn .btn--era5} | Guild member gift |  |
+  | 1178 | [Tool_31026](/it/Items/con_847/){: .btn .btn--era5} | Guild member gift |  |
+  | 1179 | [Tool_31027](/it/Items/con_848/){: .btn .btn--era5} | Guild member gift |  |
+  | 1180 | [Tool_31028](/it/Items/con_849/){: .btn .btn--era5} | Guild member gift |  |
+  | 1181 | [Tool_31029](/it/Items/con_850/){: .btn .btn--era5} | Guild member gift |  |
+  | 1182 | [Tool_31030](/it/Items/con_851/){: .btn .btn--era5} | Guild member gift |  |
+  | 1183 | [Tool_31031](/it/Items/con_852/){: .btn .btn--era5} | Guild member gift |  |
+  | 1184 | [Tool_31032](/it/Items/con_853/){: .btn .btn--era5} | Guild member gift |  |
+  | 1185 | [Tool_31033](/it/Items/con_854/){: .btn .btn--era5} | Guild member gift |  |
+  | 1186 | [Tool_31034](/it/Items/con_855/){: .btn .btn--era5} | Guild member gift |  |
+  | 1187 | [Tool_31035](/it/Items/con_856/){: .btn .btn--era5} | Guild member gift |  |
+  | 1188 | [Tool_31036](/it/Items/con_857/){: .btn .btn--era5} | Guild member gift |  |
+  | 1189 | [Tool_31037](/it/Items/con_858/){: .btn .btn--era5} | Guild member gift |  |
   | 1190 | [Tool_31045](/it/Items/con_866/){: .btn .btn--era5} | Event related | Si dice che trovare tutti i simboli misteriosi delle terre straniere possa indicare la via verso un incredibile tesoro! |
   | 1191 | [Tool_40013](/it/Items/con_925/){: .btn .btn--era4} | Other |  |
   | 1192 | [Tool_40024](/it/Items/con_936/){: .btn .btn--era5} | Other |  |
@@ -1211,10 +1211,10 @@ classes: wide
   | 1197 | [Tool_408001](/it/Items/con_961/){: .btn .btn--era3} | Gift |  |
   | 1198 | [Tool_408002](/it/Items/con_962/){: .btn .btn--era4} | Gift |  |
   | 1199 | [Tool_499035](/it/Items/con_1002/){: .btn .btn--era4} | WEAPON PIECE |  |
-  | 1200 | [Tool_6030403](/it/Items/con_1047/){: .btn .btn--era5} | Unknown |  |
-  | 1201 | [Tool_6070503](/it/Items/con_1062/){: .btn .btn--era5} | Unknown |  |
+  | 1200 | [Tool_6030403](/it/Items/con_1047/){: .btn .btn--era5} | Special Skin |  |
+  | 1201 | [Tool_6070503](/it/Items/con_1062/){: .btn .btn--era5} | Special Skin |  |
   | 1202 | [Tool_613002](/it/Items/con_1070/){: .btn .btn--era5} | Gift |  |
-  | 1203 | [Tool_6170102](/it/Items/con_1079/){: .btn .btn--era5} | Unknown |  |
+  | 1203 | [Tool_6170102](/it/Items/con_1079/){: .btn .btn--era5} | Special Skin |  |
   | 1204 | [Tool_906041](/it/Items/con_1364/){: .btn .btn--era4} | Gift | Aprilo per ottenere 2580 Diamanti, 1 Pacchetto Unità Élite, 288 Materiali per Pozioni di Talento e 20 Pozioni ESP grandi |
   | 1205 | [Tool_906043](/it/Items/con_1366/){: .btn .btn--era4} | Gift | Aprilo per ottenere 5180 Diamanti, 1 Pacchetto Unità Élite, 300 Pergamene degli incantesimi e 10 Pergamene del tempio |
   | 1206 | [Tool_906045](/it/Items/con_1368/){: .btn .btn--era5} | Gift | Aprilo per ottenere 60 Diamanti e 1 Pacchetto Componenti Manufatto premium |
@@ -1257,16 +1257,16 @@ classes: wide
   | 1243 | [Tool_907418](/it/Items/con_1796/){: .btn .btn--era4} | Gift |  |
   | 1244 | [Tool_907419](/it/Items/con_1797/){: .btn .btn--era4} | Gift |  |
   | 1245 | [Tool_907545](/it/Items/con_1922/){: .btn .btn--era4} | Gift |  |
-  | 1246 | [Tool_9210101](/it/Items/con_1971/){: .btn .btn--era5} | Unknown |  |
-  | 1247 | [Tool_9210903](/it/Items/con_1977/){: .btn .btn--era5} | Unknown |  |
-  | 1248 | [Tool_9220902](/it/Items/con_1981/){: .btn .btn--era5} | Unknown |  |
-  | 1249 | [Tool_9230903](/it/Items/con_1986/){: .btn .btn--era5} | Unknown |  |
-  | 1250 | [Tool_9250902](/it/Items/con_1991/){: .btn .btn--era5} | Unknown |  |
-  | 1251 | [Tool_9250903](/it/Items/con_1992/){: .btn .btn--era5} | Unknown |  |
-  | 1252 | [Tool_9260903](/it/Items/con_1995/){: .btn .btn--era5} | Unknown |  |
-  | 1253 | [Tool_9270902](/it/Items/con_1997/){: .btn .btn--era5} | Unknown | Disponibile dopo aver ottenuto la skin Distillato di malvagità per la Strega malvagia. |
-  | 1254 | [Tool_9280803](/it/Items/con_1999/){: .btn .btn--era5} | Unknown |  |
-  | 1255 | [Tool_9280902](/it/Items/con_2000/){: .btn .btn--era5} | Unknown |  |
+  | 1246 | [Tool_9210101](/it/Items/con_1971/){: .btn .btn--era5} | Unit Skin |  |
+  | 1247 | [Tool_9210903](/it/Items/con_1977/){: .btn .btn--era5} | Unit Skin |  |
+  | 1248 | [Tool_9220902](/it/Items/con_1981/){: .btn .btn--era5} | Unit Skin |  |
+  | 1249 | [Tool_9230903](/it/Items/con_1986/){: .btn .btn--era5} | Unit Skin |  |
+  | 1250 | [Tool_9250902](/it/Items/con_1991/){: .btn .btn--era5} | Unit Skin |  |
+  | 1251 | [Tool_9250903](/it/Items/con_1992/){: .btn .btn--era5} | Unit Skin |  |
+  | 1252 | [Tool_9260903](/it/Items/con_1995/){: .btn .btn--era5} | Unit Skin |  |
+  | 1253 | [Tool_9270902](/it/Items/con_1997/){: .btn .btn--era5} | Unit Skin | Disponibile dopo aver ottenuto la skin Distillato di malvagità per la Strega malvagia. |
+  | 1254 | [Tool_9280803](/it/Items/con_1999/){: .btn .btn--era5} | Unit Skin |  |
+  | 1255 | [Tool_9280902](/it/Items/con_2000/){: .btn .btn--era5} | Unit Skin |  |
   | 1256 | [Tool_93601](/it/Items/con_2050/){: .btn .btn--era5} | Event related |  |
   | 1257 | [Tool_93602](/it/Items/con_2051/){: .btn .btn--era5} | Event related |  |
   | 1258 | [Tool_93608](/it/Items/con_2057/){: .btn .btn--era5} | Event related |  |
@@ -1279,33 +1279,33 @@ classes: wide
   | 1265 | [Tool_939906](/it/Items/con_2084/){: .btn .btn--era5} | Event related |  |
   | 1266 | [Tool_939908](/it/Items/con_2085/){: .btn .btn--era5} | Event related |  |
   | 1267 | [Tool_939909](/it/Items/con_2086/){: .btn .btn--era5} | Event related |  |
-  | 1268 | [Tool_940001](/it/Items/con_2087/){: .btn .btn--era4} | Unknown |  |
-  | 1269 | [Tool_940002](/it/Items/con_2088/){: .btn .btn--era4} | Unknown |  |
-  | 1270 | [Tool_940101](/it/Items/con_2089/){: .btn .btn--era4} | Unknown |  |
-  | 1271 | [Tool_940102](/it/Items/con_2090/){: .btn .btn--era4} | Unknown |  |
-  | 1272 | [Tool_940103](/it/Items/con_2091/){: .btn .btn--era4} | Unknown |  |
-  | 1273 | [Tool_940104](/it/Items/con_2092/){: .btn .btn--era4} | Unknown |  |
-  | 1274 | [Tool_940105](/it/Items/con_2093/){: .btn .btn--era4} | Unknown |  |
-  | 1275 | [Tool_940106](/it/Items/con_2094/){: .btn .btn--era4} | Unknown |  |
-  | 1276 | [Tool_940107](/it/Items/con_2095/){: .btn .btn--era4} | Unknown |  |
-  | 1277 | [Tool_940108](/it/Items/con_2096/){: .btn .btn--era4} | Unknown |  |
-  | 1278 | [Tool_940109](/it/Items/con_2097/){: .btn .btn--era4} | Unknown |  |
-  | 1279 | [Tool_940110](/it/Items/con_2098/){: .btn .btn--era4} | Unknown |  |
+  | 1268 | [Tool_940001](/it/Items/con_2087/){: .btn .btn--era4} | Battle Formation |  |
+  | 1269 | [Tool_940002](/it/Items/con_2088/){: .btn .btn--era4} | Battle Formation |  |
+  | 1270 | [Tool_940101](/it/Items/con_2089/){: .btn .btn--era4} | Battle Formation |  |
+  | 1271 | [Tool_940102](/it/Items/con_2090/){: .btn .btn--era4} | Battle Formation |  |
+  | 1272 | [Tool_940103](/it/Items/con_2091/){: .btn .btn--era4} | Battle Formation |  |
+  | 1273 | [Tool_940104](/it/Items/con_2092/){: .btn .btn--era4} | Battle Formation |  |
+  | 1274 | [Tool_940105](/it/Items/con_2093/){: .btn .btn--era4} | Battle Formation |  |
+  | 1275 | [Tool_940106](/it/Items/con_2094/){: .btn .btn--era4} | Battle Formation |  |
+  | 1276 | [Tool_940107](/it/Items/con_2095/){: .btn .btn--era4} | Battle Formation |  |
+  | 1277 | [Tool_940108](/it/Items/con_2096/){: .btn .btn--era4} | Battle Formation |  |
+  | 1278 | [Tool_940109](/it/Items/con_2097/){: .btn .btn--era4} | Battle Formation |  |
+  | 1279 | [Tool_940110](/it/Items/con_2098/){: .btn .btn--era4} | Battle Formation |  |
   | 1280 | [Tool_990099](/it/Items/con_2099/){: .btn .btn--era4} | Gift |  |
   | 1281 | [Trifoglio](/it/Items/con_537/){: .btn .btn--era4} | Event related | Le sue quattro foglie rappresentano rispettivamente: fama, ricchezza, amore e salute. |
-  | 1282 | [Valore Attività](/it/Items/con_901/){: .btn .btn--era4} | Unknown | Puoi aumentare il tuo livello di Attività completando le Missioni giornaliere. |
+  | 1282 | [Valore Attività](/it/Items/con_901/){: .btn .btn--era4} | VIP related | Puoi aumentare il tuo livello di Attività completando le Missioni giornaliere. |
   | 1283 | [Vaso d'argilla della contea di Gao](/it/Items/con_1178/){: .btn .btn--era3} | Event related | Questo vaso in ceramica è creato a partire dalla particolare terra reperibile solo nella contea di Gao e contiene un assortimento di micronutrienti benefici per il corpo umano. I piatti cucinati in questi vasi speciali risultano più freschi e croccanti. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
   | 1284 | [Vassoio di carne](/it/Items/con_1161/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di carne. |
   | 1285 | [Vassoio di frutti di mare](/it/Items/con_1163/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di frutti di mare. |
   | 1286 | [Vassoio di verdure](/it/Items/con_1162/){: .btn .btn--era4} | Event related | Un grande vassoio con un assortimento di verdure. |
   | 1287 | [Vecchia mappa](/it/Items/con_1155/){: .btn .btn--era4} | GUILD_MAP_TREASURE | Antica mappa che sembra indicare la posizione di un tesoro nascosto. Utile a scoprire un tesoro nella mappa della Gilda. |
-  | 1288 | [Via dei Vichinghi: skin Berserker](/it/Items/con_1988/){: .btn .btn--era5} | Unknown | Contiene la skin per Berserker Via dei Vichinghi. |
-  | 1289 | [Vidomina Apprendista eretica](/it/Items/con_1052/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Vidomina Apprendista eretica |
-  | 1290 | [Viveur: Caterina](/it/Items/con_1031/){: .btn .btn--era5} | Unknown | Usa per ottenere la skin Viveur per Caterina |
-  | 1291 | [Volo del drago - Avatar Cassanbel](/it/Items/con_870/){: .btn .btn--era5} | Unknown |  |
-  | 1292 | [Voucher fan](/it/Items/con_908/){: .btn .btn--era9} | Unknown | Voucher fan |
-  | 1293 | [Xeron Sagra della Primavera](/it/Items/con_1063/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Xeron Sagra della Primavera |
-  | 1294 | [Yog Mago guerriero](/it/Items/con_1059/){: .btn .btn--era5} | Unknown | Usa per ottenere una skin: Yog Mago guerriero |
+  | 1288 | [Via dei Vichinghi: skin Berserker](/it/Items/con_1988/){: .btn .btn--era5} | Unit Skin | Contiene la skin per Berserker Via dei Vichinghi. |
+  | 1289 | [Vidomina Apprendista eretica](/it/Items/con_1052/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Vidomina Apprendista eretica |
+  | 1290 | [Viveur: Caterina](/it/Items/con_1031/){: .btn .btn--era5} | Special Skin | Usa per ottenere la skin Viveur per Caterina |
+  | 1291 | [Volo del drago - Avatar Cassanbel](/it/Items/con_870/){: .btn .btn--era5} | Hero Avatar |  |
+  | 1292 | [Voucher fan](/it/Items/con_908/){: .btn .btn--era9} | VIP related | Voucher fan |
+  | 1293 | [Xeron Sagra della Primavera](/it/Items/con_1063/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Xeron Sagra della Primavera |
+  | 1294 | [Yog Mago guerriero](/it/Items/con_1059/){: .btn .btn--era5} | Special Skin | Usa per ottenere una skin: Yog Mago guerriero |
   | 1295 | [Zucca candita](/it/Items/con_1086/){: .btn .btn--era4} | Event related | Un dolcetto di Halloween disponibile per un tempo limitato. Nella Capitale vive un'Anima che ne va particolarmente ghiotta... |
   | 1296 | [Zuppa acida di pesce del Guizhou](/it/Items/con_1253/){: .btn .btn--era3} | Event related | Pomodori selvatici, peperoncini rossi, vino bianco, zenzero e aglio vengono lasciati fermentare per due settimane fino a ottenere una zuppa acida rossastra. Nella zuppa viene poi fatto cuocere il pesce fresco già eviscerato, ottenendo un sapore tonificante. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |
   | 1297 | [Zuppa di montone di Jianyang](/it/Items/con_1172/){: .btn .btn--era3} | Event related | Gli abitanti di Jianyang, nella provincia di Sichuan, preparano questo piatto cuocendo la carne in un brodo di ossa di montone e carpa. Come afferma un proverbio cinese, la combinazione di carne e montone è fresca e saporita. Purtroppo, però, gli ingredienti non sono stati cotti a sufficienza. |

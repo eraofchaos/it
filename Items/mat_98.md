@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio splendente"
 permalink: /Items/mat_98/
 excerpt: "Era of Chaos  Mercurio splendente"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_98.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 27 (Sangue del Padre dei Draghi) -> 27-3 
-*    Capitolo 27 (Sangue del Padre dei Draghi) -> 27-9 
+*    Avventura della Gilda 
+*    [Capitolo 27: Sangue del Padre dei Draghi -> 27-3](/it/Main Story/Chapter 27_3/) 
+*    [Capitolo 27: Sangue del Padre dei Draghi -> 27-9](/it/Main Story/Chapter 27_9/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale raro"
 permalink: /Items/mat_40/
 excerpt: "Era of Chaos  Minerale raro"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_40.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 12 (Acque ghiacciate) -> 12-1 
-*    Capitolo 12 (Acque ghiacciate) -> 12-4 
-*    Capitolo 12 (Acque ghiacciate) -> 12-7 
+*    Avventura della Gilda 
+*    [Capitolo 12: Acque ghiacciate -> 12-1](/it/Main Story/Chapter 12_1/) 
+*    [Capitolo 12: Acque ghiacciate -> 12-4](/it/Main Story/Chapter 12_4/) 
+*    [Capitolo 12: Acque ghiacciate -> 12-7](/it/Main Story/Chapter 12_7/) 
 
 ## This item contains:
 

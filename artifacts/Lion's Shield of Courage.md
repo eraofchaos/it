@@ -2,7 +2,7 @@
 title: "Manufatti - Alleanza Angelica - Scudo leonino del Coraggio"
 permalink: /artifacts/Lion's Shield of Courage/
 excerpt: "Era of Chaos  Alleanza Angelica - Scudo leonino del Coraggio. Simbolo della potenza militare dei Grifoni. Uno dei componenti dell'Alleanza Angelica."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Lion's Shield of Courage.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo epico"
 permalink: /Items/mat_52/
 excerpt: "Era of Chaos  Cristallo epico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_52.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 15 (Fronte unito) -> 15-6 
-*    Capitolo 15 (Fronte unito) -> 15-12 
-*    Capitolo 15 (Fronte unito) -> 15-15 
+*    Avventura della Gilda 
+*    [Capitolo 15: Fronte unito -> 15-6](/it/Main Story/Chapter 15_6/) 
+*    [Capitolo 15: Fronte unito -> 15-12](/it/Main Story/Chapter 15_12/) 
+*    [Capitolo 15: Fronte unito -> 15-15](/it/Main Story/Chapter 15_15/) 
 
 ## This item contains:
 

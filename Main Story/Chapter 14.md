@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 Un passaggio sicuro"
 permalink: /Main Story/Chapter 14/
 excerpt: "Capitolo 14. Era of Chaos  Storia principale - Capitolo 14. Un passaggio sicuro"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 14.md"
 toc: false

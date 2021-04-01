@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo superiore"
 permalink: /Items/mat_24/
 excerpt: "Era of Chaos  Cristallo superiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_24.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 7 (Erathia) -> 7-6 
-*    Capitolo 7 (Erathia) -> 7-12 
-*    Capitolo 7 (Erathia) -> 7-15 
+*    Avventura della Gilda 
+*    [Capitolo 7: Erathia -> 7-6](/it/Main Story/Chapter 7_6/) 
+*    [Capitolo 7: Erathia -> 7-12](/it/Main Story/Chapter 7_12/) 
+*    [Capitolo 7: Erathia -> 7-15](/it/Main Story/Chapter 7_15/) 
 
 ## This item contains:
 

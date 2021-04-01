@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio stellare"
 permalink: /Items/mat_91/
 excerpt: "Era of Chaos  Mercurio stellare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_91.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 26 (Sempre al comando) -> 26-3 
-*    Capitolo 26 (Sempre al comando) -> 26-9 
+*    Avventura della Gilda 
+*    [Capitolo 26: Sempre al comando -> 26-3](/it/Main Story/Chapter 26_3/) 
+*    [Capitolo 26: Sempre al comando -> 26-9](/it/Main Story/Chapter 26_9/) 
 
 ## This item contains:
 

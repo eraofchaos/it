@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale stellare"
 permalink: /Items/mat_89/
 excerpt: "Era of Chaos  Minerale stellare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_89.md"
 toc: false
@@ -19,8 +19,8 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 26 (Sempre al comando) -> 26-7 
+*    Avventura della Gilda 
+*    [Capitolo 26: Sempre al comando -> 26-7](/it/Main Story/Chapter 26_7/) 
 
 ## This item contains:
 

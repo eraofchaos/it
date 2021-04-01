@@ -2,7 +2,7 @@
 title: "Item - Materials - Libro delle essenze"
 permalink: /Items/mat_60/
 excerpt: "Era of Chaos  Libro delle essenze"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_60.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Avventura della Gilda 
 *    Capitolo - Un passaggio sicuro 
 *    Capitolo - Fronte unito 
 *    Capitolo - Per il Re e per il paese 

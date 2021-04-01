@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme segrete"
 permalink: /Items/mat_79/
 excerpt: "Era of Chaos  Gemme segrete"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_79.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 22 (Drago di cristallo) -> 22-1 
-*    Capitolo 22 (Drago di cristallo) -> 22-5 
-*    Capitolo 22 (Drago di cristallo) -> 22-11 
+*    Avventura della Gilda 
+*    [Capitolo 22: Drago di cristallo -> 22-1](/it/Main Story/Chapter 22_1/) 
+*    [Capitolo 22: Drago di cristallo -> 22-5](/it/Main Story/Chapter 22_5/) 
+*    [Capitolo 22: Drago di cristallo -> 22-11](/it/Main Story/Chapter 22_11/) 
 
 ## This item contains:
 

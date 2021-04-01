@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo eccezionale"
 permalink: /Items/mat_36/
 excerpt: "Era of Chaos  Zolfo eccezionale"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_36.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 10 (Le Terre paludose) -> 10-10 
-*    Capitolo 10 (Le Terre paludose) -> 10-14 
-*    Capitolo 11 (Tatalia) -> 11-4 
+*    Avventura della Gilda 
+*    [Capitolo 10: Le Terre paludose -> 10-10](/it/Main Story/Chapter 10_10/) 
+*    [Capitolo 10: Le Terre paludose -> 10-14](/it/Main Story/Chapter 10_14/) 
+*    [Capitolo 11: Tatalia -> 11-4](/it/Main Story/Chapter 11_4/) 
 
 ## This item contains:
 

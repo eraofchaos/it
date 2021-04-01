@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo mitico"
 permalink: /Items/mat_66/
 excerpt: "Era of Chaos  Cristallo mitico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_66.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 19 (Terreno neutrale) -> 19-6 
-*    Capitolo 19 (Terreno neutrale) -> 19-12 
-*    Capitolo 19 (Terreno neutrale) -> 19-15 
+*    Avventura della Gilda 
+*    [Capitolo 19: Terreno neutrale -> 19-6](/it/Main Story/Chapter 19_6/) 
+*    [Capitolo 19: Terreno neutrale -> 19-12](/it/Main Story/Chapter 19_12/) 
+*    [Capitolo 19: Terreno neutrale -> 19-15](/it/Main Story/Chapter 19_15/) 
 
 ## This item contains:
 

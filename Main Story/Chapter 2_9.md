@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-9 Il profeta del Graal"
 permalink: /Main Story/Chapter 2_9/
 excerpt: "Capitolo 2 - 9. Era of Chaos  Storia principale - Capitolo 2_9. 2-9 Il profeta del Graal"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 2_9.md"
 toc: false

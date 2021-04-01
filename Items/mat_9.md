@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo comune"
 permalink: /Items/mat_9/
 excerpt: "Era of Chaos  Zolfo comune"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_9.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-5 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-9 
-*    Capitolo 3 (Angelo custode) -> 3-4 
+*    Avventura della Gilda 
+*    [Capitolo 2: Il ritorno della Regina -> 2-5](/it/Main Story/Chapter 2_5/) 
+*    [Capitolo 2: Il ritorno della Regina -> 2-9](/it/Main Story/Chapter 2_9/) 
+*    [Capitolo 3: Angelo custode -> 3-4](/it/Main Story/Chapter 3_4/) 
 
 ## This item contains:
 

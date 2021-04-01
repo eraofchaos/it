@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname stellare"
 permalink: /Items/mat_90/
 excerpt: "Era of Chaos  Legname stellare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_90.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 26 (Sempre al comando) -> 26-2 
-*    Capitolo 26 (Sempre al comando) -> 26-8 
+*    Avventura della Gilda 
+*    [Capitolo 26: Sempre al comando -> 26-2](/it/Main Story/Chapter 26_2/) 
+*    [Capitolo 26: Sempre al comando -> 26-8](/it/Main Story/Chapter 26_8/) 
 
 ## This item contains:
 

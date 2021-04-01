@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo mistico"
 permalink: /Items/mat_87/
 excerpt: "Era of Chaos  Cristallo mistico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_87.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 24 (Drago fatato) -> 24-6 
-*    Capitolo 24 (Drago fatato) -> 24-12 
-*    Capitolo 24 (Drago fatato) -> 24-15 
+*    Avventura della Gilda 
+*    [Capitolo 24: Drago fatato -> 24-6](/it/Main Story/Chapter 24_6/) 
+*    [Capitolo 24: Drago fatato -> 24-12](/it/Main Story/Chapter 24_12/) 
+*    [Capitolo 24: Drago fatato -> 24-15](/it/Main Story/Chapter 24_15/) 
 
 ## This item contains:
 

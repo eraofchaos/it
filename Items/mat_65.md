@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme mitiche"
 permalink: /Items/mat_65/
 excerpt: "Era of Chaos  Gemme mitiche"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_65.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 19 (Terreno neutrale) -> 19-1 
-*    Capitolo 19 (Terreno neutrale) -> 19-5 
-*    Capitolo 19 (Terreno neutrale) -> 19-11 
+*    Avventura della Gilda 
+*    [Capitolo 19: Terreno neutrale -> 19-1](/it/Main Story/Chapter 19_1/) 
+*    [Capitolo 19: Terreno neutrale -> 19-5](/it/Main Story/Chapter 19_5/) 
+*    [Capitolo 19: Terreno neutrale -> 19-11](/it/Main Story/Chapter 19_11/) 
 
 ## This item contains:
 

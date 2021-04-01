@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme epiche"
 permalink: /Items/mat_51/
 excerpt: "Era of Chaos  Gemme epiche"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_51.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 15 (Fronte unito) -> 15-1 
-*    Capitolo 15 (Fronte unito) -> 15-5 
-*    Capitolo 15 (Fronte unito) -> 15-11 
+*    Avventura della Gilda 
+*    [Capitolo 15: Fronte unito -> 15-1](/it/Main Story/Chapter 15_1/) 
+*    [Capitolo 15: Fronte unito -> 15-5](/it/Main Story/Chapter 15_5/) 
+*    [Capitolo 15: Fronte unito -> 15-11](/it/Main Story/Chapter 15_11/) 
 
 ## This item contains:
 

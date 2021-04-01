@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-10 Un lupo a digiuno"
 permalink: /Main Story/Chapter 17_10/
 excerpt: "Capitolo 17 - 10. Era of Chaos  Storia principale - Capitolo 17_10. 17-10 Un lupo a digiuno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 17_10.md"
 toc: false

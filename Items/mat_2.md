@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio inferiore"
 permalink: /Items/mat_2/
 excerpt: "Era of Chaos  Mercurio inferiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_2.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 1 (L'isola di Evenmorn) -> 1-1 
-*    Capitolo 1 (L'isola di Evenmorn) -> 1-3 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-3 
+*    Avventura della Gilda 
+*    [Capitolo 1: L'isola di Evenmorn -> 1-1](/it/Main Story/Chapter 1_1/) 
+*    [Capitolo 1: L'isola di Evenmorn -> 1-3](/it/Main Story/Chapter 1_3/) 
+*    [Capitolo 2: Il ritorno della Regina -> 2-3](/it/Main Story/Chapter 2_3/) 
 
 ## This item contains:
 

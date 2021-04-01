@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo splendente"
 permalink: /Items/mat_99/
 excerpt: "Era of Chaos  Zolfo splendente"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_99.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 27 (Sangue del Padre dei Draghi) -> 27-4 
-*    Capitolo 27 (Sangue del Padre dei Draghi) -> 27-10 
-*    Capitolo 27 (Sangue del Padre dei Draghi) -> 27-13 
+*    Avventura della Gilda 
+*    [Capitolo 27: Sangue del Padre dei Draghi -> 27-4](/it/Main Story/Chapter 27_4/) 
+*    [Capitolo 27: Sangue del Padre dei Draghi -> 27-10](/it/Main Story/Chapter 27_10/) 
+*    [Capitolo 27: Sangue del Padre dei Draghi -> 27-13](/it/Main Story/Chapter 27_13/) 
 
 ## This item contains:
 

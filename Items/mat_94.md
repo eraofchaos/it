@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo stellare"
 permalink: /Items/mat_94/
 excerpt: "Era of Chaos  Cristallo stellare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_94.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 26 (Sempre al comando) -> 26-6 
-*    Capitolo 26 (Sempre al comando) -> 26-12 
-*    Capitolo 26 (Sempre al comando) -> 26-15 
+*    Avventura della Gilda 
+*    [Capitolo 26: Sempre al comando -> 26-6](/it/Main Story/Chapter 26_6/) 
+*    [Capitolo 26: Sempre al comando -> 26-12](/it/Main Story/Chapter 26_12/) 
+*    [Capitolo 26: Sempre al comando -> 26-15](/it/Main Story/Chapter 26_15/) 
 
 ## This item contains:
 

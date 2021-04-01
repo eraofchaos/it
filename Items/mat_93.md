@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme stellari"
 permalink: /Items/mat_93/
 excerpt: "Era of Chaos  Gemme stellari"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_93.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 26 (Sempre al comando) -> 26-1 
-*    Capitolo 26 (Sempre al comando) -> 26-5 
-*    Capitolo 26 (Sempre al comando) -> 26-11 
+*    Avventura della Gilda 
+*    [Capitolo 26: Sempre al comando -> 26-1](/it/Main Story/Chapter 26_1/) 
+*    [Capitolo 26: Sempre al comando -> 26-5](/it/Main Story/Chapter 26_5/) 
+*    [Capitolo 26: Sempre al comando -> 26-11](/it/Main Story/Chapter 26_11/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo raro"
 permalink: /Items/mat_43/
 excerpt: "Era of Chaos  Zolfo raro"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_43.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 12 (Acque ghiacciate) -> 12-10 
-*    Capitolo 12 (Acque ghiacciate) -> 12-14 
-*    Capitolo 13 (Dal giorno alla notte) -> 13-4 
+*    Avventura della Gilda 
+*    [Capitolo 12: Acque ghiacciate -> 12-10](/it/Main Story/Chapter 12_10/) 
+*    [Capitolo 12: Acque ghiacciate -> 12-14](/it/Main Story/Chapter 12_14/) 
+*    [Capitolo 13: Dal giorno alla notte -> 13-4](/it/Main Story/Chapter 13_4/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale segreto"
 permalink: /Items/mat_75/
 excerpt: "Era of Chaos  Minerale segreto"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_75.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 22 (Drago di cristallo) -> 22-7 
-*    Capitolo 23 (Drago di ruggine) -> 23-7 
+*    Avventura della Gilda 
+*    [Capitolo 22: Drago di cristallo -> 22-7](/it/Main Story/Chapter 22_7/) 
+*    [Capitolo 23: Drago di ruggine -> 23-7](/it/Main Story/Chapter 23_7/) 
 
 ## This item contains:
 

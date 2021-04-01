@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo di buona qualità"
 permalink: /Items/mat_17/
 excerpt: "Era of Chaos  Cristallo di buona qualità"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_17.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 5 (Byrds) -> 5-6 
-*    Capitolo 5 (Byrds) -> 5-12 
-*    Capitolo 5 (Byrds) -> 5-15 
+*    Avventura della Gilda 
+*    [Capitolo 5: Byrds -> 5-6](/it/Main Story/Chapter 5_6/) 
+*    [Capitolo 5: Byrds -> 5-12](/it/Main Story/Chapter 5_12/) 
+*    [Capitolo 5: Byrds -> 5-15](/it/Main Story/Chapter 5_15/) 
 
 ## This item contains:
 

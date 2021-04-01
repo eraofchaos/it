@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale superiore"
 permalink: /Items/mat_19/
 excerpt: "Era of Chaos  Minerale superiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_19.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 6 (Un nuovo inizio) -> 6-1 
-*    Capitolo 6 (Un nuovo inizio) -> 6-4 
-*    Capitolo 6 (Un nuovo inizio) -> 6-7 
+*    Avventura della Gilda 
+*    [Capitolo 6: Un nuovo inizio -> 6-1](/it/Main Story/Chapter 6_1/) 
+*    [Capitolo 6: Un nuovo inizio -> 6-4](/it/Main Story/Chapter 6_4/) 
+*    [Capitolo 6: Un nuovo inizio -> 6-7](/it/Main Story/Chapter 6_7/) 
 
 ## This item contains:
 

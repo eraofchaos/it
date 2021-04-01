@@ -2,7 +2,7 @@
 title: "Item - Materials - Libro degli armamenti"
 permalink: /Items/mat_25/
 excerpt: "Era of Chaos  Libro degli armamenti"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_25.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Avventura della Gilda 
 *    Capitolo - Un piano diabolico 
 *    Capitolo - Pioniere 
 *    Capitolo - La caduta della capitale 

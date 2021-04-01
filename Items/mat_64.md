@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo mitico"
 permalink: /Items/mat_64/
 excerpt: "Era of Chaos  Zolfo mitico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_64.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-10 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-14 
+*    Avventura della Gilda 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-10](/it/Main Story/Chapter 18_10/) 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-14](/it/Main Story/Chapter 18_14/) 
 
 ## This item contains:
 

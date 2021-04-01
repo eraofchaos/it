@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme eterne"
 permalink: /Items/mat_72/
 excerpt: "Era of Chaos  Gemme eterne"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_72.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 21 (Il Graal) -> 21-1 
-*    Capitolo 21 (Il Graal) -> 21-5 
-*    Capitolo 21 (Il Graal) -> 21-11 
+*    Avventura della Gilda 
+*    [Capitolo 21: Il Graal -> 21-1](/it/Main Story/Chapter 21_1/) 
+*    [Capitolo 21: Il Graal -> 21-5](/it/Main Story/Chapter 21_5/) 
+*    [Capitolo 21: Il Graal -> 21-11](/it/Main Story/Chapter 21_11/) 
 
 ## This item contains:
 

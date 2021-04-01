@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale eccezionale"
 permalink: /Items/mat_33/
 excerpt: "Era of Chaos  Minerale eccezionale"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_33.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 10 (Le Terre paludose) -> 10-1 
-*    Capitolo 10 (Le Terre paludose) -> 10-4 
-*    Capitolo 10 (Le Terre paludose) -> 10-7 
+*    Avventura della Gilda 
+*    [Capitolo 10: Le Terre paludose -> 10-1](/it/Main Story/Chapter 10_1/) 
+*    [Capitolo 10: Le Terre paludose -> 10-4](/it/Main Story/Chapter 10_4/) 
+*    [Capitolo 10: Le Terre paludose -> 10-7](/it/Main Story/Chapter 10_7/) 
 
 ## This item contains:
 

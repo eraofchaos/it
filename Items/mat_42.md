@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio raro"
 permalink: /Items/mat_42/
 excerpt: "Era of Chaos  Mercurio raro"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_42.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 12 (Acque ghiacciate) -> 12-3 
-*    Capitolo 12 (Acque ghiacciate) -> 12-6 
-*    Capitolo 12 (Acque ghiacciate) -> 12-9 
+*    Avventura della Gilda 
+*    [Capitolo 12: Acque ghiacciate -> 12-3](/it/Main Story/Chapter 12_3/) 
+*    [Capitolo 12: Acque ghiacciate -> 12-6](/it/Main Story/Chapter 12_6/) 
+*    [Capitolo 12: Acque ghiacciate -> 12-9](/it/Main Story/Chapter 12_9/) 
 
 ## This item contains:
 

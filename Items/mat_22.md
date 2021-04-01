@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo superiore"
 permalink: /Items/mat_22/
 excerpt: "Era of Chaos  Zolfo superiore"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_22.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 6 (Un nuovo inizio) -> 6-10 
-*    Capitolo 6 (Un nuovo inizio) -> 6-14 
-*    Capitolo 7 (Erathia) -> 7-4 
+*    Avventura della Gilda 
+*    [Capitolo 6: Un nuovo inizio -> 6-10](/it/Main Story/Chapter 6_10/) 
+*    [Capitolo 6: Un nuovo inizio -> 6-14](/it/Main Story/Chapter 6_14/) 
+*    [Capitolo 7: Erathia -> 7-4](/it/Main Story/Chapter 7_4/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio epico"
 permalink: /Items/mat_49/
 excerpt: "Era of Chaos  Mercurio epico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_49.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-3 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-6 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-9 
+*    Avventura della Gilda 
+*    [Capitolo 14: Un passaggio sicuro -> 14-3](/it/Main Story/Chapter 14_3/) 
+*    [Capitolo 14: Un passaggio sicuro -> 14-6](/it/Main Story/Chapter 14_6/) 
+*    [Capitolo 14: Un passaggio sicuro -> 14-9](/it/Main Story/Chapter 14_9/) 
 
 ## This item contains:
 

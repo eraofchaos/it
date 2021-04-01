@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale prezioso"
 permalink: /Items/mat_26/
 excerpt: "Era of Chaos  Minerale prezioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_26.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 8 (Terre di confine) -> 8-1 
-*    Capitolo 8 (Terre di confine) -> 8-4 
-*    Capitolo 8 (Terre di confine) -> 8-7 
+*    Avventura della Gilda 
+*    [Capitolo 8: Terre di confine -> 8-1](/it/Main Story/Chapter 8_1/) 
+*    [Capitolo 8: Terre di confine -> 8-4](/it/Main Story/Chapter 8_4/) 
+*    [Capitolo 8: Terre di confine -> 8-7](/it/Main Story/Chapter 8_7/) 
 
 ## This item contains:
 

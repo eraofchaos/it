@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname leggendario"
 permalink: /Items/mat_55/
 excerpt: "Era of Chaos  Legname leggendario"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_55.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-2 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-5 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-8 
+*    Avventura della Gilda 
+*    [Capitolo 16: Per il Re e per il paese -> 16-2](/it/Main Story/Chapter 16_2/) 
+*    [Capitolo 16: Per il Re e per il paese -> 16-5](/it/Main Story/Chapter 16_5/) 
+*    [Capitolo 16: Per il Re e per il paese -> 16-8](/it/Main Story/Chapter 16_8/) 
 
 ## This item contains:
 

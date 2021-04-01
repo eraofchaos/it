@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo leggendario"
 permalink: /Items/mat_57/
 excerpt: "Era of Chaos  Zolfo leggendario"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_57.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-10 
-*    Capitolo 16 (Per il Re e per il paese) -> 16-14 
-*    Capitolo 17 (La liberazione dell'impero) -> 17-4 
+*    Avventura della Gilda 
+*    [Capitolo 16: Per il Re e per il paese -> 16-10](/it/Main Story/Chapter 16_10/) 
+*    [Capitolo 16: Per il Re e per il paese -> 16-14](/it/Main Story/Chapter 16_14/) 
+*    [Capitolo 17: La liberazione dell'impero -> 17-4](/it/Main Story/Chapter 17_4/) 
 
 ## This item contains:
 

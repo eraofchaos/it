@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-9 Il mantello nella caverna"
 permalink: /Main Story/Chapter 16_9/
 excerpt: "Capitolo 16 - 9. Era of Chaos  Storia principale - Capitolo 16_9. 16-9 Il mantello nella caverna"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 16_9.md"
 toc: false

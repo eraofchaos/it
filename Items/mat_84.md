@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio mistico"
 permalink: /Items/mat_84/
 excerpt: "Era of Chaos  Mercurio mistico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_84.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 24 (Drago fatato) -> 24-3 
-*    Capitolo 24 (Drago fatato) -> 24-9 
-*    Capitolo 25 (La legge del più forte) -> 25-3 
+*    Avventura della Gilda 
+*    [Capitolo 24: Drago fatato -> 24-3](/it/Main Story/Chapter 24_3/) 
+*    [Capitolo 24: Drago fatato -> 24-9](/it/Main Story/Chapter 24_9/) 
+*    [Capitolo 25: La legge del più forte -> 25-3](/it/Main Story/Chapter 25_3/) 
 
 ## This item contains:
 

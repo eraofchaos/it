@@ -2,7 +2,7 @@
 title: "Manufatti - Mantello del Re Non Morto"
 permalink: /artifacts/Cloak of the Undead King/
 excerpt: "Era of Chaos  Mantello del Re Non Morto. Mantello del Re Non Morto Reliquia sacra realizzata da un grande Re Non Morto per nascondere le sue fattezze. Può evocare un'armata scheletrica."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Cloak of the Undead King.md"
 toc: false

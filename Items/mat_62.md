@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname mitico"
 permalink: /Items/mat_62/
 excerpt: "Era of Chaos  Legname mitico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_62.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-2 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-5 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-8 
+*    Avventura della Gilda 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-2](/it/Main Story/Chapter 18_2/) 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-5](/it/Main Story/Chapter 18_5/) 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-8](/it/Main Story/Chapter 18_8/) 
 
 ## This item contains:
 

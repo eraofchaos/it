@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo stellare"
 permalink: /Items/mat_92/
 excerpt: "Era of Chaos  Zolfo stellare"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_92.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 26 (Sempre al comando) -> 26-4 
-*    Capitolo 26 (Sempre al comando) -> 26-10 
-*    Capitolo 26 (Sempre al comando) -> 26-13 
+*    Avventura della Gilda 
+*    [Capitolo 26: Sempre al comando -> 26-4](/it/Main Story/Chapter 26_4/) 
+*    [Capitolo 26: Sempre al comando -> 26-10](/it/Main Story/Chapter 26_10/) 
+*    [Capitolo 26: Sempre al comando -> 26-13](/it/Main Story/Chapter 26_13/) 
 
 ## This item contains:
 

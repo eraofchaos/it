@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo eterno"
 permalink: /Items/mat_71/
 excerpt: "Era of Chaos  Zolfo eterno"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_71.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 20 (Tunnel e trogloditi) -> 20-10 
-*    Capitolo 20 (Tunnel e trogloditi) -> 20-14 
-*    Capitolo 21 (Il Graal) -> 21-4 
+*    Avventura della Gilda 
+*    [Capitolo 20: Tunnel e trogloditi -> 20-10](/it/Main Story/Chapter 20_10/) 
+*    [Capitolo 20: Tunnel e trogloditi -> 20-14](/it/Main Story/Chapter 20_14/) 
+*    [Capitolo 21: Il Graal -> 21-4](/it/Main Story/Chapter 21_4/) 
 
 ## This item contains:
 

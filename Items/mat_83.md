@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname mistico"
 permalink: /Items/mat_83/
 excerpt: "Era of Chaos  Legname mistico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_83.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 24 (Drago fatato) -> 24-2 
-*    Capitolo 24 (Drago fatato) -> 24-8 
-*    Capitolo 25 (La legge del più forte) -> 25-2 
+*    Avventura della Gilda 
+*    [Capitolo 24: Drago fatato -> 24-2](/it/Main Story/Chapter 24_2/) 
+*    [Capitolo 24: Drago fatato -> 24-8](/it/Main Story/Chapter 24_8/) 
+*    [Capitolo 25: La legge del più forte -> 25-2](/it/Main Story/Chapter 25_2/) 
 
 ## This item contains:
 

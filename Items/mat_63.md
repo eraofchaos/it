@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio mitico"
 permalink: /Items/mat_63/
 excerpt: "Era of Chaos  Mercurio mitico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_63.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-3 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-6 
-*    Capitolo 18 (A braccetto con il diavolo) -> 18-9 
+*    Avventura della Gilda 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-3](/it/Main Story/Chapter 18_3/) 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-6](/it/Main Story/Chapter 18_6/) 
+*    [Capitolo 18: A braccetto con il diavolo -> 18-9](/it/Main Story/Chapter 18_9/) 
 
 ## This item contains:
 

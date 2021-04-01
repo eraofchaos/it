@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale epico"
 permalink: /Items/mat_47/
 excerpt: "Era of Chaos  Minerale epico"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_47.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-1 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-4 
-*    Capitolo 14 (Un passaggio sicuro) -> 14-7 
+*    Avventura della Gilda 
+*    [Capitolo 14: Un passaggio sicuro -> 14-1](/it/Main Story/Chapter 14_1/) 
+*    [Capitolo 14: Un passaggio sicuro -> 14-4](/it/Main Story/Chapter 14_4/) 
+*    [Capitolo 14: Un passaggio sicuro -> 14-7](/it/Main Story/Chapter 14_7/) 
 
 ## This item contains:
 

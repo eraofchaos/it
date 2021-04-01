@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo prezioso"
 permalink: /Items/mat_29/
 excerpt: "Era of Chaos  Zolfo prezioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_29.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 8 (Terre di confine) -> 8-10 
-*    Capitolo 8 (Terre di confine) -> 8-14 
-*    Capitolo 9 (La terra del caos) -> 9-4 
+*    Avventura della Gilda 
+*    [Capitolo 8: Terre di confine -> 8-10](/it/Main Story/Chapter 8_10/) 
+*    [Capitolo 8: Terre di confine -> 8-14](/it/Main Story/Chapter 8_14/) 
+*    [Capitolo 9: La terra del caos -> 9-4](/it/Main Story/Chapter 9_4/) 
 
 ## This item contains:
 

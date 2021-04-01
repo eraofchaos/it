@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo raro"
 permalink: /Items/mat_45/
 excerpt: "Era of Chaos  Cristallo raro"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_45.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 13 (Dal giorno alla notte) -> 13-6 
-*    Capitolo 13 (Dal giorno alla notte) -> 13-12 
-*    Capitolo 13 (Dal giorno alla notte) -> 13-15 
+*    Avventura della Gilda 
+*    [Capitolo 13: Dal giorno alla notte -> 13-6](/it/Main Story/Chapter 13_6/) 
+*    [Capitolo 13: Dal giorno alla notte -> 13-12](/it/Main Story/Chapter 13_12/) 
+*    [Capitolo 13: Dal giorno alla notte -> 13-15](/it/Main Story/Chapter 13_15/) 
 
 ## This item contains:
 

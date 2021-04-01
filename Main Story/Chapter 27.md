@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 Sangue del Padre dei Draghi"
 permalink: /Main Story/Chapter 27/
 excerpt: "Capitolo 27. Era of Chaos  Storia principale - Capitolo 27. Sangue del Padre dei Draghi"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Chapter 27.md"
 toc: false

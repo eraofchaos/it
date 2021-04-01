@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio segreto"
 permalink: /Items/mat_77/
 excerpt: "Era of Chaos  Mercurio segreto"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_77.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 22 (Drago di cristallo) -> 22-3 
-*    Capitolo 22 (Drago di cristallo) -> 22-9 
-*    Capitolo 23 (Drago di ruggine) -> 23-3 
+*    Avventura della Gilda 
+*    [Capitolo 22: Drago di cristallo -> 22-3](/it/Main Story/Chapter 22_3/) 
+*    [Capitolo 22: Drago di cristallo -> 22-9](/it/Main Story/Chapter 22_9/) 
+*    [Capitolo 23: Drago di ruggine -> 23-3](/it/Main Story/Chapter 23_3/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale comune"
 permalink: /Items/mat_6/
 excerpt: "Era of Chaos  Minerale comune"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_6.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-2 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-6 
-*    Capitolo 2 (Il ritorno della Regina) -> 2-10 
+*    Avventura della Gilda 
+*    [Capitolo 2: Il ritorno della Regina -> 2-2](/it/Main Story/Chapter 2_2/) 
+*    [Capitolo 2: Il ritorno della Regina -> 2-6](/it/Main Story/Chapter 2_6/) 
+*    [Capitolo 2: Il ritorno della Regina -> 2-10](/it/Main Story/Chapter 2_10/) 
 
 ## This item contains:
 

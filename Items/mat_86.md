@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme mistiche"
 permalink: /Items/mat_86/
 excerpt: "Era of Chaos  Gemme mistiche"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_86.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 24 (Drago fatato) -> 24-1 
-*    Capitolo 24 (Drago fatato) -> 24-5 
-*    Capitolo 24 (Drago fatato) -> 24-11 
+*    Avventura della Gilda 
+*    [Capitolo 24: Drago fatato -> 24-1](/it/Main Story/Chapter 24_1/) 
+*    [Capitolo 24: Drago fatato -> 24-5](/it/Main Story/Chapter 24_5/) 
+*    [Capitolo 24: Drago fatato -> 24-11](/it/Main Story/Chapter 24_11/) 
 
 ## This item contains:
 

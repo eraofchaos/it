@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname prezioso"
 permalink: /Items/mat_27/
 excerpt: "Era of Chaos  Legname prezioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_27.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 8 (Terre di confine) -> 8-2 
-*    Capitolo 8 (Terre di confine) -> 8-5 
-*    Capitolo 8 (Terre di confine) -> 8-8 
+*    Avventura della Gilda 
+*    [Capitolo 8: Terre di confine -> 8-2](/it/Main Story/Chapter 8_2/) 
+*    [Capitolo 8: Terre di confine -> 8-5](/it/Main Story/Chapter 8_5/) 
+*    [Capitolo 8: Terre di confine -> 8-8](/it/Main Story/Chapter 8_8/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Certificato di leggendarietà"
 permalink: /Items/mat_67/
 excerpt: "Era of Chaos  Certificato di leggendarietà"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_67.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
+*    Avventura della Gilda 
 *    Capitolo - Per il Re e per il paese 
 *    Capitolo - La liberazione dell'impero 
 *    Capitolo - A braccetto con il diavolo 

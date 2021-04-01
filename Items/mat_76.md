@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname segreto"
 permalink: /Items/mat_76/
 excerpt: "Era of Chaos  Legname segreto"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_76.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 22 (Drago di cristallo) -> 22-2 
-*    Capitolo 22 (Drago di cristallo) -> 22-8 
-*    Capitolo 23 (Drago di ruggine) -> 23-2 
+*    Avventura della Gilda 
+*    [Capitolo 22: Drago di cristallo -> 22-2](/it/Main Story/Chapter 22_2/) 
+*    [Capitolo 22: Drago di cristallo -> 22-8](/it/Main Story/Chapter 22_8/) 
+*    [Capitolo 23: Drago di ruggine -> 23-2](/it/Main Story/Chapter 23_2/) 
 
 ## This item contains:
 

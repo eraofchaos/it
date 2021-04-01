@@ -2,7 +2,7 @@
 title: "Manufatti - Alleanza Angelica - Spada del Giudizio"
 permalink: /artifacts/Sword of Judgement/
 excerpt: "Era of Chaos  Alleanza Angelica - Spada del Giudizio. Spada che gli dei hanno donato all'umanità. Uno dei componenti dell'Alleanza Angelica."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Sword of Judgement.md"
 toc: false

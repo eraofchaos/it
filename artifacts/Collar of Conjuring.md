@@ -2,7 +2,7 @@
 title: "Manufatti - Anello del Mago - Collare della Congiura"
 permalink: /artifacts/Collar of Conjuring/
 excerpt: "Era of Chaos  Anello del Mago - Collare della Congiura. Migliora il potere magico di chi lo indossa. Uno dei componenti dell'Anello del Mago."
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "Collar of Conjuring.md"
 toc: false

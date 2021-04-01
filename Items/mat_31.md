@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo prezioso"
 permalink: /Items/mat_31/
 excerpt: "Era of Chaos  Cristallo prezioso"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_31.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 9 (La terra del caos) -> 9-6 
-*    Capitolo 9 (La terra del caos) -> 9-12 
-*    Capitolo 9 (La terra del caos) -> 9-15 
+*    Avventura della Gilda 
+*    [Capitolo 9: La terra del caos -> 9-6](/it/Main Story/Chapter 9_6/) 
+*    [Capitolo 9: La terra del caos -> 9-12](/it/Main Story/Chapter 9_12/) 
+*    [Capitolo 9: La terra del caos -> 9-15](/it/Main Story/Chapter 9_15/) 
 
 ## This item contains:
 

@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname raro"
 permalink: /Items/mat_41/
 excerpt: "Era of Chaos  Legname raro"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_41.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 12 (Acque ghiacciate) -> 12-2 
-*    Capitolo 12 (Acque ghiacciate) -> 12-5 
-*    Capitolo 12 (Acque ghiacciate) -> 12-8 
+*    Avventura della Gilda 
+*    [Capitolo 12: Acque ghiacciate -> 12-2](/it/Main Story/Chapter 12_2/) 
+*    [Capitolo 12: Acque ghiacciate -> 12-5](/it/Main Story/Chapter 12_5/) 
+*    [Capitolo 12: Acque ghiacciate -> 12-8](/it/Main Story/Chapter 12_8/) 
 
 ## This item contains:
 

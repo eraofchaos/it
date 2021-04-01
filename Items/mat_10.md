@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme comuni"
 permalink: /Items/mat_10/
 excerpt: "Era of Chaos  Gemme comuni"
-last_modified_at: 2021-03-31
+last_modified_at: 2021-04-01
 locale: it
 ref: "mat_10.md"
 toc: false
@@ -19,10 +19,10 @@ classes: wide
 
 ## Gather
 
-*    Unknown_17 
-*    Capitolo 3 (Angelo custode) -> 3-1 
-*    Capitolo 3 (Angelo custode) -> 3-5 
-*    Capitolo 3 (Angelo custode) -> 3-11 
+*    Avventura della Gilda 
+*    [Capitolo 3: Angelo custode -> 3-1](/it/Main Story/Chapter 3_1/) 
+*    [Capitolo 3: Angelo custode -> 3-5](/it/Main Story/Chapter 3_5/) 
+*    [Capitolo 3: Angelo custode -> 3-11](/it/Main Story/Chapter 3_11/) 
 
 ## This item contains:
 
