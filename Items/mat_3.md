@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo inferiore"
 permalink: /Items/mat_3/
 excerpt: "Era of Chaos  Zolfo inferiore"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_3.md"
 toc: false

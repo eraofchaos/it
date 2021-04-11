@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Gemme mistiche"
+title: "Item - Materials - Gemme mistiche +3"
 permalink: /Items/mat_86/
-excerpt: "Era of Chaos  Gemme mistiche"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Gemme mistiche +3"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_86.md"
 toc: false

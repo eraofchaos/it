@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Zolfo stellare"
+title: "Item - Materials - Zolfo stellare +4"
 permalink: /Items/mat_92/
-excerpt: "Era of Chaos  Zolfo stellare"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Zolfo stellare +4"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_92.md"
 toc: false

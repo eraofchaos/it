@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-13 Le leggende di Nighon"
 permalink: /Main Story/Chapter 25_13/
 excerpt: "Capitolo 25 - 13. Era of Chaos  Storia principale - Capitolo 25_13. 25-13 Le leggende di Nighon"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Chapter 25_13.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Descrizione:** Circola una profezia, riguardo a Nighon. Essa afferma che un giorno il regno di Nighon abbandonerà il sottosuolo e sconfiggerà i draghi che governano il mondo.
 
- **Related to:** [Capitolo 25](/it/Main Story/Chapter 25/)
+ **Related to:** [Storia principale Capitolo 25](/it/Main Story/Chapter 25/)
 
 ## Ricompensa
 
  **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Zolfo mistico](/it/Items/mat_85/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Zolfo mistico +3](/it/Items/mat_85/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Minerale segreto](/it/Items/mat_75/){: .btn .btn--era5}, **40% 1x** [Minerale segreto](/it/Items/mat_75/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Minerale segreto +2](/it/Items/mat_75/){: .btn .btn--era5}, **40% 1x** [Minerale segreto +2](/it/Items/mat_75/){: .btn .btn--era5}
 
  **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Troglodita](/it/units/Troglodyte/) (Score: 374936, Level:99)  | [Minotauro](/it/units/Minotaur/) (Score: 374936, Level:99)  | - | - |
+  | [Minotauro](/it/units/Minotaur/) (Score: 374936, Level:99)  | - | - | [Osservatore](/it/units/Beholder/) (Score: 374936, Level:99)  |
+  | [Minotauro](/it/units/Minotaur/) (Score: 374936, Level:99)  | - | - | - |
+  | [Troglodita](/it/units/Troglodyte/) (Score: 374936, Level:99)  | [Demone dell'abisso](/it/units/Pit Fiend/) (Score: 374936, Level:99)  | - | - |
+
 

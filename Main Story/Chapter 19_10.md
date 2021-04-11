@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-10 Magia mnemonica"
 permalink: /Main Story/Chapter 19_10/
 excerpt: "Capitolo 19 - 10. Era of Chaos  Storia principale - Capitolo 19_10. 19-10 Magia mnemonica"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Chapter 19_10.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** In alcuni mondi, gli incantesimi mnemonici sono estremamente costosi. La Gilda dei maghi provvede sempre affinché l'incantesimo venga cancellato dalla memoria di chi lo subisce.
 
- **Related to:** [Capitolo 19](/it/Main Story/Chapter 19/)
+ **Related to:** [Storia principale Capitolo 19](/it/Main Story/Chapter 19/)
 
 ## Ricompensa
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Zolfo mitico](/it/Items/mat_64/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Minerale leggendario](/it/Items/mat_54/){: .btn .btn--era4}, **40% 1x** [Minerale leggendario](/it/Items/mat_54/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Minerale leggendario +3](/it/Items/mat_54/){: .btn .btn--era4}, **40% 1x** [Minerale leggendario +3](/it/Items/mat_54/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Dracon](/it/heroes/Dracon/) (Score: 1000, Level:1)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Golem di ferro](/it/units/Iron Golem/) (Score: 112713, Level:73)  | [Golem di ferro](/it/units/Iron Golem/) (Score: 112713, Level:73)  |
+  | - | - | [Naga](/it/units/Naga/) (Score: 112713, Level:73)  | [Arcimago](/it/units/Arch Mage/) (Score: 112713, Level:73)  |
+  | - | - | [Elementale della pietra](/it/units/Stone Elemental/) (Score: 112713, Level:73)  | [Genio](/it/units/Genie/) (Score: 112713, Level:73)  |
+  | - | - | [Golem di ferro](/it/units/Iron Golem/) (Score: 112713, Level:73)  | - |
+
 

@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Minerale eterno"
+title: "Item - Materials - Minerale eterno +1"
 permalink: /Items/mat_68/
-excerpt: "Era of Chaos  Minerale eterno"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Minerale eterno +1"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_68.md"
 toc: false

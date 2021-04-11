@@ -2,7 +2,7 @@
 title: "Manufatti - Pietra runica Antimagia - Stivali della Polarità"
 permalink: /artifacts/Boots of Polarity/
 excerpt: "Era of Chaos  Pietra runica Antimagia - Stivali della Polarità. Stivali con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Boots of Polarity.md"
 toc: false

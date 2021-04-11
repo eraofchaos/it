@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Mercurio stellare"
+title: "Item - Materials - Mercurio stellare +4"
 permalink: /Items/mat_91/
-excerpt: "Era of Chaos  Mercurio stellare"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Mercurio stellare +4"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_91.md"
 toc: false

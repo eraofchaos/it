@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 Le Rupi dei Grifoni"
 permalink: /Main Story/Chapter 4/
 excerpt: "Capitolo 4. Era of Chaos  Storia principale - Capitolo 4. Le Rupi dei Grifoni"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Chapter 4.md"
 toc: false
@@ -26,3 +26,39 @@ classes: wide
   | [4-13 La Gilda dei mercenari](/it/Main Story/Chapter 4_13/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Mercurio di buona qualità](/it/Items/mat_14/){: .btn .btn--era3}, [Zolfo comune](/it/Items/mat_9/){: .btn .btn--era2}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
   | [4-14 Il santuario](/it/Main Story/Chapter 4_14/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Zolfo di buona qualità](/it/Items/mat_15/){: .btn .btn--era3}, [Minerale comune](/it/Items/mat_6/){: .btn .btn--era2}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
   | [4-15 Il nido del vento](/it/Main Story/Chapter 4_15/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Minerale di buona qualità](/it/Items/mat_12/){: .btn .btn--era3}, [Legname comune](/it/Items/mat_7/){: .btn .btn--era2}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+
+
+## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **2 x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **10000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1000x** ESP unità
+
+
+
+## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">30/45</span>
+
+ Reward 1:  **50x** <i class="fas fa-gem"/>
+
+ Reward 2: **3 x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **15000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **1500x** ESP unità
+
+
+
+## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">45/45</span>
+
+ Reward 1:  **350x** <i class="fas fa-gem"/>
+
+ Reward 2: **5 x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+
+ Reward 3:  **20000x** <i class="fas fa-coins"/>
+
+ Reward 4:  **2000x** ESP unità
+

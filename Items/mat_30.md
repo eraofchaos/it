@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Gemme preziose"
+title: "Item - Materials - Gemme preziose +2"
 permalink: /Items/mat_30/
-excerpt: "Era of Chaos  Gemme preziose"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Gemme preziose +2"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_30.md"
 toc: false

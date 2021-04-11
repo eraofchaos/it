@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Minerale stellare"
+title: "Item - Materials - Minerale stellare +4"
 permalink: /Items/mat_89/
-excerpt: "Era of Chaos  Minerale stellare"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Minerale stellare +4"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_89.md"
 toc: false

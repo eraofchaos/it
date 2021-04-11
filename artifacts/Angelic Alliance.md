@@ -2,7 +2,7 @@
 title: "Manufatti - Alleanza Angelica"
 permalink: /artifacts/Angelic Alliance/
 excerpt: "Era of Chaos  Alleanza Angelica. Alleanza Angelica Una reliquia sacra forgiata a partire da oggetti preziosi tramite il potere degli Angeli. Può aumentare la forza dei tuoi alleati."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Angelic Alliance.md"
 toc: false

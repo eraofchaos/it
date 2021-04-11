@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Legname stellare"
+title: "Item - Materials - Legname stellare +4"
 permalink: /Items/mat_90/
-excerpt: "Era of Chaos  Legname stellare"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Legname stellare +4"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_90.md"
 toc: false

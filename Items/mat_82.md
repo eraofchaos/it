@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Minerale mistico"
+title: "Item - Materials - Minerale mistico +3"
 permalink: /Items/mat_82/
-excerpt: "Era of Chaos  Minerale mistico"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Minerale mistico +3"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_82.md"
 toc: false

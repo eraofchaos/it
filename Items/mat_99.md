@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Zolfo splendente"
+title: "Item - Materials - Zolfo splendente +5"
 permalink: /Items/mat_99/
-excerpt: "Era of Chaos  Zolfo splendente"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Zolfo splendente +5"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_99.md"
 toc: false

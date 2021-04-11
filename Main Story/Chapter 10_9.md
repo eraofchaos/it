@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-9 La clessidra dell'ora funesta"
 permalink: /Main Story/Chapter 10_9/
 excerpt: "Capitolo 10 - 9. Era of Chaos  Storia principale - Capitolo 10_9. 10-9 La clessidra dell'ora funesta"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Chapter 10_9.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Non possiamo permettere a Crag Hack di estendere oltre il suo dominio. Se dovesse prendere l'intera Krewlod, punterebbe sicuramente al resto dell'Erathia.
 
- **Related to:** [Capitolo 10](/it/Main Story/Chapter 10/)
+ **Related to:** [Storia principale Capitolo 10](/it/Main Story/Chapter 10/)
 
 ## Ricompensa
 
@@ -23,7 +23,22 @@ classes: wide
 
  **Drop 1:** **100% 1x** [Mercurio eccezionale](/it/Items/mat_35/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Zolfo prezioso](/it/Items/mat_29/){: .btn .btn--era3}, **40% 1x** [Zolfo prezioso](/it/Items/mat_29/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Zolfo prezioso +2](/it/Items/mat_29/){: .btn .btn--era3}, **40% 1x** [Zolfo prezioso +2](/it/Items/mat_29/){: .btn .btn--era3}
 
  **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Goblin](/it/units/Goblin/) (Score: 23424, Level:42)  | - | [Orco](/it/units/Orc/) (Score: 23424, Level:42)  | [Orco](/it/units/Orc/) (Score: 23424, Level:42)  |
+  | [Domatore di lupi](/it/units/Wolf Rider/) (Score: 23424, Level:42)  | - | [Ciclope](/it/units/Cyclops/) (Score: 28914, Level:42)  | - |
+  | [Domatore di lupi](/it/units/Wolf Rider/) (Score: 23424, Level:42)  | - | [Orco](/it/units/Orc/) (Score: 23424, Level:42)  | - |
+  | [Goblin](/it/units/Goblin/) (Score: 23424, Level:42)  | - | - | - |
+
 

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-10 Rinforzi"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "Capitolo 13 - 10. Era of Chaos  Storia principale - Capitolo 13_10. 13-10 Rinforzi"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Chapter 13_10.md"
 toc: false
@@ -15,15 +15,30 @@ classes: wide
 
  **Descrizione:** Finalmente abbiamo trovato aiuto, ma non sarà troppo tardi? Speriamo di poter salvare i nostri compagni.
 
- **Related to:** [Capitolo 13](/it/Main Story/Chapter 13/)
+ **Related to:** [Storia principale Capitolo 13](/it/Main Story/Chapter 13/)
 
 ## Ricompensa
 
  **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Zolfo raro](/it/Items/mat_43/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Zolfo raro +1](/it/Items/mat_43/){: .btn .btn--era4}
 
  **Drop 2:** **60% 0x** [Minerale eccezionale](/it/Items/mat_33/){: .btn .btn--era4}, **40% 1x** [Minerale eccezionale](/it/Items/mat_33/){: .btn .btn--era4}
 
  **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+
+
+## Fight against Team
+ **Hero:** [Vidomina](/it/heroes/Vidomina/) (Score: 1000, Level:1)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | [Cavaliere nero](/it/units/Black Knight/) (Score: 47595, Level:49)  | [Cavaliere nero](/it/units/Black Knight/) (Score: 47595, Level:49)  |
+  | - | - | [Behemoth](/it/units/Behemoth/) (Score: 47595, Level:49)  | [Lich](/it/units/Lich/) (Score: 47595, Level:49)  |
+  | - | - | [Behemoth](/it/units/Behemoth/) (Score: 47595, Level:49)  | [Lich](/it/units/Lich/) (Score: 47595, Level:49)  |
+  | - | - | [Cavaliere nero](/it/units/Black Knight/) (Score: 47595, Level:49)  | - |
+
 

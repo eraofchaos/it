@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Libro degli armamenti"
+title: "Item - Materials - Libro degli armamenti +1"
 permalink: /Items/mat_25/
-excerpt: "Era of Chaos  Libro degli armamenti"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Libro degli armamenti +1"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_25.md"
 toc: false

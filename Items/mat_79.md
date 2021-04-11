@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Gemme segrete"
+title: "Item - Materials - Gemme segrete +2"
 permalink: /Items/mat_79/
-excerpt: "Era of Chaos  Gemme segrete"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Gemme segrete +2"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_79.md"
 toc: false

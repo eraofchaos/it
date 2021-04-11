@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Gemme stellari"
+title: "Item - Materials - Gemme stellari +4"
 permalink: /Items/mat_93/
-excerpt: "Era of Chaos  Gemme stellari"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Gemme stellari +4"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_93.md"
 toc: false

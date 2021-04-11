@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Legname superiore"
+title: "Item - Materials - Legname superiore +1"
 permalink: /Items/mat_20/
-excerpt: "Era of Chaos  Legname superiore"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Legname superiore +1"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_20.md"
 toc: false

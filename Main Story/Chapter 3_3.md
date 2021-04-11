@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-3 Le fosse comuni"
 permalink: /Main Story/Chapter 3_3/
 excerpt: "Capitolo 3 - 3. Era of Chaos  Storia principale - Capitolo 3_3. 3-3 Le fosse comuni"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Chapter 3_3.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Non resta più alcuna anima, ormai, tra le bare che giacciono qui. Da queste parti si aggirano solo i non morti, lividi di rabbia nei confronti dei viventi.
 
- **Related to:** [Capitolo 3](/it/Main Story/Chapter 3/)
+ **Related to:** [Storia principale Capitolo 3](/it/Main Story/Chapter 3/)
 
 ## Ricompensa
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **100% 1x** [Mercurio comune](/it/Items/mat_8/){: .btn .btn--era2}
 
  **Drop 2:** **20% 0x** [Zolfo inferiore](/it/Items/mat_3/){: .btn .btn--era1}, **60% 1x** [Zolfo inferiore](/it/Items/mat_3/){: .btn .btn--era1}, **20% 2x** [Zolfo inferiore](/it/Items/mat_3/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** h_Adelaide
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | [Scheletro](/it/units/Skeleton/) (Score: 2147, Level:10)  | - | - | - |
+  | - | - | - | - |
+  | [Scheletro](/it/units/Skeleton/) (Score: 2147, Level:10)  | - | - | - |
+  | [Scheletro](/it/units/Skeleton/) (Score: 2147, Level:10)  | [Scheletro arciere](/it/units/Skeleton Archer/) (Score: 2147, Level:10)  | [Anima](/it/units/Wight/) (Score: 2879, Level:10)  | - |
+
 

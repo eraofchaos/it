@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Zolfo raro"
+title: "Item - Materials - Zolfo raro +1"
 permalink: /Items/mat_43/
-excerpt: "Era of Chaos  Zolfo raro"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Zolfo raro +1"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_43.md"
 toc: false

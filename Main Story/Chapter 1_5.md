@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 1 - 1-5 Si consuma il disastro"
 permalink: /Main Story/Chapter 1_5/
 excerpt: "Capitolo 1 - 5. Era of Chaos  Storia principale - Capitolo 1_5. 1-5 Si consuma il disastro"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Chapter 1_5.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Le truppe di guardia non sono contente del tuo arrivo. Il loro capo non vuole giurare fedeltà a nessuno.
 
- **Related to:** [Capitolo 1](/it/Main Story/Chapter 1/)
+ **Related to:** [Storia principale Capitolo 1](/it/Main Story/Chapter 1/)
 
 ## Ricompensa
 
@@ -24,4 +24,19 @@ classes: wide
  **Drop 1:** **80% 1x** [Zolfo inferiore](/it/Items/mat_3/){: .btn .btn--era1}, **20% 2x** [Zolfo inferiore](/it/Items/mat_3/){: .btn .btn--era1}
 
  **Drop 2:** **80% 1x** [Legname inferiore](/it/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Legname inferiore](/it/Items/mat_1/){: .btn .btn--era1}
+
+
+## Fight against Team
+ **Hero:** [Mullich](/it/heroes/Mullich/) (Score: 1000, Level:4)
+
+ **Team:**
+
+
+  | 1st row | 2nd row | 3rd row | 4th row |
+  |:----:|:----:|:----|:----:|
+  | - | - | - | - |
+  | - | - | [Spadaccino](/it/units/Swordsman/) (Score: 1354, Level:4)  | [Monaco](/it/units/Monk/) (Score: 988, Level:4)  |
+  | - | - | - | [Tiratore scelto](/it/units/Marksman/) (Score: 988, Level:4)  |
+  | - | - | - | - |
+
 

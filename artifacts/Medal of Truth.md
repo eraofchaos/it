@@ -2,7 +2,7 @@
 title: "Manufatti - Occhio di Falco - Medaglia della Verità"
 permalink: /artifacts/Medal of Truth/
 excerpt: "Era of Chaos  Occhio di Falco - Medaglia della Verità. Un amuleto stregato con due occhi incastonati. Uno dei componenti dell'Occhio di Falco."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-11
 locale: it
 ref: "Medal of Truth.md"
 toc: false

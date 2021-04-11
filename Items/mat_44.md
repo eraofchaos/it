@@ -1,8 +1,8 @@
 ---
-title: "Item - Materials - Gemme rare"
+title: "Item - Materials - Gemme rare +1"
 permalink: /Items/mat_44/
-excerpt: "Era of Chaos  Gemme rare"
-last_modified_at: 2021-04-01
+excerpt: "Era of Chaos  Gemme rare +1"
+last_modified_at: 2021-04-11
 locale: it
 ref: "mat_44.md"
 toc: false
