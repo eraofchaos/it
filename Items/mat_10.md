@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme comuni"
 permalink: /Items/mat_10/
 excerpt: "Era of Chaos  Gemme comuni"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "mat_10.md"
 toc: false

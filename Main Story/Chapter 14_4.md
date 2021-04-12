@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 - 14-4 Qualcosa di inaspettato"
 permalink: /Main Story/Chapter 14_4/
 excerpt: "Capitolo 14 - 4. Era of Chaos  Storia principale - Capitolo 14_4. 14-4 Qualcosa di inaspettato"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 14_4.md"
 toc: false

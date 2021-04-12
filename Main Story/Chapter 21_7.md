@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-7 Mai schiavo"
 permalink: /Main Story/Chapter 21_7/
 excerpt: "Capitolo 21 - 7. Era of Chaos  Storia principale - Capitolo 21_7. 21-7 Mai schiavo"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 21_7.md"
 toc: false

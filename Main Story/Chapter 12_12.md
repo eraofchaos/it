@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-12 Duello sotterraneo"
 permalink: /Main Story/Chapter 12_12/
 excerpt: "Capitolo 12 - 12. Era of Chaos  Storia principale - Capitolo 12_12. 12-12 Duello sotterraneo"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 12_12.md"
 toc: false

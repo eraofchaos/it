@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-9 L'anello degli Elfi"
 permalink: /Main Story/Chapter 18_9/
 excerpt: "Capitolo 18 - 9. Era of Chaos  Storia principale - Capitolo 18_9. 18-9 L'anello degli Elfi"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 18_9.md"
 toc: false

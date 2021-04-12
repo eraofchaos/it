@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-9 Per la patria"
 permalink: /Main Story/Chapter 7_9/
 excerpt: "Capitolo 7 - 9. Era of Chaos  Storia principale - Capitolo 7_9. 7-9 Per la patria"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 7_9.md"
 toc: false

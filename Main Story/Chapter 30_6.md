@@ -2,7 +2,7 @@
 title: "Storia principale -  - "
 permalink: /Main Story/Chapter 30_6/
 excerpt: " - 6. Era of Chaos  Storia principale - _6. "
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 30_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-11 L'alba della guerra"
 permalink: /Main Story/Chapter 13_11/
 excerpt: "Capitolo 13 - 11. Era of Chaos  Storia principale - Capitolo 13_11. 13-11 L'alba della guerra"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 13_11.md"
 toc: false

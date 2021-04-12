@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio eterno +1"
 permalink: /Items/mat_70/
 excerpt: "Era of Chaos  Mercurio eterno +1"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "mat_70.md"
 toc: false

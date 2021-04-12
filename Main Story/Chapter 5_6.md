@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-6 Accerchiati"
 permalink: /Main Story/Chapter 5_6/
 excerpt: "Capitolo 5 - 6. Era of Chaos  Storia principale - Capitolo 5_6. 5-6 Accerchiati"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 5_6.md"
 toc: false

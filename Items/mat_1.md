@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname inferiore"
 permalink: /Items/mat_1/
 excerpt: "Era of Chaos  Legname inferiore"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "mat_1.md"
 toc: false

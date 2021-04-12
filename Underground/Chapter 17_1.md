@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 17 - 17-1 La caverna di cristallo"
 permalink: /Underground/Chapter 17_1/
 excerpt: "Capitolo 17 - 1. Era of Chaos  Sottosuolo - Capitolo 17_1. 17-1 La caverna di cristallo"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 17_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 23 - 23-5 Diffusione"
 permalink: /Underground/Chapter 23_5/
 excerpt: "Capitolo 23 - 5. Era of Chaos  Sottosuolo - Capitolo 23_5. 23-5 Diffusione"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 23_5.md"
 toc: false

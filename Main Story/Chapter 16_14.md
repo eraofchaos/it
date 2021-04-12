@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-14 La gratitudine del Ranger"
 permalink: /Main Story/Chapter 16_14/
 excerpt: "Capitolo 16 - 14. Era of Chaos  Storia principale - Capitolo 16_14. 16-14 La gratitudine del Ranger"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 16_14.md"
 toc: false

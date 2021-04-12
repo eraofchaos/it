@@ -2,7 +2,7 @@
 title: "Item - Materials - Cristallo superiore +1"
 permalink: /Items/mat_24/
 excerpt: "Era of Chaos  Cristallo superiore +1"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "mat_24.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 27 - 27-1 Longevità"
 permalink: /Underground/Chapter 27_1/
 excerpt: "Capitolo 27 - 1. Era of Chaos  Sottosuolo - Capitolo 27_1. 27-1 Longevità"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 27_1.md"
 toc: false

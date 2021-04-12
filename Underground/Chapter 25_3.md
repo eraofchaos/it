@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 25 - 25-3 Lama insanguinata"
 permalink: /Underground/Chapter 25_3/
 excerpt: "Capitolo 25 - 3. Era of Chaos  Sottosuolo - Capitolo 25_3. 25-3 Lama insanguinata"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 25_3.md"
 toc: false

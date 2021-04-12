@@ -2,7 +2,7 @@
 title: "Storia principale -  Tunnel e trogloditi"
 permalink: /Main Story/Chapter 28/
 excerpt: ". Era of Chaos  Storia principale - . Tunnel e trogloditi"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 28.md"
 toc: false

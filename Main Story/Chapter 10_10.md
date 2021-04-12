@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-10 In cerca di uno spirito"
 permalink: /Main Story/Chapter 10_10/
 excerpt: "Capitolo 10 - 10. Era of Chaos  Storia principale - Capitolo 10_10. 10-10 In cerca di uno spirito"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 10_10.md"
 toc: false

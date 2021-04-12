@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 - 6-4 Una maledizione mortale"
 permalink: /Main Story/Chapter 6_4/
 excerpt: "Capitolo 6 - 4. Era of Chaos  Storia principale - Capitolo 6_4. 6-4 Una maledizione mortale"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 6_4.md"
 toc: false

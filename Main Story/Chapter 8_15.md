@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-15 Un'avanzata coraggiosa"
 permalink: /Main Story/Chapter 8_15/
 excerpt: "Capitolo 8 - 15. Era of Chaos  Storia principale - Capitolo 8_15. 8-15 Un'avanzata coraggiosa"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-12
 locale: it
 ref: "Chapter 8_15.md"
 toc: false
