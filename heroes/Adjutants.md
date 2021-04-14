@@ -6,6 +6,7 @@ last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutants.md"
 toc: false
+QR: adheroes
 classes: wide
 ---
  Aumenta il rango dell'eroe a 4 stelle per sbloccarla.

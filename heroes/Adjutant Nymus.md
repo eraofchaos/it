@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Aiutante Nymus"
 last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Nymus.md"
+QR: adhero_60803
 toc: false
 classes: wide
 ---

@@ -3,6 +3,7 @@ title: "Nymus"
 permalink: /heroes/Nymus/
 excerpt: "Era of Chaos Nymus. Nymus. Nymus è uno spirito esperto di combattimenti. Per le sue competenze, l'Arcidiavolo le ha affidato il compito di addestrare i Demoni dell'abisso. Il suo ritorno sul campo di battaglia scatena il terrore nel cuore dei nemici."
 heroID: 60803
+QR: hero_60803
 last_modified_at: 2021-04-14
 locale: it
 ref: "Nymus"
@@ -16,7 +17,7 @@ toc: true
 
  **Rate:** SR
 
- **User Rate:** R
+ **User Rate:** R+
 
  **Specialty:** Fantasmi infernali
 

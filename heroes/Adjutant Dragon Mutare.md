@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Aiutante Mutare (drago)"
 last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Dragon Mutare.md"
+QR: adhero_61302
 toc: false
 classes: wide
 ---

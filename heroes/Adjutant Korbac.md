@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Aiutante Korbac"
 last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Korbac.md"
+QR: adhero_61502
 toc: false
 classes: wide
 ---

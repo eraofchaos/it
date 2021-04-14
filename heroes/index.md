@@ -5,6 +5,7 @@ excerpt: "List of ALL Heroes in Era of Chaos"
 last_modified_at: 2021-04-14
 locale: it
 ref: "index.md"
+QR: heroes
 toc: false
 classes: wide
 ---
@@ -36,7 +37,7 @@ classes: wide
   | 24 | [Mullich](/it/heroes/Mullich/) | Castello | Cavaliere | **R** |  Carica | R+ |
   | 25 | [Mutare](/it/heroes/Mutare/) | Dungeon | Signore Supremo | **R** |  Torrente del Dungeon | R |
   | 26 | [Mutare (drago)](/it/heroes/Dragon Mutare/) | Dungeon | Signore Supremo | **SSR** |  Risveglio del Drago | SSR |
-  | 27 | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasmi infernali | R |
+  | 27 | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasmi infernali | R+ |
   | 28 | [Peter Lee](/it/heroes/Peter Lee/) | Baia | Pirata | **SR+** |  Salpa | R+ |
   | 29 | [Rashka](/it/heroes/Rashka/) | Inferno | Demoniaco | **SR** |  Signore del Fuoco | R |
   | 30 | [Roland](/it/heroes/Roland/) | Castello | Cavaliere | **SSR** |  Morale elevato | SR+ |

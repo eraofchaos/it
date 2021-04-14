@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Aiutante Monere"
 last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Monere.md"
+QR: adhero_60702
 toc: false
 classes: wide
 ---

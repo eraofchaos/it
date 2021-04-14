@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Aiutante Gem"
 last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Gem.md"
+QR: adhero_60304
 toc: false
 classes: wide
 ---

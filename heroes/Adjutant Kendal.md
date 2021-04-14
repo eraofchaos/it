@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Aiutante Kendal"
 last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Kendal.md"
+QR: adhero_60104
 toc: false
 classes: wide
 ---

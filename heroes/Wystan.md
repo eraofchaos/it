@@ -3,6 +3,7 @@ title: "Wystan"
 permalink: /heroes/Wystan/
 excerpt: "Era of Chaos Wystan. Wystan. Wystan è il più anziano dei generi di Re Tralossk, nonché secondo in linea di successione per il trono. Sono anni ormai che anela al titolo di Re."
 heroID: 61504
+QR: hero_61504
 last_modified_at: 2021-04-14
 locale: it
 ref: "Wystan"

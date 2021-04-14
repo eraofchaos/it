@@ -5,6 +5,7 @@ excerpt: "Era of Chaos  Aiutante Rashka"
 last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Rashka.md"
+QR: adhero_60802
 toc: false
 classes: wide
 ---
