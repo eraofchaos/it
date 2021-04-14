@@ -2,11 +2,37 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 17  Settimana della Baia
+
+  |  Date  |      Reward    |    Reward Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **26 Apr** | **3x [Elementale del mare](/it/Items/unt_275/)**  | Un gruppo di Elementali del mare è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **27 Apr** | **3x [Pirati di Regna](/it/Items/unt_273/)**  | Un gruppo di Pirati di Regna è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **28 Apr** | **100x <i class="fas fa-gem"/>**  | Le creature del covo dei pirati ti fanno omaggio di un mucchietto di Diamanti! |
+  | **29 Apr** | **3x [Scrigno Baia](/it/Items/con_1278/)**  | Le tue truppe della Baia ti portano in dono un gran numero di scrigni del tesoro preziosi! |
+  | **30 Apr** | **3x [Rune roster Baia](/it/Items/con_868/)**  | Le tue truppe della Baia ti portano in dono un gran numero di rune preziose! |
+  | **1 May** | **1x [Tartaruga draconica](/it/Items/unt_278/)**  | Un gruppo di Tartarughe draconiche è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **2 May** | **1x [Token Eroe universali](/it/Items/her_358/)**  | Gli abitanti della Baia dei Pirati ti offrono un token (eroe) universale! |
+
+
+#### 2021 Week 16  Settimana della Roccaforte
+
+  |  Date  |      Reward    |    Reward Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Apr** | **5x [Goblin](/it/Items/unt_217/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **20 Apr** | **5x [Domatore di lupi](/it/Items/unt_218/)**  | Un gruppo di Domatori di lupi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **21 Apr** | **100x <i class="fas fa-gem"/>**  | Gli Orchi al tuo comando hanno recuperato un cumulo di Diamanti! |
+  | **22 Apr** | **5x [Orco](/it/Items/unt_219/)**  | Un gruppo di Orchi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **23 Apr** | **3x [Ogre](/it/Items/unt_220/)**  | Un gruppo di Ogre è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **24 Apr** | **3x [Ciclopi](/it/Items/unt_222/)**  | Un gruppo di Ciclopi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **25 Apr** | **5x [Crag Hack](/it/Items/her_375/)**  | Le tue avventurose spedizioni hanno catturato l'interesse di Crag Hack, che ha deciso di unirsi al tuo esercito! |
+
 
 #### 2021 Week 15  Settimana della Confluenza
 

@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-10 I corni della vittoria"
 permalink: /Main Story/Chapter 28_10/
-excerpt: " - 10. Era of Chaos  Storia principale - _10. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 10. Era of Chaos  Storia principale - Capitolo 28_10. 28-10 I corni della vittoria"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_10.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-10 I corni della vittoria
 
- **Descrizione:** 
+ **Descrizione:** Quando l'esercito reale dell'Erathia finì di ricacciare i nemici dalle regioni orientali del continente, notizie della loro vittoria giunsero anche agli elfi di AvLee.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/it/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

@@ -3,7 +3,7 @@ title: "Strega malvagia"
 permalink: /units/Evil Sorceress/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un tempo era l'ancella divina del Tempio di Baa. La sua pelle è coperta di rune, che le donano un terrificante potere pari a quello dei demoni."
 unitID: 709
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Strega malvagia"
 toc: true
@@ -32,7 +32,7 @@ toc: true
 
  **Short description:** Riflette gli incantesimi. Applica buff con l'aura.
 
- **Position :** Riflette gli incantesimi. Applica buff con l'aura.
+ **Position :** Riflette i danni magici. Scatena un'onda d'urto che investe le anime dei nemici, stordendoli. L'Aura aumenta la Schivata.
 
 ## Statistiche base
  **Base HP: 6000.0**

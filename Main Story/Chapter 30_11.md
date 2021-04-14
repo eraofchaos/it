@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-11 La tenda dalle lunghe gambe"
 permalink: /Main Story/Chapter 30_11/
-excerpt: " - 11. Era of Chaos  Storia principale - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 11. Era of Chaos  Storia principale - Capitolo 30_11. 30-11 La tenda dalle lunghe gambe"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-11 La tenda dalle lunghe gambe
 
- **Descrizione:** 
+ **Descrizione:** I Demoni sono la colonna portante delle armate dell'Inferno. Dotati di corna affilate e protetti da una pelle spessa, sono perfetti per caricare e sfondare le linee nemiche.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

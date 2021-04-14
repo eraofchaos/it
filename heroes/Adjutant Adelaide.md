@@ -2,7 +2,7 @@
 title: "Aiutante Adelaide"
 permalink: /heroes/Adjutant Adelaide/
 excerpt: "Era of Chaos  Aiutante Adelaide"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Adelaide.md"
 toc: false
@@ -23,9 +23,9 @@ classes: wide
 
   | Livello Aiutante | Extra effect | Potere Aiutante  |
   |:---|:-------|:------------|
-  | **10** | Aumenta l'Intelligenza di tutti gli eroi alleati di 20. | **+1500** |
+  | **10** | Aumenta l'INT degli eroi alleati di 20 (tutti gli eroi). | **+1500** |
   | **20** | <Magia d'Acqua potenziata> Riduce di un ulteriore 15% la resistenza delle unità nemiche agli incantesimi di tipo Acqua. | - |
-  | **30** | Aumenta la Sapienza di tutti gli eroi alleati di 40. | **+1500** |
+  | **30** | Aumenta la SAP degli eroi alleati di 40 (tutti gli eroi). | **+1500** |
   | **40** | <Magia d'Acqua potenziata> Le unità alleate infliggono il 30% di danni in più ai nemici <congelati>. | - |
 
 

@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-4 L'albero della sapienza"
 permalink: /Main Story/Chapter 30_4/
-excerpt: " - 4. Era of Chaos  Storia principale - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 4. Era of Chaos  Storia principale - Capitolo 30_4. 30-4 L'albero della sapienza"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-4 L'albero della sapienza
 
- **Descrizione:** 
+ **Descrizione:** Con una manciata di gemme, chiunque può ottenere l'illuminazione dall'albero della sapienza. E i Demoni non fanno eccezione.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 20 - 20-5 Soffio di ghiaccio"
 permalink: /Underground/Chapter 20_5/
 excerpt: "Capitolo 20 - 5. Era of Chaos  Sottosuolo - Capitolo 20_5. 20-5 Soffio di ghiaccio"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 20_5.md"
 toc: false

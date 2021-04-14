@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-7 Adorare gli dei"
 permalink: /Main Story/Chapter 28_7/
-excerpt: " - 7. Era of Chaos  Storia principale - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 7. Era of Chaos  Storia principale - Capitolo 28_7. 28-7 Adorare gli dei"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-7 Adorare gli dei
 
- **Descrizione:** 
+ **Descrizione:** Hai scoperto un altare sacro, ma il suo potere è ormai svanito da tempo. Non puoi fare altro che girare le spalle, colmo di rimpianto.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 

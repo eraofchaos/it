@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-9 La raffineria di mercurio"
 permalink: /Main Story/Chapter 30_9/
-excerpt: " - 9. Era of Chaos  Storia principale - _9. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 9. Era of Chaos  Storia principale - Capitolo 30_9. 30-9 La raffineria di mercurio"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_9.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-9 La raffineria di mercurio
 
- **Descrizione:** 
+ **Descrizione:** Il mercurio è uno degli ingredienti essenziali per le arti alchemiche. Di conseguenza, molti alchimisti, ivi compresi gli stregoni malvagi, posseggono raffinerie di mercurio private.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

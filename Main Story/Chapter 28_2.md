@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-2 Il potere della foresta"
 permalink: /Main Story/Chapter 28_2/
-excerpt: " - 2. Era of Chaos  Storia principale - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 2. Era of Chaos  Storia principale - Capitolo 28_2. 28-2 Il potere della foresta"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-2 Il potere della foresta
 
- **Descrizione:** 
+ **Descrizione:** Quando si tratta di combattere in una foresta, tutte le fazioni temono le possenti unità del Baluardo; la loro capacità di muoversi agilmente tra gli alberi scatena il panico persino nel cuore dei demoni.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 

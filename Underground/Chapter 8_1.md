@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 8 - 8-1 Strategie"
 permalink: /Underground/Chapter 8_1/
 excerpt: "Capitolo 8 - 1. Era of Chaos  Sottosuolo - Capitolo 8_1. 8-1 Strategie"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 8_1.md"
 toc: false

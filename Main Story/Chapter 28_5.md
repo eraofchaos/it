@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-5 Misert"
 permalink: /Main Story/Chapter 28_5/
-excerpt: " - 5. Era of Chaos  Storia principale - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 5. Era of Chaos  Storia principale - Capitolo 28_5. 28-5 Misert"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-5 Misert
 
- **Descrizione:** 
+ **Descrizione:** Questa fortezza degli umani al limitare della foresta è stata conquistata dai Signori del Dungeon e trasformata in un centro di comando avanzato per operazioni di guerra.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/it/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

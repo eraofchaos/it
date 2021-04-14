@@ -2,7 +2,7 @@
 title: "Aiutante Mullich"
 permalink: /heroes/Adjutant Mullich/
 excerpt: "Era of Chaos  Aiutante Mullich"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Mullich.md"
 toc: false
@@ -23,9 +23,9 @@ classes: wide
 
   | Livello Aiutante | Extra effect | Potere Aiutante  |
   |:---|:-------|:------------|
-  | **10** | Aumenta l'ATT di tutti gli eroi alleati di 20. | **+1500** |
+  | **10** | Aumenta l'ATT degli eroi alleati di 20 (tutti gli eroi). | **+1500** |
   | **20** | <Oltre le linee nemiche> Aumenta di un ulteriore 10% la Rid DAN. | - |
-  | **30** | Aumenta la DIF di tutti gli eroi alleati di 40. | **+1500** |
+  | **30** | Aumenta la DIF degli eroi alleati di 40 (tutti gli eroi). | **+1500** |
   | **40** | <Oltre le linee nemiche> Rende immuni a <rallentamento> e <stordimento>. | - |
 
 

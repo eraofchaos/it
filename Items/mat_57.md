@@ -2,7 +2,7 @@
 title: "Item - Materials - Zolfo leggendario +3"
 permalink: /Items/mat_57/
 excerpt: "Era of Chaos  Zolfo leggendario +3"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "mat_57.md"
 toc: false

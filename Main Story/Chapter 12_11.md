@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-11 L'unione fa la forza"
 permalink: /Main Story/Chapter 12_11/
 excerpt: "Capitolo 12 - 11. Era of Chaos  Storia principale - Capitolo 12_11. 12-11 L'unione fa la forza"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 12_11.md"
 toc: false

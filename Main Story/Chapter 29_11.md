@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-11 La tomba del guerriero"
 permalink: /Main Story/Chapter 29_11/
-excerpt: " - 11. Era of Chaos  Storia principale - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 11. Era of Chaos  Storia principale - Capitolo 29_11. 29-11 La tomba del guerriero"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-11 La tomba del guerriero
 
- **Descrizione:** 
+ **Descrizione:** Qui giace un rinomato guerriero. Le tue truppe entrano con riluttanza nella sua tomba. Ne escono poco dopo, a mani vuote e alquanto demoralizzate.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 

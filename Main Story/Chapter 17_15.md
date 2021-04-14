@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-15 L'invasione del male"
 permalink: /Main Story/Chapter 17_15/
 excerpt: "Capitolo 17 - 15. Era of Chaos  Storia principale - Capitolo 17_15. 17-15 L'invasione del male"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 17_15.md"
 toc: false

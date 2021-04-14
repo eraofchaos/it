@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "index.md"
 toc: false
@@ -36,18 +36,19 @@ classes: wide
   | 24 | [Mullich](/it/heroes/Mullich/) | Castello | Cavaliere | **R** |  Carica | R+ |
   | 25 | [Mutare](/it/heroes/Mutare/) | Dungeon | Signore Supremo | **R** |  Torrente del Dungeon | R |
   | 26 | [Mutare (drago)](/it/heroes/Dragon Mutare/) | Dungeon | Signore Supremo | **SSR** |  Risveglio del Drago | SSR |
-  | 27 | [Peter Lee](/it/heroes/Peter Lee/) | Baia | Pirata | **SR+** |  Salpa | R+ |
-  | 28 | [Rashka](/it/heroes/Rashka/) | Inferno | Demoniaco | **SR** |  Signore del Fuoco | R |
-  | 29 | [Roland](/it/heroes/Roland/) | Castello | Cavaliere | **SSR** |  Morale elevato | SR+ |
-  | 30 | [Ryland](/it/heroes/Ryland/) | Baluardo | Ranger | **SR** |  Guardia Dendroide | R |
-  | 31 | [Sandro](/it/heroes/Sandro/) | Necropoli | Negromante | **SSR** |  Calar delle tenebre | SSR |
-  | 32 | [Sandro (umano)](/it/heroes/Human Sandro/) | Necropoli | Negromante | **SR+** |  Anima immortale | SR |
-  | 33 | [Sephinroth](/it/heroes/Sephinroth/) | Dungeon | Stregone | **R** |  Sguardo cristallizzante | R |
-  | 34 | [Shiva](/it/heroes/Shiva/) | Roccaforte | Barbaro | **R** |  Portatore di tempeste | R |
-  | 35 | [Solmyr](/it/heroes/Solmyr/) | Torre | Mago | **SR+** |  Catena di luce | SR |
-  | 36 | [Tazar](/it/heroes/Tazar/) | Fortezza | Domatore | **SSR** |  Furia sanguinaria | SR |
-  | 37 | [Vidomina](/it/heroes/Vidomina/) | Necropoli | Negromante | **SR+** |  Negromante | R |
-  | 38 | [Wystan](/it/heroes/Wystan/) | Fortezza | Domatore | **R** |  Cacciatore della palude | R |
-  | 39 | [Xeron](/it/heroes/Xeron/) | Inferno | Demoniaco | **SSR** |  Arcidiavolo | SSR |
-  | 40 | [Yog](/it/heroes/Yog/) | Roccaforte | Barbaro | **SR** |  Ciclope infuriato | SR |
-  | 41 | [Zydar](/it/heroes/Zydar/) | Inferno | Eretico | **R** |  Evocazione dell'Inferno | R |
+  | 27 | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasmi infernali | R |
+  | 28 | [Peter Lee](/it/heroes/Peter Lee/) | Baia | Pirata | **SR+** |  Salpa | R+ |
+  | 29 | [Rashka](/it/heroes/Rashka/) | Inferno | Demoniaco | **SR** |  Signore del Fuoco | R |
+  | 30 | [Roland](/it/heroes/Roland/) | Castello | Cavaliere | **SSR** |  Morale elevato | SR+ |
+  | 31 | [Ryland](/it/heroes/Ryland/) | Baluardo | Ranger | **SR** |  Guardia Dendroide | R |
+  | 32 | [Sandro](/it/heroes/Sandro/) | Necropoli | Negromante | **SSR** |  Calar delle tenebre | SSR |
+  | 33 | [Sandro (umano)](/it/heroes/Human Sandro/) | Necropoli | Negromante | **SR+** |  Anima immortale | SR |
+  | 34 | [Sephinroth](/it/heroes/Sephinroth/) | Dungeon | Stregone | **R** |  Sguardo cristallizzante | R |
+  | 35 | [Shiva](/it/heroes/Shiva/) | Roccaforte | Barbaro | **R** |  Portatore di tempeste | R |
+  | 36 | [Solmyr](/it/heroes/Solmyr/) | Torre | Mago | **SR+** |  Catena di luce | SR |
+  | 37 | [Tazar](/it/heroes/Tazar/) | Fortezza | Domatore | **SSR** |  Furia sanguinaria | SR |
+  | 38 | [Vidomina](/it/heroes/Vidomina/) | Necropoli | Negromante | **SR+** |  Negromante | R |
+  | 39 | [Wystan](/it/heroes/Wystan/) | Fortezza | Domatore | **R** |  Cacciatore della palude | R |
+  | 40 | [Xeron](/it/heroes/Xeron/) | Inferno | Demoniaco | **SSR** |  Arcidiavolo | SSR |
+  | 41 | [Yog](/it/heroes/Yog/) | Roccaforte | Barbaro | **SR** |  Ciclope infuriato | SR |
+  | 42 | [Zydar](/it/heroes/Zydar/) | Inferno | Eretico | **R** |  Evocazione dell'Inferno | R |

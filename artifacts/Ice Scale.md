@@ -2,7 +2,7 @@
 title: "Manufatti - Specchio della vendetta - Squama ghiacciata"
 permalink: /artifacts/Ice Scale/
 excerpt: "Era of Chaos  Specchio della vendetta - Squama ghiacciata. Un oggetto in grado di imbrigliare la magia del Gelo. Uno dei componenti dello Specchio della vendetta."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "Ice Scale.md"
 toc: false

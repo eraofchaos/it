@@ -3,7 +3,7 @@ title: "Demone dell'abisso"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Demone dell'abisso"
 toc: true
@@ -166,6 +166,7 @@ toc: true
 ### Bonus eroe
 * [Kendal](/it/heroes/Kendal/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/it/heroes/Nymus/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
 unitID: 401
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Goblin"
 toc: true

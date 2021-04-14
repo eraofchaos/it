@@ -2,7 +2,7 @@
 title: "Sottosuolo"
 permalink: /Underground/
 excerpt: "Sottosuolo. Era of Chaos  Sottosuolo."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "index.md"
 toc: false
@@ -38,3 +38,6 @@ classes: wide
   | **25** | [Sottosuolo Capitolo 25 - Una terra addormentata](/it/Underground/Capitolo 25/) | **96** | La strada per raggiungere Welnin è irta di ostacoli. Se vogliamo realizzare il nostro sogno di indipendenza, dobbiamo evitare l'Erathia e raggiungere Welnin per allestire un campo base. | 
   | **26** | [Sottosuolo Capitolo 26 - Il suono del destino](/it/Underground/Capitolo 26/) | **100** | Il manufatto è giunto a Welnin, ma con esso sono giunte anche le armate di Erathia e AvLee. La guerra potrebbe scoppiare da un momento all'altro. | 
   | **27** | [Sottosuolo Capitolo 27 - La via del pellegrino](/it/Underground/Capitolo 27/) | **104** | - | 
+  | **28** | [Sottosuolo Capitolo 28 - Tunnel e trogloditi](/it/Underground/Capitolo 28/) | **106** | - | 
+  | **29** | [Sottosuolo Capitolo 29 - Un patto col Demone](/it/Underground/Capitolo 29/) | **108** | - | 
+  | **30** | [Sottosuolo Capitolo 30 - La salvezza del re](/it/Underground/Capitolo 30/) | **110** | - | 

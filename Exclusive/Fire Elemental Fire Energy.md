@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - Energia del Fuoco"
+title: "Esclusivo - Energia del Fuoco (Fire Elemental)"
 permalink: /Exclusive/Fire Elemental Fire Energy/
 excerpt: "Era of Chaos Energia del Fuoco. Energia del Fuoco. Era of Chaos Esclusivo Energia del Fuoco. Elementale del fuoco Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Fire Elemental Energia del Fuoco.md"
 toc: false
@@ -31,11 +31,11 @@ classes: wide
   |:-------------|:---------------:|:---------------:|
   |  Risveglio  | **100x** [Token Energia del Fuoco](/it/Items/con_998/) | <Tripletta infuocata> Ogni 20 secondi, l'Elementale del fuoco scaglia palle di fuoco 3 volte, danneggiando le unità nell'area bersaglio. Gli attacchi colpiscono un'area d'effetto piccola, molto piccola e ampia (in quest'ordine), infliggendo danni pari al 90%, 120% e 150% dell'ATT. La <Combustione> causata dall'attacco dura 5 secondi. |
   | **1x** <i class="fas fa-star"/> | **50x** [Token Energia del Fuoco](/it/Items/con_998/) | Perforazione dell'Elementale del fuoco aumentata di 150. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Energia del Fuoco](/it/Items/con_998/) | L'Elementale del fuoco gode di ATT aumentato del 20% e DAN aumentato del 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Energia del Fuoco](/it/Items/con_998/) | All'inizio della battaglia, l'Elementale del fuoco riceve uno <scudo> pari al 100% dei propri PF massimi. Il fuoco che lo circonda infligge danni pari al 10% del suo ATT ogni secondo alle unità nemiche in un'area ristretta. Questo effetto non può essere rimosso. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Energia del Fuoco](/it/Items/con_998/) | L'Elementale del fuoco gode di DAN CRIT aumentato del 20% e Vel ATT aumentata del 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Energia del Fuoco](/it/Items/con_998/) | L'Elementale del fuoco gode di ATT aumentato del 20% e DAN aumentato del 12%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Energia del Fuoco](/it/Items/con_998/) | All'inizio della battaglia, l'Elementale del fuoco riceve uno <scudo> pari al 100% dei propri PF massimi. Lo <scudo> aumenta del 30% la Rid DAN dell'Elementale del fuoco e infligge danni pari al 10% del suo ATT ogni secondo ai nemici in un'area ristretta. Questo effetto non può essere rimosso. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Energia del Fuoco](/it/Items/con_998/) | L'Elementale del fuoco gode di DAN CRIT aumentato del 20% e DIF aumentata del 15%. |
   | **5x** <i class="fas fa-star"/> | **210x** [Token Energia del Fuoco](/it/Items/con_998/) | L'Elementale del fuoco è immune ai danni degli incantesimi di tipo Fuoco. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Energia del Fuoco](/it/Items/con_998/) | <Riverbero elementale> Se un Elementale del fuoco è sul campo di battaglia, aumenta la Vel ATT di tutte le unità Confluenza del 10%. Ogni volta che usa <Tripletta infuocata>, aumenta la Vel ATT di tutte le unità Confluenza del 10%. L'effetto dura fino al termine della battaglia, ma non è cumulabile. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Energia del Fuoco](/it/Items/con_998/) | <Riverbero elementale> Se un Elementale del fuoco è sul campo di battaglia, aumenta del 30% la Vel ATT e del 10% l'assorbimento di tutte le unità Confluenza. Ogni volta che lancia la <Tripletta>, aumenta di un ulteriore 10% DAN e Rid DAN di tutte le unità Confluenza. L'effetto dura fino al termine della battaglia. Cumulabile fino a 5 volte. |
 
 
 ## Livello ↑

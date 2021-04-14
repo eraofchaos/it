@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - Spada"
+title: "Esclusivo - Spada (Regnan Pirates)"
 permalink: /Exclusive/Regnan Pirates Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Pirati di Regna Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Regnan Pirates Spada.md"
 toc: false

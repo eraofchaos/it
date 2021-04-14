@@ -3,7 +3,7 @@ title: "Folletto"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina."
 unitID: 501
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Folletto"
 toc: true
@@ -166,6 +166,7 @@ toc: true
 ### Bonus eroe
 * [Mephala](/it/heroes/Mephala/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Nymus](/it/heroes/Nymus/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 

@@ -2,7 +2,7 @@
 title: "Aiutante Mephala"
 permalink: /heroes/Adjutant Mephala/
 excerpt: "Era of Chaos  Aiutante Mephala"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Mephala.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Tecnica Aiutante:**  Formazione difensiva 
 
- **Descrizione:** Le unità di difesa alleate godono di un valore degli <scudi> aumentato di <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+ **Descrizione:** Le unità di difesa alleate godono di <parata> aumentata di <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

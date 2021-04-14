@@ -2,7 +2,7 @@
 title: "Storia principale"
 permalink: /Main Story/
 excerpt: "Storia principale. Era of Chaos  Storia principale."
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "index.md"
 toc: false
@@ -172,8 +172,8 @@ classes: wide
 
   | Nome |  Descrizione | 
   |:------------|:------------| 
-  | [](/it/Main Story/Chapter 28/) | Tunnel e trogloditi | 
-  | [](/it/Main Story/Chapter 29/) |  | 
-  | [](/it/Main Story/Chapter 30/) |  | 
+  | [Capitolo 28](/it/Main Story/Chapter 28/) | Tunnel e trogloditi | 
+  | [Capitolo 29](/it/Main Story/Chapter 29/) | Un patto col Demone | 
+  | [Capitolo 30](/it/Main Story/Chapter 30/) | La salvezza del re | 
 
 

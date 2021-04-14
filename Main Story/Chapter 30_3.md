@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-3 La sorgente del Pegaso"
 permalink: /Main Story/Chapter 30_3/
-excerpt: " - 3. Era of Chaos  Storia principale - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 3. Era of Chaos  Storia principale - Capitolo 30_3. 30-3 La sorgente del Pegaso"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-3 La sorgente del Pegaso
 
- **Descrizione:** 
+ **Descrizione:** Tutti sanno che il Pegaso alato è un simbolo sacro. Qui però non vedi alcuna guerriera Elfa ergersi eroicamente sul campo di battaglia.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

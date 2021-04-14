@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-6 Nuovi massacri"
 permalink: /Main Story/Chapter 9_6/
 excerpt: "Capitolo 9 - 6. Era of Chaos  Storia principale - Capitolo 9_6. 9-6 Nuovi massacri"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 9_6.md"
 toc: false

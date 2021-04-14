@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-13 Campo di addestramento per mercenari"
 permalink: /Main Story/Chapter 29_13/
-excerpt: " - 13. Era of Chaos  Storia principale - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 13. Era of Chaos  Storia principale - Capitolo 29_13. 29-13 Campo di addestramento per mercenari"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-13 Campo di addestramento per mercenari
 
- **Descrizione:** 
+ **Descrizione:** Hai trovato un campo di addestramento, ma il maestro istruttore è scomparso. Non potrai quindi approfittarne per imparare nuove abilità.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 

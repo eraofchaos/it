@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-10 Il castello di Borden"
 permalink: /Main Story/Chapter 20_10/
 excerpt: "Capitolo 20 - 10. Era of Chaos  Storia principale - Capitolo 20_10. 20-10 Il castello di Borden"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 20_10.md"
 toc: false

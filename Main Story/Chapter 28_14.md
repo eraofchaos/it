@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-14 Santuario sacro"
 permalink: /Main Story/Chapter 28_14/
-excerpt: " - 14. Era of Chaos  Storia principale - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 14. Era of Chaos  Storia principale - Capitolo 28_14. 28-14 Santuario sacro"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-14 Santuario sacro
 
- **Descrizione:** 
+ **Descrizione:** Il Santuario sacro offre da sempre protezione agli eroi, nascondendoli dai loro inseguitori.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 

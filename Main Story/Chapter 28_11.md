@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-11 La fossa comune"
 permalink: /Main Story/Chapter 28_11/
-excerpt: " - 11. Era of Chaos  Storia principale - _11. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 11. Era of Chaos  Storia principale - Capitolo 28_11. 28-11 La fossa comune"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_11.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-11 La fossa comune
 
- **Descrizione:** 
+ **Descrizione:** Hai trovato una fossa comune. I cadaveri che raccoglie sono stati colpiti da un incantesimo malvagio. Al passaggio dei vivi, gli scheletri si svegliano dal loro eterno riposo.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 

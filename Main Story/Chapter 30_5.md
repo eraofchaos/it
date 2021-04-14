@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-5 Il Falò Scoppiettante"
 permalink: /Main Story/Chapter 30_5/
-excerpt: " - 5. Era of Chaos  Storia principale - _5. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 5. Era of Chaos  Storia principale - Capitolo 30_5. 30-5 Il Falò Scoppiettante"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_5.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-5 Il Falò Scoppiettante
 
- **Descrizione:** 
+ **Descrizione:** Una città elfica deserta, priva di guardie o abitanti. Ti imbatti in una grande taverna, la cui insegna recita: \"Il Falò Scoppiettante\".
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Rashka](/it/heroes/Rashka/) (Score: 200000, Level:116)
 
  **Team:**
 

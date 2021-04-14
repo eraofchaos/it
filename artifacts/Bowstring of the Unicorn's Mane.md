@@ -2,7 +2,7 @@
 title: "Manufatti - Arco del Tiratore esperto - Corda d'arco di crine di unicorno"
 permalink: /artifacts/Bowstring of the Unicorn's Mane/
 excerpt: "Era of Chaos  Arco del Tiratore esperto - Corda d'arco di crine di unicorno. Una criniera offerta in dono agli Elfi da una bestia sacra. Uno dei componenti dell'Arco del Tiratore esperto."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "Bowstring of the Unicorn's Mane.md"
 toc: false

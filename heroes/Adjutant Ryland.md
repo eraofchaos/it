@@ -2,7 +2,7 @@
 title: "Aiutante Ryland"
 permalink: /heroes/Adjutant Ryland/
 excerpt: "Era of Chaos  Aiutante Ryland"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Ryland.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | Livello Aiutante | Extra effect | Potere Aiutante  |
   |:---|:-------|:------------|
   | **10** | Aumenta la DIF di tutti gli eroi alleati di 20. | **+1500** |
-  | **20** | <Baluardo potenziato> Aumenta il valore degli <scudi> di 100 punti extra. | - |
+  | **20** | <Baluardo potenziato> Aumenta la <parata> di 100 punti extra. | - |
   | **30** | Aumenta l'ATT di tutti gli eroi alleati di 40. | **+1500** |
   | **40** | <Baluardo potenziato> Aumenta di un ulteriore 10% le cure ricevute. Effetto raddoppiato per le unità Guardia Dendroide. | - |
 

@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Gorgone"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">Rid DAN della Gorgone aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">), più un 5% aggiuntivo per ogni debuff presente sul bersaglio. Cumulabile fino a 5 volte.</span><span style="color: black">
 
 ### Tecnica normale 3 : Maledizione selvaggia
- **Descrizione:** <span style="color: #645252;font-size:20px">CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) delle unità nemiche intorno alla Gorgone.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Riduce CRIT (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">) e DAN (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span></span><span style="color: black"><span style="color: #645252;font-size:20px">%) dei bersagli nelle vicinanze della Gorgone.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Attacco pestilenziale
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Fortezza sono efficaci nel diffondere &lt;Pestilenza&gt; e, quando affrontano unità affette da &lt;Pestilenza&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">

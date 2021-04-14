@@ -2,7 +2,7 @@
 title: "Manufatti - Specchio della vendetta"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Specchio della vendetta. Specchio della vendetta Un debole Mago ha usato incantesimi proibiti per creare questo malvagio manufatto intriso di sogni di vendetta. Usalo per aumentare il potere delle tue truppe."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "Mirror of Revenge.md"
 toc: false
@@ -52,5 +52,5 @@ classes: wide
   | **8** | La Rid DAN di tutte le unità alleate aumenta dell'1,5%. | 
   | **11** | L'assorbimento di tutte le unità alleate aumenta dell'1%. | 
   | **14** | La Rid DAN di tutte le unità alleate aumenta del 2,5%. | 
-  | **17** | Il valore degli <scudi> di tutte le unità alleate aumenta di 50. | 
+  | **17** | La <parata> di tutte le unità alleate aumenta di 50. | 
   | **20** | La Perforazione di tutte le unità alleate aumenta di 100. | 

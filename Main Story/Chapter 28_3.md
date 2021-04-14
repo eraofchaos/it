@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-3 Nell'abisso come in cielo"
 permalink: /Main Story/Chapter 28_3/
-excerpt: " - 3. Era of Chaos  Storia principale - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 3. Era of Chaos  Storia principale - Capitolo 28_3. 28-3 Nell'abisso come in cielo"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-3 Nell'abisso come in cielo
 
- **Descrizione:** 
+ **Descrizione:** Pur essendo creature del Sottosuolo, le Manticore sono dotate di ali immense. Grazie a questa caratteristica terrificante, sono in grado di attaccare con rapidissime picchiate.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 

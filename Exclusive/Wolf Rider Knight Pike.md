@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - Carica impetuosa"
+title: "Esclusivo - Carica impetuosa (Wolf Rider)"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Domatore di lupi Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Wolf Rider Carica impetuosa.md"
 toc: false

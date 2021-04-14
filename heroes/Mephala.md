@@ -3,7 +3,7 @@ title: "Mephala"
 permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Cresciuta come guerriera nell'esercito dell'Erathia, Mephala ha un talento naturale per utilizzare il terreno a proprio vantaggio. Pur preferendo la quiete del suo pacifico villaggio, continua a combattere per proteggere la propria terra. "
 heroID: 60302
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Mephala"
 toc: true
@@ -54,7 +54,7 @@ toc: true
 
  **Tecnica Aiutante:**  Formazione difensiva 
 
- **Descrizione:** Le unità di difesa alleate godono di un valore degli <scudi> aumentato di <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
+ **Descrizione:** Le unità di difesa alleate godono di <parata> aumentata di <span style="color: #48b946;font-size:20px">{(40+4*($sklevel-1))}</span><span style="color: black">.
 
 ## Informazioni combinazione
 

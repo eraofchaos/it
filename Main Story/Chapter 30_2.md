@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-2 La capanna diroccata"
 permalink: /Main Story/Chapter 30_2/
-excerpt: " - 2. Era of Chaos  Storia principale - _2. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 2. Era of Chaos  Storia principale - Capitolo 30_2. 30-2 La capanna diroccata"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_2.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-2 La capanna diroccata
 
- **Descrizione:** 
+ **Descrizione:** Un branco di Demoni sta saccheggiando le terre degli Elfi. Questa capanna, un tempo così confortevole, è ormai in rovina.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

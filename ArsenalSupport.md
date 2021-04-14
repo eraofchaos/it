@@ -2,7 +2,7 @@
 title: "Assistenza"
 permalink: /ArsenalSupport.html
 excerpt: "Era of Chaos  Assistenza. <span style="color: #8a5c1d;font-size:18px">Poiché lo spazio sul campo di battaglia è limitato, l'Accademia militare ha elaborato un incantesimo di supporto in grado di aumentare l'efficacia delle unità in combattimento. Questo incantesimo permette di trasferire le abilità delle unità di supporto alle unità in combattimento, potenziandole notevolmente.</span><br/><span style="color: #ffffff">　</span><br/>"
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "ArsenalSupport.md"
 toc: false

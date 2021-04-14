@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-4 L'Altare del sangue"
 permalink: /Main Story/Chapter 29_4/
-excerpt: " - 4. Era of Chaos  Storia principale - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 4. Era of Chaos  Storia principale - Capitolo 29_4. 29-4 L'Altare del sangue"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-4 L'Altare del sangue
 
- **Descrizione:** 
+ **Descrizione:** Hai distrutto un Altare del sangue. I fanatici si riuniscono in luoghi simili per lanciare incantesimi malvagi.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 

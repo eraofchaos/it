@@ -3,7 +3,7 @@ title: "Paladino"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
 unitID: 108
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Paladino"
 toc: true
@@ -191,7 +191,7 @@ toc: true
 ## Awaken Skills
 
 ### 1st Skill (or 2nd): Eliminazione temeraria
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi del valoroso&gt;</span><span style="color: #645252;font-size:18px">: i Seguaci del Santuario vengono promossi a Custodi del Santuario. Per ogni Custode del Santuario presente sul campo di battaglia, la DIF del Paladino Supremo aumenta del 15%. Il Santuario ripristina il 10% dei PF per le prime 3 evocazioni.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi del valoroso&gt;</span><span style="color: #645252;font-size:18px">: i Seguaci del Santuario vengono promossi a Custodi del Santuario. Per ogni Custode del Santuario presente sul campo di battaglia, la DIF del Paladino Supremo aumenta del 15%. Il Paladino Supremo recupera il 10% dei PF per le prime 3 evocazioni.</span>
 
 ### 2nd Skill (or 1st): Gloria del Santuario
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Rinforzi del valoroso&gt;</span><span style="color: #645252;font-size:18px">: i Seguaci del Santuario vengono promossi a Custodi del Santuario. Le prime 3 evocazioni aumentano del 10% DAN e Rid DAN delle tue unità per 30 secondi. Quando entra in battaglia, il Paladino Supremo evoca un Custode del Santuario.</span>

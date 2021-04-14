@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-14 Il tempio eccelso"
 permalink: /Main Story/Chapter 29_14/
-excerpt: " - 14. Era of Chaos  Storia principale - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 14. Era of Chaos  Storia principale - Capitolo 29_14. 29-14 Il tempio eccelso"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-14 Il tempio eccelso
 
- **Descrizione:** 
+ **Descrizione:** L'aura della foresta malvagia nasconde quella che un tempo era una chiesa. I corpi dei defunti hanno abbandonato le proprie tombe e vagano per la terra.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 

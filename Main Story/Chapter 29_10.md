@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-10 La Città di Fortuna"
 permalink: /Main Story/Chapter 29_10/
-excerpt: " - 10. Era of Chaos  Storia principale - _10. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 10. Era of Chaos  Storia principale - Capitolo 29_10. 29-10 La Città di Fortuna"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_10.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-10 La Città di Fortuna
 
- **Descrizione:** 
+ **Descrizione:** Questa città del Baluardo, chiamata Fortuna, ha tenuto fede al proprio nome, sopravvivendo intatta alla guerra.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/it/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

@@ -2,7 +2,7 @@
 title: "Manufatti - Alleanza Angelica - Elmo dell'Illuminazione Celeste"
 permalink: /artifacts/Helm of Heavenly Enlightenment/
 excerpt: "Era of Chaos  Alleanza Angelica - Elmo dell'Illuminazione Celeste. Una corona benedetta dagli dei. Uno dei componenti dell'Alleanza Angelica."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "Helm of Heavenly Enlightenment.md"
 toc: false

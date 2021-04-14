@@ -2,7 +2,7 @@
 title: "Aiutante Gem"
 permalink: /heroes/Adjutant Gem/
 excerpt: "Era of Chaos  Aiutante Gem"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Adjutant Gem.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Tecnica Aiutante:**  Rifugio naturale 
 
- **Descrizione:** Quando le unità Baluardo alleate ottengono uno <span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black">, il valore degli <scudi> aumenta di <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+ **Descrizione:** Quando le unità Baluardo alleate ottengono uno <span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black">, la <parata> aumenta di <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
 
 ## Extra bonus
 

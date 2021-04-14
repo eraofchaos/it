@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "Era of Chaos Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Faction Conflux"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
   | 2 | [Rapace di fuoco](/it/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
   | 3 | [Demone di ghiaccio](/it/units/Ice Demon/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
-  | 4 | [Leprecauno](/it/units/Leprechaun/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |
+  | 4 | [Leprecauno](/it/units/Leprechaun/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |
   | 5 | [Driade](/it/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
   | 6 | [Elementale tempesta](/it/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tempesta di fulmini  |
   | 7 | [Elementale del ghiaccio](/it/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Spirito della neve silente  |

@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-13 La terra stessa è lava"
 permalink: /Main Story/Chapter 30_13/
-excerpt: " - 13. Era of Chaos  Storia principale - _13. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 13. Era of Chaos  Storia principale - Capitolo 30_13. 30-13 La terra stessa è lava"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_13.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-13 La terra stessa è lava
 
- **Descrizione:** 
+ **Descrizione:** Il terreno bruciato circostante emana un forte tanfo di zolfo. Quando brucia, lo zolfo emette una fiamma verdastra e un inconfondibile odore pungente.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-11 La maschera di pietra"
 permalink: /Main Story/Chapter 16_11/
 excerpt: "Capitolo 16 - 11. Era of Chaos  Storia principale - Capitolo 16_11. 16-11 La maschera di pietra"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 16_11.md"
 toc: false

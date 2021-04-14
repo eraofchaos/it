@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - "
+title: "Esclusivo -  (Nightmare)"
 permalink: /Exclusive/Nightmare /
 excerpt: "Era of Chaos . . Era of Chaos Esclusivo . Incubo Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Nightmare .md"
 toc: false

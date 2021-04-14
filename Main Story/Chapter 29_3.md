@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-3 Biblioteca abbandonata"
 permalink: /Main Story/Chapter 29_3/
-excerpt: " - 3. Era of Chaos  Storia principale - _3. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 3. Era of Chaos  Storia principale - Capitolo 29_3. 29-3 Biblioteca abbandonata"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_3.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-3 Biblioteca abbandonata
 
- **Descrizione:** 
+ **Descrizione:** Affamato di conoscenza, entri in una biblioteca, ma la trovi completamente vuota. Né una persona né un libro in vista.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 

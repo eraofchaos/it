@@ -3,7 +3,7 @@ title: "Elementale del fuoco"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
 unitID: 904
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Elementale del fuoco"
 toc: true

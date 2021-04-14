@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-4 La mangia-uomini"
 permalink: /Main Story/Chapter 28_4/
-excerpt: " - 4. Era of Chaos  Storia principale - _4. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 4. Era of Chaos  Storia principale - Capitolo 28_4. 28-4 La mangia-uomini"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_4.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-4 La mangia-uomini
 
- **Descrizione:** 
+ **Descrizione:** Originariamente, il termine \"Manticora\" significava \"mangia-uomini\". Questo orrendo mostro è un ibrido tra un pipistrello, un leone e uno scorpione.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 

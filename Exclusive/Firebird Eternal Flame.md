@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - Fiamma eterna"
+title: "Esclusivo - Fiamma eterna (Firebird)"
 permalink: /Exclusive/Firebird Eternal Flame/
 excerpt: "Era of Chaos Fiamma eterna. Fiamma eterna. Era of Chaos Esclusivo Fiamma eterna. Rapace di fuoco Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Firebird Fiamma eterna.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-15 La città del tramonto"
 permalink: /Main Story/Chapter 28_15/
-excerpt: " - 15. Era of Chaos  Storia principale - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 15. Era of Chaos  Storia principale - Capitolo 28_15. 28-15 La città del tramonto"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-15 La città del tramonto
 
- **Descrizione:** 
+ **Descrizione:** Il grigio che domina l'area porta alla mente un drago anziano, potente ma già sulla strada del tramonto.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sephinroth](/it/heroes/Sephinroth/) (Score: 160000, Level:108)
 
  **Team:**
 

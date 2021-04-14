@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  "
+title: "Storia principale - Capitolo 29 Un patto col Demone"
 permalink: /Main Story/Chapter 29/
-excerpt: ". Era of Chaos  Storia principale - . "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29. Era of Chaos  Storia principale - Capitolo 29. Un patto col Demone"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29.md"
 toc: false
@@ -11,24 +11,24 @@ classes: wide
 
   | Nome |  Ricompensa primo completamento | Ricompensa |
   |:------------|:------------|:------------| 
-  | [](/it/Main Story/Chapter 29_1/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Gemme splendenti +5](/it/Items/mat_100/){: .btn .btn--era5}, [Cristallo stellare +4](/it/Items/mat_94/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_2/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Legname splendente +5](/it/Items/mat_97/){: .btn .btn--era5}, [Mercurio stellare +4](/it/Items/mat_91/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_3/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Mercurio splendente +5](/it/Items/mat_98/){: .btn .btn--era5}, [Zolfo stellare +4](/it/Items/mat_92/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_4/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Zolfo splendente +5](/it/Items/mat_99/){: .btn .btn--era5}, [Minerale stellare +4](/it/Items/mat_89/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_5/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Gemme splendenti +5](/it/Items/mat_100/){: .btn .btn--era5}, [Cristallo stellare +4](/it/Items/mat_94/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_6/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Cristallo splendente +5](/it/Items/mat_101/){: .btn .btn--era5}, [Gemme stellari +4](/it/Items/mat_93/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_7/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Minerale splendente +5](/it/Items/mat_96/){: .btn .btn--era5}, [Legname stellare +4](/it/Items/mat_90/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_8/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Legname splendente +5](/it/Items/mat_97/){: .btn .btn--era5}, [Mercurio stellare +4](/it/Items/mat_91/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_9/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Mercurio splendente +5](/it/Items/mat_98/){: .btn .btn--era5}, [Zolfo stellare +4](/it/Items/mat_92/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_10/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Zolfo splendente +5](/it/Items/mat_99/){: .btn .btn--era5}, [Minerale stellare +4](/it/Items/mat_89/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_11/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Gemme splendenti +5](/it/Items/mat_100/){: .btn .btn--era5}, [Cristallo stellare +4](/it/Items/mat_94/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_12/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Cristallo splendente +5](/it/Items/mat_101/){: .btn .btn--era5}, [Gemme stellari +4](/it/Items/mat_93/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_13/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Zolfo splendente +5](/it/Items/mat_99/){: .btn .btn--era5}, [Minerale stellare +4](/it/Items/mat_89/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_14/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Gemme splendenti +5](/it/Items/mat_100/){: .btn .btn--era5}, [Cristallo stellare +4](/it/Items/mat_94/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
-  | [](/it/Main Story/Chapter 29_15/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Cristallo splendente +5](/it/Items/mat_101/){: .btn .btn--era5}, [Gemme stellari +4](/it/Items/mat_93/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-1 La villa infestata](/it/Main Story/Chapter 29_1/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Gemme splendenti +5](/it/Items/mat_100/){: .btn .btn--era5}, [Cristallo stellare +4](/it/Items/mat_94/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-2 La tomba del Lich](/it/Main Story/Chapter 29_2/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Legname splendente +5](/it/Items/mat_97/){: .btn .btn--era5}, [Mercurio stellare +4](/it/Items/mat_91/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-3 Biblioteca abbandonata](/it/Main Story/Chapter 29_3/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Mercurio splendente +5](/it/Items/mat_98/){: .btn .btn--era5}, [Zolfo stellare +4](/it/Items/mat_92/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-4 L'Altare del sangue](/it/Main Story/Chapter 29_4/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Zolfo splendente +5](/it/Items/mat_99/){: .btn .btn--era5}, [Minerale stellare +4](/it/Items/mat_89/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-5 Il villaggio dei trifogli](/it/Main Story/Chapter 29_5/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Gemme splendenti +5](/it/Items/mat_100/){: .btn .btn--era5}, [Cristallo stellare +4](/it/Items/mat_94/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-6 La fattoria degli Elfi](/it/Main Story/Chapter 29_6/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Cristallo splendente +5](/it/Items/mat_101/){: .btn .btn--era5}, [Gemme stellari +4](/it/Items/mat_93/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-7 La foresta sacra](/it/Main Story/Chapter 29_7/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Minerale splendente +5](/it/Items/mat_96/){: .btn .btn--era5}, [Legname stellare +4](/it/Items/mat_90/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-8 I boschi avvizziti](/it/Main Story/Chapter 29_8/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Legname splendente +5](/it/Items/mat_97/){: .btn .btn--era5}, [Mercurio stellare +4](/it/Items/mat_91/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-9 Il capanno da caccia](/it/Main Story/Chapter 29_9/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Mercurio splendente +5](/it/Items/mat_98/){: .btn .btn--era5}, [Zolfo stellare +4](/it/Items/mat_92/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-10 La Città di Fortuna](/it/Main Story/Chapter 29_10/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Zolfo splendente +5](/it/Items/mat_99/){: .btn .btn--era5}, [Minerale stellare +4](/it/Items/mat_89/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-11 La tomba del guerriero](/it/Main Story/Chapter 29_11/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Gemme splendenti +5](/it/Items/mat_100/){: .btn .btn--era5}, [Cristallo stellare +4](/it/Items/mat_94/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-12 La rupe del Drago verde](/it/Main Story/Chapter 29_12/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Cristallo splendente +5](/it/Items/mat_101/){: .btn .btn--era5}, [Gemme stellari +4](/it/Items/mat_93/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-13 Campo di addestramento per mercenari](/it/Main Story/Chapter 29_13/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Zolfo splendente +5](/it/Items/mat_99/){: .btn .btn--era5}, [Minerale stellare +4](/it/Items/mat_89/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-14 Il tempio eccelso](/it/Main Story/Chapter 29_14/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Gemme splendenti +5](/it/Items/mat_100/){: .btn .btn--era5}, [Cristallo stellare +4](/it/Items/mat_94/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
+  | [29-15 L'abisso di Roccanera](/it/Main Story/Chapter 29_15/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Cristallo splendente +5](/it/Items/mat_101/){: .btn .btn--era5}, [Gemme stellari +4](/it/Items/mat_93/){: .btn .btn--era5}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3} |
 
 
-## Completa 
+## Completa Capitolo 29
 
  **Reward:**  **100x** <i class="fas fa-gem"/>
 

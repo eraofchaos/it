@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-8 La Gilda dei maghi"
 permalink: /Main Story/Chapter 20_8/
 excerpt: "Capitolo 20 - 8. Era of Chaos  Storia principale - Capitolo 20_8. 20-8 La Gilda dei maghi"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 20_8.md"
 toc: false

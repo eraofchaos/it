@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-15 L'abisso di Roccanera"
 permalink: /Main Story/Chapter 29_15/
-excerpt: " - 15. Era of Chaos  Storia principale - _15. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 15. Era of Chaos  Storia principale - Capitolo 29_15. 29-15 L'abisso di Roccanera"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_15.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-15 L'abisso di Roccanera
 
- **Descrizione:** 
+ **Descrizione:** Un'immane spaccatura divide a metà la terra. Il castello dell'abisso di Roccanera, ricolmo di truppe pronte a combattere, si erge sopra di essa.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 
@@ -29,7 +29,7 @@ classes: wide
 
 
 ## Fight against Team
- **Hero:** UNKNOWN
+ **Hero:** [Sandro](/it/heroes/Sandro/) (Score: 180000, Level:112)
 
  **Team:**
 

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-13 L'altare della battaglia"
 permalink: /Main Story/Chapter 15_13/
 excerpt: "Capitolo 15 - 13. Era of Chaos  Storia principale - Capitolo 15_13. 15-13 L'altare della battaglia"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 15_13.md"
 toc: false

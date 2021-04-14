@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-6 L'albero morto e la tavoletta di pietra"
 permalink: /Main Story/Chapter 30_6/
-excerpt: " - 6. Era of Chaos  Storia principale - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 6. Era of Chaos  Storia principale - Capitolo 30_6. 30-6 L'albero morto e la tavoletta di pietra"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-6 L'albero morto e la tavoletta di pietra
 
- **Descrizione:** 
+ **Descrizione:** Una lunga siccità ha fatto avvizzire le piante nei pressi del vulcano. Questa tavoletta di pietra, coperta di piante appassite, ha un aspetto particolarmente bizzarro.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

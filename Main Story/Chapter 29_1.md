@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-1 La villa infestata"
 permalink: /Main Story/Chapter 29_1/
-excerpt: " - 1. Era of Chaos  Storia principale - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 1. Era of Chaos  Storia principale - Capitolo 29_1. 29-1 La villa infestata"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-1 La villa infestata
 
- **Descrizione:** 
+ **Descrizione:** Una casa isolata e infestata. Dalle finestre si diffonde la rossa luce delle lampade. È l'abitazione di un famigerato Signore vampiro.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 

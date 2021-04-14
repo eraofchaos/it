@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-1 La sorgente magica"
 permalink: /Main Story/Chapter 30_1/
-excerpt: " - 1. Era of Chaos  Storia principale - _1. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 1. Era of Chaos  Storia principale - Capitolo 30_1. 30-1 La sorgente magica"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_1.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-1 La sorgente magica
 
- **Descrizione:** 
+ **Descrizione:** Alla vista della sorgente, le truppe vengono colte da un attacco di sete improvviso. Prima di poterla estinguere, però, dovrete eliminare i Segugi infernali che difendono l'area.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

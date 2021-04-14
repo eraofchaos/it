@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - Sguardo oscuro"
+title: "Esclusivo - Sguardo oscuro (Beholder)"
 permalink: /Exclusive/Beholder Dark Gaze/
 excerpt: "Era of Chaos Sguardo oscuro. Sguardo oscuro. Era of Chaos Esclusivo Sguardo oscuro. Osservatore Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Beholder Sguardo oscuro.md"
 toc: false

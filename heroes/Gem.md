@@ -3,7 +3,7 @@ title: "Gem"
 permalink: /heroes/Gem/
 excerpt: "Era of Chaos Gem. Gem. Gem è la più potente delle streghe di Enroth. Ha combattuto entrambe le guerre al servizio di Roland Pugno di Ferro. Dopo l'incoronazione di Roland, Gem si è trasferita definitivamente nell'Erathia."
 heroID: 60304
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Gem"
 toc: true
@@ -54,7 +54,7 @@ toc: true
 
  **Tecnica Aiutante:**  Rifugio naturale 
 
- **Descrizione:** Quando le unità Baluardo alleate ottengono uno <span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black">, il valore degli <scudi> aumenta di <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
+ **Descrizione:** Quando le unità Baluardo alleate ottengono uno <span style="color: #48b946;font-size:20px">&lt;scudo&gt;</span><span style="color: black">, la <parata> aumenta di <span style="color: #48b946;font-size:20px">{(50+5*($sklevel-1))}</span><span style="color: black">.
 
 ## Informazioni combinazione
 

@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-14 La roccaforte infernale"
 permalink: /Main Story/Chapter 30_14/
-excerpt: " - 14. Era of Chaos  Storia principale - _14. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 14. Era of Chaos  Storia principale - Capitolo 30_14. 30-14 La roccaforte infernale"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_14.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-14 La roccaforte infernale
 
- **Descrizione:** 
+ **Descrizione:** Gli Efreet, abitanti del Sottosuolo, assumono spesso il ruolo di consiglieri militari e strateghi per le armate dell'Inferno.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

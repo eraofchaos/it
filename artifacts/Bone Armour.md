@@ -2,7 +2,7 @@
 title: "Manufatti - Armatura dei Dannati - Armatura d'Ossa"
 permalink: /artifacts/Bone Armour/
 excerpt: "Era of Chaos  Armatura dei Dannati - Armatura d'Ossa. Un armatura realizzata con ossa dure. Uno dei componenti dell'Armatura dei Dannati."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "Bone Armour.md"
 toc: false

@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-12 Il poligono delle palle di fuoco"
 permalink: /Main Story/Chapter 30_12/
-excerpt: " - 12. Era of Chaos  Storia principale - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 12. Era of Chaos  Storia principale - Capitolo 30_12. 30-12 Il poligono delle palle di fuoco"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-12 Il poligono delle palle di fuoco
 
- **Descrizione:** 
+ **Descrizione:** Le Gog posseggono una maestria innata nella manipolazione del fuoco. Per allenarsi nel lancio delle palle di fuoco, usano i propri prigionieri come bersagli.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

@@ -2,7 +2,7 @@
 title: "Manufatti - Potenza del Padre dei Draghi"
 permalink: /artifacts/Power of the Dragon Father/
 excerpt: "Era of Chaos  Potenza del Padre dei Draghi. Potenza del Padre dei Draghi Una reliquia sacra forgiata a partire da oggetti preziosi tramite il potere del Re dei Draghi. Può ridurre il danno magico."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "Power of the Dragon Father.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Elisir Vitale - Anello della Vitalità"
 permalink: /artifacts/Ring of Vitality/
 excerpt: "Era of Chaos  Elisir Vitale - Anello della Vitalità. Un anello che fornisce energia. Uno dei componenti dell'Elisir Vitale."
-last_modified_at: 2021-04-11
+last_modified_at: 2021-04-14
 locale: it
 ref: "Ring of Vitality.md"
 toc: false

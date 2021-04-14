@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-8 L'Altare del fuoco"
 permalink: /Main Story/Chapter 30_8/
-excerpt: " - 8. Era of Chaos  Storia principale - _8. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 8. Era of Chaos  Storia principale - Capitolo 30_8. 30-8 L'Altare del fuoco"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_8.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-8 L'Altare del fuoco
 
- **Descrizione:** 
+ **Descrizione:** Uno dei modi per stabilire un collegamento tra il Piano di Confluenza e questo mondo è grazie all'attrazione tra elementi dello stesso tipo. Gli Altari del fuoco sono quindi spesso posizionati vicino alle fiamme.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-6 La fattoria degli Elfi"
 permalink: /Main Story/Chapter 29_6/
-excerpt: " - 6. Era of Chaos  Storia principale - _6. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 6. Era of Chaos  Storia principale - Capitolo 29_6. 29-6 La fattoria degli Elfi"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_6.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-6 La fattoria degli Elfi
 
- **Descrizione:** 
+ **Descrizione:** Gli Elfi hanno un talento innato per il tiro con l'arco e amano vivere in fattorie come questa. In particolare, quelli che abitano qui sono estremamente ostili nei confronti dei visitatori inattesi.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 

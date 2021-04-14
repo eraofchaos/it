@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 22 - 22-1 Il seme della vita"
 permalink: /Underground/Chapter 22_1/
 excerpt: "Capitolo 22 - 1. Era of Chaos  Sottosuolo - Capitolo 22_1. 22-1 Il seme della vita"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 22_1.md"
 toc: false

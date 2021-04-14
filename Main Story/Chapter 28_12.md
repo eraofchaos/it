@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 28 - 28-12 Il tempio abbandonato"
 permalink: /Main Story/Chapter 28_12/
-excerpt: " - 12. Era of Chaos  Storia principale - _12. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 28 - 12. Era of Chaos  Storia principale - Capitolo 28_12. 28-12 Il tempio abbandonato"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 28_12.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 28-12 Il tempio abbandonato
 
- **Descrizione:** 
+ **Descrizione:** Una chiesa abbandonata. Occupata da un negromante e avvolta dai suoi vili incantesimi, è ormai diventata un tempio per l'evocazione di Scheletri.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 28/)
+ **Related to:** [Storia principale Capitolo 28](/it/Main Story/Chapter 28/)
 
 ## Ricompensa
 

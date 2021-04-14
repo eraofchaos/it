@@ -3,7 +3,7 @@ title: "Uomo lucertola"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda."
 unitID: 802
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Uomo lucertola"
 toc: true

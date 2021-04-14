@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-6 Un complotto alla luce del sole"
 permalink: /Main Story/Chapter 8_6/
 excerpt: "Capitolo 8 - 6. Era of Chaos  Storia principale - Capitolo 8_6. 8-6 Un complotto alla luce del sole"
-last_modified_at: 2021-04-12
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 8_6.md"
 toc: false

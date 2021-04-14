@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - Scudo dell'Iride"
+title: "Esclusivo - Scudo dell'Iride (Dwarf)"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Gnomo Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Dwarf Scudo dell'Iride.md"
 toc: false

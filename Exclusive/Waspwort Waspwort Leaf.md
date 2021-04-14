@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - Foglia d'Erbavespa"
+title: "Esclusivo - Foglia d'Erbavespa (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Foglia d'Erbavespa. Foglia d'Erbavespa. Era of Chaos Esclusivo Foglia d'Erbavespa. Erbavespa Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Waspwort Foglia d'Erbavespa.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | ? | <Foglia velenosa> Quando le unità alleate evocate vengono sconfitte, l'Erbavespa inietta il proprio veleno nelle unità nemiche, <paralizzandole> per 5 secondi. Rimuove inoltre 1 carica di buff. |
   | **4x** <i class="fas fa-star"/> | ? | DAN aumentato del 6% per ogni unità Fortezza sul campo di battaglia. |
   | **5x** <i class="fas fa-star"/> | ? | Quando i PF dell'Erbavespa scendono sotto il 33% per la prima volta, gode di Rid DAN aumentata del 40% per 7 secondi. Non può essere rimosso. Inoltre, <stordisce> le unità nemiche circostanti per 5 secondi. |
-  | **6x** <i class="fas fa-star"/> | ? | <Corrosione velenosa> Quando l'Erbavespa infligge un colpo critico, ha il 20% di probabilità di infliggere danni aggiuntivi pari al 40% e ridurre del 7% la Rid DAN e di 70 il valore dello <scudo> del bersaglio per 8 secondi. Cumulabile fino a 3 volte. |
+  | **6x** <i class="fas fa-star"/> | ? | <Corrosione velenosa> Quando l'Erbavespa infligge un colpo critico, ha il 20% di probabilità di infliggere danni aggiuntivi pari al 40% e ridurre del 7% la Rid DAN e di 70 la <parata> del bersaglio per 8 secondi. Cumulabile fino a 3 volte. |
 
 
 ## Livello ↑

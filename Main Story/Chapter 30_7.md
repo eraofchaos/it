@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 30 - 30-7 Le miniere di zolfo"
 permalink: /Main Story/Chapter 30_7/
-excerpt: " - 7. Era of Chaos  Storia principale - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 30 - 7. Era of Chaos  Storia principale - Capitolo 30_7. 30-7 Le miniere di zolfo"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 30_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 30-7 Le miniere di zolfo
 
- **Descrizione:** 
+ **Descrizione:** Dove c'è del magma è possibile trovare zolfo in abbondanza, ma questo luogo è protetto dalle truppe dell'Inferno.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 30/)
+ **Related to:** [Storia principale Capitolo 30](/it/Main Story/Chapter 30/)
 
 ## Ricompensa
 

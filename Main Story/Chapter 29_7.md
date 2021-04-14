@@ -1,8 +1,8 @@
 ---
-title: "Storia principale -  - "
+title: "Storia principale - Capitolo 29 - 29-7 La foresta sacra"
 permalink: /Main Story/Chapter 29_7/
-excerpt: " - 7. Era of Chaos  Storia principale - _7. "
-last_modified_at: 2021-04-12
+excerpt: "Capitolo 29 - 7. Era of Chaos  Storia principale - Capitolo 29_7. 29-7 La foresta sacra"
+last_modified_at: 2021-04-14
 locale: it
 ref: "Chapter 29_7.md"
 toc: false
@@ -11,11 +11,11 @@ classes: wide
 
 ## Dettagli
 
- **Nome:** 
+ **Nome:** 29-7 La foresta sacra
 
- **Descrizione:** 
+ **Descrizione:** L'invasione del male ha distrutto la tana degli Unicorni sacri. Impazziti dal dolore e dal desiderio di vendetta, gli Unicorni hanno preso ad attaccare i viandanti.
 
- **Related to:** [Storia principale ](/it/Main Story/Chapter 29/)
+ **Related to:** [Storia principale Capitolo 29](/it/Main Story/Chapter 29/)
 
 ## Ricompensa
 

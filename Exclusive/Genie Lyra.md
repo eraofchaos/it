@@ -1,8 +1,8 @@
 ---
-title: "Esclusivo - Lira"
+title: "Esclusivo - Lira (Genie)"
 permalink: /Exclusive/Genie Lyra/
 excerpt: "Era of Chaos Lira. Lira. Era of Chaos Esclusivo Lira. Genio Esclusivo."
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Genie Lira.md"
 toc: false

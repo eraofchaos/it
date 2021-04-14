@@ -3,7 +3,7 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2021-04-01
+last_modified_at: 2021-04-14
 locale: it
 ref: "Efreet"
 toc: true
@@ -169,6 +169,7 @@ toc: true
 ### Bonus eroe
 * [Rashka](/it/heroes/Rashka/)  ->   Specialità: <i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>, <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 * [Xeron](/it/heroes/Xeron/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
+* [Dracon](/it/heroes/Dracon/)  ->   Specialità: <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> 
 
 ## Talento
 
