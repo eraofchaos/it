@@ -2,12 +2,15 @@
 title: "Emblema sacro - Soffio del Re dei Draghi"
 permalink: /Emblem/Dragon King's Breath/
 excerpt: "Era of Chaos Soffio del Re dei Draghi. Soffio del Re dei Draghi. Era of Chaos Emblema sacro Soffio del Re dei Draghi. Era of Chaos Malvagio Soffio del Re dei Draghi"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Dragon King's Breath.md"
 toc: false
+QR: rune_505
 classes: wide
 ---
+
+  ![Soffio del Re dei Draghi](/images/r/rune_icon_505.png)
 
  **Nome:** Soffio del Re dei Draghi
 

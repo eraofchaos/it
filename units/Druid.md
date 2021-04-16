@@ -3,11 +3,13 @@ title: "Druido"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Druido"
 toc: true
 ---
+  ![Druido](/images/u/ti_deluyi.jpg)
+
 ## General information
  **Descrizione:** Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Arcidruido](/images/u/tia_deluyi.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

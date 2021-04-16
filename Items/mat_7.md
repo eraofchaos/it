@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname comune"
 permalink: /Items/mat_7/
 excerpt: "Era of Chaos  Legname comune"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "mat_7.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Diavolo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie."
 unitID: 507
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Diavolo"
 toc: true
 ---
+  ![Diavolo](/images/u/ti_daemo.jpg)
+
 ## General information
  **Descrizione:** Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Arcidiavolo](/images/u/tia_daemo.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

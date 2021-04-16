@@ -2,7 +2,7 @@
 title: "Spallacci di piastre"
 permalink: /equipment/Plated Shoulderpads/
 excerpt: "Era of Chaos Spallacci di piastre. Spallacci di piastre"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Plated Shoulderpads.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 Angelo custode"
 permalink: /Main Story/Chapter 3/
 excerpt: "Capitolo 3. Era of Chaos  Storia principale - Capitolo 3. Angelo custode"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 3.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
  Reward 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** ESP unità
+ Reward 4:  **1000x** [ESP unità](/it/Items/con_902/)
 
 
 
@@ -48,17 +48,17 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** ESP unità
+ Reward 4:  **1500x** [ESP unità](/it/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_201
+ Reward 1:  **1x** [Centauro](/it/units/Centaur/)
 
  Reward 2: **5 x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** ESP unità
+ Reward 4:  **2000x** [ESP unità](/it/Items/con_902/)
 

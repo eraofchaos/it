@@ -3,11 +3,13 @@ title: "Gnomo"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli."
 unitID: 202
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Gnomo"
 toc: true
 ---
+  ![Gnomo](/images/u/ti_airen.jpg)
+
 ## General information
  **Descrizione:** Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli.
 
@@ -183,6 +185,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

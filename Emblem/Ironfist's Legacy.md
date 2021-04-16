@@ -2,12 +2,15 @@
 title: "Emblema sacro - Retaggio dei Pugno di Ferro"
 permalink: /Emblem/Ironfist's Legacy/
 excerpt: "Era of Chaos Retaggio dei Pugno di Ferro. Retaggio dei Pugno di Ferro. Era of Chaos Emblema sacro Retaggio dei Pugno di Ferro. Era of Chaos Ordine Retaggio dei Pugno di Ferro"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Ironfist's Legacy.md"
 toc: false
+QR: rune_103
 classes: wide
 ---
+
+  ![Retaggio dei Pugno di Ferro](/images/r/rune_icon_103.png)
 
  **Nome:** Retaggio dei Pugno di Ferro
 

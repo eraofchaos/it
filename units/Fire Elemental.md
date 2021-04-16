@@ -3,11 +3,13 @@ title: "Elementale del fuoco"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
 unitID: 904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Elementale del fuoco"
 toc: true
 ---
+  ![Elementale del fuoco](/images/u/ti_liehuoyuansu.jpg)
+
 ## General information
  **Descrizione:** Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Energia elementale](/images/u/tia_liehuoyuansu.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

@@ -3,13 +3,15 @@ title: "Addestratore di squali"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo fatale si aggira per gli oceani in sella a uno squalo e brandendo una scimitarra."
 unitID: 9909
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Addestratore di squali"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Addestratore di squali](/images/u/ti_xunshashi.jpg)
 
 ## General information
  **Descrizione:** L'Incubo fatale si aggira per gli oceani in sella a uno squalo e brandendo una scimitarra.
@@ -216,6 +218,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Cavalcasquali](/images/u/tia_xunshashi.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

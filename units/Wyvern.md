@@ -3,11 +3,13 @@ title: "Viverna"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Viverna"
 toc: true
 ---
+  ![Viverna](/images/u/ti_feilong.jpg)
+
 ## General information
  **Descrizione:** Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Viverna Monarca](/images/u/tia_feilong.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

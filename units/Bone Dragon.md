@@ -3,11 +3,13 @@ title: "Drago scheletrico"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Drago scheletrico"
 toc: true
 ---
+  ![Drago scheletrico](/images/u/ti_gulong.jpg)
+
 ## General information
  **Descrizione:** I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Drago fantasma](/images/u/tia_gulong.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

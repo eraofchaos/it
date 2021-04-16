@@ -2,7 +2,7 @@
 title: "Item - Materials - Legname di buona qualità"
 permalink: /Items/mat_13/
 excerpt: "Era of Chaos  Legname di buona qualità"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "mat_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-4 La corona posseduta"
 permalink: /Main Story/Chapter 17_4/
 excerpt: "Capitolo 17 - 4. Era of Chaos  Storia principale - Capitolo 17_4. 17-4 La corona posseduta"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 17_4.md"
 toc: false

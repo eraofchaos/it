@@ -2,7 +2,7 @@
 title: "Frecce di giada"
 permalink: /equipment/Arrows of Jade/
 excerpt: "Era of Chaos Frecce di giada. Frecce di giada"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Arrows of Jade.md"
 toc: false

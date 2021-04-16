@@ -3,11 +3,13 @@ title: "Mummia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Mummia"
 toc: true
 ---
+  ![Mummia](/images/u/ti_munaiyi.jpg)
+
 ## General information
  **Descrizione:** I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Re delle Mummie](/images/u/tia_munaiyi.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

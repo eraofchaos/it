@@ -4,11 +4,13 @@ permalink: /heroes/Cassanbel/
 excerpt: "Era of Chaos Cassanbel. Cassanbel. Pur avendo perso il proprio \"padre\" a causa delle azioni degli umani, Cassanbel ha scelto di aiutare tutti coloro che vivono sul mare."
 heroID: 61701
 QR: hero_61701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Cassanbel"
 toc: true
 ---
+  ![Cassanbel](/images/h/h_Cassanbel.jpg)
+
  **Descrizione:** Pur avendo perso il proprio \"padre\" a causa delle azioni degli umani, Cassanbel ha scelto di aiutare tutti coloro che vivono sul mare.
 ## Dettagli
  **Profession:** Creature oceaniche

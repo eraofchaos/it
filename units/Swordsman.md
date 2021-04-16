@@ -3,11 +3,13 @@ title: "Spadaccino"
 permalink: /units/Swordsman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Spadaccino"
 toc: true
 ---
+  ![Spadaccino](/images/u/ti_shizijun.jpg)
+
 ## General information
  **Descrizione:** I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Crociato](/images/u/tia_shizijun.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

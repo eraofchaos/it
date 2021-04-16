@@ -3,11 +3,13 @@ title: "Monaco"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Monaco"
 toc: true
 ---
+  ![Monaco](/images/u/ti_senglv.jpg)
+
 ## General information
  **Descrizione:** I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate.
 
@@ -167,6 +169,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Fanatico](/images/u/tia_senglv.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

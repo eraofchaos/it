@@ -2,12 +2,15 @@
 title: "Emblema sacro - Chiave di pietra del cancello"
 permalink: /Emblem/Stone Key to the Gates/
 excerpt: "Era of Chaos Chiave di pietra del cancello. Chiave di pietra del cancello. Era of Chaos Emblema sacro Chiave di pietra del cancello. Era of Chaos Neutrale Chiave di pietra del cancello"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Stone Key to the Gates.md"
 toc: false
+QR: rune_302
 classes: wide
 ---
+
+  ![Chiave di pietra del cancello](/images/r/rune_icon_302.png)
 
  **Nome:** Chiave di pietra del cancello
 

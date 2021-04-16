@@ -2,12 +2,15 @@
 title: "Emblema sacro - Testimonianza"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Testimonianza. Testimonianza. Era of Chaos Emblema sacro Testimonianza. Era of Chaos Bontà Testimonianza"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Witness.md"
 toc: false
+QR: rune_201
 classes: wide
 ---
+
+  ![Testimonianza](/images/r/rune_icon_201.png)
 
  **Nome:** Testimonianza
 

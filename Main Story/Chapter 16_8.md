@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-8 Un Centauro in trappola"
 permalink: /Main Story/Chapter 16_8/
 excerpt: "Capitolo 16 - 8. Era of Chaos  Storia principale - Capitolo 16_8. 16-8 Un Centauro in trappola"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 16_8.md"
 toc: false

@@ -3,13 +3,15 @@ title: "Mantide"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le sue immense, affilatissime lame la distinguono come una vera creatura leggendaria. Gli elfi di Vori hanno donato una resistenza preternaturale alla Mantide."
 unitID: 209
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Mantide"
 toc: true
 ---
 **Warning** This unit is not released yet, provided information can be changed later or may contain inconsistency!
 {: .notice--danger}
+
+  ![Mantide](/images/u/ti_tanglang.jpg)
 
 ## General information
  **Descrizione:** Le sue immense, affilatissime lame la distinguono come una vera creatura leggendaria. Gli elfi di Vori hanno donato una resistenza preternaturale alla Mantide.
@@ -185,6 +187,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_dujiaoshou.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

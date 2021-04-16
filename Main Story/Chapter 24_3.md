@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-3 Il miglior amico dei mortali"
 permalink: /Main Story/Chapter 24_3/
 excerpt: "Capitolo 24 - 3. Era of Chaos  Storia principale - Capitolo 24_3. 24-3 Il miglior amico dei mortali"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 24_3.md"
 toc: false

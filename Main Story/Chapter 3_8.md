@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-8 Il giardino delle rivelazioni"
 permalink: /Main Story/Chapter 3_8/
 excerpt: "Capitolo 3 - 8. Era of Chaos  Storia principale - Capitolo 3_8. 3-8 Il giardino delle rivelazioni"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 3_8.md"
 toc: false

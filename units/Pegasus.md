@@ -3,11 +3,13 @@ title: "Pegaso"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Pegasi sono leggendarie creature silvane. Questi esseri sono compagni fedeli dei più forti tra gli elfi e combattono per preservare la pace nella foresta."
 unitID: 204
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Pegaso"
 toc: true
 ---
+  ![Pegaso](/images/u/ti_feima.jpg)
+
 ## General information
  **Descrizione:** I Pegasi sono leggendarie creature silvane. Questi esseri sono compagni fedeli dei più forti tra gli elfi e combattono per preservare la pace nella foresta.
 
@@ -180,6 +182,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Pegaso Argenteo](/images/u/tia_yinyifeima.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

@@ -3,11 +3,13 @@ title: "Demone"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Demone"
 toc: true
 ---
+  ![Demone](/images/u/ti_changjiaoemo.jpg)
+
 ## General information
  **Descrizione:** I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Guardia infernale](/images/u/tia_changjiaoemo.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

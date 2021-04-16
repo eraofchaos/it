@@ -3,11 +3,13 @@ title: "Efreet"
 permalink: /units/Efreeti/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Efreet"
 toc: true
 ---
+  ![Efreet](/images/u/ti_liehuojingling.jpg)
+
 ## General information
  **Descrizione:** Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Efreet Sultano](/images/u/tia_liehuojingling.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

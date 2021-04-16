@@ -3,11 +3,13 @@ title: "Aeronave magica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Aeronave magica"
 toc: true
 ---
+  ![Aeronave magica](/images/u/ti_reqiqiu.jpg)
+
 ## General information
  **Descrizione:** L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida.
 
@@ -176,6 +178,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

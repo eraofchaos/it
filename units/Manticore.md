@@ -3,11 +3,13 @@ title: "Manticora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Manticora"
 toc: true
 ---
+  ![Manticora](/images/u/ti_shixie.jpg)
+
 ## General information
  **Descrizione:** Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore.
 
@@ -168,6 +170,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Scorpicora](/images/u/tia_shixie.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

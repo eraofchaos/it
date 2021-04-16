@@ -3,11 +3,13 @@ title: "Guardia Dendroide"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici."
 unitID: 205
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Guardia Dendroide"
 toc: true
 ---
+  ![Guardia Dendroide](/images/u/ti_shuyao.jpg)
+
 ## General information
  **Descrizione:** Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Soldato Dendroide](/images/u/tia_shuyao.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

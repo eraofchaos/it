@@ -2,7 +2,7 @@
 title: "Artigli del fulmine"
 permalink: /equipment/Claws of Lightning/
 excerpt: "Era of Chaos Artigli del fulmine. Artigli del fulmine"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Claws of Lightning.md"
 toc: false

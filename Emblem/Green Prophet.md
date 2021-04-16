@@ -2,12 +2,15 @@
 title: "Emblema sacro - Profeta verde"
 permalink: /Emblem/Green Prophet/
 excerpt: "Era of Chaos Profeta verde. Profeta verde. Era of Chaos Emblema sacro Profeta verde. Era of Chaos Bontà Profeta verde"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Green Prophet.md"
 toc: false
+QR: rune_204
 classes: wide
 ---
+
+  ![Profeta verde](/images/r/rune_icon_204.png)
 
  **Nome:** Profeta verde
 

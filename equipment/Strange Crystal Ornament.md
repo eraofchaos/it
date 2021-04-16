@@ -2,7 +2,7 @@
 title: "Bizzarro ornamento di cristallo"
 permalink: /equipment/Strange Crystal Ornament/
 excerpt: "Era of Chaos Bizzarro ornamento di cristallo. Bizzarro ornamento di cristallo"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Strange Crystal Ornament.md"
 toc: false

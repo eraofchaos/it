@@ -2,7 +2,7 @@
 title: "Artigli feroci"
 permalink: /equipment/Ferocious Claws/
 excerpt: "Era of Chaos Artigli feroci. Artigli feroci"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Ferocious Claws.md"
 toc: false

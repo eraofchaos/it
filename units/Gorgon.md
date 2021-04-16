@@ -3,11 +3,13 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Gorgone"
 toc: true
 ---
+  ![Gorgone](/images/u/ti_manniu.jpg)
+
 ## General information
  **Descrizione:** Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude.
 
@@ -188,6 +190,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Gorgone Invincibile](/images/u/tia_manniu.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

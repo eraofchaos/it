@@ -4,11 +4,13 @@ permalink: /heroes/Human Sandro/
 excerpt: "Era of Chaos Sandro (umano). Sandro (umano). La forma umana di Sandro, un giovane mago giunto per mare da Enroth per studiare come apprendista presso Eric, a Bracada. Le sue vere intenzioni, però, sono nascoste persino ai suoi insegnanti e compagni."
 heroID: 60503
 QR: hero_60503
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Human Sandro"
 toc: true
 ---
+  ![Sandro (umano)](/images/h/h_HumanSandro.jpg)
+
  **Descrizione:** La forma umana di Sandro, un giovane mago giunto per mare da Enroth per studiare come apprendista presso Eric, a Bracada. Le sue vere intenzioni, però, sono nascoste persino ai suoi insegnanti e compagni.
 ## Dettagli
  **Profession:** Negromante

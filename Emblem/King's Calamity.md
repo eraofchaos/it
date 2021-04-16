@@ -2,12 +2,15 @@
 title: "Emblema sacro - Calamità del Re"
 permalink: /Emblem/King's Calamity/
 excerpt: "Era of Chaos Calamità del Re. Calamità del Re. Era of Chaos Emblema sacro Calamità del Re. Era of Chaos Malvagio Calamità del Re"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "King's Calamity.md"
 toc: false
+QR: rune_502
 classes: wide
 ---
+
+  ![Calamità del Re](/images/r/rune_icon_502.png)
 
  **Nome:** Calamità del Re
 

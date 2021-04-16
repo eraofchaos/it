@@ -2,13 +2,15 @@
 title: "Aiutante Caterina"
 permalink: /heroes/Adjutant Catherine/
 excerpt: "Era of Chaos  Aiutante Caterina"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Adjutant Catherine.md"
 QR: adhero_60102
 toc: false
 classes: wide
 ---
+  ![Caterina](/images/h/h_Catherine.jpg)
+
  [List of ALL Aiutantes](/it/heroes/Adjutants/) 
 
 ## Dettagli

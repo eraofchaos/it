@@ -3,11 +3,13 @@ title: "Anima"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Anima"
 toc: true
 ---
+  ![Anima](/images/u/ti_youling.jpg)
+
 ## General information
  **Descrizione:** Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Spettro](/images/u/tia_youling.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

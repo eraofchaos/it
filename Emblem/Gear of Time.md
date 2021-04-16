@@ -2,12 +2,15 @@
 title: "Emblema sacro - Meccanismo temporale"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Meccanismo temporale. Meccanismo temporale. Era of Chaos Emblema sacro Meccanismo temporale. Era of Chaos Bontà Meccanismo temporale"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Gear of Time.md"
 toc: false
+QR: rune_205
 classes: wide
 ---
+
+  ![Meccanismo temporale](/images/r/rune_icon_205.png)
 
  **Nome:** Meccanismo temporale
 

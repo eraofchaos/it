@@ -2,7 +2,7 @@
 title: "Cranio ospite"
 permalink: /equipment/Host Cranium/
 excerpt: "Era of Chaos Cranio ospite. Cranio ospite"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Host Cranium.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano."
 unitID: 403
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Orco"
 toc: true
 ---
+  ![Orco](/images/u/ti_shourentoufushou.jpg)
+
 ## General information
  **Descrizione:** Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Orco comandante](/images/u/tia_banshouren.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

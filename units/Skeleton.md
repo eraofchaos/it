@@ -3,11 +3,13 @@ title: "Scheletro"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Scheletro"
 toc: true
 ---
+  ![Scheletro](/images/u/ti_kulouzhanshi.jpg)
+
 ## General information
  **Descrizione:** Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Scheletro guerriero](/images/u/tia_kulouzhanshi.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

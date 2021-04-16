@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio - Ascia del Minotauro"
 permalink: /artifacts/Minotaur's Battleaxe/
 excerpt: "Era of Chaos  Spada di Ghiaccio - Ascia del Minotauro. Ascia da battaglia appartenuta al Minotauro. Uno dei componenti della Spada di Ghiaccio."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Minotaur's Battleaxe.md"
 toc: false

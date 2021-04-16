@@ -3,11 +3,13 @@ title: "Arpia"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Arpia"
 toc: true
 ---
+  ![Arpia](/images/u/ti_yingshenren.jpg)
+
 ## General information
  **Descrizione:** Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio.
 
@@ -171,6 +173,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Arpia deforme](/images/u/tia_yingshenren.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

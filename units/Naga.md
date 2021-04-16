@@ -3,11 +3,13 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue."
 unitID: 606
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Naga"
 toc: true
 ---
+  ![Naga](/images/u/ti_shenv.jpg)
+
 ## General information
  **Descrizione:** Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Regina delle Naga](/images/u/ti_najia.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

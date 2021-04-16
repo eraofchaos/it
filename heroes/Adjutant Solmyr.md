@@ -2,13 +2,15 @@
 title: "Aiutante Solmyr"
 permalink: /heroes/Adjutant Solmyr/
 excerpt: "Era of Chaos  Aiutante Solmyr"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Adjutant Solmyr.md"
 QR: adhero_61201
 toc: false
 classes: wide
 ---
+  ![Solmyr](/images/h/h_Solmyr.jpg)
+
  [List of ALL Aiutantes](/it/heroes/Adjutants/) 
 
 ## Dettagli

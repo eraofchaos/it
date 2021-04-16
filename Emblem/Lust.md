@@ -2,12 +2,15 @@
 title: "Emblema sacro - Lussuria"
 permalink: /Emblem/Lust/
 excerpt: "Era of Chaos Lussuria. Lussuria. Era of Chaos Emblema sacro Lussuria. Era of Chaos Caos Lussuria"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Lust.md"
 toc: false
+QR: rune_405
 classes: wide
 ---
+
+  ![Lussuria](/images/r/rune_icon_405.png)
 
  **Nome:** Lussuria
 

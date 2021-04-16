@@ -2,7 +2,7 @@
 title: "Item - Materials - Minerale epico +2"
 permalink: /Items/mat_47/
 excerpt: "Era of Chaos  Minerale epico +2"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "mat_47.md"
 toc: false

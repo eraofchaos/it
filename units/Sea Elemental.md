@@ -3,11 +3,13 @@ title: "Elementale del mare"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Elementale del mare"
 toc: true
 ---
+  ![Elementale del mare](/images/u/ti_haiyuansu.jpg)
+
 ## General information
  **Descrizione:** Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Elementale delle maree](/images/u/tia_shenv.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

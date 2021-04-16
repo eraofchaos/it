@@ -3,11 +3,13 @@ title: "Tiratore scelto"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Tiratore scelto"
 toc: true
 ---
+  ![Tiratore scelto](/images/u/ti_nushou.jpg)
+
 ## General information
  **Descrizione:** I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Maestro arciere](/images/u/tia_nushou.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

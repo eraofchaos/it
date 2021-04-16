@@ -3,11 +3,13 @@ title: "Angelo"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Angelo"
 toc: true
 ---
+  ![Angelo](/images/u/ti_datianshi.jpg)
+
 ## General information
  **Descrizione:** Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Arcangelo](/images/u/tia_datianshi.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

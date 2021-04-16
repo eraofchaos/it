@@ -2,7 +2,7 @@
 title: "Item - Materials - Gemme segrete +2"
 permalink: /Items/mat_79/
 excerpt: "Era of Chaos  Gemme segrete +2"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "mat_79.md"
 toc: false

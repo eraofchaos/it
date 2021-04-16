@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-7 Adorare gli dei"
 permalink: /Main Story/Chapter 28_7/
 excerpt: "Capitolo 28 - 7. Era of Chaos  Storia principale - Capitolo 28_7. 28-7 Adorare gli dei"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 28_7.md"
 toc: false

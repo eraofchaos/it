@@ -3,11 +3,13 @@ title: "Elfo del bosco"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
 unitID: 203
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Elfo del bosco"
 toc: true
 ---
+  ![Elfo del bosco](/images/u/ti_mujingling.jpg)
+
 ## General information
  **Descrizione:** Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Elfo Gigante](/images/u/tia_mujingling.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

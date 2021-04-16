@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-7 Il negromante traditore"
 permalink: /Main Story/Chapter 16_7/
 excerpt: "Capitolo 16 - 7. Era of Chaos  Storia principale - Capitolo 16_7. 16-7 Il negromante traditore"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 16_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artiglio abissale"
 permalink: /equipment/Abyss Claw/
 excerpt: "Era of Chaos Artiglio abissale. Artiglio abissale"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Abyss Claw.md"
 toc: false

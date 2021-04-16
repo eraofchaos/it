@@ -2,7 +2,7 @@
 title: "Manufatti - Potenza del Padre dei Draghi - Lingua di fuoco del Drago rosso"
 permalink: /artifacts/Red Dragon Flame Tongue/
 excerpt: "Era of Chaos  Potenza del Padre dei Draghi - Lingua di fuoco del Drago rosso. Una spada forgiata grazie ai cristalli draconici. Uno dei componenti della Potenza del Padre dei Draghi."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Red Dragon Flame Tongue.md"
 toc: false

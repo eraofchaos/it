@@ -3,11 +3,13 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
 unitID: 9905
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Sirena"
 toc: true
 ---
+  ![Sirena](/images/u/ti_meirenyu.jpg)
+
 ## General information
  **Descrizione:** Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_meirenyu.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

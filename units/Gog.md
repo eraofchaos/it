@@ -3,11 +3,13 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività."
 unitID: 502
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Gog"
 toc: true
 ---
+  ![Gog](/images/u/ti_touhuoguai.jpg)
+
 ## General information
  **Descrizione:** I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività.
 
@@ -178,6 +180,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Magog](/images/u/tia_touhuoguai.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

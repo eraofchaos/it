@@ -3,11 +3,13 @@ title: "Drago nero"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Drago nero"
 toc: true
 ---
+  ![Drago nero](/images/u/ti_heilong.jpg)
+
 ## General information
  **Descrizione:** Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Re dei Draghi neri](/images/u/tia_heilong.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

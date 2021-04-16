@@ -3,11 +3,13 @@ title: "Leviatano"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Leviatano"
 toc: true
 ---
+  ![Leviatano](/images/u/ti_haiguai.jpg)
+
 ## General information
  **Descrizione:** Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa.
 
@@ -184,6 +186,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Antico mostro marino](/images/u/tia_haiguai.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

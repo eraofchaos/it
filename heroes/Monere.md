@@ -4,11 +4,13 @@ permalink: /heroes/Monere/
 excerpt: "Era of Chaos Monere. Monere. Monere è nato con l'abilità di comandare Elementali magici e psichici. Il suo apporto come generale è irrinunciabile."
 heroID: 60702
 QR: hero_60702
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Monere"
 toc: true
 ---
+  ![Monere](/images/h/h_Monere.jpg)
+
  **Descrizione:** Monere è nato con l'abilità di comandare Elementali magici e psichici. Il suo apporto come generale è irrinunciabile.
 ## Dettagli
  **Profession:** Viaggiatore planare

@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Skeleton)"
 permalink: /Exclusive/Skeleton Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Scheletro Esclusivo."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Skeleton Scudo dell'Iride.md"
 toc: false

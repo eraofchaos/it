@@ -3,11 +3,13 @@ title: "Demone dell'abisso"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Demone dell'abisso"
 toc: true
 ---
+  ![Demone dell'abisso](/images/u/ti_diyulingzhu.jpg)
+
 ## General information
  **Descrizione:** I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Signore dell'abisso](/images/u/tia_diyulingzhu.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

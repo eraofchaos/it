@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-2 La capanna della strega"
 permalink: /Main Story/Chapter 2_2/
 excerpt: "Capitolo 2 - 2. Era of Chaos  Storia principale - Capitolo 2_2. 2-2 La capanna della strega"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 2_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Programma"
 permalink: /Schedule/
 excerpt: "Era of Chaos  Programma. Schedule for all near events and shop sales."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "index.md"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   | 4   | 14 Apr | 18 Apr | Pietra mistica a tempo limitato | Approfitta dell'evento Reclutamento Pietre mistiche a tempo limitato per ottenere le Pietre mistiche per unità SSR più popolari. | [Pietra mistica Leprecauno maggiore](/it/Items/unt_349/),  | 
   | 5   | 14 Apr | 18 Apr | Reclutamento a tempo limitato | Approfitta dell'evento Reclutamento a tempo limitato per ottenere le unità SSR più popolari. | [Leprecauno](/it/Items/unt_270/),  | 
   | 6   | 14 Apr | 18 Apr | Ricompensa Accesso | Accedi tutti i giorni durante l'evento per ottenere fantastiche ricompense! | [Leprecauno](/it/Items/unt_270/), [Rune roster Confluenza](/it/Items/con_791/), [Pozione ESP enorme](/it/Items/con_703/),  | 
-  | 7   | 14 Apr | 18 Apr | Ricompensa Reclutamento | Recluta le unità specificate per ottenere ricompense extra durante l'evento! | [Demone di ghiaccio](/it/Items/unt_269/), AVATARFRAME1091,  | 
+  | 7   | 14 Apr | 18 Apr | Ricompensa Reclutamento | Recluta le unità specificate per ottenere ricompense extra durante l'evento! | [Demone di ghiaccio](/it/Items/unt_269/),  AVATAR_FRAME_1091,  | 
   | 8   | 14 Apr | 18 Apr | Riscossione Contenuto esclusivo | Durante l'evento, puoi scambiare il Mithril del vuoto con delle esclusive armi per le unità! | [Token Lama del sottosuolo](/it/Items/con_979/), [Token Spada delle Naga](/it/Items/con_987/), [Token Coda di scorpione](/it/Items/con_992/),  | 
   | 9   | 14 Apr | 18 Apr | Sconto per acquisto singolo | Soddisfa i requisiti d'acquisto e seleziona una ricompensa. | [Mithril del vuoto](/it/Items/con_817/), [Biglietto Riscossione Emblemi sacri](/it/Items/con_513/), [Pacchetto Eroi Élite](/it/Items/con_1883/), [Scrigno Componenti Manufatto premium](/it/Items/con_1874/),  | 
   | 10   | 15 Apr | 19 Apr | Maestro dell'esplorazione | Esplora la mappa della Gilda per ottenere fantastiche ricompense! | [Token Cantico arcano](/it/Items/con_915/), [Scrigno Materiali rari](/it/Items/con_757/), [Scrigno Materiali base](/it/Items/con_756/),  | 
@@ -36,7 +36,7 @@ classes: wide
   | 21   | 21 Apr | 25 Apr | Riscossione Contenuto esclusivo | Durante l'evento, puoi scambiare il Mithril del vuoto con delle esclusive armi per le unità! | [Token Lama del sottosuolo](/it/Items/con_979/), [Token Spada delle Naga](/it/Items/con_987/), [Token Coda di scorpione](/it/Items/con_992/),  | 
   | 22   | 21 Apr | 25 Apr | Sconto per acquisto singolo | Soddisfa i requisiti d'acquisto e seleziona una ricompensa. | [Mithril del vuoto](/it/Items/con_817/), [Biglietto Riscossione Emblemi sacri](/it/Items/con_513/), [Pacchetto Eroi Élite](/it/Items/con_1883/), [Scrigno Componenti Manufatto premium](/it/Items/con_1874/),  | 
   | 23   | 21 Apr | 25 Apr | Sfida élite | Mettiti alla prova nei Livelli élite durante l'evento e vinci fantastici premi. | [Token Carica impetuosa](/it/Items/con_916/), [Cristallo viola](/it/Items/con_720/), [Pozione ESP enorme](/it/Items/con_703/),  | 
-  | 24   | 22 Apr | 26 Apr | Festa della Gilda | Partecipa alle attività della Gilda durante l'evento per ottenere fantastiche ricompense! | Moneta Gilda, Acciaio draconico, [Fiala media del legame energetico](/it/Items/con_725/),  | 
+  | 24   | 22 Apr | 26 Apr | Festa della Gilda | Partecipa alle attività della Gilda durante l'evento per ottenere fantastiche ricompense! | [Moneta Gilda](/it/Items/con_896/), [Acciaio draconico](/it/Items/con_880/), [Fiala media del legame energetico](/it/Items/con_725/),  | 
   | 25   | 23 Apr | 25 Apr | Celebrazione elementale | Sfide disponibili del Piano di Confluenza  +1 |  | 
   | 26   | 25 Apr | 28 Apr | Conversione Oro | Ottieni il doppio dell'Oro quando lo acquisti presso la stazione commerciale. |  | 
   | 27   | 25 Apr | 28 Apr | Registro di navigazione | Questa è la Settimana della Baia. Completa una missione speciale per ricevere un'esclusiva ricompensa della Baia! (Le missioni vengono resettate giornalmente) | [Bussola d'oro](/it/Items/con_815/), [Scrigno Baia](/it/Items/con_1278/), [Chiave d'oro](/it/Items/con_783/),  | 
@@ -47,7 +47,7 @@ classes: wide
   | 32   | 28 Apr | 2 May | Conversione Emblemi | Durante l'evento, scambia i biglietti con dei rari Emblemi sacri! | [Il sentiero dell'Assassino](/it/Emblem/Path of an Assassin/), [Santuario di Cosmos](/it/Emblem/Sanctuary of Kosmos/), [Colpevolezza di Tarnum](/it/Emblem/Tarnum's Culpability/), [Luce nell'oscurità](/it/Emblem/Darkness Enlightenment/), [Ira](/it/Emblem/Anger/),  | 
   | 33   | 28 Apr | 2 May | Patto a tempo limitato | I Comandanti più richiesti sono disponibili per un periodo limitato e aspettano solo di essere evocati! | [Veggente di Regna](/it/Items/unt_279/),  | 
   | 34   | 28 Apr | 2 May | Ricompensa Accesso | Accedi tutti i giorni durante l'evento per ottenere fantastiche ricompense! | [Scrigno Baia](/it/Items/con_1278/), [Rune roster Baia](/it/Items/con_868/), [Pozione ESP enorme](/it/Items/con_703/),  | 
-  | 35   | 28 Apr | 2 May | Ricompensa Reclutamento | Recluta le unità specificate per ottenere ricompense extra durante l'evento! | [Veggente di Regna](/it/Items/unt_279/), AVATARFRAME1082,  | 
+  | 35   | 28 Apr | 2 May | Ricompensa Reclutamento | Recluta le unità specificate per ottenere ricompense extra durante l'evento! | [Veggente di Regna](/it/Items/unt_279/),  AVATAR_FRAME_1082,  | 
   | 36   | 28 Apr | 2 May | Riscossione Contenuto esclusivo | Durante l'evento, puoi scambiare il Mithril del vuoto con delle esclusive armi per le unità! | [Token Lama del sottosuolo](/it/Items/con_979/), [Token Spada delle Naga](/it/Items/con_987/), [Token Coda di scorpione](/it/Items/con_992/),  | 
   | 37   | 28 Apr | 2 May | Sconto per acquisto singolo | Soddisfa i requisiti d'acquisto e seleziona una ricompensa. | [Mithril del vuoto](/it/Items/con_817/), [Biglietto Riscossione Emblemi sacri](/it/Items/con_513/), [Pacchetto Eroi Élite](/it/Items/con_1883/), [Scrigno Componenti Manufatto premium](/it/Items/con_1874/),  | 
   | 38   | 28 Apr | 30 Apr | Febbre dell'oro | Raddoppia l'oro ottenuto nella Tesoreria degli gnomi. |  | 

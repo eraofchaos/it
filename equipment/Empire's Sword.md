@@ -2,7 +2,7 @@
 title: "Spada dell'Impero"
 permalink: /equipment/Empire's Sword/
 excerpt: "Era of Chaos Spada dell'Impero. Spada dell'Impero"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Empire's Sword.md"
 toc: false

@@ -3,11 +3,13 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione."
 unitID: 201
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Centauro"
 toc: true
 ---
+  ![Centauro](/images/u/ti_banrenma.jpg)
+
 ## General information
  **Descrizione:** I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Capitano Centauro](/images/u/tia_banrenma.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

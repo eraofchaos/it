@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 Tatalia"
 permalink: /Main Story/Chapter 11/
 excerpt: "Capitolo 11. Era of Chaos  Storia principale - Capitolo 11. Tatalia"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 11.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **30000x** <i class="fas fa-coins"/>
 
- Reward 4:  **3000x** ESP unità
+ Reward 4:  **3000x** [ESP unità](/it/Items/con_902/)
 
 
 
@@ -54,17 +54,17 @@ classes: wide
 
  Reward 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** ESP unità
+ Reward 4:  **5000x** [ESP unità](/it/Items/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1: _TEAM_404
+ Reward 1:  **1x** [Ogre](/it/units/Ogre/)
 
  Reward 2: **20 x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
 
  Reward 3:  **80000x** <i class="fas fa-coins"/>
 
- Reward 4:  **8000x** ESP unità
+ Reward 4:  **8000x** [ESP unità](/it/Items/con_902/)
 

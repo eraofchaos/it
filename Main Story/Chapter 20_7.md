@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-7 La fanciulla magica"
 permalink: /Main Story/Chapter 20_7/
 excerpt: "Capitolo 20 - 7. Era of Chaos  Storia principale - Capitolo 20_7. 20-7 La fanciulla magica"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 20_7.md"
 toc: false

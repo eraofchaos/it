@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-12 Torre della sequoia"
 permalink: /Main Story/Chapter 3_12/
 excerpt: "Capitolo 3 - 12. Era of Chaos  Storia principale - Capitolo 3_12. 3-12 Torre della sequoia"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 3_12.md"
 toc: false

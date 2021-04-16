@@ -3,11 +3,13 @@ title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Arciere di Regna"
 toc: true
 ---
+  ![Arciere di Regna](/images/u/ti_ruigenanushou.jpg)
+
 ## General information
  **Descrizione:** Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio.
 
@@ -181,6 +183,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_baozang.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

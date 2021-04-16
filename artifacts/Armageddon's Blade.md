@@ -2,7 +2,7 @@
 title: "Manufatti - Spada dell'Armageddon"
 permalink: /artifacts/Armageddon's Blade/
 excerpt: "Era of Chaos  Spada dell'Armageddon. Spada dell'Armageddon La fiamma maledetta che brucerà la tua anima"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Armageddon's Blade.md"
 toc: false

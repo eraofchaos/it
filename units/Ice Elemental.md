@@ -3,11 +3,13 @@ title: "Elementale del ghiaccio"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Elementale del ghiaccio"
 toc: true
 ---
+  ![Elementale del ghiaccio](/images/u/ti_bingyuansu2.jpg)
+
 ## General information
  **Descrizione:** Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Spirito della neve silente](/images/u/tia_bingyuansu.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-5 Kerr, il re dei barbari"
 permalink: /Main Story/Chapter 21_5/
 excerpt: "Capitolo 21 - 5. Era of Chaos  Storia principale - Capitolo 21_5. 21-5 Kerr, il re dei barbari"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 21_5.md"
 toc: false

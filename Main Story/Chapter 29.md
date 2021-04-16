@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 Un patto col Demone"
 permalink: /Main Story/Chapter 29/
 excerpt: "Capitolo 29. Era of Chaos  Storia principale - Capitolo 29. Un patto col Demone"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 29.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **60000x** ESP unità
+ Reward 4:  **60000x** [ESP unità](/it/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** ESP unità
+ Reward 4:  **100000x** [ESP unità](/it/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **11000x** ESP unità
+ Reward 4:  **11000x** [ESP unità](/it/Items/con_902/)
 

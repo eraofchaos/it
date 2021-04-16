@@ -2,7 +2,7 @@
 title: "Manufatti - Potenza del Padre dei Draghi - Armatura di squame di Drago"
 permalink: /artifacts/Dragon Scale Armour/
 excerpt: "Era of Chaos  Potenza del Padre dei Draghi - Armatura di squame di Drago. Un'armatura benedetta dal Drago Sacro. Uno dei componenti della Potenza del Padre dei Draghi."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Dragon Scale Armour.md"
 toc: false

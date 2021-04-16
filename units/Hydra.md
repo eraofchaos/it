@@ -3,11 +3,13 @@ title: "Idra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Idra"
 toc: true
 ---
+  ![Idra](/images/u/ti_duotoulong.jpg)
+
 ## General information
  **Descrizione:** Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano.
 
@@ -173,6 +175,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Idra del Caos](/images/u/tia_duotoulong.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

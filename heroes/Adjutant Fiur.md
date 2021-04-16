@@ -2,13 +2,15 @@
 title: "Aiutante Fiur"
 permalink: /heroes/Adjutant Fiur/
 excerpt: "Era of Chaos  Aiutante Fiur"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Adjutant Fiur.md"
 QR: adhero_60704
 toc: false
 classes: wide
 ---
+  ![Fiur](/images/h/h_Fiur.jpg)
+
  [List of ALL Aiutantes](/it/heroes/Adjutants/) 
 
 ## Dettagli

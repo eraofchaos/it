@@ -3,11 +3,13 @@ title: "Basilisco"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
 unitID: 804
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Basilisco"
 toc: true
 ---
+  ![Basilisco](/images/u/ti_xiyi.jpg)
+
 ## General information
  **Descrizione:** Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà.
 
@@ -176,6 +178,9 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/tia_xiyi.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

@@ -2,12 +2,15 @@
 title: "Emblema sacro - Fuoco antico"
 permalink: /Emblem/Ancient Fire/
 excerpt: "Era of Chaos Fuoco antico. Fuoco antico. Era of Chaos Emblema sacro Fuoco antico. Era of Chaos Ordine Fuoco antico"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Ancient Fire.md"
 toc: false
+QR: rune_101
 classes: wide
 ---
+
+  ![Fuoco antico](/images/r/rune_icon_101.png)
 
  **Nome:** Fuoco antico
 

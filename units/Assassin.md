@@ -3,11 +3,13 @@ title: "Assassino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Assassino"
 toc: true
 ---
+  ![Assassino](/images/u/ti_cishazhe.jpg)
+
 ## General information
  **Descrizione:** Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito.
 
@@ -169,6 +171,7 @@ toc: true
 
 
 ## Awaking
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

@@ -2,7 +2,7 @@
 title: "Manufatti - Ascia della Ferocia - Placca dell'Ogre furioso"
 permalink: /artifacts/Targ of the Rampaging Ogre/
 excerpt: "Era of Chaos  Ascia della Ferocia - Placca dell'Ogre furioso. Un souvenir ottenuto dopo aver sconfitto un tenente degli Ogre. Uno dei componenti dell'Ascia della Ferocia."
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Targ of the Rampaging Ogre.md"
 toc: false

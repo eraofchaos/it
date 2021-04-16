@@ -2,12 +2,15 @@
 title: "Emblema sacro - Giudizio degli antenati"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Era of Chaos Giudizio degli antenati. Giudizio degli antenati. Era of Chaos Emblema sacro Giudizio degli antenati. Era of Chaos Neutrale Giudizio degli antenati"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "The Judgment of Fathers.md"
 toc: false
+QR: rune_301
 classes: wide
 ---
+
+  ![Giudizio degli antenati](/images/r/rune_icon_301.png)
 
  **Nome:** Giudizio degli antenati
 

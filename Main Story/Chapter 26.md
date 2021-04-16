@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 Sempre al comando"
 permalink: /Main Story/Chapter 26/
 excerpt: "Capitolo 26. Era of Chaos  Storia principale - Capitolo 26. Sempre al comando"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 26.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **50000x** ESP unità
+ Reward 4:  **50000x** [ESP unità](/it/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **80000x** ESP unità
+ Reward 4:  **80000x** [ESP unità](/it/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **500000x** <i class="fas fa-coins"/>
 
- Reward 4:  **100000x** ESP unità
+ Reward 4:  **100000x** [ESP unità](/it/Items/con_902/)
 

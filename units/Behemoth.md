@@ -3,11 +3,13 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Behemoth"
 toc: true
 ---
+  ![Behemoth](/images/u/ti_bimeng.jpg)
+
 ## General information
  **Descrizione:** I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi.
 
@@ -182,6 +184,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Behemoth antico](/images/u/tia_bimeng.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

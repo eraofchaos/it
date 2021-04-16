@@ -3,11 +3,13 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
 unitID: 704
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Medusa"
 toc: true
 ---
+  ![Medusa](/images/u/ti_meidusha.jpg)
+
 ## General information
  **Descrizione:** Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra.
 
@@ -174,6 +176,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Regina Medusa](/images/u/tia_meidusha.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

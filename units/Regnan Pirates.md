@@ -3,11 +3,13 @@ title: "Pirati di Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
 unitID: 9901
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Pirati di Regna"
 toc: true
 ---
+  ![Pirati di Regna](/images/u/ti_haidao.jpg)
+
 ## General information
  **Descrizione:** Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare.
 
@@ -175,6 +177,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Re dei Pirati](/images/u/tia_haidao.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

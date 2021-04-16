@@ -2,12 +2,15 @@
 title: "Emblema sacro - Segreto eterno"
 permalink: /Emblem/Everlasting Secret/
 excerpt: "Era of Chaos Segreto eterno. Segreto eterno. Era of Chaos Emblema sacro Segreto eterno. Era of Chaos Ordine Segreto eterno"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Everlasting Secret.md"
 toc: false
+QR: rune_104
 classes: wide
 ---
+
+  ![Segreto eterno](/images/r/rune_icon_104.png)
 
  **Nome:** Segreto eterno
 

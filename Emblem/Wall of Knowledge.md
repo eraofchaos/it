@@ -2,12 +2,15 @@
 title: "Emblema sacro - Muro della Sapienza"
 permalink: /Emblem/Wall of Knowledge/
 excerpt: "Era of Chaos Muro della Sapienza. Muro della Sapienza. Era of Chaos Emblema sacro Muro della Sapienza. Era of Chaos Bontà Muro della Sapienza"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Wall of Knowledge.md"
 toc: false
+QR: rune_202
 classes: wide
 ---
+
+  ![Muro della Sapienza](/images/r/rune_icon_202.png)
 
  **Nome:** Muro della Sapienza
 

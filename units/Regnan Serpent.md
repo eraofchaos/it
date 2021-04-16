@@ -3,11 +3,13 @@ title: "Serpente di Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Serpente di Regna"
 toc: true
 ---
+  ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg)
+
 ## General information
  **Descrizione:** Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari.
 
@@ -189,6 +191,9 @@ toc: true
 
 
 ## Awaking
+
+  ![](/images/u/tia_yurenyongshi.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 

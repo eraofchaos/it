@@ -2,7 +2,7 @@
 title: "Era of Chaos  Aiutante"
 permalink: /heroes/Adjutants/
 excerpt: "Era of Chaos  Aiutante"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Adjutants.md"
 toc: false

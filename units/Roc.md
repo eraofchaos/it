@@ -3,11 +3,13 @@ title: "Roc"
 permalink: /units/Roc/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei."
 unitID: 405
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Roc"
 toc: true
 ---
+  ![Roc](/images/u/ti_leiniao.jpg)
+
 ## General information
  **Descrizione:** I Roc riempiono i cieli nelle notti tempestose. Il loro volo si intreccia con il rombo dei tuoni e il biancheggiare dei fulmini. Sono considerati da molti come messaggeri degli dei.
 
@@ -179,6 +181,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Uccello del Tuono](/images/u/tia_leiniao.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 

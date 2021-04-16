@@ -2,7 +2,7 @@
 title: "Spallacci del Rituale"
 permalink: /equipment/Pauldrons of Ritual/
 excerpt: "Era of Chaos Spallacci del Rituale. Spallacci del Rituale"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Pauldrons of Ritual.md"
 toc: false

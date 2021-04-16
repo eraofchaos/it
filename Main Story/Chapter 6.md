@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 Un nuovo inizio"
 permalink: /Main Story/Chapter 6/
 excerpt: "Capitolo 6. Era of Chaos  Storia principale - Capitolo 6. Un nuovo inizio"
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Chapter 6.md"
 toc: false
@@ -42,7 +42,7 @@ classes: wide
 
  Reward 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** ESP unità
+ Reward 4:  **1000x** [ESP unità](/it/Items/con_902/)
 
 
 
@@ -54,7 +54,7 @@ classes: wide
 
  Reward 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** ESP unità
+ Reward 4:  **1500x** [ESP unità](/it/Items/con_902/)
 
 
 
@@ -66,5 +66,5 @@ classes: wide
 
  Reward 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** ESP unità
+ Reward 4:  **2000x** [ESP unità](/it/Items/con_902/)
 

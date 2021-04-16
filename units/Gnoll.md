@@ -3,11 +3,13 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2021-04-14
+last_modified_at: 2021-04-16
 locale: it
 ref: "Gnoll"
 toc: true
 ---
+  ![Gnoll](/images/u/ti_langren.jpg)
+
 ## General information
  **Descrizione:** Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli.
 
@@ -177,6 +179,9 @@ toc: true
 
 
 ## Awaking
+
+  ![Guerriero gnoll](/images/u/tia_langren.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** YES
 
