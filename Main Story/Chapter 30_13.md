@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-13 La terra stessa è lava"
 permalink: /Main Story/Chapter 30_13/
 excerpt: "Capitolo 30 - 13. Era of Chaos  Storia principale - Capitolo 30_13. 30-13 La terra stessa è lava"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 30_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Faction Altar for Fortezza"
 permalink: /FactionAltar/DROP_108/
 excerpt: "Era of Chaos  Faction Altar for Fortezza. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "DROP_108.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pacchetto Fortezza Edizione limitata](/it/Items/con_2111/)
+  **Drop by Luck (10x spin): 30x** [Pacchetto Fortezza Edizione limitata](/it/Items/con_2142/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pacchetto Fortezza Edizione limitata](/it/Items/con_2111/) |
-  | 2 | **12%** | **2x** | [Pacchetto Fortezza Edizione limitata](/it/Items/con_2111/) |
-  | 3 | **12%** | **3x** | [Pacchetto Fortezza Edizione limitata](/it/Items/con_2111/) |
-  | 4 | **12%** | **5x** |  **50%** [Uomo lucertola](/it/Items/unt_254/),  **50%** [Mosca serpente](/it/Items/unt_255/),  |
-  | 5 | **12%** | **3x** |  **50%** [Uomo lucertola](/it/Items/unt_254/),  **50%** [Mosca serpente](/it/Items/unt_255/),  |
-  | 6 | **12%** | **5x** |  **100%** [Gnoll](/it/Items/unt_253/),  |
+  | 1 | **25%** | **1x** | [Pacchetto Fortezza Edizione limitata](/it/Items/con_2142/) |
+  | 2 | **12%** | **2x** | [Pacchetto Fortezza Edizione limitata](/it/Items/con_2142/) |
+  | 3 | **12%** | **3x** | [Pacchetto Fortezza Edizione limitata](/it/Items/con_2142/) |
+  | 4 | **12%** | **5x** |  **33%** [Uomo lucertola](/it/Items/unt_254/),  **33%** [Mosca serpente](/it/Items/unt_255/),  **33%** [Pietra mistica Mosca serpente pestilenziale](/it/Items/unt_337/),  |
+  | 5 | **12%** | **3x** |  **33%** [Uomo lucertola](/it/Items/unt_254/),  **33%** [Mosca serpente](/it/Items/unt_255/),  **33%** [Pietra mistica Mosca serpente pestilenziale](/it/Items/unt_337/),  |
+  | 6 | **12%** | **5x** |  **37%** [Gnoll](/it/Items/unt_253/),  **62%** [Pietra mistica Guerriero gnoll](/it/Items/unt_336/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pacchetto Fortezza Edizione limitata](/it/Items/con_2111/) |
-  | 2 | **11%** | **5x** |  **50%** [Uomo lucertola](/it/Items/unt_254/),  **50%** [Mosca serpente](/it/Items/unt_255/),  |
-  | 3 | **11%** | **3x** |  **50%** [Uomo lucertola](/it/Items/unt_254/),  **50%** [Mosca serpente](/it/Items/unt_255/),  |
-  | 4 | **11%** | **5x** |  **100%** [Gnoll](/it/Items/unt_253/),  |
+  | 1 | **55%** | **1x** | [Pacchetto Fortezza Edizione limitata](/it/Items/con_2142/) |
+  | 2 | **11%** | **5x** |  **33%** [Uomo lucertola](/it/Items/unt_254/),  **33%** [Mosca serpente](/it/Items/unt_255/),  **33%** [Pietra mistica Mosca serpente pestilenziale](/it/Items/unt_337/),  |
+  | 3 | **11%** | **3x** |  **33%** [Uomo lucertola](/it/Items/unt_254/),  **33%** [Mosca serpente](/it/Items/unt_255/),  **33%** [Pietra mistica Mosca serpente pestilenziale](/it/Items/unt_337/),  |
+  | 4 | **11%** | **5x** |  **37%** [Gnoll](/it/Items/unt_253/),  **62%** [Pietra mistica Guerriero gnoll](/it/Items/unt_336/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pacchetto Fortezza Edizione limitata](/it/Items/con_2111/)
+  **Drop by 10x spin: X** [Pacchetto Fortezza Edizione limitata](/it/Items/con_2142/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pietra mistica Idra del Caos](/it/Items/unt_341/) | [Gnoll](/it/Items/unt_253/), [Uomo lucertola](/it/Items/unt_254/), [Mosca serpente](/it/Items/unt_255/), [Gorgone](/it/Items/unt_257/), [Idra](/it/Items/unt_259/) |
+  | [Pietra mistica Guerriero gnoll](/it/Items/unt_336/), [Pietra mistica Mosca serpente pestilenziale](/it/Items/unt_337/), [Pietra mistica Gorgone Invincibile](/it/Items/unt_339/), [Pietra mistica Idra del Caos](/it/Items/unt_341/) | [Gnoll](/it/Items/unt_253/), [Uomo lucertola](/it/Items/unt_254/), [Mosca serpente](/it/Items/unt_255/), [Gorgone](/it/Items/unt_257/), [Idra](/it/Items/unt_259/) |
 
 
 

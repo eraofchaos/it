@@ -2,7 +2,7 @@
 title: "Artiglio di Tartaruga draconica"
 permalink: /equipment/Dragon Turtle's Sharp Claw/
 excerpt: "Era of Chaos Artiglio di Tartaruga draconica. Artiglio di Tartaruga draconica"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Dragon Turtle's Sharp Claw.md"
 toc: false

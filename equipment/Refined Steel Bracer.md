@@ -2,7 +2,7 @@
 title: "Bracciale d'acciaio lavorato"
 permalink: /equipment/Refined Steel Bracer/
 excerpt: "Era of Chaos Bracciale d'acciaio lavorato. Bracciale d'acciaio lavorato"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Refined Steel Bracer.md"
 toc: false

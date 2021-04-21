@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Gnoll"
 toc: true

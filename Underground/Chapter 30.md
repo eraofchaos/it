@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 30 La salvezza del re"
 permalink: /Underground/Chapter 30/
 excerpt: "Capitolo 30 La salvezza del re. Era of Chaos  Sottosuolo - Capitolo 30. La salvezza del re"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 30.md"
 toc: false

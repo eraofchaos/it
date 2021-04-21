@@ -2,7 +2,7 @@
 title: "Esclusivo - Squama del Drago nero (Black Dragon)"
 permalink: /Exclusive/Black Dragon Black Dragon's Scale/
 excerpt: "Era of Chaos Squama del Drago nero. Squama del Drago nero. Era of Chaos Esclusivo Squama del Drago nero. Drago nero Esclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Black Dragon Squama del Drago nero.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Morto vivente Esclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Walking Dead Scudo dell'Iride.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-6 La fattoria degli Elfi"
 permalink: /Main Story/Chapter 29_6/
 excerpt: "Capitolo 29 - 6. Era of Chaos  Storia principale - Capitolo 29_6. 29-6 La fattoria degli Elfi"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 29_6.md"
 toc: false

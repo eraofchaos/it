@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 20 - 20-4 La vendetta degli Elementali"
 permalink: /Underground/Chapter 20_4/
 excerpt: "Capitolo 20 - 4. Era of Chaos  Sottosuolo - Capitolo 20_4. 20-4 La vendetta degli Elementali"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 20_4.md"
 toc: false

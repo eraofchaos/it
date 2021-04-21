@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-15 Tempo prezioso"
 permalink: /Main Story/Chapter 12_15/
 excerpt: "Capitolo 12 - 15. Era of Chaos  Storia principale - Capitolo 12_15. 12-15 Tempo prezioso"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 12_15.md"
 toc: false

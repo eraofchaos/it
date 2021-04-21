@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Gnoll Esclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Gnoll Spada.md"
 toc: false

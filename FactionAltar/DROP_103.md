@@ -2,7 +2,7 @@
 title: "Faction Altar for Roccaforte"
 permalink: /FactionAltar/DROP_103/
 excerpt: "Era of Chaos  Faction Altar for Roccaforte. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "DROP_103.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2103/)
+  **Drop by Luck (10x spin): 30x** [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2140/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2103/) |
-  | 2 | **12%** | **2x** | [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2103/) |
-  | 3 | **12%** | **3x** | [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2103/) |
+  | 1 | **25%** | **1x** | [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2140/) |
+  | 2 | **12%** | **2x** | [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2140/) |
+  | 3 | **12%** | **3x** | [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2140/) |
   | 4 | **12%** | **5x** |  **22%** [Ogre](/it/Items/unt_220/),  **22%** [Orco](/it/Items/unt_219/),  **6%** [Roc](/it/Items/unt_221/),  **22%** [Ciclopi](/it/Items/unt_222/),  **6%** [Pietra mistica Ogre mago](/it/Items/unt_308/),  **6%** [Pietra mistica Uccello del Tuono](/it/Items/unt_309/),  **13%** [Pietra mistica Re Ciclope](/it/Items/unt_310/),  |
   | 5 | **12%** | **3x** |  **22%** [Ogre](/it/Items/unt_220/),  **22%** [Orco](/it/Items/unt_219/),  **6%** [Roc](/it/Items/unt_221/),  **22%** [Ciclopi](/it/Items/unt_222/),  **6%** [Pietra mistica Ogre mago](/it/Items/unt_308/),  **6%** [Pietra mistica Uccello del Tuono](/it/Items/unt_309/),  **13%** [Pietra mistica Re Ciclope](/it/Items/unt_310/),  |
   | 6 | **12%** | **5x** |  **25%** [Goblin](/it/Items/unt_217/),  **25%** [Domatore di lupi](/it/Items/unt_218/),  **25%** [Pietra mistica Hobgoblin](/it/Items/unt_305/),  **25%** [Pietra mistica Signore dei Lupi](/it/Items/unt_306/),  |
@@ -37,7 +37,7 @@ classes: wide
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2103/) |
+  | 1 | **55%** | **1x** | [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2140/) |
   | 2 | **11%** | **5x** |  **22%** [Ogre](/it/Items/unt_220/),  **22%** [Orco](/it/Items/unt_219/),  **6%** [Roc](/it/Items/unt_221/),  **22%** [Ciclopi](/it/Items/unt_222/),  **6%** [Pietra mistica Ogre mago](/it/Items/unt_308/),  **6%** [Pietra mistica Uccello del Tuono](/it/Items/unt_309/),  **13%** [Pietra mistica Re Ciclope](/it/Items/unt_310/),  |
   | 3 | **11%** | **3x** |  **22%** [Ogre](/it/Items/unt_220/),  **22%** [Orco](/it/Items/unt_219/),  **6%** [Roc](/it/Items/unt_221/),  **22%** [Ciclopi](/it/Items/unt_222/),  **6%** [Pietra mistica Ogre mago](/it/Items/unt_308/),  **6%** [Pietra mistica Uccello del Tuono](/it/Items/unt_309/),  **13%** [Pietra mistica Re Ciclope](/it/Items/unt_310/),  |
   | 4 | **11%** | **5x** |  **25%** [Goblin](/it/Items/unt_217/),  **25%** [Domatore di lupi](/it/Items/unt_218/),  **25%** [Pietra mistica Hobgoblin](/it/Items/unt_305/),  **25%** [Pietra mistica Signore dei Lupi](/it/Items/unt_306/),  |
@@ -45,11 +45,11 @@ classes: wide
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2103/)
+  **Drop by 10x spin: X** [Pacchetto Roccaforte Edizione limitata](/it/Items/con_2140/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pietra mistica Hobgoblin](/it/Items/unt_305/), [Pietra mistica Signore dei Lupi](/it/Items/unt_306/), [Pietra mistica Orco comandante](/it/Items/unt_307/), [Pietra mistica Ogre mago](/it/Items/unt_308/), [Pietra mistica Uccello del Tuono](/it/Items/unt_309/), [Pietra mistica Re Ciclope](/it/Items/unt_310/), [Pietra mistica Behemoth antico](/it/Items/unt_311/) | [Goblin](/it/Items/unt_217/), [Domatore di lupi](/it/Items/unt_218/), [Orco](/it/Items/unt_219/), [Ogre](/it/Items/unt_220/), [Roc](/it/Items/unt_221/), [Ciclopi](/it/Items/unt_222/), [Behemoth](/it/Items/unt_223/), [Berserker](/it/Items/unt_224/) |
+  | [Pietra mistica Hobgoblin](/it/Items/unt_305/), [Pietra mistica Signore dei Lupi](/it/Items/unt_306/), [Pietra mistica Orco comandante](/it/Items/unt_307/), [Pietra mistica Ogre mago](/it/Items/unt_308/), [Pietra mistica Uccello del Tuono](/it/Items/unt_309/), [Pietra mistica Re Ciclope](/it/Items/unt_310/), [Pietra mistica Behemoth antico](/it/Items/unt_311/), [Pietra mistica Messaggero di morte](/it/Items/unt_312/) | [Goblin](/it/Items/unt_217/), [Domatore di lupi](/it/Items/unt_218/), [Orco](/it/Items/unt_219/), [Ogre](/it/Items/unt_220/), [Roc](/it/Items/unt_221/), [Ciclopi](/it/Items/unt_222/), [Behemoth](/it/Items/unt_223/), [Berserker](/it/Items/unt_224/) |
 
 
 

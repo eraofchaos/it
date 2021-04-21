@@ -2,7 +2,7 @@
 title: "Artigli della Rovina"
 permalink: /equipment/Claws of Decay/
 excerpt: "Era of Chaos Artigli della Rovina. Artigli della Rovina"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Claws of Decay.md"
 toc: false

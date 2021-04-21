@@ -2,7 +2,7 @@
 title: "Spallacci della levità"
 permalink: /equipment/Pauldrons of Lightness/
 excerpt: "Era of Chaos Spallacci della levità. Spallacci della levità"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Pauldrons of Lightness.md"
 toc: false

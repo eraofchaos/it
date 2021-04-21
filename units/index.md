@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "index.md"
 toc: false
@@ -86,7 +86,7 @@ classes: wide
   | 64 | ![Mosca serpente](/images/u/ti_longying.jpg) | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Mosca drago  |
   | 65 | ![Mummia](/images/u/ti_munaiyi.jpg) | [Mummia](/it/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |
   | 66 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/it/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Regina delle Naga  |
-  | 67 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre mago  |
+  | 67 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre mago  |
   | 68 | ![Orco](/images/u/ti_shourentoufushou.jpg) | [Orco](/it/units/Orc/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 82.7 | 662 |  Orco comandante  |
   | 69 | ![Osservatore](/images/u/ti_xieyan.jpg) | [Osservatore](/it/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
   | 70 | ![Paladino](/images/u/ti_shengqishi.jpg) | [Paladino](/it/units/Paladin/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 128.0 | 2589 |  Paladino Supremo  |

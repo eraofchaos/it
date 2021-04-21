@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-5 Banditi in società"
 permalink: /Main Story/Chapter 18_5/
 excerpt: "Capitolo 18 - 5. Era of Chaos  Storia principale - Capitolo 18_5. 18-5 Banditi in società"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 18_5.md"
 toc: false

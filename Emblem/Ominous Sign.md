@@ -2,7 +2,7 @@
 title: "Emblema sacro - Segno infausto"
 permalink: /Emblem/Ominous Sign/
 excerpt: "Era of Chaos Segno infausto. Segno infausto. Era of Chaos Emblema sacro Segno infausto. Era of Chaos Malvagio Segno infausto"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Ominous Sign.md"
 toc: false

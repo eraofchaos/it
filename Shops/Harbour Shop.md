@@ -2,7 +2,7 @@
 title: "Harbour Shop"
 permalink: /Shops/Harbour Shop/
 excerpt: "Era of Chaos Harbour Shop. Harbour Shop"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "index.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 1 |  **12x** [Fervore](/it/Items/con_954/)(Un oggetto utilizzabile per affrontare i boss durante l'evento Assalto alla Baia.) |  **180x** <i class="fas fa-gem"/>  | **100** |
   | 2 |  **1x** [Ali del trionfo: Caterina](/it/Items/con_1032/)(Usa per ottenere la skin Ali del trionfo per Caterina) |  **2500x** [Siclo](/it/Items/con_950/)  | **1** |
   | 3 |  **10x** [Peter Lee](/it/Items/her_397/)(Raccogli 30 Frammenti mistici per evocare PeterLee e aggiungerlo alla tua squadra. I Frammenti mistici sono necessari anche per aumentare il suo rango.) |  **2500x** [Siclo](/it/Items/con_950/)  | **3** |
-  | 4 |  **10x** [Anima unità SSR](/it/Items/con_535/)(Trovane 80 per ottenere un'unità casuale di rarità SSR (esclusi Cavaliere nero, Assassino e Guerrieri spartani).) |  **3800x** [Siclo](/it/Items/con_950/)  | **4** |
+  | 4 |  **10x** [Anima unità SSR](/it/Items/con_535/)(Trovane 80 per ottenere un'unità casuale di rarità SSR (esclusi Assassino e Guerrieri spartani).) |  **3800x** [Siclo](/it/Items/con_950/)  | **4** |
   | 5 |  **10x** [Anima unità SR](/it/Items/con_534/)(Raccogline 30 per ottenere una a caso delle seguenti unità a 2 stelle: Grifone, Spadaccino, Monaco, Catafratto, Gnomo, Elfo del bosco, Pegaso, Guardia Dendroide, Unicorno, Orco, Ogre, Roc, Ciclope, Anima, Vampiro, Segugio infernale, Demone, Demone dell'abisso, Efreet, Gargolla di pietra,Pirati di Regna, Golem di ferro, Mago, Elementale della tempesta, Elementale del ghiaccio, Arpia, Minotauro o Uomo lucertola.) |  **1000x** [Siclo](/it/Items/con_950/)  | **3** |
   | 6 |  **1x** [Scrigno Componenti Manufatto premium](/it/Items/con_1740/)(Aprilo per ottenere 1 ricompensa a tua scelta tra le seguenti: 1 scrigno Componenti del Re dei Draghi, 1 scrigno Componenti del gelo o 1 scrigno Componenti celesti.) |  **13500x** [Siclo](/it/Items/con_950/)  | **1** |
   | 7 |  **1x** [Pacchetto Componenti Manufatto premium](/it/Items/con_1433/)(Aprilo per ottenere 1 ricompensa a tua scelta tra le seguenti: 1 Scrigno Componenti Occhio di Falco o 1 Scrigno Componenti Titano) |  **3800x** [Siclo](/it/Items/con_950/)  | **1** |

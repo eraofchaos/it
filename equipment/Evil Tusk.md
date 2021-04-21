@@ -2,7 +2,7 @@
 title: "Zanna maligna"
 permalink: /equipment/Evil Tusk/
 excerpt: "Era of Chaos Zanna maligna. Zanna maligna"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Evil Tusk.md"
 toc: false

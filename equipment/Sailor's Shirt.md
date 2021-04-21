@@ -2,7 +2,7 @@
 title: "Abito da marinaio"
 permalink: /equipment/Sailor's Shirt/
 excerpt: "Era of Chaos Abito da marinaio. Abito da marinaio"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Sailor's Shirt.md"
 toc: false

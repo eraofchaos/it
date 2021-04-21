@@ -2,7 +2,7 @@
 title: "Spallacci di ferro"
 permalink: /equipment/Iron Pauldrons/
 excerpt: "Era of Chaos Spallacci di ferro. Spallacci di ferro"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Iron Pauldrons.md"
 toc: false

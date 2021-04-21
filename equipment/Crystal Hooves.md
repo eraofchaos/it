@@ -2,7 +2,7 @@
 title: "Zoccoli di cristallo"
 permalink: /equipment/Crystal Hooves/
 excerpt: "Era of Chaos Zoccoli di cristallo. Zoccoli di cristallo"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Crystal Hooves.md"
 toc: false

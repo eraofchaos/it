@@ -2,7 +2,7 @@
 title: "Item - Materials - Mercurio prezioso +2"
 permalink: /Items/mat_28/
 excerpt: "Era of Chaos  Mercurio prezioso +2"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "mat_28.md"
 toc: false

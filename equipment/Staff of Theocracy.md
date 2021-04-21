@@ -2,7 +2,7 @@
 title: "Bordone della Teocrazia"
 permalink: /equipment/Staff of Theocracy/
 excerpt: "Era of Chaos Bordone della Teocrazia. Bordone della Teocrazia"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Staff of Theocracy.md"
 toc: false

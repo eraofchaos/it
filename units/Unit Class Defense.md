@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Unit Class Defense"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Mummia](/images/u/ti_munaiyi.jpg) | [Mummia](/it/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |
   | 2 | ![Folletto](/images/u/ti_xiaoemo.jpg) | [Folletto](/it/units/Imp/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Famiglio  |
-  | 3 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre mago  |
+  | 3 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre mago  |
   | 4 | ![Demone](/images/u/ti_changjiaoemo.jpg) | [Demone](/it/units/Demon/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia infernale  |
   | 5 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/it/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Behemoth antico  |
   | 6 | ![Leprecauno](/images/u/ti_conglinyaojing.jpg) | [Leprecauno](/it/units/Leprechaun/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |

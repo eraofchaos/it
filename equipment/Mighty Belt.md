@@ -2,7 +2,7 @@
 title: "Cintura della potenza"
 permalink: /equipment/Mighty Belt/
 excerpt: "Era of Chaos Cintura della potenza. Cintura della potenza"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Mighty Belt.md"
 toc: false

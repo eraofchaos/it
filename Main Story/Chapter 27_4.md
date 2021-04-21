@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-4 Vedere al buio"
 permalink: /Main Story/Chapter 27_4/
 excerpt: "Capitolo 27 - 4. Era of Chaos  Storia principale - Capitolo 27_4. 27-4 Vedere al buio"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 27_4.md"
 toc: false

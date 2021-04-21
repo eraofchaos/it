@@ -2,7 +2,7 @@
 title: "Esclusivo - Durlindana (Angel)"
 permalink: /Exclusive/Angel Durandel/
 excerpt: "Era of Chaos Durlindana. Durlindana. Era of Chaos Esclusivo Durlindana. Angelo Esclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Angel Durlindana.md"
 toc: false

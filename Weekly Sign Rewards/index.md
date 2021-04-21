@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 18  Settimana dell'Inferno
+
+  |  Date  |      Reward    |    Reward Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **3 May** | **5x [Folletto](/it/Items/unt_226/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **4 May** | **5x [Gog](/it/Items/unt_227/)**  | Un gruppo di Gog è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **5 May** | **3x [Segugio infernale](/it/Items/unt_228/)**  | Un gruppo di Segugi infernali è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **6 May** | **5x [Scrigno Unità Inferno](/it/Items/con_1273/)**  | Le tue truppe dell'Inferno ti portano in dono un gran numero di scrigni del tesoro preziosi! |
+  | **7 May** | **3x [Demone](/it/Items/unt_229/)**  | Un gruppo di Demoni è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **8 May** | **3x [Demone dell'abisso](/it/Items/unt_230/)**  | Un gruppo di Demoni dell'abisso è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **9 May** | **5x [Rashka](/it/Items/her_384/)**  | L'eroe Rashka è intrigato dalla tua espansione e vorrebbe unirsi alla tua fazione! |
+
 
 #### 2021 Week 17  Settimana della Baia
 

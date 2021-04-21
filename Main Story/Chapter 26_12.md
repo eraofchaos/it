@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-12 Il nascondiglio della banshee"
 permalink: /Main Story/Chapter 26_12/
 excerpt: "Capitolo 26 - 12. Era of Chaos  Storia principale - Capitolo 26_12. 26-12 Il nascondiglio della banshee"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 26_12.md"
 toc: false

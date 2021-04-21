@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-3 Le fosse comuni"
 permalink: /Main Story/Chapter 3_3/
 excerpt: "Capitolo 3 - 3. Era of Chaos  Storia principale - Capitolo 3_3. 3-3 Le fosse comuni"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 3_3.md"
 toc: false

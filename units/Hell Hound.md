@@ -3,7 +3,7 @@ title: "Segugio infernale"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Segugi infernali si scagliano sui nemici con le loro tre terrificanti teste. Lava incandescente scorre sui loro corpi e una scia di fiamme si leva al loro passaggio."
 unitID: 503
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Segugio infernale"
 toc: true
@@ -179,6 +179,8 @@ toc: true
 
 
 ## Awaking
+
+  ![null](/images/u/unknown.png)
 
 ### Awaking Dettagli
  **Is it possible right now?** NO

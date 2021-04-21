@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano (Arch Mage)"
 permalink: /Exclusive/Arch Mage Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Arcimago Esclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Arch Mage Cantico arcano.md"
 toc: false

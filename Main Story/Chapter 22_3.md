@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 - 22-3 Avanzare con coraggio"
 permalink: /Main Story/Chapter 22_3/
 excerpt: "Capitolo 22 - 3. Era of Chaos  Storia principale - Capitolo 22_3. 22-3 Avanzare con coraggio"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 22_3.md"
 toc: false

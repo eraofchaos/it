@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-1 Una notte buia"
 permalink: /Main Story/Chapter 8_1/
 excerpt: "Capitolo 8 - 1. Era of Chaos  Storia principale - Capitolo 8_1. 8-1 Una notte buia"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 8_1.md"
 toc: false

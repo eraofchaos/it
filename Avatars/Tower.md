@@ -2,7 +2,7 @@
 title: "Avatar - Torre"
 permalink: /Avatars/Tower/
 excerpt: "Era of Chaos  Torre"
-last_modified_at: 2021-04-17
+last_modified_at: 2021-04-21
 locale: it
 ref: "Tower.md"
 toc: false

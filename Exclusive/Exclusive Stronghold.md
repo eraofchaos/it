@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Esclusivo Stronghold. Esclusivo Stronghold. List of Esclusivo Stronghold in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Exclusive Stronghold"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 1  | [Goblin](/it/units/Goblin/) | [Spada](/it/Exclusive/Goblin Sword/) | - | Carica | [Token della Spada](/it/Items/con_912/) | - |
   | 2  | [Domatore di lupi](/it/units/Wolf Rider/) | [Carica impetuosa](/it/Exclusive/Wolf Rider Knight Pike/) | - | Carica | [Token Carica impetuosa](/it/Items/con_916/) | - |
   | 3  | [Orco](/it/units/Orc/) | [Arco lungo](/it/Exclusive/Orc Long Bow/) | - | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
-  | 4  | [Ogre](/it/units/Ogre/) | [Scudo dell'Iride](/it/Exclusive/Ogre Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
+  | 4  | [Ogre](/it/units/Ogre/) | [Scudo dell'Iride](/it/Exclusive/Ogre Iris Shield/) | + | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
   | 5  | [Roc](/it/units/Roc/) | [Cantico arcano](/it/Exclusive/Roc Arcane Chant/) | - | Carica | [Token Cantico arcano](/it/Items/con_915/) | - |
   | 6  | [Ciclope](/it/units/Cyclops/) | [Arco lungo](/it/Exclusive/Cyclops Long Bow/) | + | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
   | 7  | [Behemoth](/it/units/Behemoth/) | [Spirito sanguinario](/it/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Supporto | [Token Spirito sanguinario](/it/Items/con_982/) | [Skin speciale Spirito sanguinario](/it/Items/con_650/) |

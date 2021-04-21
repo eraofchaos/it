@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Unit Member x4"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/it/units/Roc/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Uccello del Tuono  |
   | 2 | ![Mummia](/images/u/ti_munaiyi.jpg) | [Mummia](/it/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |
-  | 3 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre mago  |
+  | 3 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre mago  |
   | 4 | ![Ciclope](/images/u/ti_duyanjuren.jpg) | [Ciclope](/it/units/Cyclops/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Re Ciclope  |
   | 5 | ![Rapace di fuoco](/images/u/ti_fenghuang.jpg) | [Rapace di fuoco](/it/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
   | 6 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Antico mostro marino  |

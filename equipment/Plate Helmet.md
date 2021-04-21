@@ -2,7 +2,7 @@
 title: "Elmo di piastre"
 permalink: /equipment/Plate Helmet/
 excerpt: "Era of Chaos Elmo di piastre. Elmo di piastre"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Plate Helmet.md"
 toc: false

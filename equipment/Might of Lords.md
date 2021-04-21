@@ -2,7 +2,7 @@
 title: "Potenza dei Signori"
 permalink: /equipment/Might of Lords/
 excerpt: "Era of Chaos Potenza dei Signori. Potenza dei Signori"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Might of Lords.md"
 toc: false

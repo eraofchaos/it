@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 18 - 18-4 Il dubbio del drago"
 permalink: /Underground/Chapter 18_4/
 excerpt: "Capitolo 18 - 4. Era of Chaos  Sottosuolo - Capitolo 18_4. 18-4 Il dubbio del drago"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 18_4.md"
 toc: false

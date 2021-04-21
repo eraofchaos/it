@@ -2,7 +2,7 @@
 title: "Emblema sacro - Superbia"
 permalink: /Emblem/Arrogance/
 excerpt: "Era of Chaos Superbia. Superbia. Era of Chaos Emblema sacro Superbia. Era of Chaos Caos Superbia"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Arrogance.md"
 toc: false

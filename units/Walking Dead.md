@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Morto vivente"
 toc: true

@@ -2,7 +2,7 @@
 title: "Faction Altar for Dungeon"
 permalink: /FactionAltar/DROP_107/
 excerpt: "Era of Chaos  Faction Altar for Dungeon. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "DROP_107.md"
 toc: false
@@ -28,8 +28,8 @@ classes: wide
   | 1 | **25%** | **1x** | [Pacchetto Dungeon Edizione limitata](/it/Items/con_2107/) |
   | 2 | **12%** | **2x** | [Pacchetto Dungeon Edizione limitata](/it/Items/con_2107/) |
   | 3 | **12%** | **3x** | [Pacchetto Dungeon Edizione limitata](/it/Items/con_2107/) |
-  | 4 | **12%** | **5x** |  **43%** [Arpia](/it/Items/unt_245/),  **13%** [Minotauro](/it/Items/unt_248/),  **43%** [Pietra mistica Re dei Minotauri](/it/Items/unt_332/),  |
-  | 5 | **12%** | **3x** |  **43%** [Arpia](/it/Items/unt_245/),  **13%** [Minotauro](/it/Items/unt_248/),  **43%** [Pietra mistica Re dei Minotauri](/it/Items/unt_332/),  |
+  | 4 | **12%** | **5x** |  **30%** [Arpia](/it/Items/unt_245/),  **9%** [Minotauro](/it/Items/unt_248/),  **30%** [Pietra mistica Re dei Minotauri](/it/Items/unt_332/),  **30%** [Pietra mistica Arpia deforme](/it/Items/unt_329/),  |
+  | 5 | **12%** | **3x** |  **30%** [Arpia](/it/Items/unt_245/),  **9%** [Minotauro](/it/Items/unt_248/),  **30%** [Pietra mistica Re dei Minotauri](/it/Items/unt_332/),  **30%** [Pietra mistica Arpia deforme](/it/Items/unt_329/),  |
   | 6 | **12%** | **5x** |  **50%** [Troglodita](/it/Items/unt_244/),  **50%** [Pietra mistica Troglodita oscuro](/it/Items/unt_328/),  |
 
 
@@ -38,8 +38,8 @@ classes: wide
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
   | 1 | **55%** | **1x** | [Pacchetto Dungeon Edizione limitata](/it/Items/con_2107/) |
-  | 2 | **11%** | **5x** |  **43%** [Arpia](/it/Items/unt_245/),  **13%** [Minotauro](/it/Items/unt_248/),  **43%** [Pietra mistica Re dei Minotauri](/it/Items/unt_332/),  |
-  | 3 | **11%** | **3x** |  **43%** [Arpia](/it/Items/unt_245/),  **13%** [Minotauro](/it/Items/unt_248/),  **43%** [Pietra mistica Re dei Minotauri](/it/Items/unt_332/),  |
+  | 2 | **11%** | **5x** |  **30%** [Arpia](/it/Items/unt_245/),  **9%** [Minotauro](/it/Items/unt_248/),  **30%** [Pietra mistica Re dei Minotauri](/it/Items/unt_332/),  **30%** [Pietra mistica Arpia deforme](/it/Items/unt_329/),  |
+  | 3 | **11%** | **3x** |  **30%** [Arpia](/it/Items/unt_245/),  **9%** [Minotauro](/it/Items/unt_248/),  **30%** [Pietra mistica Re dei Minotauri](/it/Items/unt_332/),  **30%** [Pietra mistica Arpia deforme](/it/Items/unt_329/),  |
   | 4 | **11%** | **5x** |  **50%** [Troglodita](/it/Items/unt_244/),  **50%** [Pietra mistica Troglodita oscuro](/it/Items/unt_328/),  |
 
 
@@ -49,7 +49,7 @@ classes: wide
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pietra mistica Troglodita oscuro](/it/Items/unt_328/), [Pietra mistica Re dei Minotauri](/it/Items/unt_332/), [Pietra mistica Re dei Draghi Neri](/it/Items/unt_334/) | [Troglodita](/it/Items/unt_244/), [Arpia](/it/Items/unt_245/), [Minotauro](/it/Items/unt_248/), [Drago nero](/it/Items/unt_250/), [Drago rosso](/it/Items/unt_251/) |
+  | [Pietra mistica Troglodita oscuro](/it/Items/unt_328/), [Pietra mistica Re dei Minotauri](/it/Items/unt_332/), [Pietra mistica Re dei Draghi Neri](/it/Items/unt_334/), [Pietra mistica Arpia deforme](/it/Items/unt_329/) | [Troglodita](/it/Items/unt_244/), [Arpia](/it/Items/unt_245/), [Minotauro](/it/Items/unt_248/), [Drago nero](/it/Items/unt_250/), [Drago rosso](/it/Items/unt_251/) |
 
 
 

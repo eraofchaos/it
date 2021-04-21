@@ -2,7 +2,7 @@
 title: "Armatura leggera funerea"
 permalink: /equipment/Light Armor of Requiem/
 excerpt: "Era of Chaos Armatura leggera funerea. Armatura leggera funerea"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Light Armor of Requiem.md"
 toc: false

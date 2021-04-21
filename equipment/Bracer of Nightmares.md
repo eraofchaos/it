@@ -2,7 +2,7 @@
 title: "Bracciali dell'Incubo"
 permalink: /equipment/Bracer of Nightmares/
 excerpt: "Era of Chaos Bracciali dell'Incubo. Bracciali dell'Incubo"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Bracer of Nightmares.md"
 toc: false

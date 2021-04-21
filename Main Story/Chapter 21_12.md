@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-12 Pregiudizi"
 permalink: /Main Story/Chapter 21_12/
 excerpt: "Capitolo 21 - 12. Era of Chaos  Storia principale - Capitolo 21_12. 21-12 Pregiudizi"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 21_12.md"
 toc: false

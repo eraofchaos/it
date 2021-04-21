@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Imp)"
 permalink: /Exclusive/Imp Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Folletto Esclusivo."
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Imp Scudo dell'Iride.md"
 toc: false

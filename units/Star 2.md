@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 2 -  Units"
 permalink: /units/Star 2/
 excerpt: "Era of Chaos Star 2. Star 2. List of Star 2in Era of Chaos"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Star 2"
 toc: false
@@ -13,7 +13,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/it/units/Roc/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Uccello del Tuono  |
-  | 2 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.6 | 2523 |  Ogre mago  |
+  | 2 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre mago  |
   | 3 | ![Ciclope](/images/u/ti_duyanjuren.jpg) | [Ciclope](/it/units/Cyclops/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Re Ciclope  |
   | 4 | ![Demone](/images/u/ti_changjiaoemo.jpg) | [Demone](/it/units/Demon/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia infernale  |
   | 5 | ![Segugio infernale](/images/u/ti_santouquan.jpg) | [Segugio infernale](/it/units/Hell Hound/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 77.8 | 827 |   -   |

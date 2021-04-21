@@ -2,7 +2,7 @@
 title: "Emblema sacro - Neutrale"
 permalink: /Emblem/Type Neutral/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Era of Chaos Emblema sacro Neutrale. Era of Chaos Neutrale"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "typeNeutrale.md"
 toc: false

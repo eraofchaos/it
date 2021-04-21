@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 23 - 23-4 Rinascita della Fiamma eterna"
 permalink: /Underground/Chapter 23_4/
 excerpt: "Capitolo 23 - 4. Era of Chaos  Sottosuolo - Capitolo 23_4. 23-4 Rinascita della Fiamma eterna"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 23_4.md"
 toc: false

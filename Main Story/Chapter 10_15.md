@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-15 Un invito per il tuo funerale"
 permalink: /Main Story/Chapter 10_15/
 excerpt: "Capitolo 10 - 15. Era of Chaos  Storia principale - Capitolo 10_15. 10-15 Un invito per il tuo funerale"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 10_15.md"
 toc: false

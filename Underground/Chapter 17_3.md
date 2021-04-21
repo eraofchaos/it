@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 17 - 17-3 Un mondo ideale"
 permalink: /Underground/Chapter 17_3/
 excerpt: "Capitolo 17 - 3. Era of Chaos  Sottosuolo - Capitolo 17_3. 17-3 Un mondo ideale"
-last_modified_at: 2021-04-16
+last_modified_at: 2021-04-21
 locale: it
 ref: "Chapter 17_3.md"
 toc: false
