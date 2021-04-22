@@ -2,7 +2,7 @@
 title: "Manufatti - Occhio di Falco - Medaglia della Verità"
 permalink: /artifacts/Medal of Truth/
 excerpt: "Era of Chaos  Occhio di Falco - Medaglia della Verità. Un amuleto stregato con due occhi incastonati. Uno dei componenti dell'Occhio di Falco."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Medal of Truth.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Medaglia della Verità](/it/Items/art_134/)
+ **Related Item**: [Medaglia della Verità](/ItemsIT/art_134/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

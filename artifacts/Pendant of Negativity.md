@@ -2,7 +2,7 @@
 title: "Manufatti - Codice dell'Arcimago - Ciondolo della negatività"
 permalink: /artifacts/Pendant of Negativity/
 excerpt: "Era of Chaos  Codice dell'Arcimago - Ciondolo della negatività. Un monile modellato su un fulmine e dotato dei suoi poteri. Uno dei Codici dell'Arcimago."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Pendant of Negativity.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Codice dell'Arcimago](/it/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Ciondolo della negatività](/it/Items/art_136/)
+ **Related Item**: [Ciondolo della negatività](/ItemsIT/art_136/)
 
  **Quality:** [Violet Artifact Components](/it/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

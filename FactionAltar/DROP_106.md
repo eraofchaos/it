@@ -2,7 +2,7 @@
 title: "Faction Altar for Torre"
 permalink: /FactionAltar/DROP_106/
 excerpt: "Era of Chaos  Faction Altar for Torre. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "DROP_106.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pacchetto Torre Edizione limitata](/it/Items/con_2110/)
+  **Drop by Luck (10x spin): 30x** [Pacchetto Torre Edizione limitata](/ItemsIT/con_2110/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pacchetto Torre Edizione limitata](/it/Items/con_2110/) |
-  | 2 | **12%** | **2x** | [Pacchetto Torre Edizione limitata](/it/Items/con_2110/) |
-  | 3 | **12%** | **3x** | [Pacchetto Torre Edizione limitata](/it/Items/con_2110/) |
-  | 4 | **12%** | **5x** |  **23%** [Gargolla di pietra](/it/Items/unt_236/),  **23%** [Golem di ferro](/it/Items/unt_237/),  **23%** [Mago](/it/Items/unt_238/),  **23%** [Pietra mistica Golem d'oro](/it/Items/unt_322/),  **6%** [Pietra mistica Arcimago](/it/Items/unt_323/),  |
-  | 5 | **12%** | **3x** |  **23%** [Gargolla di pietra](/it/Items/unt_236/),  **23%** [Golem di ferro](/it/Items/unt_237/),  **23%** [Mago](/it/Items/unt_238/),  **23%** [Pietra mistica Golem d'oro](/it/Items/unt_322/),  **6%** [Pietra mistica Arcimago](/it/Items/unt_323/),  |
-  | 6 | **12%** | **5x** |  **100%** [Gremlin](/it/Items/unt_235/),  |
+  | 1 | **25%** | **1x** | [Pacchetto Torre Edizione limitata](/ItemsIT/con_2110/) |
+  | 2 | **12%** | **2x** | [Pacchetto Torre Edizione limitata](/ItemsIT/con_2110/) |
+  | 3 | **12%** | **3x** | [Pacchetto Torre Edizione limitata](/ItemsIT/con_2110/) |
+  | 4 | **12%** | **5x** |  **23%** [Gargolla di pietra](/ItemsIT/unt_236/),  **23%** [Golem di ferro](/ItemsIT/unt_237/),  **23%** [Mago](/ItemsIT/unt_238/),  **23%** [Pietra mistica Golem d'oro](/ItemsIT/unt_322/),  **6%** [Pietra mistica Arcimago](/ItemsIT/unt_323/),  |
+  | 5 | **12%** | **3x** |  **23%** [Gargolla di pietra](/ItemsIT/unt_236/),  **23%** [Golem di ferro](/ItemsIT/unt_237/),  **23%** [Mago](/ItemsIT/unt_238/),  **23%** [Pietra mistica Golem d'oro](/ItemsIT/unt_322/),  **6%** [Pietra mistica Arcimago](/ItemsIT/unt_323/),  |
+  | 6 | **12%** | **5x** |  **100%** [Gremlin](/ItemsIT/unt_235/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pacchetto Torre Edizione limitata](/it/Items/con_2110/) |
-  | 2 | **11%** | **5x** |  **23%** [Gargolla di pietra](/it/Items/unt_236/),  **23%** [Golem di ferro](/it/Items/unt_237/),  **23%** [Mago](/it/Items/unt_238/),  **23%** [Pietra mistica Golem d'oro](/it/Items/unt_322/),  **6%** [Pietra mistica Arcimago](/it/Items/unt_323/),  |
-  | 3 | **11%** | **3x** |  **23%** [Gargolla di pietra](/it/Items/unt_236/),  **23%** [Golem di ferro](/it/Items/unt_237/),  **23%** [Mago](/it/Items/unt_238/),  **23%** [Pietra mistica Golem d'oro](/it/Items/unt_322/),  **6%** [Pietra mistica Arcimago](/it/Items/unt_323/),  |
-  | 4 | **11%** | **5x** |  **100%** [Gremlin](/it/Items/unt_235/),  |
+  | 1 | **55%** | **1x** | [Pacchetto Torre Edizione limitata](/ItemsIT/con_2110/) |
+  | 2 | **11%** | **5x** |  **23%** [Gargolla di pietra](/ItemsIT/unt_236/),  **23%** [Golem di ferro](/ItemsIT/unt_237/),  **23%** [Mago](/ItemsIT/unt_238/),  **23%** [Pietra mistica Golem d'oro](/ItemsIT/unt_322/),  **6%** [Pietra mistica Arcimago](/ItemsIT/unt_323/),  |
+  | 3 | **11%** | **3x** |  **23%** [Gargolla di pietra](/ItemsIT/unt_236/),  **23%** [Golem di ferro](/ItemsIT/unt_237/),  **23%** [Mago](/ItemsIT/unt_238/),  **23%** [Pietra mistica Golem d'oro](/ItemsIT/unt_322/),  **6%** [Pietra mistica Arcimago](/ItemsIT/unt_323/),  |
+  | 4 | **11%** | **5x** |  **100%** [Gremlin](/ItemsIT/unt_235/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pacchetto Torre Edizione limitata](/it/Items/con_2110/)
+  **Drop by 10x spin: X** [Pacchetto Torre Edizione limitata](/ItemsIT/con_2110/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pietra mistica Golem d'oro](/it/Items/unt_322/), [Pietra mistica Arcimago](/it/Items/unt_323/), [Pietra mistica Regina delle Naga](/it/Items/unt_325/), [Pietra mistica Titano](/it/Items/unt_326/) | [Gremlin](/it/Items/unt_235/), [Gargolla di pietra](/it/Items/unt_236/), [Golem di ferro](/it/Items/unt_237/), [Mago](/it/Items/unt_238/), [Naga](/it/Items/unt_240/), [Gigante](/it/Items/unt_241/) |
+  | [Pietra mistica Golem d'oro](/ItemsIT/unt_322/), [Pietra mistica Arcimago](/ItemsIT/unt_323/), [Pietra mistica Regina delle Naga](/ItemsIT/unt_325/), [Pietra mistica Titano](/ItemsIT/unt_326/) | [Gremlin](/ItemsIT/unt_235/), [Gargolla di pietra](/ItemsIT/unt_236/), [Golem di ferro](/ItemsIT/unt_237/), [Mago](/ItemsIT/unt_238/), [Naga](/ItemsIT/unt_240/), [Gigante](/ItemsIT/unt_241/) |
 
 
 

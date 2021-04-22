@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio - Scudo del Cristallo di ghiaccio"
 permalink: /artifacts/Ice Crystal Shield/
 excerpt: "Era of Chaos  Spada di Ghiaccio - Scudo del Cristallo di ghiaccio. Uno scudo sacro custodito nell'altopiano di Bracada. Uno dei componenti della Spada di Ghiaccio."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Ice Crystal Shield.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada di Ghiaccio](/it/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Scudo del Cristallo di ghiaccio](/it/Items/art_164/)
+ **Related Item**: [Scudo del Cristallo di ghiaccio](/ItemsIT/art_164/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

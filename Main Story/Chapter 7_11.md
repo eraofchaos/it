@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-11 Respingere gli aggressori"
 permalink: /Main Story/Chapter 7_11/
 excerpt: "Capitolo 7 - 11. Era of Chaos  Storia principale - Capitolo 7_11. 7-11 Respingere gli aggressori"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 7_11.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Gemme superiori +1](/it/Items/mat_23/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Gemme superiori +1](/ItemsIT/mat_23/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Cristallo di buona qualità](/it/Items/mat_17/){: .btn .btn--era3}, **40% 1x** [Cristallo di buona qualità](/it/Items/mat_17/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Cristallo di buona qualità](/ItemsIT/mat_17/){: .btn .btn--era3}, **40% 1x** [Cristallo di buona qualità](/ItemsIT/mat_17/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 3 - 3-3 Un passato torbido"
 permalink: /Underground/Chapter 3_3/
 excerpt: "Capitolo 3 - 3. Era of Chaos  Sottosuolo - Capitolo 3_3. 3-3 Un passato torbido"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 3_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Vampiro](/it/Items/unt_211/){: .btn .btn--era4}, **50% 1x** [Vampiro](/it/Items/unt_211/){: .btn .btn--era4}
+ **Drop 1:** **50% 0x** [Vampiro](/ItemsIT/unt_211/){: .btn .btn--era4}, **50% 1x** [Vampiro](/ItemsIT/unt_211/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro degli armamenti](/it/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro degli armamenti](/ItemsIT/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Gemme comuni](/it/Items/mat_10/){: .btn .btn--era2}, **70% 1x** [Gemme comuni](/it/Items/mat_10/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Gemme comuni](/ItemsIT/mat_10/){: .btn .btn--era2}, **70% 1x** [Gemme comuni](/ItemsIT/mat_10/){: .btn .btn--era2}
 
 
 ## Fight against Team

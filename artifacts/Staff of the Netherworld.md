@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio - Bordone dell'Aldilà"
 permalink: /artifacts/Staff of the Netherworld/
 excerpt: "Era of Chaos  Spada di Ghiaccio - Bordone dell'Aldilà. Un potente bastone custodito a Deyja. Uno dei componenti della Spada di Ghiaccio."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Staff of the Netherworld.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada di Ghiaccio](/it/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Bordone dell'Aldilà](/it/Items/art_165/)
+ **Related Item**: [Bordone dell'Aldilà](/ItemsIT/art_165/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

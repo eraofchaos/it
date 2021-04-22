@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio - Ascia del Minotauro"
 permalink: /artifacts/Minotaur's Battleaxe/
 excerpt: "Era of Chaos  Spada di Ghiaccio - Ascia del Minotauro. Ascia da battaglia appartenuta al Minotauro. Uno dei componenti della Spada di Ghiaccio."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Minotaur's Battleaxe.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada di Ghiaccio](/it/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Ascia del Minotauro](/it/Items/art_161/)
+ **Related Item**: [Ascia del Minotauro](/ItemsIT/art_161/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

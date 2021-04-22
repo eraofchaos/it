@@ -2,7 +2,7 @@
 title: "Manufatti - Occhio di Falco - Uccello della Percezione"
 permalink: /artifacts/Bird of Perception/
 excerpt: "Era of Chaos  Occhio di Falco - Uccello della Percezione. Statua di un falco permeata dal potere magico di una strega. Uno dei componenti dell'Occhio di Falco."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Bird of Perception.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Uccello della Percezione](/it/Items/art_132/)
+ **Related Item**: [Uccello della Percezione](/ItemsIT/art_132/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-14 Le montagne"
 permalink: /Main Story/Chapter 20_14/
 excerpt: "Capitolo 20 - 14. Era of Chaos  Storia principale - Capitolo 20_14. 20-14 Le montagne"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 20_14.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Zolfo eterno +1](/it/Items/mat_71/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Zolfo eterno +1](/ItemsIT/mat_71/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Minerale mitico](/it/Items/mat_61/){: .btn .btn--era5}, **40% 1x** [Minerale mitico](/it/Items/mat_61/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Minerale mitico](/ItemsIT/mat_61/){: .btn .btn--era5}, **40% 1x** [Minerale mitico](/ItemsIT/mat_61/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

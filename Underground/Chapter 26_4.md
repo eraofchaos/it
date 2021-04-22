@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 26 - 26-4 Regina delle lame"
 permalink: /Underground/Chapter 26_4/
 excerpt: "Capitolo 26 - 4. Era of Chaos  Sottosuolo - Capitolo 26_4. 26-4 Regina delle lame"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 26_4.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Rimpianto](/it/Items/her_458/){: .btn .btn--era3}, **50% 1x** [Rimpianto](/it/Items/her_458/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Rimpianto](/ItemsIT/her_458/){: .btn .btn--era3}, **50% 1x** [Rimpianto](/ItemsIT/her_458/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificato di leggendarietà +4](/it/Items/mat_95/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificato di leggendarietà +4](/ItemsIT/mat_95/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificato di leggendarietà +3](/it/Items/mat_88/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà +3](/it/Items/mat_88/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificato di leggendarietà +3](/ItemsIT/mat_88/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà +3](/ItemsIT/mat_88/){: .btn .btn--era5}
 
 
 ## Fight against Team

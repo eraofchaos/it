@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-12 Il poligono delle palle di fuoco"
 permalink: /Main Story/Chapter 30_12/
 excerpt: "Capitolo 30 - 12. Era of Chaos  Storia principale - Capitolo 30_12. 30-12 Il poligono delle palle di fuoco"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 30_12.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristallo splendente +5](/it/Items/mat_101/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Cristallo splendente +5](/ItemsIT/mat_101/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Gemme stellari +4](/it/Items/mat_93/){: .btn .btn--era5}, **40% 1x** [Gemme stellari +4](/it/Items/mat_93/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Gemme stellari +4](/ItemsIT/mat_93/){: .btn .btn--era5}, **40% 1x** [Gemme stellari +4](/ItemsIT/mat_93/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

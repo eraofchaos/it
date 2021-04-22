@@ -2,7 +2,7 @@
 title: "Green Artifacts"
 permalink: /artifacts/Green Artifacts/
 excerpt: "Era of Chaos  List of all Green Artifacts . I manufatti possono migliorare gli attributi degli eroi e sbloccare tecniche più potenti."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Green Artifacts.md"
 toc: false

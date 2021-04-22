@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 15 - 15-5 Le porte dell'inferno"
 permalink: /Underground/Chapter 15_5/
 excerpt: "Capitolo 15 - 5. Era of Chaos  Sottosuolo - Capitolo 15_5. 15-5 Le porte dell'inferno"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 15_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Guardia Dendroide](/it/Items/unt_203/){: .btn .btn--era4}, **67% 1x** [Guardia Dendroide](/it/Items/unt_203/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Guardia Dendroide](/ItemsIT/unt_203/){: .btn .btn--era4}, **67% 1x** [Guardia Dendroide](/ItemsIT/unt_203/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro delle essenze +3](/it/Items/mat_60/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro delle essenze +3](/ItemsIT/mat_60/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro delle essenze +2](/it/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze +2](/it/Items/mat_53/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Libro delle essenze +2](/ItemsIT/mat_53/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze +2](/ItemsIT/mat_53/){: .btn .btn--era4}
 
 
 ## Fight against Team

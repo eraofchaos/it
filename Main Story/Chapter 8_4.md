@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-4 Per il rotto della cuffia"
 permalink: /Main Story/Chapter 8_4/
 excerpt: "Capitolo 8 - 4. Era of Chaos  Storia principale - Capitolo 8_4. 8-4 Per il rotto della cuffia"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 8_4.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Minerale prezioso +2](/it/Items/mat_26/){: .btn .btn--era3}
+ **Drop 1:** **100% 1x** [Minerale prezioso +2](/ItemsIT/mat_26/){: .btn .btn--era3}
 
- **Drop 2:** **60% 0x** [Legname superiore +1](/it/Items/mat_20/){: .btn .btn--era3}, **40% 1x** [Legname superiore +1](/it/Items/mat_20/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Legname superiore +1](/ItemsIT/mat_20/){: .btn .btn--era3}, **40% 1x** [Legname superiore +1](/ItemsIT/mat_20/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

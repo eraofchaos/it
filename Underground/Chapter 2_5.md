@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 2 - 2-5 In cerca di alleati"
 permalink: /Underground/Chapter 2_5/
 excerpt: "Capitolo 2 - 5. Era of Chaos  Sottosuolo - Capitolo 2_5. 2-5 In cerca di alleati"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 2_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Spadaccino](/it/Items/unt_193/){: .btn .btn--era4}, **33% 1x** [Spadaccino](/it/Items/unt_193/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Spadaccino](/ItemsIT/unt_193/){: .btn .btn--era4}, **33% 1x** [Spadaccino](/ItemsIT/unt_193/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro degli armamenti](/it/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro degli armamenti](/ItemsIT/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Cristallo comune](/it/Items/mat_11/){: .btn .btn--era2}, **70% 1x** [Cristallo comune](/it/Items/mat_11/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Cristallo comune](/ItemsIT/mat_11/){: .btn .btn--era2}, **70% 1x** [Cristallo comune](/ItemsIT/mat_11/){: .btn .btn--era2}
 
 
 ## Fight against Team

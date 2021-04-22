@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-7 Il ladro di cavalli"
 permalink: /Main Story/Chapter 2_7/
 excerpt: "Capitolo 2 - 7. Era of Chaos  Storia principale - Capitolo 2_7. 2-7 Il ladro di cavalli"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 2_7.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Legname comune](/it/Items/mat_7/){: .btn .btn--era2}, **20% 2x** [Legname comune](/it/Items/mat_7/){: .btn .btn--era2}
+ **Drop 1:** **80% 1x** [Legname comune](/ItemsIT/mat_7/){: .btn .btn--era2}, **20% 2x** [Legname comune](/ItemsIT/mat_7/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Mercurio inferiore](/it/Items/mat_2/){: .btn .btn--era1}, **60% 1x** [Mercurio inferiore](/it/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercurio inferiore](/it/Items/mat_2/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Mercurio inferiore](/ItemsIT/mat_2/){: .btn .btn--era1}, **60% 1x** [Mercurio inferiore](/ItemsIT/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercurio inferiore](/ItemsIT/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

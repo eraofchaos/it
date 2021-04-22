@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 17 - 17-3 Un mondo ideale"
 permalink: /Underground/Chapter 17_3/
 excerpt: "Capitolo 17 - 3. Era of Chaos  Sottosuolo - Capitolo 17_3. 17-3 Un mondo ideale"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 17_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Unicorno](/it/Items/unt_204/){: .btn .btn--era4}, **67% 1x** [Unicorno](/it/Items/unt_204/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Unicorno](/ItemsIT/unt_204/){: .btn .btn--era4}, **67% 1x** [Unicorno](/ItemsIT/unt_204/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Certificato di leggendarietà](/it/Items/mat_67/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificato di leggendarietà](/ItemsIT/mat_67/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro delle essenze +3](/it/Items/mat_60/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze +3](/it/Items/mat_60/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Libro delle essenze +3](/ItemsIT/mat_60/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze +3](/ItemsIT/mat_60/){: .btn .btn--era4}
 
 
 ## Fight against Team

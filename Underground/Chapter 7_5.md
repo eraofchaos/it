@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 7 - 7-5 Missione compiuta"
 permalink: /Underground/Chapter 7_5/
 excerpt: "Capitolo 7 - 5. Era of Chaos  Sottosuolo - Capitolo 7_5. 7-5 Missione compiuta"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 7_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Centauro](/it/Items/unt_199/){: .btn .btn--era3}, **33% 1x** [Centauro](/it/Items/unt_199/){: .btn .btn--era3}
+ **Drop 1:** **67% 0x** [Centauro](/ItemsIT/unt_199/){: .btn .btn--era3}, **33% 1x** [Centauro](/ItemsIT/unt_199/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro degli armamenti +1](/it/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Libro degli armamenti +1](/it/Items/mat_25/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Libro degli armamenti +1](/ItemsIT/mat_25/){: .btn .btn--era3}, **50% 1x** [Libro degli armamenti +1](/ItemsIT/mat_25/){: .btn .btn--era3}
 
 
 ## Fight against Team

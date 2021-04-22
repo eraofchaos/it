@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 12 - 12-5 La battaglia finale"
 permalink: /Underground/Chapter 12_5/
 excerpt: "Capitolo 12 - 5. Era of Chaos  Sottosuolo - Capitolo 12_5. 12-5 La battaglia finale"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 12_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Anima](/it/Items/unt_210/){: .btn .btn--era4}, **67% 1x** [Anima](/it/Items/unt_210/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Anima](/ItemsIT/unt_210/){: .btn .btn--era4}, **67% 1x** [Anima](/ItemsIT/unt_210/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro delle essenze +2](/it/Items/mat_53/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro delle essenze +2](/ItemsIT/mat_53/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro delle essenze +1](/it/Items/mat_46/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze +1](/it/Items/mat_46/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Libro delle essenze +1](/ItemsIT/mat_46/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze +1](/ItemsIT/mat_46/){: .btn .btn--era4}
 
 
 ## Fight against Team

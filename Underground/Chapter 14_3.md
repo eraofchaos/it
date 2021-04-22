@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 14 - 14-3 Unità di guardia"
 permalink: /Underground/Chapter 14_3/
 excerpt: "Capitolo 14 - 3. Era of Chaos  Sottosuolo - Capitolo 14_3. 14-3 Unità di guardia"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 14_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Gremlin](/it/Items/unt_235/){: .btn .btn--era3}, **67% 1x** [Gremlin](/it/Items/unt_235/){: .btn .btn--era3}
+ **Drop 1:** **33% 0x** [Gremlin](/ItemsIT/unt_235/){: .btn .btn--era3}, **67% 1x** [Gremlin](/ItemsIT/unt_235/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro delle essenze +3](/it/Items/mat_60/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro delle essenze +3](/ItemsIT/mat_60/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro delle essenze +2](/it/Items/mat_53/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze +2](/it/Items/mat_53/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Libro delle essenze +2](/ItemsIT/mat_53/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze +2](/ItemsIT/mat_53/){: .btn .btn--era4}
 
 
 ## Fight against Team

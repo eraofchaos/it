@@ -2,7 +2,7 @@
 title: "Manufatti - Cappello dell'Incantatore - Tomo della Magia della Terra"
 permalink: /artifacts/Tome of Earth Magic/
 excerpt: "Era of Chaos  Cappello dell'Incantatore - Tomo della Magia della Terra. Un libro di incantesimi sulla Magia della Terra di livello avanzato. La leggenda narra che Jeddite se ne sia servito per sconfiggere Mutare trasformata in drago. Uno dei componenti del Cappello dell'Incantatore."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Tome of Earth Magic.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Cappello dell'Incantatore](/it/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Tomo della Magia della Terra](/it/Items/art_181/)
+ **Related Item**: [Tomo della Magia della Terra](/ItemsIT/art_181/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

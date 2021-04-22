@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 1 - 1-2 Tracce d'ombra"
 permalink: /Underground/Chapter 1_2/
 excerpt: "Capitolo 1 - 2. Era of Chaos  Sottosuolo - Capitolo 1_2. 1-2 Tracce d'ombra"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 1_2.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **80% 1x** [Minerale comune](/it/Items/mat_6/){: .btn .btn--era2}, **20% 2x** [Minerale comune](/it/Items/mat_6/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Minerale comune](/ItemsIT/mat_6/){: .btn .btn--era2}, **20% 2x** [Minerale comune](/ItemsIT/mat_6/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Zolfo inferiore](/it/Items/mat_3/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Zolfo inferiore](/ItemsIT/mat_3/){: .btn .btn--era1}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-14 Il traditore"
 permalink: /Main Story/Chapter 18_14/
 excerpt: "Capitolo 18 - 14. Era of Chaos  Storia principale - Capitolo 18_14. 18-14 Il traditore"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 18_14.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Zolfo mitico](/it/Items/mat_64/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Zolfo mitico](/ItemsIT/mat_64/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Minerale leggendario +3](/it/Items/mat_54/){: .btn .btn--era4}, **40% 1x** [Minerale leggendario +3](/it/Items/mat_54/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Minerale leggendario +3](/ItemsIT/mat_54/){: .btn .btn--era4}, **40% 1x** [Minerale leggendario +3](/ItemsIT/mat_54/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

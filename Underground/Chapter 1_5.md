@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 1 - 1-5 Al limite"
 permalink: /Underground/Chapter 1_5/
 excerpt: "Capitolo 1 - 5. Era of Chaos  Sottosuolo - Capitolo 1_5. 1-5 Al limite"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 1_5.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Catafratto](/it/Items/unt_195/){: .btn .btn--era4}, **33% 1x** [Catafratto](/it/Items/unt_195/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Catafratto](/ItemsIT/unt_195/){: .btn .btn--era4}, **33% 1x** [Catafratto](/ItemsIT/unt_195/){: .btn .btn--era4}
 
- **Drop 2:** **80% 1x** [Gemme comuni](/it/Items/mat_10/){: .btn .btn--era2}, **20% 2x** [Gemme comuni](/it/Items/mat_10/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Gemme comuni](/ItemsIT/mat_10/){: .btn .btn--era2}, **20% 2x** [Gemme comuni](/ItemsIT/mat_10/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Cristallo inferiore](/it/Items/mat_5/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Cristallo inferiore](/ItemsIT/mat_5/){: .btn .btn--era1}
 
 
 ## Fight against Team

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-10 In cerca di uno spirito"
 permalink: /Main Story/Chapter 10_10/
 excerpt: "Capitolo 10 - 10. Era of Chaos  Storia principale - Capitolo 10_10. 10-10 In cerca di uno spirito"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 10_10.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Zolfo eccezionale](/it/Items/mat_36/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Zolfo eccezionale](/ItemsIT/mat_36/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Minerale prezioso +2](/it/Items/mat_26/){: .btn .btn--era3}, **40% 1x** [Minerale prezioso +2](/it/Items/mat_26/){: .btn .btn--era3}
+ **Drop 2:** **60% 0x** [Minerale prezioso +2](/ItemsIT/mat_26/){: .btn .btn--era3}, **40% 1x** [Minerale prezioso +2](/ItemsIT/mat_26/){: .btn .btn--era3}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

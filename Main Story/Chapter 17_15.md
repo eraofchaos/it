@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-15 L'invasione del male"
 permalink: /Main Story/Chapter 17_15/
 excerpt: "Capitolo 17 - 15. Era of Chaos  Storia principale - Capitolo 17_15. 17-15 L'invasione del male"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 17_15.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristallo leggendario +3](/it/Items/mat_59/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Cristallo leggendario +3](/ItemsIT/mat_59/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Gemme epiche +2](/it/Items/mat_51/){: .btn .btn--era4}, **40% 1x** [Gemme epiche +2](/it/Items/mat_51/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Gemme epiche +2](/ItemsIT/mat_51/){: .btn .btn--era4}, **40% 1x** [Gemme epiche +2](/ItemsIT/mat_51/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

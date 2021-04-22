@@ -2,7 +2,7 @@
 title: "Manufatti - Ferro Portafortuna - Coccinella della Fortuna"
 permalink: /artifacts/Ladybird of Luck/
 excerpt: "Era of Chaos  Ferro Portafortuna - Coccinella della Fortuna. Una statua che brilla di luce propria. Uno dei componenti del Ferro Portafortuna."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Ladybird of Luck.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ferro Portafortuna](/it/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 1x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Coccinella della Fortuna](/it/Items/art_111/)
+ **Related Item**: [Coccinella della Fortuna](/ItemsIT/art_111/)
 
  **Quality:** [Green Artifact Components](/it/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

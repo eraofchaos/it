@@ -2,7 +2,7 @@
 title: "Manufatti - Spada dell'Armageddon - Bastone della Saggezza"
 permalink: /artifacts/Staff of Wisdom/
 excerpt: "Era of Chaos  Spada dell'Armageddon - Bastone della Saggezza. Una reliquia posta a protezione dello Scudo di Ghiaccio. Uno dei componenti della Spada dell'Armageddon."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Staff of Wisdom.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Bastone della Saggezza](/it/Items/art_168/)
+ **Related Item**: [Bastone della Saggezza](/ItemsIT/art_168/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

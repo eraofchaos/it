@@ -2,7 +2,7 @@
 title: "Manufatti - Mela dell'Eden - Spada dell'Eden"
 permalink: /artifacts/Sword of Eden/
 excerpt: "Era of Chaos  Mela dell'Eden - Spada dell'Eden. Una spada della Prima Civilizzazione. Può invocare il potere del fulmine per abbattere i tuoi nemici."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Sword of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Spada dell'Eden](/it/Items/art_185/)
+ **Related Item**: [Spada dell'Eden](/ItemsIT/art_185/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

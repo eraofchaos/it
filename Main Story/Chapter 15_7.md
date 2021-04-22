@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-7 L'altare della morte"
 permalink: /Main Story/Chapter 15_7/
 excerpt: "Capitolo 15 - 7. Era of Chaos  Storia principale - Capitolo 15_7. 15-7 L'altare della morte"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 15_7.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Minerale epico +2](/it/Items/mat_47/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Minerale epico +2](/ItemsIT/mat_47/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Legname raro +1](/it/Items/mat_41/){: .btn .btn--era4}, **40% 1x** [Legname raro +1](/it/Items/mat_41/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Legname raro +1](/ItemsIT/mat_41/){: .btn .btn--era4}, **40% 1x** [Legname raro +1](/ItemsIT/mat_41/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

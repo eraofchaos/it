@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 20 - 20-2 A guardia degli elementali"
 permalink: /Underground/Chapter 20_2/
 excerpt: "Capitolo 20 - 2. Era of Chaos  Sottosuolo - Capitolo 20_2. 20-2 A guardia degli elementali"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 20_2.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Freccia del Ghiaccio](/it/Items/her_431/){: .btn .btn--era2}
+ **Drop 1:** **100% 1x** [Freccia del Ghiaccio](/ItemsIT/her_431/){: .btn .btn--era2}
 
- **Drop 2:** **100% 1x** [Certificato di leggendarietà +2](/it/Items/mat_81/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificato di leggendarietà +2](/ItemsIT/mat_81/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificato di leggendarietà +1](/it/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà +1](/it/Items/mat_74/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificato di leggendarietà +1](/ItemsIT/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà +1](/ItemsIT/mat_74/){: .btn .btn--era5}
 
 
 ## Fight against Team

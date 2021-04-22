@@ -2,7 +2,7 @@
 title: "Manufatti - Fonte del Mago - Amuleto Magico"
 permalink: /artifacts/Magic Charm/
 excerpt: "Era of Chaos  Fonte del Mago - Amuleto Magico. Un amuleto dotato di potere magico. Uno dei componenti della Fonte del Mago."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Magic Charm.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Fonte del Mago](/it/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 3x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Amuleto Magico](/it/Items/art_113/)
+ **Related Item**: [Amuleto Magico](/ItemsIT/art_113/)
 
  **Quality:** [Blue Artifact Components](/it/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

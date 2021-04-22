@@ -2,7 +2,7 @@
 title: "Manufatti - Ascia della Ferocia - Placca dell'Ogre furioso"
 permalink: /artifacts/Targ of the Rampaging Ogre/
 excerpt: "Era of Chaos  Ascia della Ferocia - Placca dell'Ogre furioso. Un souvenir ottenuto dopo aver sconfitto un tenente degli Ogre. Uno dei componenti dell'Ascia della Ferocia."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Targ of the Rampaging Ogre.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Placca dell'Ogre furioso](/it/Items/art_126/)
+ **Related Item**: [Placca dell'Ogre furioso](/ItemsIT/art_126/)
 
  **Quality:** [Violet Artifact Components](/it/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

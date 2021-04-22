@@ -2,7 +2,7 @@
 title: "Manufatti - Occhio di Falco - Vedetta stoica"
 permalink: /artifacts/Stoic Watchman/
 excerpt: "Era of Chaos  Occhio di Falco - Vedetta stoica. Statua di un avventuriero dagli occhi fiammeggianti. Uno dei componenti dell'Occhio di Falco."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Stoic Watchman.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Vedetta stoica](/it/Items/art_133/)
+ **Related Item**: [Vedetta stoica](/ItemsIT/art_133/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

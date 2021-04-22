@@ -2,7 +2,7 @@
 title: "Manufatti - Armatura dei Dannati - Armatura d'Ossa"
 permalink: /artifacts/Bone Armour/
 excerpt: "Era of Chaos  Armatura dei Dannati - Armatura d'Ossa. Un armatura realizzata con ossa dure. Uno dei componenti dell'Armatura dei Dannati."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Bone Armour.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Armatura dei Dannati](/it/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Armatura d'Ossa](/it/Items/art_124/)
+ **Related Item**: [Armatura d'Ossa](/ItemsIT/art_124/)
 
  **Quality:** [Violet Artifact Components](/it/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

@@ -2,7 +2,7 @@
 title: "Manufatti - Spada dell'Armageddon - Martello da Guerriero"
 permalink: /artifacts/Warrior Hammer/
 excerpt: "Era of Chaos  Spada dell'Armageddon - Martello da Guerriero. Un martello da guerra nascosto nei pressi di Cresta del Gigante. Uno dei componenti della Spada dell'Armageddon."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Warrior Hammer.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Martello da Guerriero](/it/Items/art_170/)
+ **Related Item**: [Martello da Guerriero](/ItemsIT/art_170/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

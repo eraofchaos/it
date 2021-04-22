@@ -2,7 +2,7 @@
 title: "Manufatti - Codice dell'Arcimago - Mantello dell'abiura"
 permalink: /artifacts/Recanter's Cloak/
 excerpt: "Era of Chaos  Codice dell'Arcimago - Mantello dell'abiura. Indossalo per indebolire gli attacchi magici. Uno dei Codici dell'Arcimago."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Recanter's Cloak.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Codice dell'Arcimago](/it/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Mantello dell'abiura](/it/Items/art_137/)
+ **Related Item**: [Mantello dell'abiura](/ItemsIT/art_137/)
 
  **Quality:** [Violet Artifact Components](/it/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

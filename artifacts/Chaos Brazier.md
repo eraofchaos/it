@@ -2,7 +2,7 @@
 title: "Manufatti - Specchio della vendetta - Braciere del Caos"
 permalink: /artifacts/Chaos Brazier/
 excerpt: "Era of Chaos  Specchio della vendetta - Braciere del Caos. Un oggetto in grado di accumulare magia del Fuoco. Uno dei componenti dello Specchio della vendetta."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chaos Brazier.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Specchio della vendetta](/it/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Braciere del Caos](/it/Items/art_140/)
+ **Related Item**: [Braciere del Caos](/ItemsIT/art_140/)
 
  **Quality:** [Violet Artifact Components](/it/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

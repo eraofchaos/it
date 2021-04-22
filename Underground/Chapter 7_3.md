@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 7 - 7-3 Corsa all'oro"
 permalink: /Underground/Chapter 7_3/
 excerpt: "Capitolo 7 - 3. Era of Chaos  Sottosuolo - Capitolo 7_3. 7-3 Corsa all'oro"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 7_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Goblin](/it/Items/unt_217/){: .btn .btn--era3}, **33% 1x** [Goblin](/it/Items/unt_217/){: .btn .btn--era3}
+ **Drop 1:** **67% 0x** [Goblin](/ItemsIT/unt_217/){: .btn .btn--era3}, **33% 1x** [Goblin](/ItemsIT/unt_217/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro degli armamenti +1](/it/Items/mat_25/){: .btn .btn--era3}, **50% 1x** [Libro degli armamenti +1](/it/Items/mat_25/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Libro degli armamenti +1](/ItemsIT/mat_25/){: .btn .btn--era3}, **50% 1x** [Libro degli armamenti +1](/ItemsIT/mat_25/){: .btn .btn--era3}
 
 
 ## Fight against Team

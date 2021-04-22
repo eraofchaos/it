@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 19 - 19-4 Verità magica"
 permalink: /Underground/Chapter 19_4/
 excerpt: "Capitolo 19 - 4. Era of Chaos  Sottosuolo - Capitolo 19_4. 19-4 Verità magica"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 19_4.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **50% 0x** [Maledizione](/it/Items/her_410/){: .btn .btn--era3}, **50% 1x** [Maledizione](/it/Items/her_410/){: .btn .btn--era3}
+ **Drop 1:** **50% 0x** [Maledizione](/ItemsIT/her_410/){: .btn .btn--era3}, **50% 1x** [Maledizione](/ItemsIT/her_410/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Certificato di leggendarietà +1](/it/Items/mat_74/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificato di leggendarietà +1](/ItemsIT/mat_74/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificato di leggendarietà](/it/Items/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà](/it/Items/mat_67/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificato di leggendarietà](/ItemsIT/mat_67/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà](/ItemsIT/mat_67/){: .btn .btn--era5}
 
 
 ## Fight against Team

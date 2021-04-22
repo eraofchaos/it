@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 5 - 5-5 Vittoria finale"
 permalink: /Underground/Chapter 5_5/
 excerpt: "Capitolo 5 - 5. Era of Chaos  Sottosuolo - Capitolo 5_5. 5-5 Vittoria finale"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 5_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Elfo del bosco](/it/Items/unt_201/){: .btn .btn--era4}, **33% 1x** [Elfo del bosco](/it/Items/unt_201/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Elfo del bosco](/ItemsIT/unt_201/){: .btn .btn--era4}, **33% 1x** [Elfo del bosco](/ItemsIT/unt_201/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro degli armamenti +1](/it/Items/mat_25/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro degli armamenti +1](/ItemsIT/mat_25/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Libro degli armamenti](/it/Items/mat_18/){: .btn .btn--era3}, **70% 1x** [Libro degli armamenti](/it/Items/mat_18/){: .btn .btn--era3}
+ **Drop 4:** **30% 0x** [Libro degli armamenti](/ItemsIT/mat_18/){: .btn .btn--era3}, **70% 1x** [Libro degli armamenti](/ItemsIT/mat_18/){: .btn .btn--era3}
 
 
 ## Fight against Team

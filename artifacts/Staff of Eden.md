@@ -2,7 +2,7 @@
 title: "Manufatti - Mela dell'Eden - Il Bastone"
 permalink: /artifacts/Staff of Eden/
 excerpt: "Era of Chaos  Mela dell'Eden - Il Bastone. Un bastone della Prima Civilizzazione. Dona a chi lo brandisce tempo e conoscenza infiniti."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Staff of Eden.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Il Bastone](/it/Items/art_186/)
+ **Related Item**: [Il Bastone](/ItemsIT/art_186/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

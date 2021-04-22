@@ -2,7 +2,7 @@
 title: "Manufatti - Pietra runica Antimagia - Cotta del Contrappeso"
 permalink: /artifacts/Surcoat of Counterpoise/
 excerpt: "Era of Chaos  Pietra runica Antimagia - Cotta del Contrappeso. Una cotta con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Surcoat of Counterpoise.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Pietra runica Antimagia](/it/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 3x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Cotta del Contrappeso](/it/Items/art_119/)
+ **Related Item**: [Cotta del Contrappeso](/ItemsIT/art_119/)
 
  **Quality:** [Blue Artifact Components](/it/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

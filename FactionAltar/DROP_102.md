@@ -2,7 +2,7 @@
 title: "Faction Altar for Baluardo"
 permalink: /FactionAltar/DROP_102/
 excerpt: "Era of Chaos  Faction Altar for Baluardo. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "DROP_102.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pacchetto Baluardo Edizione limitata](/it/Items/con_2101/)
+  **Drop by Luck (10x spin): 30x** [Pacchetto Baluardo Edizione limitata](/ItemsIT/con_2101/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pacchetto Baluardo Edizione limitata](/it/Items/con_2101/) |
-  | 2 | **12%** | **2x** | [Pacchetto Baluardo Edizione limitata](/it/Items/con_2101/) |
-  | 3 | **12%** | **3x** | [Pacchetto Baluardo Edizione limitata](/it/Items/con_2101/) |
-  | 4 | **12%** | **5x** |  **4%** [Gnomo](/it/Items/unt_200/),  **14%** [Elfo del bosco](/it/Items/unt_201/),  **14%** [Pegaso](/it/Items/unt_202/),  **14%** [Guardia Dendroide](/it/Items/unt_203/),  **14%** [Unicorno](/it/Items/unt_204/),  **14%** [Pietra mistica Elfo Gigante](/it/Items/unt_291/),  **4%** [Pietra mistica Pegaso Argenteo](/it/Items/unt_292/),  **14%** [Pietra mistica Soldato Dendroide](/it/Items/unt_293/),  **4%** [Pietra mistica Unicorno da Guerra](/it/Items/unt_294/),  |
-  | 5 | **12%** | **3x** |  **4%** [Gnomo](/it/Items/unt_200/),  **14%** [Elfo del bosco](/it/Items/unt_201/),  **14%** [Pegaso](/it/Items/unt_202/),  **14%** [Guardia Dendroide](/it/Items/unt_203/),  **14%** [Unicorno](/it/Items/unt_204/),  **14%** [Pietra mistica Elfo Gigante](/it/Items/unt_291/),  **4%** [Pietra mistica Pegaso Argenteo](/it/Items/unt_292/),  **14%** [Pietra mistica Soldato Dendroide](/it/Items/unt_293/),  **4%** [Pietra mistica Unicorno da Guerra](/it/Items/unt_294/),  |
-  | 6 | **12%** | **5x** |  **76%** [Centauro](/it/Items/unt_199/),  **23%** [Pietra mistica Capitano Centauro](/it/Items/unt_290/),  |
+  | 1 | **25%** | **1x** | [Pacchetto Baluardo Edizione limitata](/ItemsIT/con_2101/) |
+  | 2 | **12%** | **2x** | [Pacchetto Baluardo Edizione limitata](/ItemsIT/con_2101/) |
+  | 3 | **12%** | **3x** | [Pacchetto Baluardo Edizione limitata](/ItemsIT/con_2101/) |
+  | 4 | **12%** | **5x** |  **4%** [Gnomo](/ItemsIT/unt_200/),  **14%** [Elfo del bosco](/ItemsIT/unt_201/),  **14%** [Pegaso](/ItemsIT/unt_202/),  **14%** [Guardia Dendroide](/ItemsIT/unt_203/),  **14%** [Unicorno](/ItemsIT/unt_204/),  **14%** [Pietra mistica Elfo Gigante](/ItemsIT/unt_291/),  **4%** [Pietra mistica Pegaso Argenteo](/ItemsIT/unt_292/),  **14%** [Pietra mistica Soldato Dendroide](/ItemsIT/unt_293/),  **4%** [Pietra mistica Unicorno da Guerra](/ItemsIT/unt_294/),  |
+  | 5 | **12%** | **3x** |  **4%** [Gnomo](/ItemsIT/unt_200/),  **14%** [Elfo del bosco](/ItemsIT/unt_201/),  **14%** [Pegaso](/ItemsIT/unt_202/),  **14%** [Guardia Dendroide](/ItemsIT/unt_203/),  **14%** [Unicorno](/ItemsIT/unt_204/),  **14%** [Pietra mistica Elfo Gigante](/ItemsIT/unt_291/),  **4%** [Pietra mistica Pegaso Argenteo](/ItemsIT/unt_292/),  **14%** [Pietra mistica Soldato Dendroide](/ItemsIT/unt_293/),  **4%** [Pietra mistica Unicorno da Guerra](/ItemsIT/unt_294/),  |
+  | 6 | **12%** | **5x** |  **76%** [Centauro](/ItemsIT/unt_199/),  **23%** [Pietra mistica Capitano Centauro](/ItemsIT/unt_290/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pacchetto Baluardo Edizione limitata](/it/Items/con_2101/) |
-  | 2 | **11%** | **5x** |  **4%** [Gnomo](/it/Items/unt_200/),  **14%** [Elfo del bosco](/it/Items/unt_201/),  **14%** [Pegaso](/it/Items/unt_202/),  **14%** [Guardia Dendroide](/it/Items/unt_203/),  **14%** [Unicorno](/it/Items/unt_204/),  **14%** [Pietra mistica Elfo Gigante](/it/Items/unt_291/),  **4%** [Pietra mistica Pegaso Argenteo](/it/Items/unt_292/),  **14%** [Pietra mistica Soldato Dendroide](/it/Items/unt_293/),  **4%** [Pietra mistica Unicorno da Guerra](/it/Items/unt_294/),  |
-  | 3 | **11%** | **3x** |  **4%** [Gnomo](/it/Items/unt_200/),  **14%** [Elfo del bosco](/it/Items/unt_201/),  **14%** [Pegaso](/it/Items/unt_202/),  **14%** [Guardia Dendroide](/it/Items/unt_203/),  **14%** [Unicorno](/it/Items/unt_204/),  **14%** [Pietra mistica Elfo Gigante](/it/Items/unt_291/),  **4%** [Pietra mistica Pegaso Argenteo](/it/Items/unt_292/),  **14%** [Pietra mistica Soldato Dendroide](/it/Items/unt_293/),  **4%** [Pietra mistica Unicorno da Guerra](/it/Items/unt_294/),  |
-  | 4 | **11%** | **5x** |  **76%** [Centauro](/it/Items/unt_199/),  **23%** [Pietra mistica Capitano Centauro](/it/Items/unt_290/),  |
+  | 1 | **55%** | **1x** | [Pacchetto Baluardo Edizione limitata](/ItemsIT/con_2101/) |
+  | 2 | **11%** | **5x** |  **4%** [Gnomo](/ItemsIT/unt_200/),  **14%** [Elfo del bosco](/ItemsIT/unt_201/),  **14%** [Pegaso](/ItemsIT/unt_202/),  **14%** [Guardia Dendroide](/ItemsIT/unt_203/),  **14%** [Unicorno](/ItemsIT/unt_204/),  **14%** [Pietra mistica Elfo Gigante](/ItemsIT/unt_291/),  **4%** [Pietra mistica Pegaso Argenteo](/ItemsIT/unt_292/),  **14%** [Pietra mistica Soldato Dendroide](/ItemsIT/unt_293/),  **4%** [Pietra mistica Unicorno da Guerra](/ItemsIT/unt_294/),  |
+  | 3 | **11%** | **3x** |  **4%** [Gnomo](/ItemsIT/unt_200/),  **14%** [Elfo del bosco](/ItemsIT/unt_201/),  **14%** [Pegaso](/ItemsIT/unt_202/),  **14%** [Guardia Dendroide](/ItemsIT/unt_203/),  **14%** [Unicorno](/ItemsIT/unt_204/),  **14%** [Pietra mistica Elfo Gigante](/ItemsIT/unt_291/),  **4%** [Pietra mistica Pegaso Argenteo](/ItemsIT/unt_292/),  **14%** [Pietra mistica Soldato Dendroide](/ItemsIT/unt_293/),  **4%** [Pietra mistica Unicorno da Guerra](/ItemsIT/unt_294/),  |
+  | 4 | **11%** | **5x** |  **76%** [Centauro](/ItemsIT/unt_199/),  **23%** [Pietra mistica Capitano Centauro](/ItemsIT/unt_290/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pacchetto Baluardo Edizione limitata](/it/Items/con_2101/)
+  **Drop by 10x spin: X** [Pacchetto Baluardo Edizione limitata](/ItemsIT/con_2101/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pietra mistica Capitano Centauro](/it/Items/unt_290/), [Pietra mistica Elfo Gigante](/it/Items/unt_291/), [Pietra mistica Pegaso Argenteo](/it/Items/unt_292/), [Pietra mistica Soldato Dendroide](/it/Items/unt_293/), [Pietra mistica Unicorno da Guerra](/it/Items/unt_294/), [Pietra mistica Drago d'oro](/it/Items/unt_295/) | [Centauro](/it/Items/unt_199/), [Gnomo](/it/Items/unt_200/), [Elfo del bosco](/it/Items/unt_201/), [Pegaso](/it/Items/unt_202/), [Guardia Dendroide](/it/Items/unt_203/), [Unicorno](/it/Items/unt_204/), [Drago verde](/it/Items/unt_205/) |
+  | [Pietra mistica Capitano Centauro](/ItemsIT/unt_290/), [Pietra mistica Elfo Gigante](/ItemsIT/unt_291/), [Pietra mistica Pegaso Argenteo](/ItemsIT/unt_292/), [Pietra mistica Soldato Dendroide](/ItemsIT/unt_293/), [Pietra mistica Unicorno da Guerra](/ItemsIT/unt_294/), [Pietra mistica Drago d'oro](/ItemsIT/unt_295/) | [Centauro](/ItemsIT/unt_199/), [Gnomo](/ItemsIT/unt_200/), [Elfo del bosco](/ItemsIT/unt_201/), [Pegaso](/ItemsIT/unt_202/), [Guardia Dendroide](/ItemsIT/unt_203/), [Unicorno](/ItemsIT/unt_204/), [Drago verde](/ItemsIT/unt_205/) |
 
 
 

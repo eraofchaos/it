@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-9 Le miniere di Nighon"
 permalink: /Main Story/Chapter 27_9/
 excerpt: "Capitolo 27 - 9. Era of Chaos  Storia principale - Capitolo 27_9. 27-9 Le miniere di Nighon"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 27_9.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Mercurio splendente +5](/it/Items/mat_98/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Mercurio splendente +5](/ItemsIT/mat_98/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Zolfo stellare +4](/it/Items/mat_92/){: .btn .btn--era5}, **40% 1x** [Zolfo stellare +4](/it/Items/mat_92/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Zolfo stellare +4](/ItemsIT/mat_92/){: .btn .btn--era5}, **40% 1x** [Zolfo stellare +4](/ItemsIT/mat_92/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

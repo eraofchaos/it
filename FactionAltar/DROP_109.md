@@ -2,7 +2,7 @@
 title: "Faction Altar for Confluenza"
 permalink: /FactionAltar/DROP_109/
 excerpt: "Era of Chaos  Faction Altar for Confluenza. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "DROP_109.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pacchetto Elementale Edizione limitata](/it/Items/con_2141/)
+  **Drop by Luck (10x spin): 30x** [Pacchetto Elementale Edizione limitata](/ItemsIT/con_2141/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pacchetto Elementale Edizione limitata](/it/Items/con_2141/) |
-  | 2 | **12%** | **2x** | [Pacchetto Elementale Edizione limitata](/it/Items/con_2141/) |
-  | 3 | **12%** | **3x** | [Pacchetto Elementale Edizione limitata](/it/Items/con_2141/) |
-  | 4 | **12%** | **5x** |  **31%** [Elementale della tempesta](/it/Items/unt_263/),  **31%** [Elementale del ghiaccio](/it/Items/unt_264/),  **9%** [Rapace di fuoco](/it/Items/unt_268/),  **9%** [Pietra mistica Fenice](/it/Items/unt_348/),  **9%** [Pietra mistica Furia del tuono](/it/Items/unt_344/),  **9%** [Pietra mistica Spirito della neve silente](/it/Items/unt_345/),  |
-  | 5 | **12%** | **3x** |  **31%** [Elementale della tempesta](/it/Items/unt_263/),  **31%** [Elementale del ghiaccio](/it/Items/unt_264/),  **9%** [Rapace di fuoco](/it/Items/unt_268/),  **9%** [Pietra mistica Fenice](/it/Items/unt_348/),  **9%** [Pietra mistica Furia del tuono](/it/Items/unt_344/),  **9%** [Pietra mistica Spirito della neve silente](/it/Items/unt_345/),  |
-  | 6 | **12%** | **5x** |  **100%** [Driade](/it/Items/unt_262/),  |
+  | 1 | **25%** | **1x** | [Pacchetto Elementale Edizione limitata](/ItemsIT/con_2141/) |
+  | 2 | **12%** | **2x** | [Pacchetto Elementale Edizione limitata](/ItemsIT/con_2141/) |
+  | 3 | **12%** | **3x** | [Pacchetto Elementale Edizione limitata](/ItemsIT/con_2141/) |
+  | 4 | **12%** | **5x** |  **31%** [Elementale della tempesta](/ItemsIT/unt_263/),  **31%** [Elementale del ghiaccio](/ItemsIT/unt_264/),  **9%** [Rapace di fuoco](/ItemsIT/unt_268/),  **9%** [Pietra mistica Fenice](/ItemsIT/unt_348/),  **9%** [Pietra mistica Furia del tuono](/ItemsIT/unt_344/),  **9%** [Pietra mistica Spirito della neve silente](/ItemsIT/unt_345/),  |
+  | 5 | **12%** | **3x** |  **31%** [Elementale della tempesta](/ItemsIT/unt_263/),  **31%** [Elementale del ghiaccio](/ItemsIT/unt_264/),  **9%** [Rapace di fuoco](/ItemsIT/unt_268/),  **9%** [Pietra mistica Fenice](/ItemsIT/unt_348/),  **9%** [Pietra mistica Furia del tuono](/ItemsIT/unt_344/),  **9%** [Pietra mistica Spirito della neve silente](/ItemsIT/unt_345/),  |
+  | 6 | **12%** | **5x** |  **100%** [Driade](/ItemsIT/unt_262/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pacchetto Elementale Edizione limitata](/it/Items/con_2141/) |
-  | 2 | **11%** | **5x** |  **31%** [Elementale della tempesta](/it/Items/unt_263/),  **31%** [Elementale del ghiaccio](/it/Items/unt_264/),  **9%** [Rapace di fuoco](/it/Items/unt_268/),  **9%** [Pietra mistica Fenice](/it/Items/unt_348/),  **9%** [Pietra mistica Furia del tuono](/it/Items/unt_344/),  **9%** [Pietra mistica Spirito della neve silente](/it/Items/unt_345/),  |
-  | 3 | **11%** | **3x** |  **31%** [Elementale della tempesta](/it/Items/unt_263/),  **31%** [Elementale del ghiaccio](/it/Items/unt_264/),  **9%** [Rapace di fuoco](/it/Items/unt_268/),  **9%** [Pietra mistica Fenice](/it/Items/unt_348/),  **9%** [Pietra mistica Furia del tuono](/it/Items/unt_344/),  **9%** [Pietra mistica Spirito della neve silente](/it/Items/unt_345/),  |
-  | 4 | **11%** | **5x** |  **100%** [Driade](/it/Items/unt_262/),  |
+  | 1 | **55%** | **1x** | [Pacchetto Elementale Edizione limitata](/ItemsIT/con_2141/) |
+  | 2 | **11%** | **5x** |  **31%** [Elementale della tempesta](/ItemsIT/unt_263/),  **31%** [Elementale del ghiaccio](/ItemsIT/unt_264/),  **9%** [Rapace di fuoco](/ItemsIT/unt_268/),  **9%** [Pietra mistica Fenice](/ItemsIT/unt_348/),  **9%** [Pietra mistica Furia del tuono](/ItemsIT/unt_344/),  **9%** [Pietra mistica Spirito della neve silente](/ItemsIT/unt_345/),  |
+  | 3 | **11%** | **3x** |  **31%** [Elementale della tempesta](/ItemsIT/unt_263/),  **31%** [Elementale del ghiaccio](/ItemsIT/unt_264/),  **9%** [Rapace di fuoco](/ItemsIT/unt_268/),  **9%** [Pietra mistica Fenice](/ItemsIT/unt_348/),  **9%** [Pietra mistica Furia del tuono](/ItemsIT/unt_344/),  **9%** [Pietra mistica Spirito della neve silente](/ItemsIT/unt_345/),  |
+  | 4 | **11%** | **5x** |  **100%** [Driade](/ItemsIT/unt_262/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pacchetto Elementale Edizione limitata](/it/Items/con_2141/)
+  **Drop by 10x spin: X** [Pacchetto Elementale Edizione limitata](/ItemsIT/con_2141/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pietra mistica Furia del tuono](/it/Items/unt_344/), [Pietra mistica Spirito della neve silente](/it/Items/unt_345/), [Pietra mistica Elementale magico](/it/Items/unt_347/), [Pietra mistica Fenice](/it/Items/unt_348/), [Pietra mistica Leprecauno maggiore](/it/Items/unt_349/) | [Driade](/it/Items/unt_262/), [Elementale della tempesta](/it/Items/unt_263/), [Elementale del ghiaccio](/it/Items/unt_264/), [Elementale psichico](/it/Items/unt_267/), [Rapace di fuoco](/it/Items/unt_268/), [Leprecauno](/it/Items/unt_270/) |
+  | [Pietra mistica Furia del tuono](/ItemsIT/unt_344/), [Pietra mistica Spirito della neve silente](/ItemsIT/unt_345/), [Pietra mistica Elementale magico](/ItemsIT/unt_347/), [Pietra mistica Fenice](/ItemsIT/unt_348/), [Pietra mistica Leprecauno maggiore](/ItemsIT/unt_349/) | [Driade](/ItemsIT/unt_262/), [Elementale della tempesta](/ItemsIT/unt_263/), [Elementale del ghiaccio](/ItemsIT/unt_264/), [Elementale psichico](/ItemsIT/unt_267/), [Rapace di fuoco](/ItemsIT/unt_268/), [Leprecauno](/ItemsIT/unt_270/) |
 
 
 

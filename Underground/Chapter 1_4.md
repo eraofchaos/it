@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 1 - 1-4 Corsa contro la morte"
 permalink: /Underground/Chapter 1_4/
 excerpt: "Capitolo 1 - 4. Era of Chaos  Sottosuolo - Capitolo 1_4. 1-4 Corsa contro la morte"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 1_4.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **80% 1x** [Legname comune](/it/Items/mat_7/){: .btn .btn--era2}, **20% 2x** [Legname comune](/it/Items/mat_7/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Legname comune](/ItemsIT/mat_7/){: .btn .btn--era2}, **20% 2x** [Legname comune](/ItemsIT/mat_7/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Mercurio inferiore](/it/Items/mat_2/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Mercurio inferiore](/ItemsIT/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

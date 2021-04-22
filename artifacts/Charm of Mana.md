@@ -2,7 +2,7 @@
 title: "Manufatti - Fonte del Mago - Pendente del mana"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Era of Chaos  Fonte del Mago - Pendente del mana. Un amuleto che migliora la magia. Uno dei componenti della Fonte del Mago."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Charm of Mana.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Fonte del Mago](/it/artifacts/Wizard's Well/){: .btn .btn--era3}
 
- **Dismantle: 3x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 3x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Pendente del mana](/it/Items/art_112/)
+ **Related Item**: [Pendente del mana](/ItemsIT/art_112/)
 
  **Quality:** [Blue Artifact Components](/it/artifacts/Blue Artifact Components/){: .btn .btn--era3}
 

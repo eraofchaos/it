@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 30 - 30-1  Inamovibile"
 permalink: /Underground/Chapter 30_1/
 excerpt: "Capitolo 30 - 1. Era of Chaos  Sottosuolo - Capitolo 30_1. 30-1  Inamovibile"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 30_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Gargolla di pietra](/it/Items/unt_236/){: .btn .btn--era4}, **67% 1x** [Gargolla di pietra](/it/Items/unt_236/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Gargolla di pietra](/ItemsIT/unt_236/){: .btn .btn--era4}, **67% 1x** [Gargolla di pietra](/ItemsIT/unt_236/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Certificato di leggendarietà +5](/it/Items/mat_102/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificato di leggendarietà +5](/ItemsIT/mat_102/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificato di leggendarietà +5](/it/Items/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà +5](/it/Items/mat_102/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificato di leggendarietà +5](/ItemsIT/mat_102/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà +5](/ItemsIT/mat_102/){: .btn .btn--era5}
 
 
 ## Fight against Team

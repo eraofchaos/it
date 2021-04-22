@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-8 Prima dell'alba"
 permalink: /Main Story/Chapter 13_8/
 excerpt: "Capitolo 13 - 8. Era of Chaos  Storia principale - Capitolo 13_8. 13-8 Prima dell'alba"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 13_8.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Legname raro +1](/it/Items/mat_41/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Legname raro +1](/ItemsIT/mat_41/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Mercurio eccezionale](/it/Items/mat_35/){: .btn .btn--era4}, **40% 1x** [Mercurio eccezionale](/it/Items/mat_35/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Mercurio eccezionale](/ItemsIT/mat_35/){: .btn .btn--era4}, **40% 1x** [Mercurio eccezionale](/ItemsIT/mat_35/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

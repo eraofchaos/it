@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 1 - 1-3 La fontana della giovinezza"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Capitolo 1 - 3. Era of Chaos  Storia principale - Capitolo 1_3. 1-3 La fontana della giovinezza"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **80% 1x** [Mercurio inferiore](/it/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercurio inferiore](/it/Items/mat_2/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Mercurio inferiore](/ItemsIT/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercurio inferiore](/ItemsIT/mat_2/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Legname inferiore](/it/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Legname inferiore](/it/Items/mat_1/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Legname inferiore](/ItemsIT/mat_1/){: .btn .btn--era1}, **20% 2x** [Legname inferiore](/ItemsIT/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

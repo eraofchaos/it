@@ -2,7 +2,7 @@
 title: "Manufatti - Alleanza Angelica - Armatura delle Meraviglie"
 permalink: /artifacts/Armor of Wonders/
 excerpt: "Era of Chaos  Alleanza Angelica - Armatura delle Meraviglie. Armatura che testimonia la grandezza dell'Impero. Uno dei componenti dell'Alleanza Angelica."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Armor of Wonders.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Alleanza Angelica](/it/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Armatura delle Meraviglie](/it/Items/art_153/)
+ **Related Item**: [Armatura delle Meraviglie](/ItemsIT/art_153/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

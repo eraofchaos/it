@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-10 Rinforzi"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "Capitolo 13 - 10. Era of Chaos  Storia principale - Capitolo 13_10. 13-10 Rinforzi"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 13_10.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Zolfo raro +1](/it/Items/mat_43/){: .btn .btn--era4}
+ **Drop 1:** **100% 1x** [Zolfo raro +1](/ItemsIT/mat_43/){: .btn .btn--era4}
 
- **Drop 2:** **60% 0x** [Minerale eccezionale](/it/Items/mat_33/){: .btn .btn--era4}, **40% 1x** [Minerale eccezionale](/it/Items/mat_33/){: .btn .btn--era4}
+ **Drop 2:** **60% 0x** [Minerale eccezionale](/ItemsIT/mat_33/){: .btn .btn--era4}, **40% 1x** [Minerale eccezionale](/ItemsIT/mat_33/){: .btn .btn--era4}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

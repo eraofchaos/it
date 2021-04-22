@@ -2,7 +2,7 @@
 title: "Manufatti - Spada dell'Armageddon - Ascia Spaccamontagne"
 permalink: /artifacts/Mountain Battleaxe/
 excerpt: "Era of Chaos  Spada dell'Armageddon - Ascia Spaccamontagne. Una reliquia lasciata sul campo dal Re degli Gnomi dopo la battaglia di Enroth. Uno dei componenti della Spada dell'Armageddon."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Mountain Battleaxe.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Ascia Spaccamontagne](/it/Items/art_169/)
+ **Related Item**: [Ascia Spaccamontagne](/ItemsIT/art_169/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

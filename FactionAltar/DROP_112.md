@@ -2,7 +2,7 @@
 title: "Faction Altar for Baia"
 permalink: /FactionAltar/DROP_112/
 excerpt: "Era of Chaos  Faction Altar for Baia. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "DROP_112.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pacchetto Baia Edizione limitata](/it/Items/con_2112/)
+  **Drop by Luck (10x spin): 30x** [Pacchetto Baia Edizione limitata](/ItemsIT/con_2112/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pacchetto Baia Edizione limitata](/it/Items/con_2112/) |
-  | 2 | **12%** | **2x** | [Pacchetto Baia Edizione limitata](/it/Items/con_2112/) |
-  | 3 | **12%** | **3x** | [Pacchetto Baia Edizione limitata](/it/Items/con_2112/) |
-  | 4 | **12%** | **5x** |  **100%** [Pirati di Regna](/it/Items/unt_273/),  |
-  | 5 | **12%** | **3x** |  **100%** [Pirati di Regna](/it/Items/unt_273/),  |
-  | 6 | **12%** | **5x** |  **100%** [Elementale del mare](/it/Items/unt_275/),  |
+  | 1 | **25%** | **1x** | [Pacchetto Baia Edizione limitata](/ItemsIT/con_2112/) |
+  | 2 | **12%** | **2x** | [Pacchetto Baia Edizione limitata](/ItemsIT/con_2112/) |
+  | 3 | **12%** | **3x** | [Pacchetto Baia Edizione limitata](/ItemsIT/con_2112/) |
+  | 4 | **12%** | **5x** |  **100%** [Pirati di Regna](/ItemsIT/unt_273/),  |
+  | 5 | **12%** | **3x** |  **100%** [Pirati di Regna](/ItemsIT/unt_273/),  |
+  | 6 | **12%** | **5x** |  **100%** [Elementale del mare](/ItemsIT/unt_275/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pacchetto Baia Edizione limitata](/it/Items/con_2112/) |
-  | 2 | **11%** | **5x** |  **100%** [Pirati di Regna](/it/Items/unt_273/),  |
-  | 3 | **11%** | **3x** |  **100%** [Pirati di Regna](/it/Items/unt_273/),  |
-  | 4 | **11%** | **5x** |  **100%** [Elementale del mare](/it/Items/unt_275/),  |
+  | 1 | **55%** | **1x** | [Pacchetto Baia Edizione limitata](/ItemsIT/con_2112/) |
+  | 2 | **11%** | **5x** |  **100%** [Pirati di Regna](/ItemsIT/unt_273/),  |
+  | 3 | **11%** | **3x** |  **100%** [Pirati di Regna](/ItemsIT/unt_273/),  |
+  | 4 | **11%** | **5x** |  **100%** [Elementale del mare](/ItemsIT/unt_275/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pacchetto Baia Edizione limitata](/it/Items/con_2112/)
+  **Drop by 10x spin: X** [Pacchetto Baia Edizione limitata](/ItemsIT/con_2112/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  |  - | [Pirati di Regna](/it/Items/unt_273/), [Arciere di Regna](/it/Items/unt_274/), [Elementale del mare](/it/Items/unt_275/), [Tartaruga draconica](/it/Items/unt_278/), [Addestratore di squali](/it/Items/unt_281/) |
+  |  - | [Pirati di Regna](/ItemsIT/unt_273/), [Arciere di Regna](/ItemsIT/unt_274/), [Elementale del mare](/ItemsIT/unt_275/), [Tartaruga draconica](/ItemsIT/unt_278/), [Addestratore di squali](/ItemsIT/unt_281/) |
 
 
 

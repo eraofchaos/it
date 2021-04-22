@@ -2,7 +2,7 @@
 title: "VIP - VIP 13"
 permalink: /VIP/VIP 13/
 excerpt: "Era of Chaos  Sistema VIP. VIP 13"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "VIP 13.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
 
 ## Dettagli
 
- **Reward:** **1x** [Pacchetto premium V13](/it/Items/con_1309/)
+ **Reward:** **1x** [Pacchetto premium V13](/ItemsIT/con_1309/)
 
  **EXP:** 80000
 

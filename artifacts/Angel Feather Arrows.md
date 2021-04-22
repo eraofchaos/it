@@ -2,7 +2,7 @@
 title: "Manufatti - Arco del Tiratore esperto - Frecce Piuma d'angelo"
 permalink: /artifacts/Angel Feather Arrows/
 excerpt: "Era of Chaos  Arco del Tiratore esperto - Frecce Piuma d'angelo. Una freccia magica realizzata dagli Elfi. Uno dei componenti dell'Arco del Tiratore esperto."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Angel Feather Arrows.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Arco del Tiratore esperto](/it/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
- **Dismantle: 25x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Frecce Piuma d'angelo](/it/Items/art_104/)
+ **Related Item**: [Frecce Piuma d'angelo](/ItemsIT/art_104/)
 
  **Quality:** [Violet Artifact Components](/it/artifacts/Violet Artifact Components/){: .btn .btn--era4}
 

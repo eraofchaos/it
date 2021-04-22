@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 20 - 20-3 Il discepolo di Dio"
 permalink: /Underground/Chapter 20_3/
 excerpt: "Capitolo 20 - 3. Era of Chaos  Sottosuolo - Capitolo 20_3. 20-3 Il discepolo di Dio"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 20_3.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Monaco](/it/Items/unt_194/){: .btn .btn--era4}, **67% 1x** [Monaco](/it/Items/unt_194/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Monaco](/ItemsIT/unt_194/){: .btn .btn--era4}, **67% 1x** [Monaco](/ItemsIT/unt_194/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Certificato di leggendarietà +2](/it/Items/mat_81/){: .btn .btn--era5}
+ **Drop 2:** **100% 1x** [Certificato di leggendarietà +2](/ItemsIT/mat_81/){: .btn .btn--era5}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Certificato di leggendarietà +1](/it/Items/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà +1](/it/Items/mat_74/){: .btn .btn--era5}
+ **Drop 4:** **50% 0x** [Certificato di leggendarietà +1](/ItemsIT/mat_74/){: .btn .btn--era5}, **50% 1x** [Certificato di leggendarietà +1](/ItemsIT/mat_74/){: .btn .btn--era5}
 
 
 ## Fight against Team

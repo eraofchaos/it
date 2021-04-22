@@ -2,7 +2,7 @@
 title: "Manufatti - Tuono del Titano - Elmo del Tuono"
 permalink: /artifacts/Thunder Helmet/
 excerpt: "Era of Chaos  Tuono del Titano - Elmo del Tuono. Un elmo appartenuto al dio del tuono. Uno dei componenti del Tuono del Titano."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Thunder Helmet.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Tuono del Titano](/it/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Elmo del Tuono](/it/Items/art_158/)
+ **Related Item**: [Elmo del Tuono](/ItemsIT/art_158/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

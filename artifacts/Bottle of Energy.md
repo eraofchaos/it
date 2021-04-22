@@ -2,7 +2,7 @@
 title: "Manufatti - Elisir Vitale - Bottiglia dell'Energia"
 permalink: /artifacts/Bottle of Energy/
 excerpt: "Era of Chaos  Elisir Vitale - Bottiglia dell'Energia. Una bottiglia che fa sentire rigenerati. Uno dei componenti dell'Elisir Vitale."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Bottle of Energy.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Elisir Vitale](/it/artifacts/Elixir of Life/){: .btn .btn--era2}
 
- **Dismantle: 1x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 1x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Bottiglia dell'Energia](/it/Items/art_108/)
+ **Related Item**: [Bottiglia dell'Energia](/ItemsIT/art_108/)
 
  **Quality:** [Green Artifact Components](/it/artifacts/Green Artifact Components/){: .btn .btn--era2}
 

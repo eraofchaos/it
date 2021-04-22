@@ -2,7 +2,7 @@
 title: "Supporto campo di battaglia"
 permalink: /Backup/
 excerpt: "Era of Chaos  Supporto campo di battaglia - I Maghi possono aprire un portale sul campo di battaglia per teletrasportarvi 3 unità di supporto e generare una potente aura magica. Questo portento terrorizzerà i tuoi nemici."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "index.md"
 toc: false
@@ -48,21 +48,21 @@ classes: wide
 
   |  Level  | Tecnica campo di battaglia | Tecnica globale | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Pergamena dell'energia](/it/Items/con_830/) | **5x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 2 | **2x** [Pergamena dell'energia](/it/Items/con_830/) | **10x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 3 | **3x** [Pergamena dell'energia](/it/Items/con_830/) | **15x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 4 | **4x** [Pergamena dell'energia](/it/Items/con_830/) | **20x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 5 | **5x** [Pergamena dell'energia](/it/Items/con_830/) | **25x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 6 | **9x** [Pergamena dell'energia](/it/Items/con_830/) | **45x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 7 | **12x** [Pergamena dell'energia](/it/Items/con_830/) | **60x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 8 | **20x** [Pergamena dell'energia](/it/Items/con_830/) | **100x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 9 | **30x** [Pergamena dell'energia](/it/Items/con_830/) | **150x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 10 | **40x** [Pergamena dell'energia](/it/Items/con_830/) | **200x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 11 | **50x** [Pergamena dell'energia](/it/Items/con_830/) | **250x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 12 | **60x** [Pergamena dell'energia](/it/Items/con_830/) | **300x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 13 | **100x** [Pergamena dell'energia](/it/Items/con_830/) | **500x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 14 | **160x** [Pergamena dell'energia](/it/Items/con_830/) | **800x** [Pergamena dell'energia](/it/Items/con_830/) | 
-  | 15 | **200x** [Pergamena dell'energia](/it/Items/con_830/) | **1000x** [Pergamena dell'energia](/it/Items/con_830/) | 
+  | 1 | **1x** [Pergamena dell'energia](/ItemsIT/con_830/) | **5x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 2 | **2x** [Pergamena dell'energia](/ItemsIT/con_830/) | **10x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 3 | **3x** [Pergamena dell'energia](/ItemsIT/con_830/) | **15x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 4 | **4x** [Pergamena dell'energia](/ItemsIT/con_830/) | **20x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 5 | **5x** [Pergamena dell'energia](/ItemsIT/con_830/) | **25x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 6 | **9x** [Pergamena dell'energia](/ItemsIT/con_830/) | **45x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 7 | **12x** [Pergamena dell'energia](/ItemsIT/con_830/) | **60x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 8 | **20x** [Pergamena dell'energia](/ItemsIT/con_830/) | **100x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 9 | **30x** [Pergamena dell'energia](/ItemsIT/con_830/) | **150x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 10 | **40x** [Pergamena dell'energia](/ItemsIT/con_830/) | **200x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 11 | **50x** [Pergamena dell'energia](/ItemsIT/con_830/) | **250x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 12 | **60x** [Pergamena dell'energia](/ItemsIT/con_830/) | **300x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 13 | **100x** [Pergamena dell'energia](/ItemsIT/con_830/) | **500x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 14 | **160x** [Pergamena dell'energia](/ItemsIT/con_830/) | **800x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
+  | 15 | **200x** [Pergamena dell'energia](/ItemsIT/con_830/) | **1000x** [Pergamena dell'energia](/ItemsIT/con_830/) | 
 
 
 ## Regole

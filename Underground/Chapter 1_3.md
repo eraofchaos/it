@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 1 - 1-3 Un pericolo inaspettato"
 permalink: /Underground/Chapter 1_3/
 excerpt: "Capitolo 1 - 3. Era of Chaos  Sottosuolo - Capitolo 1_3. 1-3 Un pericolo inaspettato"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 1_3.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **67% 0x** [Grifone](/it/Items/unt_192/){: .btn .btn--era4}, **33% 1x** [Grifone](/it/Items/unt_192/){: .btn .btn--era4}
+ **Drop 1:** **67% 0x** [Grifone](/ItemsIT/unt_192/){: .btn .btn--era4}, **33% 1x** [Grifone](/ItemsIT/unt_192/){: .btn .btn--era4}
 
- **Drop 2:** **80% 1x** [Cristallo comune](/it/Items/mat_11/){: .btn .btn--era2}, **20% 2x** [Cristallo comune](/it/Items/mat_11/){: .btn .btn--era2}
+ **Drop 2:** **80% 1x** [Cristallo comune](/ItemsIT/mat_11/){: .btn .btn--era2}, **20% 2x** [Cristallo comune](/ItemsIT/mat_11/){: .btn .btn--era2}
 
- **Drop 3:** **100% 1x** [Legname inferiore](/it/Items/mat_1/){: .btn .btn--era1}
+ **Drop 3:** **100% 1x** [Legname inferiore](/ItemsIT/mat_1/){: .btn .btn--era1}
 
 
 ## Fight against Team

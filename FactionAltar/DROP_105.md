@@ -2,7 +2,7 @@
 title: "Faction Altar for Inferno"
 permalink: /FactionAltar/DROP_105/
 excerpt: "Era of Chaos  Faction Altar for Inferno. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "DROP_105.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pacchetto Inferno Edizione limitata](/it/Items/con_2104/)
+  **Drop by Luck (10x spin): 30x** [Pacchetto Inferno Edizione limitata](/ItemsIT/con_2104/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pacchetto Inferno Edizione limitata](/it/Items/con_2104/) |
-  | 2 | **12%** | **2x** | [Pacchetto Inferno Edizione limitata](/it/Items/con_2104/) |
-  | 3 | **12%** | **3x** | [Pacchetto Inferno Edizione limitata](/it/Items/con_2104/) |
-  | 4 | **12%** | **5x** |  **20%** [Segugio infernale](/it/Items/unt_228/),  **20%** [Demone](/it/Items/unt_229/),  **6%** [Efreet](/it/Items/unt_231/),  **20%** [Demone dell'abisso](/it/Items/unt_230/),  **20%** [Pietra mistica Signore dell'abisso](/it/Items/unt_316/),  **6%** [Pietra mistica Efreet Sultano](/it/Items/unt_317/),  **6%** [Pietra mistica Guardia infernale](/it/Items/unt_315/),  |
-  | 5 | **12%** | **3x** |  **20%** [Segugio infernale](/it/Items/unt_228/),  **20%** [Demone](/it/Items/unt_229/),  **6%** [Efreet](/it/Items/unt_231/),  **20%** [Demone dell'abisso](/it/Items/unt_230/),  **20%** [Pietra mistica Signore dell'abisso](/it/Items/unt_316/),  **6%** [Pietra mistica Efreet Sultano](/it/Items/unt_317/),  **6%** [Pietra mistica Guardia infernale](/it/Items/unt_315/),  |
-  | 6 | **12%** | **5x** |  **30%** [Folletto](/it/Items/unt_226/),  **30%** [Gog](/it/Items/unt_227/),  **9%** [Pietra mistica Famiglio](/it/Items/unt_313/),  **30%** [Pietra mistica Magog](/it/Items/unt_314/),  |
+  | 1 | **25%** | **1x** | [Pacchetto Inferno Edizione limitata](/ItemsIT/con_2104/) |
+  | 2 | **12%** | **2x** | [Pacchetto Inferno Edizione limitata](/ItemsIT/con_2104/) |
+  | 3 | **12%** | **3x** | [Pacchetto Inferno Edizione limitata](/ItemsIT/con_2104/) |
+  | 4 | **12%** | **5x** |  **20%** [Segugio infernale](/ItemsIT/unt_228/),  **20%** [Demone](/ItemsIT/unt_229/),  **6%** [Efreet](/ItemsIT/unt_231/),  **20%** [Demone dell'abisso](/ItemsIT/unt_230/),  **20%** [Pietra mistica Signore dell'abisso](/ItemsIT/unt_316/),  **6%** [Pietra mistica Efreet Sultano](/ItemsIT/unt_317/),  **6%** [Pietra mistica Guardia infernale](/ItemsIT/unt_315/),  |
+  | 5 | **12%** | **3x** |  **20%** [Segugio infernale](/ItemsIT/unt_228/),  **20%** [Demone](/ItemsIT/unt_229/),  **6%** [Efreet](/ItemsIT/unt_231/),  **20%** [Demone dell'abisso](/ItemsIT/unt_230/),  **20%** [Pietra mistica Signore dell'abisso](/ItemsIT/unt_316/),  **6%** [Pietra mistica Efreet Sultano](/ItemsIT/unt_317/),  **6%** [Pietra mistica Guardia infernale](/ItemsIT/unt_315/),  |
+  | 6 | **12%** | **5x** |  **30%** [Folletto](/ItemsIT/unt_226/),  **30%** [Gog](/ItemsIT/unt_227/),  **9%** [Pietra mistica Famiglio](/ItemsIT/unt_313/),  **30%** [Pietra mistica Magog](/ItemsIT/unt_314/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pacchetto Inferno Edizione limitata](/it/Items/con_2104/) |
-  | 2 | **11%** | **5x** |  **20%** [Segugio infernale](/it/Items/unt_228/),  **20%** [Demone](/it/Items/unt_229/),  **6%** [Efreet](/it/Items/unt_231/),  **20%** [Demone dell'abisso](/it/Items/unt_230/),  **20%** [Pietra mistica Signore dell'abisso](/it/Items/unt_316/),  **6%** [Pietra mistica Efreet Sultano](/it/Items/unt_317/),  **6%** [Pietra mistica Guardia infernale](/it/Items/unt_315/),  |
-  | 3 | **11%** | **3x** |  **20%** [Segugio infernale](/it/Items/unt_228/),  **20%** [Demone](/it/Items/unt_229/),  **6%** [Efreet](/it/Items/unt_231/),  **20%** [Demone dell'abisso](/it/Items/unt_230/),  **20%** [Pietra mistica Signore dell'abisso](/it/Items/unt_316/),  **6%** [Pietra mistica Efreet Sultano](/it/Items/unt_317/),  **6%** [Pietra mistica Guardia infernale](/it/Items/unt_315/),  |
-  | 4 | **11%** | **5x** |  **30%** [Folletto](/it/Items/unt_226/),  **30%** [Gog](/it/Items/unt_227/),  **9%** [Pietra mistica Famiglio](/it/Items/unt_313/),  **30%** [Pietra mistica Magog](/it/Items/unt_314/),  |
+  | 1 | **55%** | **1x** | [Pacchetto Inferno Edizione limitata](/ItemsIT/con_2104/) |
+  | 2 | **11%** | **5x** |  **20%** [Segugio infernale](/ItemsIT/unt_228/),  **20%** [Demone](/ItemsIT/unt_229/),  **6%** [Efreet](/ItemsIT/unt_231/),  **20%** [Demone dell'abisso](/ItemsIT/unt_230/),  **20%** [Pietra mistica Signore dell'abisso](/ItemsIT/unt_316/),  **6%** [Pietra mistica Efreet Sultano](/ItemsIT/unt_317/),  **6%** [Pietra mistica Guardia infernale](/ItemsIT/unt_315/),  |
+  | 3 | **11%** | **3x** |  **20%** [Segugio infernale](/ItemsIT/unt_228/),  **20%** [Demone](/ItemsIT/unt_229/),  **6%** [Efreet](/ItemsIT/unt_231/),  **20%** [Demone dell'abisso](/ItemsIT/unt_230/),  **20%** [Pietra mistica Signore dell'abisso](/ItemsIT/unt_316/),  **6%** [Pietra mistica Efreet Sultano](/ItemsIT/unt_317/),  **6%** [Pietra mistica Guardia infernale](/ItemsIT/unt_315/),  |
+  | 4 | **11%** | **5x** |  **30%** [Folletto](/ItemsIT/unt_226/),  **30%** [Gog](/ItemsIT/unt_227/),  **9%** [Pietra mistica Famiglio](/ItemsIT/unt_313/),  **30%** [Pietra mistica Magog](/ItemsIT/unt_314/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pacchetto Inferno Edizione limitata](/it/Items/con_2104/)
+  **Drop by 10x spin: X** [Pacchetto Inferno Edizione limitata](/ItemsIT/con_2104/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pietra mistica Famiglio](/it/Items/unt_313/), [Pietra mistica Magog](/it/Items/unt_314/), [Pietra mistica Signore dell'abisso](/it/Items/unt_316/), [Pietra mistica Efreet Sultano](/it/Items/unt_317/), [Pietra mistica Arcidiavolo](/it/Items/unt_318/), [Pietra mistica Guardia infernale](/it/Items/unt_315/) | [Folletto](/it/Items/unt_226/), [Gog](/it/Items/unt_227/), [Segugio infernale](/it/Items/unt_228/), [Demone](/it/Items/unt_229/), [Demone dell'abisso](/it/Items/unt_230/), [Efreet](/it/Items/unt_231/), [Diavolo](/it/Items/unt_232/) |
+  | [Pietra mistica Famiglio](/ItemsIT/unt_313/), [Pietra mistica Magog](/ItemsIT/unt_314/), [Pietra mistica Signore dell'abisso](/ItemsIT/unt_316/), [Pietra mistica Efreet Sultano](/ItemsIT/unt_317/), [Pietra mistica Arcidiavolo](/ItemsIT/unt_318/), [Pietra mistica Guardia infernale](/ItemsIT/unt_315/) | [Folletto](/ItemsIT/unt_226/), [Gog](/ItemsIT/unt_227/), [Segugio infernale](/ItemsIT/unt_228/), [Demone](/ItemsIT/unt_229/), [Demone dell'abisso](/ItemsIT/unt_230/), [Efreet](/ItemsIT/unt_231/), [Diavolo](/ItemsIT/unt_232/) |
 
 
 

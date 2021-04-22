@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 11 - 11-2 Protagonisti"
 permalink: /Underground/Chapter 11_2/
 excerpt: "Capitolo 11 - 2. Era of Chaos  Sottosuolo - Capitolo 11_2. 11-2 Protagonisti"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 11_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro delle essenze +1](/it/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro delle essenze +1](/ItemsIT/mat_46/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}
 
 
 ## Fight against Team

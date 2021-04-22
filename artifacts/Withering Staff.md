@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio - Bordone dell'Appassimento"
 permalink: /artifacts/Withering Staff/
 excerpt: "Era of Chaos  Spada di Ghiaccio - Bordone dell'Appassimento. Grosso bastone appartenuto a un Arcilich. Uno dei componenti della Spada di Ghiaccio."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Withering Staff.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada di Ghiaccio](/it/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Bordone dell'Appassimento](/it/Items/art_162/)
+ **Related Item**: [Bordone dell'Appassimento](/ItemsIT/art_162/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

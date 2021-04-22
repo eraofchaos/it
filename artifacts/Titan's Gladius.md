@@ -2,7 +2,7 @@
 title: "Manufatti - Tuono del Titano - Spadone del Titano"
 permalink: /artifacts/Titan's Gladius/
 excerpt: "Era of Chaos  Tuono del Titano - Spadone del Titano. Una spada brandita da un antico Gigante. Uno dei componenti del Tuono del Titano."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Titan's Gladius.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Tuono del Titano](/it/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Spadone del Titano](/it/Items/art_156/)
+ **Related Item**: [Spadone del Titano](/ItemsIT/art_156/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

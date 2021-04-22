@@ -2,7 +2,7 @@
 title: "Manufatti - Mela dell'Eden - Ankh"
 permalink: /artifacts/Ankh/
 excerpt: "Era of Chaos  Mela dell'Eden - Ankh. Una croce che rende immortale chi la indossa. Nessuno sa cosa sia successo al suo ultimo proprietario."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Ankh.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Ankh](/it/Items/art_184/)
+ **Related Item**: [Ankh](/ItemsIT/art_184/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

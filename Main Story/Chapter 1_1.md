@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 1 - 1-1 I custodi dell'isola"
 permalink: /Main Story/Chapter 1_1/
 excerpt: "Capitolo 1 - 1. Era of Chaos  Storia principale - Capitolo 1_1. 1-1 I custodi dell'isola"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 1_1.md"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
 
 ## Ricompensa
 
- **Drop 1:** **80% 1x** [Minerale inferiore](/it/Items/mat_1/){: .btn .btn--era1}, **20% 2x** [Minerale inferiore](/it/Items/mat_1/){: .btn .btn--era1}
+ **Drop 1:** **80% 1x** [Minerale inferiore](/ItemsIT/mat_1/){: .btn .btn--era1}, **20% 2x** [Minerale inferiore](/ItemsIT/mat_1/){: .btn .btn--era1}
 
- **Drop 2:** **80% 1x** [Mercurio inferiore](/it/Items/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercurio inferiore](/it/Items/mat_2/){: .btn .btn--era1}
+ **Drop 2:** **80% 1x** [Mercurio inferiore](/ItemsIT/mat_2/){: .btn .btn--era1}, **20% 2x** [Mercurio inferiore](/ItemsIT/mat_2/){: .btn .btn--era1}
 
 
 ## Fight against Team

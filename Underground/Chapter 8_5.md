@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 8 - 8-5 L'armata delle tenebre"
 permalink: /Underground/Chapter 8_5/
 excerpt: "Capitolo 8 - 5. Era of Chaos  Sottosuolo - Capitolo 8_5. 8-5 L'armata delle tenebre"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 8_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Ogre](/it/Items/unt_220/){: .btn .btn--era4}, **67% 1x** [Ogre](/it/Items/unt_220/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Ogre](/ItemsIT/unt_220/){: .btn .btn--era4}, **67% 1x** [Ogre](/ItemsIT/unt_220/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3}, **50% 1x** [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3}
 
 
 ## Fight against Team

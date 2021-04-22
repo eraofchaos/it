@@ -2,16 +2,16 @@
 title: "Manufatti Upgrade Costs"
 permalink: /artifacts/Artifacts Upgrade/
 excerpt: "Era of Chaos  Artifacts upgrade cost. I manufatti possono migliorare gli attributi degli eroi e sbloccare tecniche più potenti."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Artifacts Upgrade.md"
 toc: false
 classes: wide
 ---
 
-  First upgrade ingredient:[Pietra celeste](/it/Items/art_188/)
+  First upgrade ingredient:[Pietra celeste](/ItemsIT/art_188/)
 
-  Second upgrade ingredient:[Cristallo della Forgiatura](/it/Items/art_189/)
+  Second upgrade ingredient:[Cristallo della Forgiatura](/ItemsIT/art_189/)
 
   |  Level  | [Green Artifacts](/it/artifacts/Green Artifacts/){: .btn .btn--era2} | [Blue Artifacts](/it/artifacts/Blue Artifacts/){: .btn .btn--era3} | [Violet Artifacts](/it/artifacts/Violet Artifacts/){: .btn .btn--era4} | [Orange Artifacts](/it/artifacts/Orange Artifacts/){: .btn .btn--era5} |
   |:--------|:-------|:-------|:-------|:-------|

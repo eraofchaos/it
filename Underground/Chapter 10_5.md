@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 10 - 10-5 La rinascita del re"
 permalink: /Underground/Chapter 10_5/
 excerpt: "Capitolo 10 - 5. Era of Chaos  Sottosuolo - Capitolo 10_5. 10-5 La rinascita del re"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 10_5.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Demone dell'abisso](/it/Items/unt_230/){: .btn .btn--era4}, **67% 1x** [Demone dell'abisso](/it/Items/unt_230/){: .btn .btn--era4}
+ **Drop 1:** **33% 0x** [Demone dell'abisso](/ItemsIT/unt_230/){: .btn .btn--era4}, **67% 1x** [Demone dell'abisso](/ItemsIT/unt_230/){: .btn .btn--era4}
 
- **Drop 2:** **100% 1x** [Libro delle essenze +1](/it/Items/mat_46/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro delle essenze +1](/ItemsIT/mat_46/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}
+ **Drop 4:** **50% 0x** [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}, **50% 1x** [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}
 
 
 ## Fight against Team

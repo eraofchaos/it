@@ -2,7 +2,7 @@
 title: "Manufatti - Spada dell'Armageddon - Balestra perfezionata"
 permalink: /artifacts/Examplar Crossbow/
 excerpt: "Era of Chaos  Spada dell'Armageddon - Balestra perfezionata. Manufatto indossato dall'eroe Gelu prima di raggiungere la maggiore età. Uno dei componenti della Spada dell'Armageddon."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Examplar Crossbow.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Balestra perfezionata](/it/Items/art_171/)
+ **Related Item**: [Balestra perfezionata](/ItemsIT/art_171/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

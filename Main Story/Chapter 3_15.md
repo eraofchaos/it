@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-15 La città del peccato"
 permalink: /Main Story/Chapter 3_15/
 excerpt: "Capitolo 3 - 15. Era of Chaos  Storia principale - Capitolo 3_15. 3-15 La città del peccato"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 3_15.md"
 toc: false
@@ -19,11 +19,11 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Cristallo comune](/it/Items/mat_11/){: .btn .btn--era2}
+ **Drop 1:** **100% 1x** [Cristallo comune](/ItemsIT/mat_11/){: .btn .btn--era2}
 
- **Drop 2:** **20% 0x** [Gemme inferiori](/it/Items/mat_4/){: .btn .btn--era1}, **60% 1x** [Gemme inferiori](/it/Items/mat_4/){: .btn .btn--era1}, **20% 2x** [Gemme inferiori](/it/Items/mat_4/){: .btn .btn--era1}
+ **Drop 2:** **20% 0x** [Gemme inferiori](/ItemsIT/mat_4/){: .btn .btn--era1}, **60% 1x** [Gemme inferiori](/ItemsIT/mat_4/){: .btn .btn--era1}, **20% 2x** [Gemme inferiori](/ItemsIT/mat_4/){: .btn .btn--era1}
 
 
 ## Fight against Team

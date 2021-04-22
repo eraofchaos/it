@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-11 La freccia ammazzadraghi"
 permalink: /Main Story/Chapter 23_11/
 excerpt: "Capitolo 23 - 11. Era of Chaos  Storia principale - Capitolo 23_11. 23-11 La freccia ammazzadraghi"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 23_11.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **100% 1x** [Gemme segrete +2](/it/Items/mat_79/){: .btn .btn--era5}
+ **Drop 1:** **100% 1x** [Gemme segrete +2](/ItemsIT/mat_79/){: .btn .btn--era5}
 
- **Drop 2:** **60% 0x** [Cristallo eterno +1](/it/Items/mat_73/){: .btn .btn--era5}, **40% 1x** [Cristallo eterno +1](/it/Items/mat_73/){: .btn .btn--era5}
+ **Drop 2:** **60% 0x** [Cristallo eterno +1](/ItemsIT/mat_73/){: .btn .btn--era5}, **40% 1x** [Cristallo eterno +1](/ItemsIT/mat_73/){: .btn .btn--era5}
 
- **Drop 3:** **100% 1x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 1x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
 
 ## Fight against Team

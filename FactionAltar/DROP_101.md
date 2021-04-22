@@ -2,7 +2,7 @@
 title: "Faction Altar for Castello"
 permalink: /FactionAltar/DROP_101/
 excerpt: "Era of Chaos  Faction Altar for Castello. Faction Altar is the primary method for obtaining SSR units from the popular faction. Limited to 1,000 purchases each week. The popular faction changes at 05:00 every Monday. Purchase attempts and free purchase attempts will also reset then."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "DROP_101.md"
 toc: false
@@ -19,37 +19,37 @@ classes: wide
 
   **Lucky points range:** from **20** to **22**
 
-  **Drop by Luck (10x spin): 30x** [Pacchetto Castello Edizione limitata](/it/Items/con_2139/)
+  **Drop by Luck (10x spin): 30x** [Pacchetto Castello Edizione limitata](/ItemsIT/con_2139/)
 
 ####  1x FREE SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **25%** | **1x** | [Pacchetto Castello Edizione limitata](/it/Items/con_2139/) |
-  | 2 | **12%** | **2x** | [Pacchetto Castello Edizione limitata](/it/Items/con_2139/) |
-  | 3 | **12%** | **3x** | [Pacchetto Castello Edizione limitata](/it/Items/con_2139/) |
-  | 4 | **12%** | **5x** |  **19%** [Grifone](/it/Items/unt_192/),  **5%** [Spadaccino](/it/Items/unt_193/),  **19%** [Monaco](/it/Items/unt_194/),  **19%** [Catafratto](/it/Items/unt_195/),  **5%** [Pietra mistica Crociato](/it/Items/unt_285/),  **19%** [Pietra mistica Cavaliere campione](/it/Items/unt_287/),  **5%** [Pietra mistica Fanatico](/it/Items/unt_286/),  **5%** [Pietra mistica Grifone sacro](/it/Items/unt_284/),  |
-  | 5 | **12%** | **3x** |  **19%** [Grifone](/it/Items/unt_192/),  **5%** [Spadaccino](/it/Items/unt_193/),  **19%** [Monaco](/it/Items/unt_194/),  **19%** [Catafratto](/it/Items/unt_195/),  **5%** [Pietra mistica Crociato](/it/Items/unt_285/),  **19%** [Pietra mistica Cavaliere campione](/it/Items/unt_287/),  **5%** [Pietra mistica Fanatico](/it/Items/unt_286/),  **5%** [Pietra mistica Grifone sacro](/it/Items/unt_284/),  |
-  | 6 | **12%** | **5x** |  **25%** [Picchiere](/it/Items/unt_190/),  **25%** [Tiratore scelto](/it/Items/unt_191/),  **25%** [Pietra mistica Alabardiere](/it/Items/unt_282/),  **25%** [Pietra mistica Maestro arciere](/it/Items/unt_283/),  |
+  | 1 | **25%** | **1x** | [Pacchetto Castello Edizione limitata](/ItemsIT/con_2139/) |
+  | 2 | **12%** | **2x** | [Pacchetto Castello Edizione limitata](/ItemsIT/con_2139/) |
+  | 3 | **12%** | **3x** | [Pacchetto Castello Edizione limitata](/ItemsIT/con_2139/) |
+  | 4 | **12%** | **5x** |  **19%** [Grifone](/ItemsIT/unt_192/),  **5%** [Spadaccino](/ItemsIT/unt_193/),  **19%** [Monaco](/ItemsIT/unt_194/),  **19%** [Catafratto](/ItemsIT/unt_195/),  **5%** [Pietra mistica Crociato](/ItemsIT/unt_285/),  **19%** [Pietra mistica Cavaliere campione](/ItemsIT/unt_287/),  **5%** [Pietra mistica Fanatico](/ItemsIT/unt_286/),  **5%** [Pietra mistica Grifone sacro](/ItemsIT/unt_284/),  |
+  | 5 | **12%** | **3x** |  **19%** [Grifone](/ItemsIT/unt_192/),  **5%** [Spadaccino](/ItemsIT/unt_193/),  **19%** [Monaco](/ItemsIT/unt_194/),  **19%** [Catafratto](/ItemsIT/unt_195/),  **5%** [Pietra mistica Crociato](/ItemsIT/unt_285/),  **19%** [Pietra mistica Cavaliere campione](/ItemsIT/unt_287/),  **5%** [Pietra mistica Fanatico](/ItemsIT/unt_286/),  **5%** [Pietra mistica Grifone sacro](/ItemsIT/unt_284/),  |
+  | 6 | **12%** | **5x** |  **25%** [Picchiere](/ItemsIT/unt_190/),  **25%** [Tiratore scelto](/ItemsIT/unt_191/),  **25%** [Pietra mistica Alabardiere](/ItemsIT/unt_282/),  **25%** [Pietra mistica Maestro arciere](/ItemsIT/unt_283/),  |
 
 
 ####  1x SPIN 
 
   |    Nr    |  Drop rate  |  Amount   |   Item or One from list  |
   |:---------|:------------|:---------:|:------------------------:|
-  | 1 | **55%** | **1x** | [Pacchetto Castello Edizione limitata](/it/Items/con_2139/) |
-  | 2 | **11%** | **5x** |  **19%** [Grifone](/it/Items/unt_192/),  **5%** [Spadaccino](/it/Items/unt_193/),  **19%** [Monaco](/it/Items/unt_194/),  **19%** [Catafratto](/it/Items/unt_195/),  **5%** [Pietra mistica Crociato](/it/Items/unt_285/),  **19%** [Pietra mistica Cavaliere campione](/it/Items/unt_287/),  **5%** [Pietra mistica Fanatico](/it/Items/unt_286/),  **5%** [Pietra mistica Grifone sacro](/it/Items/unt_284/),  |
-  | 3 | **11%** | **3x** |  **19%** [Grifone](/it/Items/unt_192/),  **5%** [Spadaccino](/it/Items/unt_193/),  **19%** [Monaco](/it/Items/unt_194/),  **19%** [Catafratto](/it/Items/unt_195/),  **5%** [Pietra mistica Crociato](/it/Items/unt_285/),  **19%** [Pietra mistica Cavaliere campione](/it/Items/unt_287/),  **5%** [Pietra mistica Fanatico](/it/Items/unt_286/),  **5%** [Pietra mistica Grifone sacro](/it/Items/unt_284/),  |
-  | 4 | **11%** | **5x** |  **25%** [Picchiere](/it/Items/unt_190/),  **25%** [Tiratore scelto](/it/Items/unt_191/),  **25%** [Pietra mistica Alabardiere](/it/Items/unt_282/),  **25%** [Pietra mistica Maestro arciere](/it/Items/unt_283/),  |
+  | 1 | **55%** | **1x** | [Pacchetto Castello Edizione limitata](/ItemsIT/con_2139/) |
+  | 2 | **11%** | **5x** |  **19%** [Grifone](/ItemsIT/unt_192/),  **5%** [Spadaccino](/ItemsIT/unt_193/),  **19%** [Monaco](/ItemsIT/unt_194/),  **19%** [Catafratto](/ItemsIT/unt_195/),  **5%** [Pietra mistica Crociato](/ItemsIT/unt_285/),  **19%** [Pietra mistica Cavaliere campione](/ItemsIT/unt_287/),  **5%** [Pietra mistica Fanatico](/ItemsIT/unt_286/),  **5%** [Pietra mistica Grifone sacro](/ItemsIT/unt_284/),  |
+  | 3 | **11%** | **3x** |  **19%** [Grifone](/ItemsIT/unt_192/),  **5%** [Spadaccino](/ItemsIT/unt_193/),  **19%** [Monaco](/ItemsIT/unt_194/),  **19%** [Catafratto](/ItemsIT/unt_195/),  **5%** [Pietra mistica Crociato](/ItemsIT/unt_285/),  **19%** [Pietra mistica Cavaliere campione](/ItemsIT/unt_287/),  **5%** [Pietra mistica Fanatico](/ItemsIT/unt_286/),  **5%** [Pietra mistica Grifone sacro](/ItemsIT/unt_284/),  |
+  | 4 | **11%** | **5x** |  **25%** [Picchiere](/ItemsIT/unt_190/),  **25%** [Tiratore scelto](/ItemsIT/unt_191/),  **25%** [Pietra mistica Alabardiere](/ItemsIT/unt_282/),  **25%** [Pietra mistica Maestro arciere](/ItemsIT/unt_283/),  |
 
 
 ####  10x SPIN 
 
-  **Drop by 10x spin: X** [Pacchetto Castello Edizione limitata](/it/Items/con_2139/)
+  **Drop by 10x spin: X** [Pacchetto Castello Edizione limitata](/ItemsIT/con_2139/)
 
   |    Unit Souls    |  Unit Tokens  |
   |:----------------:|:-------------:|
-  | [Pietra mistica Alabardiere](/it/Items/unt_282/), [Pietra mistica Maestro arciere](/it/Items/unt_283/), [Pietra mistica Grifone sacro](/it/Items/unt_284/), [Pietra mistica Crociato](/it/Items/unt_285/), [Pietra mistica Fanatico](/it/Items/unt_286/), [Pietra mistica Cavaliere campione](/it/Items/unt_287/), [Pietra mistica Arcangelo](/it/Items/unt_288/), [Pietra mistica Paladino Supremo](/it/Items/unt_289/) | [Picchiere](/it/Items/unt_190/), [Tiratore scelto](/it/Items/unt_191/), [Grifone](/it/Items/unt_192/), [Spadaccino](/it/Items/unt_193/), [Monaco](/it/Items/unt_194/), [Catafratto](/it/Items/unt_195/), [Angelo](/it/Items/unt_196/), [Paladino](/it/Items/unt_197/) |
+  | [Pietra mistica Alabardiere](/ItemsIT/unt_282/), [Pietra mistica Maestro arciere](/ItemsIT/unt_283/), [Pietra mistica Grifone sacro](/ItemsIT/unt_284/), [Pietra mistica Crociato](/ItemsIT/unt_285/), [Pietra mistica Fanatico](/ItemsIT/unt_286/), [Pietra mistica Cavaliere campione](/ItemsIT/unt_287/), [Pietra mistica Arcangelo](/ItemsIT/unt_288/), [Pietra mistica Paladino Supremo](/ItemsIT/unt_289/) | [Picchiere](/ItemsIT/unt_190/), [Tiratore scelto](/ItemsIT/unt_191/), [Grifone](/ItemsIT/unt_192/), [Spadaccino](/ItemsIT/unt_193/), [Monaco](/ItemsIT/unt_194/), [Catafratto](/ItemsIT/unt_195/), [Angelo](/ItemsIT/unt_196/), [Paladino](/ItemsIT/unt_197/) |
 
 
 

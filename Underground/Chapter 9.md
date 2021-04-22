@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 9 Avidità"
 permalink: /Underground/Chapter 9/
 excerpt: "Capitolo 9 Avidità. Era of Chaos  Sottosuolo - Capitolo 9. Avidità"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 9.md"
 toc: false
@@ -13,11 +13,11 @@ classes: wide
 
   | Nome |  Ricompensa primo completamento | Ricompensa |
   |:------------|:------------|:------------| 
-  | [9-1 Due eserciti a confronto](/it/Underground/Chapter 9_1/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Folletto](/it/Items/unt_226/){: .btn .btn--era3}, [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3} |
-  | [9-2 Climax](/it/Underground/Chapter 9_2/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3} |
-  | [9-3 Eruzione](/it/Underground/Chapter 9_3/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Scheletro](/it/Items/unt_208/){: .btn .btn--era3}, [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3} |
-  | [9-4 Spartizione territoriale](/it/Underground/Chapter 9_4/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3} |
-  | [9-5 Per la vittoria!](/it/Underground/Chapter 9_5/) | [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3} | [Demone](/it/Items/unt_229/){: .btn .btn--era4}, [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3} |
+  | [9-1 Due eserciti a confronto](/it/Underground/Chapter 9_1/) | [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3} | [Folletto](/ItemsIT/unt_226/){: .btn .btn--era3}, [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3} |
+  | [9-2 Climax](/it/Underground/Chapter 9_2/) | [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3} | [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3} |
+  | [9-3 Eruzione](/it/Underground/Chapter 9_3/) | [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3} | [Scheletro](/ItemsIT/unt_208/){: .btn .btn--era3}, [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3} |
+  | [9-4 Spartizione territoriale](/it/Underground/Chapter 9_4/) | [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3} | [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3} |
+  | [9-5 Per la vittoria!](/it/Underground/Chapter 9_5/) | [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3} | [Demone](/ItemsIT/unt_229/){: .btn .btn--era4}, [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}, [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}, [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3} |
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/15</span>
@@ -28,5 +28,5 @@ classes: wide
 
  Reward 3: **110 x** Star Points
 
- Reward 4: **15 x** [Rashka](/it/Items/her_384/){: .btn .btn--era5}
+ Reward 4: **15 x** [Rashka](/ItemsIT/her_384/){: .btn .btn--era5}
 

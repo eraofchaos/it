@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio - Tridente Abissale"
 permalink: /artifacts/Deep-Sea Trident/
 excerpt: "Era of Chaos  Spada di Ghiaccio - Tridente Abissale. Arma usata da Poseidone. Uno dei componenti della Spada di Ghiaccio."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Deep-Sea Trident.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada di Ghiaccio](/it/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Tridente Abissale](/it/Items/art_160/)
+ **Related Item**: [Tridente Abissale](/ItemsIT/art_160/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

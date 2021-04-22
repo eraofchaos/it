@@ -2,7 +2,7 @@
 title: "Manufatti - Mela dell'Eden - Sfera di cristallo"
 permalink: /artifacts/Crystal Ball/
 excerpt: "Era of Chaos  Mela dell'Eden - Sfera di cristallo. Una sfera di cristallo scintillante. Leggenda vuole che sia in grado di vedere il futuro."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Crystal Ball.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Sfera di cristallo](/it/Items/art_183/)
+ **Related Item**: [Sfera di cristallo](/ItemsIT/art_183/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

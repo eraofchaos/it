@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio - Bordone dell'Ogre"
 permalink: /artifacts/Ogre's Staff/
 excerpt: "Era of Chaos  Spada di Ghiaccio - Bordone dell'Ogre. Bastone venerato da un Ogre. Uno dei componenti della Spada di Ghiaccio."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Ogre's Staff.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Spada di Ghiaccio](/it/artifacts/Sword of Frost/){: .btn .btn--era5}
 
- **Dismantle: 225x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Bordone dell'Ogre](/it/Items/art_163/)
+ **Related Item**: [Bordone dell'Ogre](/ItemsIT/art_163/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

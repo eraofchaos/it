@@ -2,7 +2,7 @@
 title: "Manufatti - Tuono del Titano - Scudo della Sentinella"
 permalink: /artifacts/Sentinel's Shield/
 excerpt: "Era of Chaos  Tuono del Titano - Scudo della Sentinella. Uno scudo benedetto da un potere sacro. Uno dei componenti del Tuono del Titano."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Sentinel's Shield.md"
 toc: false
@@ -17,9 +17,9 @@ classes: wide
 
  **Part of Artifact:** [Tuono del Titano](/it/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
- **Dismantle: 75x** [Essenza di manufatto](/it/Items/con_905/)
+ **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 
- **Related Item**: [Scudo della Sentinella](/it/Items/art_157/)
+ **Related Item**: [Scudo della Sentinella](/ItemsIT/art_157/)
 
  **Quality:** [Orange Artifact Components](/it/artifacts/Orange Artifact Components/){: .btn .btn--era5}
 

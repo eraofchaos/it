@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 3 - 3-2 Il marchio del drago"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Capitolo 3 - 2. Era of Chaos  Sottosuolo - Capitolo 3_2. 3-2 Il marchio del drago"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 3_2.md"
 toc: false
@@ -19,13 +19,13 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro degli armamenti](/it/Items/mat_18/){: .btn .btn--era3}
+ **Drop 2:** **100% 1x** [Libro degli armamenti](/ItemsIT/mat_18/){: .btn .btn--era3}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **30% 0x** [Mercurio comune](/it/Items/mat_8/){: .btn .btn--era2}, **70% 1x** [Mercurio comune](/it/Items/mat_8/){: .btn .btn--era2}
+ **Drop 4:** **30% 0x** [Mercurio comune](/ItemsIT/mat_8/){: .btn .btn--era2}, **70% 1x** [Mercurio comune](/ItemsIT/mat_8/){: .btn .btn--era2}
 
 
 ## Fight against Team

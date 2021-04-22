@@ -2,7 +2,7 @@
 title: "Backup - Cerchio magico"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Cerchio magico"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Spell Commandment.md"
 toc: false
@@ -56,47 +56,47 @@ classes: wide
 
  **Tecnica campo di battaglia Power:** 1060
 
- **Tecnica campo di battaglia Unlock:** 5x [Pergamena dell'energia](/it/Items/con_830/)
+ **Tecnica campo di battaglia Unlock:** 5x [Pergamena dell'energia](/ItemsIT/con_830/)
 
   |  Level  | Level up | Descrizione | 
   |:-----|:----|:----------| 
-  | 1 | **1x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">18%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 2 | **2x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">31%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 3 | **3x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">44%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 4 | **4x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">57%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 5 | **5x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">70%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 6 | **9x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">83%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 7 | **12x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">96%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 8 | **20x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">109%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 9 | **30x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">122%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 10 | **40x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">135%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 11 | **50x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">148%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 12 | **60x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">161%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 13 | **100x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">174%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 14 | **160x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">187%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
-  | 15 | **200x** [Pergamena dell'energia](/it/Items/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">200%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 1 | **1x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">18%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 2 | **2x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">31%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 3 | **3x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">44%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 4 | **4x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">57%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 5 | **5x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">70%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 6 | **9x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">83%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 7 | **12x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">96%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 8 | **20x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">109%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 9 | **30x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">122%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 10 | **40x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">135%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 11 | **50x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">148%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 12 | **60x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">161%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 13 | **100x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">174%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 14 | **160x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">187%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
+  | 15 | **200x** [Pergamena dell'energia](/ItemsIT/con_830/) | Il danno magico degli eroi aumenta (<span style="color: #1ca216;font-size:16px">200%</span><span style="color: black">) se la formazione viene schierata in battaglia. | 
 
 
 ## Tecnica globale - **Incandescenza** 
 
  **Tecnica globale Power:** 1076
 
- **Tecnica globale Unlock:** 10x [Pergamena dell'energia](/it/Items/con_830/)
+ **Tecnica globale Unlock:** 10x [Pergamena dell'energia](/ItemsIT/con_830/)
 
   |  Level  | Level up | Descrizione | 
   |:-----|:----|:----------| 
-  | 1 | **5x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">2</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">0.2</span><span style="color: black"> | 
-  | 2 | **10x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">4</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">0.4</span><span style="color: black"> | 
-  | 3 | **15x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">6</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">0.6</span><span style="color: black"> | 
-  | 4 | **20x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">8</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">0.8</span><span style="color: black"> | 
-  | 5 | **25x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">10</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.0</span><span style="color: black"> | 
-  | 6 | **45x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">12</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.2</span><span style="color: black"> | 
-  | 7 | **60x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">14</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.4</span><span style="color: black"> | 
-  | 8 | **100x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">16</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.6</span><span style="color: black"> | 
-  | 9 | **150x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">18</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.8</span><span style="color: black"> | 
-  | 10 | **200x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">20</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.0</span><span style="color: black"> | 
-  | 11 | **250x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">22</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.2</span><span style="color: black"> | 
-  | 12 | **300x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">24</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.4</span><span style="color: black"> | 
-  | 13 | **500x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">26</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.6</span><span style="color: black"> | 
-  | 14 | **800x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">28</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.8</span><span style="color: black"> | 
-  | 15 | **1000x** [Pergamena dell'energia](/it/Items/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">30</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">3.0</span><span style="color: black"> | 
+  | 1 | **5x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">2</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">0.2</span><span style="color: black"> | 
+  | 2 | **10x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">4</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">0.4</span><span style="color: black"> | 
+  | 3 | **15x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">6</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">0.6</span><span style="color: black"> | 
+  | 4 | **20x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">8</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">0.8</span><span style="color: black"> | 
+  | 5 | **25x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">10</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.0</span><span style="color: black"> | 
+  | 6 | **45x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">12</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.2</span><span style="color: black"> | 
+  | 7 | **60x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">14</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.4</span><span style="color: black"> | 
+  | 8 | **100x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">16</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.6</span><span style="color: black"> | 
+  | 9 | **150x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">18</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">1.8</span><span style="color: black"> | 
+  | 10 | **200x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">20</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.0</span><span style="color: black"> | 
+  | 11 | **250x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">22</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.2</span><span style="color: black"> | 
+  | 12 | **300x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">24</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.4</span><span style="color: black"> | 
+  | 13 | **500x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">26</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.6</span><span style="color: black"> | 
+  | 14 | **800x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">28</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">2.8</span><span style="color: black"> | 
+  | 15 | **1000x** [Pergamena dell'energia](/ItemsIT/con_830/) | Aumenta l'Intelligenza degli eroi di <span style="color: #1ca216;font-size:16px">30</span><span style="color: black"> e la rigenerazione del mana di <span style="color: #1ca216;font-size:16px">3.0</span><span style="color: black"> | 

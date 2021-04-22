@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 8 - 8-1 Strategie"
 permalink: /Underground/Chapter 8_1/
 excerpt: "Capitolo 8 - 1. Era of Chaos  Sottosuolo - Capitolo 8_1. 8-1 Strategie"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-22
 locale: it
 ref: "Chapter 8_1.md"
 toc: false
@@ -19,15 +19,15 @@ classes: wide
 
 ## Ricompensa
 
- **Ricompensa primo completamento:** [Chiave d'argento](/it/Items/con_693/){: .btn .btn--era3}
+ **Ricompensa primo completamento:** [Chiave d'argento](/ItemsIT/con_693/){: .btn .btn--era3}
 
- **Drop 1:** **33% 0x** [Goblin](/it/Items/unt_217/){: .btn .btn--era3}, **67% 1x** [Goblin](/it/Items/unt_217/){: .btn .btn--era3}
+ **Drop 1:** **33% 0x** [Goblin](/ItemsIT/unt_217/){: .btn .btn--era3}, **67% 1x** [Goblin](/ItemsIT/unt_217/){: .btn .btn--era3}
 
- **Drop 2:** **100% 1x** [Libro delle essenze](/it/Items/mat_39/){: .btn .btn--era4}
+ **Drop 2:** **100% 1x** [Libro delle essenze](/ItemsIT/mat_39/){: .btn .btn--era4}
 
- **Drop 3:** **100% 2x** [Pergamene incantesimi](/it/Items/con_694/){: .btn .btn--era3}
+ **Drop 3:** **100% 2x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- **Drop 4:** **50% 0x** [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3}, **50% 1x** [Libro degli armamenti +2](/it/Items/mat_32/){: .btn .btn--era3}
+ **Drop 4:** **50% 0x** [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3}, **50% 1x** [Libro degli armamenti +2](/ItemsIT/mat_32/){: .btn .btn--era3}
 
 
 ## Fight against Team
