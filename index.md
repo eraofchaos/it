@@ -51,7 +51,7 @@ A causa delle limitazioni tecniche su Github (abbiamo circa 4000 pagine nel wiki
 Questo portale di informazioni contiene informazioni sul gioco per cellulare "Era Of Chaos".
 
 Puoi trovare qui:
-* <i class="fas fa-gavel"/> [Oggettos](/it/Items/)
+* <i class="fas fa-gavel"/> [Oggettos](/ItemsIT/)
 * <i class="fas fa-chess-king"/>  [Eroi](/it/heroes/)
 * <i class="fas fa-mask"/>  [Aiutante](/it/heroes/Adjutants/)
 * <i class="fab fa-optin-monster"/>  [Unità](/it/units/)
