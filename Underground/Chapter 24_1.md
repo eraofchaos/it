@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 24 - 24-1 Landa ghiacciata"
 permalink: /Underground/Chapter 24_1/
 excerpt: "Capitolo 24 - 1. Era of Chaos  Sottosuolo - Capitolo 24_1. 24-1 Landa ghiacciata"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 24_1.md"
 toc: false

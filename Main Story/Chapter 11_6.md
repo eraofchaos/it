@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-6 Il compromesso del sottosuolo"
 permalink: /Main Story/Chapter 11_6/
 excerpt: "Capitolo 11 - 6. Era of Chaos  Storia principale - Capitolo 11_6. 11-6 Il compromesso del sottosuolo"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 11_6.md"
 toc: false

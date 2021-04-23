@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Era of Chaos Esclusivo Castle. Esclusivo Castle. List of Esclusivo Castle in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Exclusive Castle"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Picchiere](/it/units/Pikeman/) | [Spada](/it/Exclusive/Pikeman Sword/) | - | Carica | [Token della Spada](/it/Items/con_912/) | - |
-  | 2  | [Tiratore scelto](/it/units/Marksman/) | [Arco lungo](/it/Exclusive/Marksman Long Bow/) | - | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
-  | 3  | [Grifone](/it/units/Griffin/) | [Carica impetuosa](/it/Exclusive/Griffin Knight Pike/) | - | Carica | [Token Carica impetuosa](/it/Items/con_916/) | - |
-  | 4  | [Spadaccino](/it/units/Swordsman/) | [Scudo dell'Iride](/it/Exclusive/Swordsman Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
-  | 5  | [Monaco](/it/units/Monk/) | [Cantico arcano](/it/Exclusive/Monk Arcane Chant/) | - | Carica | [Token Cantico arcano](/it/Items/con_915/) | - |
-  | 6  | [Catafratto](/it/units/Cavalier/) | [Carica impetuosa](/it/Exclusive/Cavalier Knight Pike/) | + | Carica | [Token Carica impetuosa](/it/Items/con_916/) | - |
-  | 7  | [Angelo](/it/units/Angel/) | [Durlindana](/it/Exclusive/Angel Durandel/) | - | Supporto | [Token Durlindana](/it/Items/con_973/) | [Skin speciale Durlindana](/it/Items/con_641/) |
-  | 8  | [Paladino](/it/units/Paladin/) | [](/it/Exclusive/Paladin /) | - | Supporto | [Token Impavida](/it/Items/con_974/) | [Skin speciale Impavida](/it/Items/con_642/) |
-  | 9  | [Giudice](/it/units/Judicator/) | [](/it/Exclusive/Judicator /) | - | Capitale | [Anima di stendardo Splendore del Santuario](/it/Items/con_975/) | [Tool_210909](/it/Items/con_643/) |
+  | 1  | [Picchiere](/it/units/Pikeman/) | [Spada](/it/Exclusive/Pikeman Sword/) | - | Carica | [Token della Spada](/ItemsIT/con_912/) | - |
+  | 2  | [Tiratore scelto](/it/units/Marksman/) | [Arco lungo](/it/Exclusive/Marksman Long Bow/) | - | Carica | [Token Arco lungo](/ItemsIT/con_914/) | - |
+  | 3  | [Grifone](/it/units/Griffin/) | [Carica impetuosa](/it/Exclusive/Griffin Knight Pike/) | - | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |
+  | 4  | [Spadaccino](/it/units/Swordsman/) | [Scudo dell'Iride](/it/Exclusive/Swordsman Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
+  | 5  | [Monaco](/it/units/Monk/) | [Cantico arcano](/it/Exclusive/Monk Arcane Chant/) | - | Carica | [Token Cantico arcano](/ItemsIT/con_915/) | - |
+  | 6  | [Catafratto](/it/units/Cavalier/) | [Carica impetuosa](/it/Exclusive/Cavalier Knight Pike/) | + | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |
+  | 7  | [Angelo](/it/units/Angel/) | [Durlindana](/it/Exclusive/Angel Durandel/) | - | Supporto | [Token Durlindana](/ItemsIT/con_973/) | [Skin speciale Durlindana](/ItemsIT/con_641/) |
+  | 8  | [Paladino](/it/units/Paladin/) | [](/it/Exclusive/Paladin /) | - | Supporto | [Token Impavida](/ItemsIT/con_974/) | [Skin speciale Impavida](/ItemsIT/con_642/) |
+  | 9  | [Giudice](/it/units/Judicator/) | [](/it/Exclusive/Judicator /) | - | Capitale | [Anima di stendardo Splendore del Santuario](/ItemsIT/con_975/) | [Tool_210909](/ItemsIT/con_643/) |

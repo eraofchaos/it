@@ -3,7 +3,7 @@ title: "Pegaso"
 permalink: /units/Pegasus/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Pegasi sono leggendarie creature silvane. Questi esseri sono compagni fedeli dei più forti tra gli elfi e combattono per preservare la pace nella foresta."
 unitID: 204
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Pegaso"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Pegaso](/it/Items/unt_202/)
+ **Unit Soul:** [Pegaso](/ItemsIT/unt_202/)
 
  **Unit description:** Protezione vitale: protegge le tue unità più vicine con uno <scudo>.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -178,7 +178,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

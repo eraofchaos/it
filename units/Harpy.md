@@ -3,7 +3,7 @@ title: "Arpia"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Arpia"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Arpia](/it/Items/unt_245/)
+ **Unit Soul:** [Arpia](/ItemsIT/unt_245/)
 
  **Unit description:** Artiglio affilato dell'Incantatrice: probabilità di infliggere danni a una moltitudine di nemici.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -169,7 +169,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Druido"
 permalink: /units/Druid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi Elfi hanno ereditato la potenza e la volontà della natura stessa e le brandiscono per proteggere chiunque combatta nel nome della foresta."
 unitID: 208
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Druido"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Druido](/it/Items/unt_206/)
+ **Unit Soul:** [Druido](/ItemsIT/unt_206/)
 
  **Unit description:** Cronosfera silvana: le unità all'interno del circolo sono immuni ai danni magici.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Bastone della Ricrescita](/it/Items/con_977/)
+ **Item to Rango ↑:** [Token Bastone della Ricrescita](/ItemsIT/con_977/)
 
- **Skin:** [Skin speciale Bastone della Ricrescita](/it/Items/con_645/)
+ **Skin:** [Skin speciale Bastone della Ricrescita](/ItemsIT/con_645/)
 
 
 ## Emblemi sacri consigliati
@@ -174,7 +174,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

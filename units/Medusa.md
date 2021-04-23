@@ -3,7 +3,7 @@ title: "Medusa"
 permalink: /units/Medusa/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
 unitID: 704
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Medusa"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Medusa](/it/Items/unt_247/)
+ **Unit Soul:** [Medusa](/ItemsIT/unt_247/)
 
  **Unit description:** Sguardo pietrificante: <pietrifica> i nemici, abbassandone la Rid DAN.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Arco di Medusa](/it/Items/con_991/)
+ **Item to Rango ↑:** [Token Arco di Medusa](/ItemsIT/con_991/)
 
- **Skin:** [Skin speciale Arco di Medusa](/it/Items/con_659/)
+ **Skin:** [Skin speciale Arco di Medusa](/ItemsIT/con_659/)
 
 
 ## Emblemi sacri consigliati
@@ -172,7 +172,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

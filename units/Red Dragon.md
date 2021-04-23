@@ -3,7 +3,7 @@ title: "Drago rosso"
 permalink: /units/Red Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Signore Supremo dei Draghi. Il suo ruggito, unico per potenza e solennità, richiama i suoi simili alla battaglia."
 unitID: 708
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Drago rosso"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Drago rosso](/it/Items/unt_251/)
+ **Unit Soul:** [Drago rosso](/ItemsIT/unt_251/)
 
  **Short description:** Signore Supremo dei draghi. Ruggito possente.
 
@@ -180,7 +180,7 @@ toc: true
 * Danno unità
 * Colpo critico unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

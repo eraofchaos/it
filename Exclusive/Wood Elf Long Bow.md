@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Wood Elf)"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Elfo del bosco Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Wood Elf Arco lungo.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Elfo del bosco](/it/units/Wood Elf/) 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Arco lungo](/it/Items/con_914/) | <Tempesta di frecce> L'attacco base dell'Elfo del bosco ha il 3% di probabilità di attivare <Tempesta di frecce>, scatenando una raffica nell'area bersaglio che infligge danni pari al 20% dell'ATT ogni 0,5 secondi per 3 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/it/Items/con_914/) | DAN dell'Elfo del bosco aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/it/Items/con_914/) | L'Elfo del bosco gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/it/Items/con_914/) | La probabilità di attivazione di <Tempesta di frecce> aumenta al 200% del valore originale; la tecnica ha il 50% di probabilità di <rallentare> i nemici, riducendone del 10% la Vel ATT. Durata: 5 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/it/Items/con_914/) | Ogni volta che viene schierata un'unità Baluardo, la Rid DAN dell'Elfo del bosco aumenta del 4%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/it/Items/con_914/) | Contro unità affette da <Sanguinamento>, l'ATT dell'Elfo del bosco aumenta del 5%. Durata: 5 secondi. Cumulabile fino a 15 volte. Recupero: 3 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/it/Items/con_914/) | <Aura del Ranger> Le unità a distanza e gli incantatori alleati godono di ATT aumentato del 15%, CRIT aumentato di 200 e DAN CRIT aumentato del 15%. |
+  |  Risveglio  | **100x** [Token Arco lungo](/ItemsIT/con_914/) | <Tempesta di frecce> L'attacco base dell'Elfo del bosco ha il 3% di probabilità di attivare <Tempesta di frecce>, scatenando una raffica nell'area bersaglio che infligge danni pari al 20% dell'ATT ogni 0,5 secondi per 3 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/ItemsIT/con_914/) | DAN dell'Elfo del bosco aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/ItemsIT/con_914/) | L'Elfo del bosco gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/ItemsIT/con_914/) | La probabilità di attivazione di <Tempesta di frecce> aumenta al 200% del valore originale; la tecnica ha il 50% di probabilità di <rallentare> i nemici, riducendone del 10% la Vel ATT. Durata: 5 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/ItemsIT/con_914/) | Ogni volta che viene schierata un'unità Baluardo, la Rid DAN dell'Elfo del bosco aumenta del 4%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/ItemsIT/con_914/) | Contro unità affette da <Sanguinamento>, l'ATT dell'Elfo del bosco aumenta del 5%. Durata: 5 secondi. Cumulabile fino a 15 volte. Recupero: 3 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/ItemsIT/con_914/) | <Aura del Ranger> Le unità a distanza e gli incantatori alleati godono di ATT aumentato del 15%, CRIT aumentato di 200 e DAN CRIT aumentato del 15%. |
 
 
 ## Livello ↑

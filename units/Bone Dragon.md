@@ -3,7 +3,7 @@ title: "Drago scheletrico"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Drago scheletrico"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Drago scheletrico](/it/Items/unt_214/)
+ **Unit Soul:** [Drago scheletrico](/ItemsIT/unt_214/)
 
  **Unit description:** Paura: riduce notevolmente la DIF nemica e causa <Morale basso>.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Drago scheletrico immortale](/it/Items/con_980/)
+ **Item to Rango ↑:** [Token Drago scheletrico immortale](/ItemsIT/con_980/)
 
- **Skin:** [Skin speciale Drago scheletrico immortale](/it/Items/con_648/)
+ **Skin:** [Skin speciale Drago scheletrico immortale](/ItemsIT/con_648/)
 
 
 ## Emblemi sacri consigliati
@@ -176,7 +176,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

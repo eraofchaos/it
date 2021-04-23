@@ -3,7 +3,7 @@ title: "Scheletro"
 permalink: /units/Skeleton/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Scheletro"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Scheletro](/it/Items/unt_208/)
+ **Unit Soul:** [Scheletro](/ItemsIT/unt_208/)
 
  **Unit description:** Scudo d'ossa: aumenta la Rid DAN dell'unità quando i PF scendono sotto il 50%.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Difesa
 * Resistenza magica
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

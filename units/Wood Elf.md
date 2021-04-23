@@ -3,7 +3,7 @@ title: "Elfo del bosco"
 permalink: /units/Wood Elf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
 unitID: 203
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Elfo del bosco"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Elfo del bosco](/it/Items/unt_201/)
+ **Unit Soul:** [Elfo del bosco](/ItemsIT/unt_201/)
 
  **Unit description:** Pioggia di frecce: aumenta la Vel ATT del 500% per un breve periodo.
 
@@ -87,7 +87,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

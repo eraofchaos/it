@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Spadaccino Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Swordsman Scudo dell'Iride.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Spadaccino](/it/units/Swordsman/) 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Assalto con scudo> Lo Spadaccino <rallenta> un'unità nemica ogni 18 secondi e ne riduce la Rid DAN del 15% per 7 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | PF aumentati del 20% e Schivata aumentata di 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | DIF aumentata del 20% per 5 secondi quando gode di <Morale alto>. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Ripresa> Se lo Spadaccino subisce danni superiori all'8% dei propri PF massimi con un attacco singolo, recupera PF pari al 150% del proprio ATT. Recupero: 10 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Tenacia aumentata di 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Rid DAN aumentata del 4% per ogni unità Castello sul campo di battaglia. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Cacciatore di Draghi> Lo Spadaccino gode di Rid DAN aumentata del 20% contro unità da 1 o 4 membri. Aumenta del 20% la Vel ATT delle unità immediatamente circostanti. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Assalto con scudo> Lo Spadaccino <rallenta> un'unità nemica ogni 18 secondi e ne riduce la Rid DAN del 15% per 7 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | PF aumentati del 20% e Schivata aumentata di 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | DIF aumentata del 20% per 5 secondi quando gode di <Morale alto>. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Ripresa> Se lo Spadaccino subisce danni superiori all'8% dei propri PF massimi con un attacco singolo, recupera PF pari al 150% del proprio ATT. Recupero: 10 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Tenacia aumentata di 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Rid DAN aumentata del 4% per ogni unità Castello sul campo di battaglia. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Cacciatore di Draghi> Lo Spadaccino gode di Rid DAN aumentata del 20% contro unità da 1 o 4 membri. Aumenta del 20% la Vel ATT delle unità immediatamente circostanti. |
 
 
 ## Livello ↑

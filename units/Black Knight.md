@@ -3,7 +3,7 @@ title: "Cavaliere nero"
 permalink: /units/Black Knight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Cavaliere nero"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Cavaliere nero](/it/Items/unt_213/)
+ **Unit Soul:** [Cavaliere nero](/ItemsIT/unt_213/)
 
  **Unit description:** Attacco critico: infligge danni devastanti e causa <Morale basso>.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Lama del sottosuolo](/it/Items/con_979/)
+ **Item to Rango ↑:** [Token Lama del sottosuolo](/ItemsIT/con_979/)
 
- **Skin:** [Skin speciale Lama del sottosuolo](/it/Items/con_647/)
+ **Skin:** [Skin speciale Lama del sottosuolo](/ItemsIT/con_647/)
 
 
 ## Emblemi sacri consigliati
@@ -180,7 +180,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

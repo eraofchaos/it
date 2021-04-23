@@ -2,7 +2,7 @@
 title: "Avatar - Guerriero leggendario (14 giorni)"
 permalink: /Avatars/Legendary Warrior (14 Days)/
 excerpt: "Era of Chaos  Guerriero leggendario (14 giorni)"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Legendary Warrior (14 Days).md"
 toc: false

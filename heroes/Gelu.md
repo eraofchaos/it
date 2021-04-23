@@ -4,7 +4,7 @@ permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu il Mezzelfo è il più famoso guerriero dell'Erathia. Il suo talento per la distruzione è stato scoperto dal generale Morgan Kendal mentre serviva nell'esercito della Regina Caterina."
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Gelu"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descrizione:** Gelu il Mezzelfo è il più famoso guerriero dell'Erathia. Il suo talento per la distruzione è stato scoperto dal generale Morgan Kendal mentre serviva nell'esercito della Regina Caterina.
 ## Dettagli
- **Profession:** Ranger
+ **Profession:** ![Ranger](/images/h/h_prof_3.png) Ranger
 
  **Race:** Baluardo
 
@@ -21,7 +21,7 @@ toc: true
 
  **User Rate:** SR+
 
- **Specialty:** Tiratore esperto
+ **Specialità eroe:** Tiratore esperto
 
  **Specialty Desc:** Sotto la guida di Gelu, Arcieri ed Elfi del bosco diventano Tiratori esperti. Le loro abilità di attacco e la gittata aumentano notevolmente.
 
@@ -30,25 +30,51 @@ toc: true
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |    Knowledge   |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 14 | 8 | TBD |
-  |    2    | 21 | 12 | TBD |
-  |    3    | 28 | 16 | TBD |
-  |    4    | 35 | 20 | TBD |
+  | Stars | Attacco eroe | Sapienza eroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 14 | 8 | **30x** [Gelu](/ItemsIT/her_366/) | Gli Elfi del bosco diventano Tiratori esperti. <Colpo doppio> viene potenziato a <Colpo doppio abile>. L'ATT e i PF aumentano del 20%, la portata aumenta di 200. |
+  |    2    | 21 | 12 | **50x** [Gelu](/ItemsIT/her_366/) | I Tiratori scelti diventano Tiratori esperti. <Colpo doppio> viene potenziato a <Colpo doppio abile>. L'ATT e i PF aumentano del 20%, la portata aumenta di 200. |
+  |    3    | 28 | 16 | **100x** [Gelu](/ItemsIT/her_366/) | Il CRIT di tutte le unità a distanza aumenta di 200 |
+  |    4    | 35 | 20 | **150x** [Gelu](/ItemsIT/her_366/) | Aumenta del 100% il DAN CRIT di tutte le unità a distanza alleate |
 
-## Spells
-### 1 Spell: Freccia dell'Aria
+ **Special Desciption 1:** Suggerimento generico, ancora da aggiungere
+
+## Incantesimo
+### 1 Incantesimo: Freccia dell'Aria
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria alle unità nemiche nell'area d'effetto e ne riduce la MIRA del 30% per 8 sec.
 
-### 2 Spell: Pelle di pietra
+ **Descrizione 2:** Al prossimo livello, il DAN aumenta di <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">.
+
+ **Descrizione 3:** Infligge danni ai nemici.
+
+ **Descrizione 4:** Infligge danni da Aria alle unità nemiche e riduce del 30% la MIRA dei bersagli.
+
+### 2 Incantesimo: Pelle di pietra
  **Descrizione:** Protegge le unità alleate nell'area d'effetto con uno <span style="color: #e07c44;font-size:20px">scudo</span><span style="color: black"> che assorbe <span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))}</span><span style="color: black"><($buffaddattr12+$buffaddattr13*($sklevel-1))*($a125+$a126+0.4*$a131+$a135+$a136)> danni per {($bufflast11+$bufflast12*($sklevel-1))/1000} sec.
 
-### 3 Spell: Precisione
+ **Descrizione 2:** Al prossimo livello, assorbe <span style="color: #00ff22;font-size:16px">{$buffaddattr13}</span><span style="color: black"> danni aggiuntivi.
+
+ **Descrizione 3:** Gli alleati sono protetti da uno scudo.
+
+ **Descrizione 4:** Protegge le unità alleate con uno scudo che assorbe i danni.
+
+### 3 Incantesimo: Precisione
  **Descrizione:** Aumenta del 100% CRIT e MIRA delle unità alleate per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> sec.
 
-### 4 Spell: Frenesia
+ **Descrizione 2:** Al prossimo livello, la durata aumenta di <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> sec.
+
+ **Descrizione 3:** Gli alleati infliggono un colpo critico garantito.
+
+ **Descrizione 4:** Gli attacchi delle unità alleate vanno sempre a segno e sono tutti colpi critici.
+
+### 4 Incantesimo: Frenesia
  **Descrizione:** Sacrifica il 30% dei PF massimi delle unità alleate in un'ampia area (non infligge danni letali) per aumentarne la Vel ATT ({($buffaddattr12+$buffaddattr13*($sklevel-1))}<($buffaddattr12+$buffaddattr13*($sklevel-1))*($a122+$a126+$a132+$a136)>%,) per <span style="color: #48b946;font-size:20px">{($bufflast11+$bufflast12*($sklevel-1))/1000}</span><span style="color: black"> s.
+
+ **Descrizione 2:** Al prossimo livello, la durata aumenta di <span style="color: #00ff22;font-size:16px">{$bufflast12/1000}</span><span style="color: black"> sec.
+
+ **Descrizione 3:** Aumenta la Vel ATT delle unità alleate.
+
+ **Descrizione 4:** Prosciuga i PF di un'unità alleata (senza ucciderla) e aumenta la Vel ATT.
 
 
 ## Aiutante

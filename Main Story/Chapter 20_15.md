@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-15 Il castello di Groya"
 permalink: /Main Story/Chapter 20_15/
 excerpt: "Capitolo 20 - 15. Era of Chaos  Storia principale - Capitolo 20_15. 20-15 Il castello di Groya"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 20_15.md"
 toc: false

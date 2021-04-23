@@ -3,7 +3,7 @@ title: "Campione oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime."
 unitID: 309
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Campione oscuro"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Campione oscuro](/it/Items/unt_216/)
+ **Unit Soul:** [Campione oscuro](/ItemsIT/unt_216/)
 
  **Short description:** Esecuzione. Aura di invincibilità.
 
@@ -177,7 +177,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

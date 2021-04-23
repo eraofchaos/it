@@ -3,7 +3,7 @@ title: "Elementale della pietra"
 permalink: /units/Stone Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Elementale della pietra è il risultato della fusione di numerosi minerali attraverso l'intervento di processi geologici. È in grado di dividersi in Elementali più piccoli, che continuano imperterriti a combattere."
 unitID: 905
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Elementale della pietra"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Elementale della pietra](/it/Items/unt_266/)
+ **Unit Soul:** [Elementale della pietra](/ItemsIT/unt_266/)
 
  **Short description:** Sputo letale. Applica Stordimento.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Nucleo di energia](/it/Items/con_999/)
+ **Item to Rango ↑:** [Token Nucleo di energia](/ItemsIT/con_999/)
 
- **Skin:** [Skin speciale Nucleo di energia](/it/Items/con_667/)
+ **Skin:** [Skin speciale Nucleo di energia](/ItemsIT/con_667/)
 
 
 ## Emblemi sacri consigliati
@@ -176,7 +176,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

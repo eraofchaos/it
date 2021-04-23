@@ -3,7 +3,7 @@ title: "Arcimago"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Solo gli incantatori più potenti possono fregiarsi del titolo di Mago. I loro incantesimi danno un vantaggio notevole ai loro alleati."
 unitID: 604
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Arcimago"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Mago](/it/Items/unt_238/)
+ **Unit Soul:** [Mago](/ItemsIT/unt_238/)
 
  **Unit description:** Incantesimo perforante: aumenta progressivamente il DAN alle unità singole.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
+ **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

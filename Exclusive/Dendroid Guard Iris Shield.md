@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Dendroid Guard)"
 permalink: /Exclusive/Dendroid Guard Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Guardia Dendroide Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Dendroid Guard Scudo dell'Iride.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Guardia Dendroide](/it/units/Dendroid Guard/) 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Armatura arborea> La Guardia Dendroide e 1 unità Baluardo casuale godono di Rid DAN aumentata del 10% e sono protette da uno <scudo> pari al 10% dei PF massimi. Durata: 8 secondi. Recupero: 18 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | La Guardia Dendroide gode di PF aumentati del 20% e Rid DAN aumentata del 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | Ogni volta che viene schierata un'unità Baluardo, la DIF base della Guardia Dendroide aumenta di 50. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Radici profonde> La Guardia Dendroide conficca le radici nel terreno, aumentando la propria Rid DAN del 15%, infliggendo danni pari al 2% dei PF massimi alle unità nemiche in un'ampia area ogni secondo e ripristinando l'1% dei PF massimi ogni secondo per 10 secondi; durante questo periodo, la Guardia Dendroide non può muoversi. Recupero: 25 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Tenacia della Guardia Dendroide aumentata di 200. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando la Guardia Dendroide è protetta da uno <scudo>, la sua Vel ATT e la sua DIF aumentano rispettivamente del 10% e del 2% per 4 secondi. Cumulabile fino a 20 volte. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando la Guardia Dendroide usa un attacco base, ha il 12% di probabilità di rubare il 3% della Rid DAN e il 3% della DIF dell'unità bersaglio. Cumulabile fino a 10 volte. Inoltre, aumenta di 15 la Tenacia e di 20 la Schivata della Guardia Dendroide ogni 10 secondi. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Armatura arborea> La Guardia Dendroide e 1 unità Baluardo casuale godono di Rid DAN aumentata del 10% e sono protette da uno <scudo> pari al 10% dei PF massimi. Durata: 8 secondi. Recupero: 18 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | La Guardia Dendroide gode di PF aumentati del 20% e Rid DAN aumentata del 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Ogni volta che viene schierata un'unità Baluardo, la DIF base della Guardia Dendroide aumenta di 50. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Radici profonde> La Guardia Dendroide conficca le radici nel terreno, aumentando la propria Rid DAN del 15%, infliggendo danni pari al 2% dei PF massimi alle unità nemiche in un'ampia area ogni secondo e ripristinando l'1% dei PF massimi ogni secondo per 10 secondi; durante questo periodo, la Guardia Dendroide non può muoversi. Recupero: 25 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Tenacia della Guardia Dendroide aumentata di 200. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Quando la Guardia Dendroide è protetta da uno <scudo>, la sua Vel ATT e la sua DIF aumentano rispettivamente del 10% e del 2% per 4 secondi. Cumulabile fino a 20 volte. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Quando la Guardia Dendroide usa un attacco base, ha il 12% di probabilità di rubare il 3% della Rid DAN e il 3% della DIF dell'unità bersaglio. Cumulabile fino a 10 volte. Inoltre, aumenta di 15 la Tenacia e di 20 la Schivata della Guardia Dendroide ogni 10 secondi. |
 
 
 ## Livello ↑

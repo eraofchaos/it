@@ -2,7 +2,7 @@
 title: "Manufatti - Potenza del Padre dei Draghi - Scudo di squame di Drago"
 permalink: /artifacts/Dragon Scale Shield/
 excerpt: "Era of Chaos  Potenza del Padre dei Draghi - Scudo di squame di Drago. Uno scudo benedetto dalla magia del Re dei Draghi. Uno dei componenti della Potenza del Padre dei Draghi."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Dragon Scale Shield.md"
 toc: false

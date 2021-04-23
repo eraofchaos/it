@@ -3,7 +3,7 @@ title: "Naga"
 permalink: /units/Naga/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue."
 unitID: 606
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Naga"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Naga](/it/Items/unt_240/)
+ **Unit Soul:** [Naga](/ItemsIT/unt_240/)
 
  **Unit description:** Danza delle lame: DAN ad area e riduzione DIF ad area.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Spada delle Naga](/it/Items/con_987/)
+ **Item to Rango ↑:** [Token Spada delle Naga](/ItemsIT/con_987/)
 
- **Skin:** [Skin speciale Spada delle Naga](/it/Items/con_655/)
+ **Skin:** [Skin speciale Spada delle Naga](/ItemsIT/con_655/)
 
 
 ## Emblemi sacri consigliati
@@ -177,7 +177,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Serpente di Regna"
 permalink: /units/Regnan Serpent/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Serpente di Regna"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Serpente di Regna](/it/Items/unt_276/)
+ **Unit Soul:** [Serpente di Regna](/ItemsIT/unt_276/)
 
  **Unit description:** Schiacciata abissale: controllo ad area, causa <Impedimento> e riduce il CRIT.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Maree diurne](/it/Items/con_1003/)
+ **Item to Rango ↑:** [Token Maree diurne](/ItemsIT/con_1003/)
 
- **Skin:** [Skin speciale Maree diurne](/it/Items/con_671/)
+ **Skin:** [Skin speciale Maree diurne](/ItemsIT/con_671/)
 
 
 ## Emblemi sacri consigliati
@@ -187,7 +187,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

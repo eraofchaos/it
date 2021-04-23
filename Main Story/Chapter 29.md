@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 Un patto col Demone"
 permalink: /Main Story/Chapter 29/
 excerpt: "Capitolo 29. Era of Chaos  Storia principale - Capitolo 29. Un patto col Demone"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 29.md"
 toc: false

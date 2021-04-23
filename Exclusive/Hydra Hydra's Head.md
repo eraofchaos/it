@@ -2,7 +2,7 @@
 title: "Esclusivo - Testa di Idra (Hydra)"
 permalink: /Exclusive/Hydra Hydra's Head/
 excerpt: "Era of Chaos Testa di Idra. Testa di Idra. Era of Chaos Esclusivo Testa di Idra. Idra Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Hydra Testa di Idra.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Idra](/it/units/Hydra/) 
 
- **Item to Rango ↑:** [Token Testa di Idra](/it/Items/con_997/)
+ **Item to Rango ↑:** [Token Testa di Idra](/ItemsIT/con_997/)
 
- **Skin:** [Skin speciale Nucleo di energia](/it/Items/con_665/)
+ **Skin:** [Skin speciale Nucleo di energia](/ItemsIT/con_665/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Testa di Idra](/it/Items/con_997/) | <Frenesia alimentare> Morde 1 nemico ogni secondo, per un totale di 5 attacchi; ciascun attacco infligge danni pari al 50% dell'ATT. Riduce di 50 la Tenacia dei nemici e aumenta del 4% il proprio DAN CRIT. Cumulabile fino a 5 volte. L'effetto dura 3 secondi. Recupero: 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Testa di Idra](/it/Items/con_997/) | L'Idra gode di DAN e ATT aumentati del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Testa di Idra](/it/Items/con_997/) | L'Idra gode di DIF e Rid DAN aumentate del 10%. Se l'Idra è sul campo di battaglia, tutte le unità Fortezza alleate godono di DIF e Rid DAN aumentate del 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Testa di Idra](/it/Items/con_997/) | <Rinascita> Quando subisce danni superiori al 10% ma inferiori al 20% dei PF massimi, ripristina 500.000 PF dopo 3 secondi. Inoltre, non può subire danni superiori al 20% dei propri PF massimi da un singolo attacco. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Testa di Idra](/it/Items/con_997/) | Assorbimento dell'Idra aumentato del 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Testa di Idra](/it/Items/con_997/) | L'Idra è immune alla <Pietrificazione> e, se affetta da <Morale basso>, gode di Vel ATT aumentata del 33% per 5 secondi. Se affetta da <Impedimento>, gode di CRIT aumentato di 300 per 5 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Testa di Idra](/it/Items/con_997/) | <Soffio del caos> Attacca le unità nemiche in un'ampia area di fronte a sé, infliggendo danni pari al 200% dell'ATT alle unità di difesa e danni pari al 23% dei PF massimi alle altre unità; inoltre, applica 1 debuff casuale. Recupero: 15 secondi. |
+  |  Risveglio  | **100x** [Token Testa di Idra](/ItemsIT/con_997/) | <Frenesia alimentare> Morde 1 nemico ogni secondo, per un totale di 5 attacchi; ciascun attacco infligge danni pari al 50% dell'ATT. Riduce di 50 la Tenacia dei nemici e aumenta del 4% il proprio DAN CRIT. Cumulabile fino a 5 volte. L'effetto dura 3 secondi. Recupero: 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Testa di Idra](/ItemsIT/con_997/) | L'Idra gode di DAN e ATT aumentati del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Testa di Idra](/ItemsIT/con_997/) | L'Idra gode di DIF e Rid DAN aumentate del 10%. Se l'Idra è sul campo di battaglia, tutte le unità Fortezza alleate godono di DIF e Rid DAN aumentate del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Testa di Idra](/ItemsIT/con_997/) | <Rinascita> Quando subisce danni superiori al 10% ma inferiori al 20% dei PF massimi, ripristina 500.000 PF dopo 3 secondi. Inoltre, non può subire danni superiori al 20% dei propri PF massimi da un singolo attacco. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Testa di Idra](/ItemsIT/con_997/) | Assorbimento dell'Idra aumentato del 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Testa di Idra](/ItemsIT/con_997/) | L'Idra è immune alla <Pietrificazione> e, se affetta da <Morale basso>, gode di Vel ATT aumentata del 33% per 5 secondi. Se affetta da <Impedimento>, gode di CRIT aumentato di 300 per 5 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Testa di Idra](/ItemsIT/con_997/) | <Soffio del caos> Attacca le unità nemiche in un'ampia area di fronte a sé, infliggendo danni pari al 200% dell'ATT alle unità di difesa e danni pari al 23% dei PF massimi alle altre unità; inoltre, applica 1 debuff casuale. Recupero: 15 secondi. |
 
 
 ## Livello ↑

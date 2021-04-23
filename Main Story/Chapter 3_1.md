@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-1 La tomba del guerriero"
 permalink: /Main Story/Chapter 3_1/
 excerpt: "Capitolo 3 - 1. Era of Chaos  Storia principale - Capitolo 3_1. 3-1 La tomba del guerriero"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 3_1.md"
 toc: false

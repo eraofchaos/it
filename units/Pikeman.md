@@ -3,7 +3,7 @@ title: "Picchiere"
 permalink: /units/Pikeman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Picchieri sono la prima linea di difesa del Regno. Sono abili soldati, gloriosi veterani di molte battaglie e fedeli incrollabili del Regno, i cui abitanti nutrono per loro grande ammirazione."
 unitID: 101
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Picchiere"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Picchiere](/it/Items/unt_190/)
+ **Unit Soul:** [Picchiere](/ItemsIT/unt_190/)
 
  **Unit description:** Muro di lance: infligge danni alle unità, causa <Stordimento>.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

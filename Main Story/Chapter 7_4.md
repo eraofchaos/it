@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-4 Assalto"
 permalink: /Main Story/Chapter 7_4/
 excerpt: "Capitolo 7 - 4. Era of Chaos  Storia principale - Capitolo 7_4. 7-4 Assalto"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 7_4.md"
 toc: false

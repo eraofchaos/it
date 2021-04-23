@@ -3,7 +3,7 @@ title: "Drago verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Draghi verdi sono i protettori della foresta. Di dimensioni imponenti e armati di un soffio acido, sono avversari pressoché imbattibili."
 unitID: 207
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Drago verde"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Drago verde](/it/Items/unt_205/)
+ **Unit Soul:** [Drago verde](/ItemsIT/unt_205/)
 
  **Unit description:** Rinforzi dal cielo: infligge danni ingenti a 3 unità nelle retrovie nemiche.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Ala di drago splendente](/it/Items/con_976/)
+ **Item to Rango ↑:** [Token Ala di drago splendente](/ItemsIT/con_976/)
 
- **Skin:** [Skin speciale Ala di drago splendente](/it/Items/con_644/)
+ **Skin:** [Skin speciale Ala di drago splendente](/ItemsIT/con_644/)
 
 
 ## Emblemi sacri consigliati
@@ -177,7 +177,7 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Erbavespa"
 permalink: /units/Waspwort/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una bizzarra pianta tipica degli acquitrini velenosi. Il ronzio costante che emette è l'incubo di tutti gli abitanti della palude."
 unitID: 808
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Erbavespa"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Erbavespa](/it/Items/unt_260/)
+ **Unit Soul:** [Erbavespa](/ItemsIT/unt_260/)
 
  **Short description:** DPS e controllo nemici.
 
@@ -176,7 +176,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

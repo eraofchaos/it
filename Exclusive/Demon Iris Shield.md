@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Demon)"
 permalink: /Exclusive/Demon Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Demone Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Demon Scudo dell'Iride.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Demone](/it/units/Demon/) 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | All'inizio della battaglia, la schivata del Demone aumenta di 1000 per 30 secondi. Ogni schivata aumenta la Rid DAN dell'1% in modo permanente, fino a un massimo di 30%. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | All'inizio della battaglia, la Tenacia del Demone aumenta di 500 per 30 secondi. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | Il Demone gode di PF aumentati del 20% e Rid DAN aumentata del 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | Il Demone gode di DIF aumentata del 10%. DIF aumentata del 100% per 10 secondi quando i PF scendono sotto il 50% per la prima volta. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Il Demone gode di DIF aumentata del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Gli attacchi del Demone riducono la Schivata dell'unità bersaglio di 1000 per 5 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | Se il Demone è sul campo di battaglia, la Schivata di tutte le unità nemiche si riduce di 500. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | All'inizio della battaglia, la schivata del Demone aumenta di 1000 per 30 secondi. Ogni schivata aumenta la Rid DAN dell'1% in modo permanente, fino a un massimo di 30%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | All'inizio della battaglia, la Tenacia del Demone aumenta di 500 per 30 secondi. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Il Demone gode di PF aumentati del 20% e Rid DAN aumentata del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Il Demone gode di DIF aumentata del 10%. DIF aumentata del 100% per 10 secondi quando i PF scendono sotto il 50% per la prima volta. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Il Demone gode di DIF aumentata del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Gli attacchi del Demone riducono la Schivata dell'unità bersaglio di 1000 per 5 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Se il Demone è sul campo di battaglia, la Schivata di tutte le unità nemiche si riduce di 500. |
 
 
 ## Livello ↑

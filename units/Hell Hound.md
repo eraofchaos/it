@@ -3,7 +3,7 @@ title: "Segugio infernale"
 permalink: /units/Hell Hound/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Segugi infernali si scagliano sui nemici con le loro tre terrificanti teste. Lava incandescente scorre sui loro corpi e una scia di fiamme si leva al loro passaggio."
 unitID: 503
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Segugio infernale"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Segugio infernale](/it/Items/unt_228/)
+ **Unit Soul:** [Segugio infernale](/ItemsIT/unt_228/)
 
  **Unit description:** Raptus: per un breve periodo, tutti gli attacchi sono colpi critici.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

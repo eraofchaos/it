@@ -3,7 +3,7 @@ title: "Grifone"
 permalink: /units/Griffin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Grifoni sono il simbolo dell'Erathia e i dominatori incontrastati dei cieli. Sono creature feroci ma profondamente leali e pronte a combattere fino all'ultimo respiro."
 unitID: 103
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Grifone"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Grifone](/it/Items/unt_192/)
+ **Unit Soul:** [Grifone](/ItemsIT/unt_192/)
 
  **Unit description:** Picchiata: infligge danni a 3 unità nemiche.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

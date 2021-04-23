@@ -2,7 +2,7 @@
 title: "Manufatti - Cappello dell'Incantatore"
 permalink: /artifacts/Spellbinder's Hat/
 excerpt: "Era of Chaos  Cappello dell'Incantatore. Cappello dell'Incantatore Avere per sé un Cappello dell'Incantatore è il più grande degli onori per un mago. Solo i maghi più esperti, capaci di padroneggiare fuoco, acqua, terra e aria possono possederlo. Può migliorare enormemente l'affinità con gli elementi."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Spellbinder's Hat.md"
 toc: false

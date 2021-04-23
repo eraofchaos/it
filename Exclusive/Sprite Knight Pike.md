@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Sprite)"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Driade Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Sprite Carica impetuosa.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Driade](/it/units/Sprite/) 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Carica impetuosa](/it/Items/con_916/) | All'inizio della battaglia, la Driade gode di DAN e Vel ATT aumentati del 20% per 30 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/it/Items/con_916/) | ATT della Driade aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/it/Items/con_916/) | CRIT della Driade aumentato di 200. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/it/Items/con_916/) | La Driade infligge danni pari al 450% del proprio ATT all'unità bersaglio e applica un effetto scelto casualmente tra <Congelamento>, <Combustione>, <Pietrificazione> o <Folgorazione> per 3 secondi. Recupero: 18 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/it/Items/con_916/) | DAN della Driade aumentato del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/it/Items/con_916/) | La prima volta che i PF della Driade scendono sotto 80%/60%/40%/20% del totale, gli eroi alleati recuperano 8 mana. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/it/Items/con_916/) | Quando la Driade viene sconfitta, tutte le unità Confluenza alleate godono di DAN e Vel ATT aumentati del 3% per 60 secondi. Cumulabile fino a 9 volte. |
+  |  Risveglio  | **100x** [Token Carica impetuosa](/ItemsIT/con_916/) | All'inizio della battaglia, la Driade gode di DAN e Vel ATT aumentati del 20% per 30 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/ItemsIT/con_916/) | ATT della Driade aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/ItemsIT/con_916/) | CRIT della Driade aumentato di 200. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/ItemsIT/con_916/) | La Driade infligge danni pari al 450% del proprio ATT all'unità bersaglio e applica un effetto scelto casualmente tra <Congelamento>, <Combustione>, <Pietrificazione> o <Folgorazione> per 3 secondi. Recupero: 18 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/ItemsIT/con_916/) | DAN della Driade aumentato del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/ItemsIT/con_916/) | La prima volta che i PF della Driade scendono sotto 80%/60%/40%/20% del totale, gli eroi alleati recuperano 8 mana. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/ItemsIT/con_916/) | Quando la Driade viene sconfitta, tutte le unità Confluenza alleate godono di DAN e Vel ATT aumentati del 3% per 60 secondi. Cumulabile fino a 9 volte. |
 
 
 ## Livello ↑

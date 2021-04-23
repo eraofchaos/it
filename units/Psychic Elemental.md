@@ -3,7 +3,7 @@ title: "Elementale psichico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità nata dalla forza delle idee del mondo materiale. È in grado di colpire direttamente la mente dei propri nemici. Chi non possiede forza mentale sufficiente a resistergli viene risucchiato in una spirale di caos e delirio."
 unitID: 906
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Elementale psichico"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Elementale psichico](/it/Items/unt_267/)
+ **Unit Soul:** [Elementale psichico](/ItemsIT/unt_267/)
 
  **Short description:** Danno magico istantaneo. Brucia mana.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Nucleo mistico](/it/Items/con_1000/)
+ **Item to Rango ↑:** [Token Nucleo mistico](/ItemsIT/con_1000/)
 
- **Skin:** [Skin speciale Nucleo mistico](/it/Items/con_668/)
+ **Skin:** [Skin speciale Nucleo mistico](/ItemsIT/con_668/)
 
 
 ## Emblemi sacri consigliati
@@ -171,7 +171,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

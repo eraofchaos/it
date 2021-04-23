@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano (Serpent Fly)"
 permalink: /Exclusive/Serpent Fly Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Mosca serpente Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Serpent Fly Cantico arcano.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Mosca serpente](/it/units/Serpent Fly/) 
 
- **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
+ **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Cantico arcano](/it/Items/con_915/) | Quando l'unità bersaglio viene sconfitta, la Mosca serpente entra in uno stato di frenesia che ne aumenta la Vel ATT del 100% per 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Cantico arcano](/it/Items/con_915/) | Quando attacca, la Mosca serpente ha una probabilità del 30% di provocare <Sanguinamento>. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Cantico arcano](/it/Items/con_915/) | Assorbimento della Mosca serpente aumentato del 15%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Cantico arcano](/it/Items/con_915/) | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Cantico arcano](/it/Items/con_915/) | La Mosca serpente gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Cantico arcano](/it/Items/con_915/) | DAN CRIT della Mosca serpente aumentato del 25%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Cantico arcano](/it/Items/con_915/) | Evoca 1 Mosca ogni 20 secondi che dura 30 secondi. |
+  |  Risveglio  | **100x** [Token Cantico arcano](/ItemsIT/con_915/) | Quando l'unità bersaglio viene sconfitta, la Mosca serpente entra in uno stato di frenesia che ne aumenta la Vel ATT del 100% per 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Cantico arcano](/ItemsIT/con_915/) | Quando attacca, la Mosca serpente ha una probabilità del 30% di provocare <Sanguinamento>. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Cantico arcano](/ItemsIT/con_915/) | Assorbimento della Mosca serpente aumentato del 15%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Cantico arcano](/ItemsIT/con_915/) | Quando l'unità bersaglio viene abbattuta, emette un <Miasma pestilenziale> che assorbe una quantità di PF pari al 30% dei propri PF per 20 secondi. Questo effetto non è cumulabile. La prima volta che i suoi PF scendono sotto il 30%, emette <Miasma pestilenziale>. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Cantico arcano](/ItemsIT/con_915/) | La Mosca serpente gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Cantico arcano](/ItemsIT/con_915/) | DAN CRIT della Mosca serpente aumentato del 25%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Cantico arcano](/ItemsIT/con_915/) | Evoca 1 Mosca ogni 20 secondi che dura 30 secondi. |
 
 
 ## Livello ↑

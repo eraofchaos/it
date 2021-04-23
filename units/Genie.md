@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
 unitID: 605
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Genio"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Genio](/it/Items/unt_239/)
+ **Unit Soul:** [Genio](/ItemsIT/unt_239/)
 
  **Unit description:** Dono di Energia: converte l'ATT in cura
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Lira](/it/Items/con_986/)
+ **Item to Rango ↑:** [Token Lira](/ItemsIT/con_986/)
 
- **Skin:** [Skin speciale Lira](/it/Items/con_654/)
+ **Skin:** [Skin speciale Lira](/ItemsIT/con_654/)
 
 
 ## Emblemi sacri consigliati
@@ -178,7 +178,7 @@ toc: true
 * Guarigione
 * Riduzione danno unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-1 Patto proibito"
 permalink: /Main Story/Chapter 12_1/
 excerpt: "Capitolo 12 - 1. Era of Chaos  Storia principale - Capitolo 12_1. 12-1 Patto proibito"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 12_1.md"
 toc: false

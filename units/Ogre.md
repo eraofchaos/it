@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Ogre"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Ogre](/it/Items/unt_220/)
+ **Unit Soul:** [Ogre](/ItemsIT/unt_220/)
 
  **Unit description:** Pozza di sangue: potenzia l'assorbimento delle unità vicine.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -179,7 +179,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

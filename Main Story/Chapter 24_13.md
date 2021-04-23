@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-13 Dissuasione"
 permalink: /Main Story/Chapter 24_13/
 excerpt: "Capitolo 24 - 13. Era of Chaos  Storia principale - Capitolo 24_13. 24-13 Dissuasione"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 24_13.md"
 toc: false

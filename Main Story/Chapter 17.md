@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 La liberazione dell'impero"
 permalink: /Main Story/Chapter 17/
 excerpt: "Capitolo 17. Era of Chaos  Storia principale - Capitolo 17. La liberazione dell'impero"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 17.md"
 toc: false

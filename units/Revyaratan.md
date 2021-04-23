@@ -3,7 +3,7 @@ title: "Leviatano"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Leviatano"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Leviatano](/it/Items/unt_280/)
+ **Unit Soul:** [Leviatano](/ItemsIT/unt_280/)
 
  **Short description:** Kraken abissale. Non può essere rianimato.
 
@@ -182,7 +182,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

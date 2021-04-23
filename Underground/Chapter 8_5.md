@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 8 - 8-5 L'armata delle tenebre"
 permalink: /Underground/Chapter 8_5/
 excerpt: "Capitolo 8 - 5. Era of Chaos  Sottosuolo - Capitolo 8_5. 8-5 L'armata delle tenebre"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 8_5.md"
 toc: false

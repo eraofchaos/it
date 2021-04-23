@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Wolf Rider)"
 permalink: /Exclusive/Wolf Rider Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Domatore di lupi Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Wolf Rider Carica impetuosa.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Domatore di lupi](/it/units/Wolf Rider/) 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Carica impetuosa](/it/Items/con_916/) | <Assalto del lupo> Il Domatore di lupi infligge danni all'unità bersaglio pari al 250% del proprio ATT, più il 5% dei PF massimi del bersaglio. Recupero: 12 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/it/Items/con_916/) | Il Domatore di lupi gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/it/Items/con_916/) | Rid DAN del Domatore di lupi aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/it/Items/con_916/) | <Patto dei lupi> Il Domatore di lupi evoca 1 Lupo ogni 3 secondi per 10 secondi. Gli attacchi base del Lupo evocato hanno il 5% di probabilità di <stordire> il bersaglio per 2 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/it/Items/con_916/) | Ogni volta che viene schierata un'unità Roccaforte, la Schivata e la Tenacia del Domatore di lupi aumentano di 60. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/it/Items/con_916/) | Il Domatore di lupi è immune a tutti i danni magici per i primi 20 secondi della battaglia. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/it/Items/con_916/) | Ogni volta che lancia <Patto dei lupi>, ha il 20% di probabilità di evocare un Re dei lupi. Quando viene evocato, il Re dei lupi aumenta la Vel ATT di tutte le unità Roccaforte alleate del 20% per 10 secondi. Questo effetto non è cumulabile. Gli attacchi del Re dei lupi hanno il 25% di probabilità di <stordire> il bersaglio per 2 secondi e infliggere danni doppi. |
+  |  Risveglio  | **100x** [Token Carica impetuosa](/ItemsIT/con_916/) | <Assalto del lupo> Il Domatore di lupi infligge danni all'unità bersaglio pari al 250% del proprio ATT, più il 5% dei PF massimi del bersaglio. Recupero: 12 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/ItemsIT/con_916/) | Il Domatore di lupi gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/ItemsIT/con_916/) | Rid DAN del Domatore di lupi aumentata del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/ItemsIT/con_916/) | <Patto dei lupi> Il Domatore di lupi evoca 1 Lupo ogni 3 secondi per 10 secondi. Gli attacchi base del Lupo evocato hanno il 5% di probabilità di <stordire> il bersaglio per 2 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/ItemsIT/con_916/) | Ogni volta che viene schierata un'unità Roccaforte, la Schivata e la Tenacia del Domatore di lupi aumentano di 60. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/ItemsIT/con_916/) | Il Domatore di lupi è immune a tutti i danni magici per i primi 20 secondi della battaglia. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/ItemsIT/con_916/) | Ogni volta che lancia <Patto dei lupi>, ha il 20% di probabilità di evocare un Re dei lupi. Quando viene evocato, il Re dei lupi aumenta la Vel ATT di tutte le unità Roccaforte alleate del 20% per 10 secondi. Questo effetto non è cumulabile. Gli attacchi del Re dei lupi hanno il 25% di probabilità di <stordire> il bersaglio per 2 secondi e infliggere danni doppi. |
 
 
 ## Livello ↑

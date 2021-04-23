@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività."
 unitID: 502
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Gog"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Gog](/it/Items/unt_227/)
+ **Unit Soul:** [Gog](/ItemsIT/unt_227/)
 
  **Unit description:** Muro di fuoco: infligge danni alle unità nemiche davanti a sé.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
+ **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

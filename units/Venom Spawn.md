@@ -3,7 +3,7 @@ title: "Progenie velenosa"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi demoni sono nati tra le ombre e le fiamme delle profondità dell'inferno. Secondo le leggende, essi rappresentano gli incubi più terrificanti, e inceneriscono i campi di battaglia con le fiamme del peccato."
 unitID: 509
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Progenie velenosa"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Tool_3509](/it/Items/unt_234/)
+ **Unit Soul:** [Tool_3509](/ItemsIT/unt_234/)
 
  **Short description:** Ruba anime per ribaltare il risultato dello scontro. Nato per morire.
 
@@ -235,7 +235,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

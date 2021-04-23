@@ -3,7 +3,7 @@ title: "Pirati di Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
 unitID: 9901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Pirati di Regna"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Pirati di Regna](/it/Items/unt_273/)
+ **Unit Soul:** [Pirati di Regna](/ItemsIT/unt_273/)
 
  **Short description:** Danni ingenti. Aumenta il coraggio.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

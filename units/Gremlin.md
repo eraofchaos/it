@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati."
 unitID: 601
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Gremlin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Gremlin](/it/Items/unt_235/)
+ **Unit Soul:** [Gremlin](/ItemsIT/unt_235/)
 
  **Unit description:** Palla di ferro incantata: aumenta notevolmente ATT e Vel ATT.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

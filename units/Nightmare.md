@@ -3,7 +3,7 @@ title: "Incubo"
 permalink: /units/Nightmare/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo è una manifestazione del potere dell'Inferno. Gli orrori che provoca accompagnano le sue vittime per sempre. Il suo potere indebolisce i nemici, trascinandoli verso le porte dell'abisso."
 unitID: 508
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Incubo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Incubo](/it/Items/unt_233/)
+ **Unit Soul:** [Incubo](/ItemsIT/unt_233/)
 
  **Short description:** Supporto. Danno istantaneo.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Occhio dell'Incubo](/it/Items/con_985/)
+ **Item to Rango ↑:** [Token Occhio dell'Incubo](/ItemsIT/con_985/)
 
- **Skin:** [Tool_250809](/it/Items/con_653/)
+ **Skin:** [Tool_250809](/ItemsIT/con_653/)
 
 
 ## Emblemi sacri consigliati
@@ -169,7 +169,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

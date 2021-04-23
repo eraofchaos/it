@@ -3,7 +3,7 @@ title: "Sirena"
 permalink: /units/Mermaid/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Figlia e protetta del mare, è in grado di sfruttare il potere delle acque per lanciare incantesimi di guarigione."
 unitID: 9905
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Sirena"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Sirena](/it/Items/unt_277/)
+ **Unit Soul:** [Sirena](/ItemsIT/unt_277/)
 
  **Short description:** Guarigione ad area. Buff potenti.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Maree notturne](/it/Items/con_1004/)
+ **Item to Rango ↑:** [Token Maree notturne](/ItemsIT/con_1004/)
 
- **Skin:** [Skin speciale Maree notturne](/it/Items/con_672/)
+ **Skin:** [Skin speciale Maree notturne](/ItemsIT/con_672/)
 
 
 ## Emblemi sacri consigliati
@@ -172,7 +172,7 @@ toc: true
 * Velocità d'attacco
 * Guarigione
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

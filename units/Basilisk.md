@@ -3,7 +3,7 @@ title: "Basilisco"
 permalink: /units/Basilisk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Predatori subacquei. Insensibili ed eternamente pazienti, aspettano nell'oscurità degli abissi che le prede ignare cadano nelle loro trappole per finirle senza pietà."
 unitID: 804
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Basilisco"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Basilisco](/it/Items/unt_256/)
+ **Unit Soul:** [Basilisco](/ItemsIT/unt_256/)
 
  **Short description:** Controlla i tank. Pietrifica.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Coda di Basilisco](/it/Items/con_994/)
+ **Item to Rango ↑:** [Token Coda di Basilisco](/ItemsIT/con_994/)
 
- **Skin:** [Skin speciale Energia del Fuoco](/it/Items/con_662/)
+ **Skin:** [Skin speciale Energia del Fuoco](/ItemsIT/con_662/)
 
 
 ## Emblemi sacri consigliati
@@ -174,7 +174,7 @@ toc: true
 * Riduzione danno unità
 * Resistenza magica
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Minotauro"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Minotauro](/it/Items/unt_248/)
+ **Unit Soul:** [Minotauro](/ItemsIT/unt_248/)
 
  **Unit description:** Turbine: attacco ad area che riduce la Vel ATT.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

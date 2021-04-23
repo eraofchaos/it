@@ -3,7 +3,7 @@ title: "Golem draconico"
 permalink: /units/Dragon Golem/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'apice della tecnologia degli Gnomi. Ogni singola parte di questa fusione tra macchina e magia trabocca di un potere inesauribile."
 unitID: 609
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Golem draconico"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Golem draconico](/it/Items/unt_243/)
+ **Unit Soul:** [Golem draconico](/ItemsIT/unt_243/)
 
  **Short description:** Difesa suprema.
 
@@ -176,7 +176,7 @@ toc: true
 * Riduzione danno unità
 * Resistenza magica
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

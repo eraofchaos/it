@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-4 Notizie inquietanti"
 permalink: /Main Story/Chapter 18_4/
 excerpt: "Capitolo 18 - 4. Era of Chaos  Storia principale - Capitolo 18_4. 18-4 Notizie inquietanti"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 18_4.md"
 toc: false

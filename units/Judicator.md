@@ -3,7 +3,7 @@ title: "Giudice"
 permalink: /units/Judicator/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Giudici dell'Erathia dedicano la vita all'adorazione della Sacra Luce. Scelte per il proprio talento, queste donne combattono per portare luce e calore a tutti i bisognosi."
 unitID: 109
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Giudice"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Giudice](/it/Items/unt_198/)
+ **Unit Soul:** [Giudice](/ItemsIT/unt_198/)
 
  **Short description:** Aura di supporto, portata allargata
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Anima di stendardo Splendore del Santuario](/it/Items/con_975/)
+ **Item to Rango ↑:** [Anima di stendardo Splendore del Santuario](/ItemsIT/con_975/)
 
- **Skin:** [Tool_210909](/it/Items/con_643/)
+ **Skin:** [Tool_210909](/ItemsIT/con_643/)
 
 
 ## Emblemi sacri consigliati
@@ -175,7 +175,7 @@ toc: true
 * Guarigione
 * Danno unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

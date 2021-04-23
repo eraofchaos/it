@@ -3,7 +3,7 @@ title: "Angelo"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Angelo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Angelo](/it/Items/unt_196/)
+ **Unit Soul:** [Angelo](/ItemsIT/unt_196/)
 
  **Unit description:** Condanna: infligge danni ingenti e <stordisce> 3 unità.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Durlindana](/it/Items/con_973/)
+ **Item to Rango ↑:** [Token Durlindana](/ItemsIT/con_973/)
 
- **Skin:** [Skin speciale Durlindana](/it/Items/con_641/)
+ **Skin:** [Skin speciale Durlindana](/ItemsIT/con_641/)
 
 
 ## Emblemi sacri consigliati
@@ -173,7 +173,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

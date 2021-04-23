@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 1 - 1-5 Si consuma il disastro"
 permalink: /Main Story/Chapter 1_5/
 excerpt: "Capitolo 1 - 5. Era of Chaos  Storia principale - Capitolo 1_5. 1-5 Si consuma il disastro"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 1_5.md"
 toc: false

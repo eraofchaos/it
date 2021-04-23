@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada (Troglodyte)"
 permalink: /Exclusive/Troglodyte Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Troglodita Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Troglodyte Spada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Troglodita](/it/units/Troglodyte/) 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token della Spada](/it/Items/con_912/) | <Affondo con lancia> Il Troglodita infligge danni pari al 200% del proprio ATT all'unità bersaglio e applica <Veleno> per 8 secondi. Se l'unità bersaglio è già <avvelenata>, rimane <stordita> per 1 secondo. Recupero: 20 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/it/Items/con_912/) | Il Troglodita gode di PF aumentati del 20% e Schivata aumentata di 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/it/Items/con_912/) | ATT del Troglodita aumentato del 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/it/Items/con_912/) | <Olfatto dello Spezzaincantesimi> Il Troglodita gode di DIF aumentata del 5% e Tenacia aumentata di 40 per 6 secondi. Cumulabile fino a 5 volte. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/it/Items/con_912/) | DAN del Troglodita aumentato del 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/it/Items/con_912/) | Assorbimento aumentato del 10%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/it/Items/con_912/) | <Olfatto dello Spezzaincantesimi> Una volta accumulate 3 o più cariche, ogni volta che attiva <Olfatto dello Spezzaincantesimi> lancia anche <Affondo con lancia>. |
+  |  Risveglio  | **100x** [Token della Spada](/ItemsIT/con_912/) | <Affondo con lancia> Il Troglodita infligge danni pari al 200% del proprio ATT all'unità bersaglio e applica <Veleno> per 8 secondi. Se l'unità bersaglio è già <avvelenata>, rimane <stordita> per 1 secondo. Recupero: 20 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/ItemsIT/con_912/) | Il Troglodita gode di PF aumentati del 20% e Schivata aumentata di 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/ItemsIT/con_912/) | ATT del Troglodita aumentato del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/ItemsIT/con_912/) | <Olfatto dello Spezzaincantesimi> Il Troglodita gode di DIF aumentata del 5% e Tenacia aumentata di 40 per 6 secondi. Cumulabile fino a 5 volte. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/ItemsIT/con_912/) | DAN del Troglodita aumentato del 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/ItemsIT/con_912/) | Assorbimento aumentato del 10%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/ItemsIT/con_912/) | <Olfatto dello Spezzaincantesimi> Una volta accumulate 3 o più cariche, ogni volta che attiva <Olfatto dello Spezzaincantesimi> lancia anche <Affondo con lancia>. |
 
 
 ## Livello ↑

@@ -3,7 +3,7 @@ title: "Lich"
 permalink: /units/Lich/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
 unitID: 305
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Lich"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Lich](/it/Items/unt_212/)
+ **Unit Soul:** [Lich](/ItemsIT/unt_212/)
 
  **Unit description:** Sacrificio: evoca un'orda di Scheletri.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Tributo di morte](/it/Items/con_978/)
+ **Item to Rango ↑:** [Token Tributo di morte](/ItemsIT/con_978/)
 
- **Skin:** [Skin speciale Tributo di morte](/it/Items/con_646/)
+ **Skin:** [Skin speciale Tributo di morte](/ItemsIT/con_646/)
 
 
 ## Emblemi sacri consigliati
@@ -175,7 +175,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

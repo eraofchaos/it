@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Cavalier)"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Catafratto Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Cavalier Carica impetuosa.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Catafratto](/it/units/Cavalier/) 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Carica impetuosa](/it/Items/con_916/) | <Giavellotto paralizzante> A 2 secondi dall'inizio della battaglia, i Cavalieri scagliano le loro lance infliggendo danni pari al 200% del proprio ATT a un bersaglio nemico casuale e riducendone la DIF del 10% per 30 secondi. Il DAN di unità a distanza e incantatori nemici è ridotto del 20%. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/it/Items/con_916/) | Riduzione danno del Catafratto aumentata del 25% contro gli attacchi a distanza. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/it/Items/con_916/) | Il Catafratto gode di ATT aumentato del 20% e danno aumentato del 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/it/Items/con_916/) | DIF del Catafratto aumentata del 10%. All'inizio della battaglia, la Perforazione di tutte le unità Castello alleate aumenta di 300. Questo effetto non può essere rimosso. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/it/Items/con_916/) | Gli attacchi del Catafratto riducono la DIF del bersaglio del 20% per 1 secondo. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/it/Items/con_916/) | Il Catafratto ottiene 15% di assorbimento. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/it/Items/con_916/) | Con <Morale alto>, il Catafratto recupera il 20% dei propri PF massimi. L'effetto può essere attivato una volta ogni 3 secondi. |
+  |  Risveglio  | **100x** [Token Carica impetuosa](/ItemsIT/con_916/) | <Giavellotto paralizzante> A 2 secondi dall'inizio della battaglia, i Cavalieri scagliano le loro lance infliggendo danni pari al 200% del proprio ATT a un bersaglio nemico casuale e riducendone la DIF del 10% per 30 secondi. Il DAN di unità a distanza e incantatori nemici è ridotto del 20%. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/ItemsIT/con_916/) | Riduzione danno del Catafratto aumentata del 25% contro gli attacchi a distanza. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/ItemsIT/con_916/) | Il Catafratto gode di ATT aumentato del 20% e danno aumentato del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/ItemsIT/con_916/) | DIF del Catafratto aumentata del 10%. All'inizio della battaglia, la Perforazione di tutte le unità Castello alleate aumenta di 300. Questo effetto non può essere rimosso. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/ItemsIT/con_916/) | Gli attacchi del Catafratto riducono la DIF del bersaglio del 20% per 1 secondo. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/ItemsIT/con_916/) | Il Catafratto ottiene 15% di assorbimento. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Carica impetuosa](/ItemsIT/con_916/) | Con <Morale alto>, il Catafratto recupera il 20% dei propri PF massimi. L'effetto può essere attivato una volta ogni 3 secondi. |
 
 
 ## Livello ↑

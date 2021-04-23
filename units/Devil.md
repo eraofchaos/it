@@ -3,7 +3,7 @@ title: "Diavolo"
 permalink: /units/Devil/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Diavolo è il signore supremo dell'Inferno. È un guerriero senza pari, in grado di teletrasportarsi per annichilire le truppe nelle retrovie."
 unitID: 507
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Diavolo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Diavolo](/it/Items/unt_232/)
+ **Unit Soul:** [Diavolo](/ItemsIT/unt_232/)
 
  **Unit description:** Mietitore sadico: infligge danni catastrofici ai nemici e causa <Stordimento>.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Falce diabolica](/it/Items/con_984/)
+ **Item to Rango ↑:** [Token Falce diabolica](/ItemsIT/con_984/)
 
- **Skin:** [Skin speciale Falce diabolica](/it/Items/con_652/)
+ **Skin:** [Skin speciale Falce diabolica](/ItemsIT/con_652/)
 
 
 ## Emblemi sacri consigliati
@@ -177,7 +177,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

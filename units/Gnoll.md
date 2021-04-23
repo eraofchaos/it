@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Gnoll"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Gnoll](/it/Items/unt_253/)
+ **Unit Soul:** [Gnoll](/ItemsIT/unt_253/)
 
  **Short description:** DPS in mischia. Applica Stordimento.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Danno unità
 * Resistenza magica
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

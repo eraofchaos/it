@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Tiratore scelto Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Marksman Arco lungo.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Tiratore scelto](/it/units/Marksman/) 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Arco lungo](/it/Items/con_914/) | <Freccia perforante> Infligge danni pari al 300% dell'ATT, ignorando 1000 punti di DIF dell'unità bersaglio. Recupero: 15 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/it/Items/con_914/) | ATT dei Tiratori scelti aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/it/Items/con_914/) | DIF dei Tiratori scelti aumentata del 20% quando godono di <Morale alto>. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/it/Items/con_914/) | Gli attacchi dei Tiratori scelti infliggono <Rappresaglia> alle unità nemiche. Se i Tiratori scelti attaccano la stessa unità 18 volte, infliggono danni pari al 200% del proprio ATT. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/it/Items/con_914/) | DAN dei Tiratori scelti aumentato del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/it/Items/con_914/) | RES magica dei Tiratori scelti aumentata del 40%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/it/Items/con_914/) | <Giuramento fatale> Quando l'unità subisce danni fatali, anziché essere sconfitta diventa invincibile e gode di DAN aumentato del 50%, Vel ATT aumentata del 150%, CRIT aumentato di 500 e assorbimento aumentato del 20% per 5 secondi. L'effetto può essere attivato una sola volta per battaglia. La prima volta che un'unità attiva <Giuramento fatale>, attiva immediatamente anche <Freccia perforante>. |
+  |  Risveglio  | **100x** [Token Arco lungo](/ItemsIT/con_914/) | <Freccia perforante> Infligge danni pari al 300% dell'ATT, ignorando 1000 punti di DIF dell'unità bersaglio. Recupero: 15 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/ItemsIT/con_914/) | ATT dei Tiratori scelti aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/ItemsIT/con_914/) | DIF dei Tiratori scelti aumentata del 20% quando godono di <Morale alto>. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/ItemsIT/con_914/) | Gli attacchi dei Tiratori scelti infliggono <Rappresaglia> alle unità nemiche. Se i Tiratori scelti attaccano la stessa unità 18 volte, infliggono danni pari al 200% del proprio ATT. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/ItemsIT/con_914/) | DAN dei Tiratori scelti aumentato del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/ItemsIT/con_914/) | RES magica dei Tiratori scelti aumentata del 40%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/ItemsIT/con_914/) | <Giuramento fatale> Quando l'unità subisce danni fatali, anziché essere sconfitta diventa invincibile e gode di DAN aumentato del 50%, Vel ATT aumentata del 150%, CRIT aumentato di 500 e assorbimento aumentato del 20% per 5 secondi. L'effetto può essere attivato una sola volta per battaglia. La prima volta che un'unità attiva <Giuramento fatale>, attiva immediatamente anche <Freccia perforante>. |
 
 
 ## Livello ↑

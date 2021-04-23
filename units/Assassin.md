@@ -3,7 +3,7 @@ title: "Assassino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Assassino"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Assassino](/it/Items/unt_271/)
+ **Unit Soul:** [Assassino](/ItemsIT/unt_271/)
 
  **Short description:** Danno da assassinio. Riduce la guarigione.
 
@@ -167,7 +167,7 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

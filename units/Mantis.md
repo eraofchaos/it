@@ -3,7 +3,7 @@ title: "Mantide"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le sue immense, affilatissime lame la distinguono come una vera creatura leggendaria. Gli elfi di Vori hanno donato una resistenza preternaturale alla Mantide."
 unitID: 209
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Mantide"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Tool_3209](/it/Items/unt_207/)
+ **Unit Soul:** [Tool_3209](/ItemsIT/unt_207/)
 
  **Short description:** Portata Tagli rapidi allargata.
 
@@ -183,7 +183,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

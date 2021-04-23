@@ -3,7 +3,7 @@ title: "Demone dell'abisso"
 permalink: /units/Pit Fiend/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni dell'abisso sono demoni veterani al comando di decine di migliaia di soldati dell'Inferno. Essi adorano una cosa sola: lo spargimento di sangue."
 unitID: 505
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Demone dell'abisso"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Demone dell'abisso](/it/Items/unt_230/)
+ **Unit Soul:** [Demone dell'abisso](/ItemsIT/unt_230/)
 
  **Unit description:** Sorgente di fuoco: cura ininterrottamente le unità alleate davanti a sé.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Guarigione
 * Danno unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

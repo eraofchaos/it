@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Gargolla di pietra Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Stone Gargoyle Spada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Gargolla di pietra](/it/units/Stone Gargoyle/) 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token della Spada](/it/Items/con_912/) | <Artiglio letale> Infligge danni pari al 250% dell'ATT all'unità bersaglio e causa <Sanguinamento> per 6 secondi; inoltre, gode di Vel ATT aumentata del 20% per 6 secondi. Recupero: 26 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/it/Items/con_912/) | La Gargolla di pietra gode di PF aumentati del 15% e DIF aumentata del 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/it/Items/con_912/) | DAN della Gargolla di pietra aumentato del 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/it/Items/con_912/) | <Risveglio magico> Quando la Gargolla di pietra viene potenziata dall'incantesimo di un eroe alleato, gode di RES magica aumentata del 15% e ottiene uno <scudo> pari al 10% dei PF massimi per 8 secondi. Cumulabile fino a 2 volte. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/it/Items/con_912/) | Rid DAN della Gargolla di pietra aumentata del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/it/Items/con_912/) | Quando è in forma di statua, è immune a <Stordimento>, <Pietrificazione> e <Cristallizzazione>. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/it/Items/con_912/) | <Maschera di pietra> Quando attacca un'unità affetta da <Sanguinamento> dovuto ad <Artiglio letale>, ogni attacco infligge danni pari all'1% dei PF massimi e riduce la Rid DAN dell'1%; inoltre, recupera PF pari all'1% dei PF massimi e aumenta il DAN dell'1%. L'effetto può essere attivato una volta ogni secondo. Ciascuna carica dura 2 secondi. Cumulabile fino a 10 volte. |
+  |  Risveglio  | **100x** [Token della Spada](/ItemsIT/con_912/) | <Artiglio letale> Infligge danni pari al 250% dell'ATT all'unità bersaglio e causa <Sanguinamento> per 6 secondi; inoltre, gode di Vel ATT aumentata del 20% per 6 secondi. Recupero: 26 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/ItemsIT/con_912/) | La Gargolla di pietra gode di PF aumentati del 15% e DIF aumentata del 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/ItemsIT/con_912/) | DAN della Gargolla di pietra aumentato del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/ItemsIT/con_912/) | <Risveglio magico> Quando la Gargolla di pietra viene potenziata dall'incantesimo di un eroe alleato, gode di RES magica aumentata del 15% e ottiene uno <scudo> pari al 10% dei PF massimi per 8 secondi. Cumulabile fino a 2 volte. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/ItemsIT/con_912/) | Rid DAN della Gargolla di pietra aumentata del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/ItemsIT/con_912/) | Quando è in forma di statua, è immune a <Stordimento>, <Pietrificazione> e <Cristallizzazione>. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/ItemsIT/con_912/) | <Maschera di pietra> Quando attacca un'unità affetta da <Sanguinamento> dovuto ad <Artiglio letale>, ogni attacco infligge danni pari all'1% dei PF massimi e riduce la Rid DAN dell'1%; inoltre, recupera PF pari all'1% dei PF massimi e aumenta il DAN dell'1%. L'effetto può essere attivato una volta ogni secondo. Ciascuna carica dura 2 secondi. Cumulabile fino a 10 volte. |
 
 
 ## Livello ↑

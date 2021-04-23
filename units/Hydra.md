@@ -3,7 +3,7 @@ title: "Idra"
 permalink: /units/Hydra/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura a più teste che vive nelle profondità della palude. Riuscire ad abbatterla è un trofeo a cui tutti gli eroi anelano."
 unitID: 807
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Idra"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Idra](/it/Items/unt_259/)
+ **Unit Soul:** [Idra](/ItemsIT/unt_259/)
 
  **Short description:** ATT elevato. Resistente. Controllo nemici efficace.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Testa di Idra](/it/Items/con_997/)
+ **Item to Rango ↑:** [Token Testa di Idra](/ItemsIT/con_997/)
 
- **Skin:** [Skin speciale Nucleo di energia](/it/Items/con_665/)
+ **Skin:** [Skin speciale Nucleo di energia](/ItemsIT/con_665/)
 
 
 ## Emblemi sacri consigliati
@@ -171,7 +171,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

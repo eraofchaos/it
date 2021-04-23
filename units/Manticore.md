@@ -3,7 +3,7 @@ title: "Manticora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Manticora"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Manticora](/it/Items/unt_249/)
+ **Unit Soul:** [Manticora](/ItemsIT/unt_249/)
 
  **Short description:** DPS e resistenza elevati.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Coda di scorpione](/it/Items/con_992/)
+ **Item to Rango ↑:** [Token Coda di scorpione](/ItemsIT/con_992/)
 
- **Skin:** [Skin speciale Coda di scorpione](/it/Items/con_660/)
+ **Skin:** [Skin speciale Coda di scorpione](/ItemsIT/con_660/)
 
 
 ## Emblemi sacri consigliati
@@ -166,7 +166,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

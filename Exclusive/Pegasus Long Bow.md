@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Pegasus)"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Pegaso Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Pegasus Arco lungo.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Pegaso](/it/units/Pegasus/) 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Arco lungo](/it/Items/con_914/) | Gli attacchi base infliggono danni aggiuntivi pari al 30% dell'ATT. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/it/Items/con_914/) | Danno del Pegaso aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/it/Items/con_914/) | Il Pegaso gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/it/Items/con_914/) | <Tempesta di lame> Ogni 25 secondi, il Pegaso scaglia una spina di rosa che infligge danni pari al 5% dei PF massimi più il 20% dell'ATT a tutte le unità nemiche, causando inoltre <Sanguinamento> per 10 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/it/Items/con_914/) | L'attacco base del Pegaso riduce del 2% la Rid DAN del bersaglio. L'effetto dura 3 secondi ed è cumulabile fino a 7 volte. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/it/Items/con_914/) | Quando affronta bersagli protetti da uno <scudo>, il Pegaso gode di Vel ATT aumentata del 10% per 3 secondi. Quando affronta bersagli affetti da <Sanguinamento>, gode di danno aumentato del 20% per 3 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/it/Items/con_914/) | <Pugnalata al cuore> Il Pegaso infligge il 250% dei danni a un membro dell'unità bersaglio e riduce la DIF dell'unità del 20% per 3 secondi ogni 15 secondi. |
+  |  Risveglio  | **100x** [Token Arco lungo](/ItemsIT/con_914/) | Gli attacchi base infliggono danni aggiuntivi pari al 30% dell'ATT. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/ItemsIT/con_914/) | Danno del Pegaso aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/ItemsIT/con_914/) | Il Pegaso gode di ATT aumentato del 20% e Vel ATT aumentata del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/ItemsIT/con_914/) | <Tempesta di lame> Ogni 25 secondi, il Pegaso scaglia una spina di rosa che infligge danni pari al 5% dei PF massimi più il 20% dell'ATT a tutte le unità nemiche, causando inoltre <Sanguinamento> per 10 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/ItemsIT/con_914/) | L'attacco base del Pegaso riduce del 2% la Rid DAN del bersaglio. L'effetto dura 3 secondi ed è cumulabile fino a 7 volte. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/ItemsIT/con_914/) | Quando affronta bersagli protetti da uno <scudo>, il Pegaso gode di Vel ATT aumentata del 10% per 3 secondi. Quando affronta bersagli affetti da <Sanguinamento>, gode di danno aumentato del 20% per 3 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/ItemsIT/con_914/) | <Pugnalata al cuore> Il Pegaso infligge il 250% dei danni a un membro dell'unità bersaglio e riduce la DIF dell'unità del 20% per 3 secondi ogni 15 secondi. |
 
 
 ## Livello ↑

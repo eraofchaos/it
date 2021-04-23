@@ -3,7 +3,7 @@ title: "Driade"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Driade"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Driade](/it/Items/unt_262/)
+ **Unit Soul:** [Driade](/ItemsIT/unt_262/)
 
  **Short description:** Ammutolisce. Incantesimo iniziale potenziato.
 
@@ -82,7 +82,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -170,7 +170,7 @@ toc: true
 * Danno unità
 * Resistenza magica
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

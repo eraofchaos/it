@@ -3,7 +3,7 @@ title: "Tiratore scelto"
 permalink: /units/Marksman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Tiratori scelti sono soldati esperti in grado di indebolire gli avversari prima di finirli in corpo a corpo. Sono armati di letali balestre che seminano il panico nelle file nemiche."
 unitID: 102
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Tiratore scelto"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Tiratore scelto](/it/Items/unt_191/)
+ **Unit Soul:** [Tiratore scelto](/ItemsIT/unt_191/)
 
  **Unit description:** Freccia esplosiva: infligge danni ingenti alle unità nemiche.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

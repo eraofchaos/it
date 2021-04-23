@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-13 La migrazione degli Elfi"
 permalink: /Main Story/Chapter 18_13/
 excerpt: "Capitolo 18 - 13. Era of Chaos  Storia principale - Capitolo 18_13. 18-13 La migrazione degli Elfi"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 18_13.md"
 toc: false

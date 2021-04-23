@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Morto vivente"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Morto vivente](/it/Items/unt_209/)
+ **Unit Soul:** [Morto vivente](/ItemsIT/unt_209/)
 
  **Unit description:** Esplosivo: infligge danni alle unità circostanti quando l'unità viene sconfitta.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

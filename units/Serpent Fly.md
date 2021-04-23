@@ -3,7 +3,7 @@ title: "Mosca serpente"
 permalink: /units/Serpent Fly/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie."
 unitID: 803
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Mosca serpente"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Mosca serpente](/it/Items/unt_255/)
+ **Unit Soul:** [Mosca serpente](/ItemsIT/unt_255/)
 
  **Short description:** Indebolisce e controlla le retrovie.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
+ **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
  **Skin:** -
 
@@ -190,7 +190,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

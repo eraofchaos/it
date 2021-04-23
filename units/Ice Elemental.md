@@ -3,7 +3,7 @@ title: "Elementale del ghiaccio"
 permalink: /units/Ice Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura del freddo estremo, generata da un Elementale dell'acqua. Se minacciato, scatena l'aria gelida che lo pervade per congelare i propri nemici."
 unitID: 903
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Elementale del ghiaccio"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Elementale del ghiaccio](/it/Items/unt_264/)
+ **Unit Soul:** [Elementale del ghiaccio](/ItemsIT/unt_264/)
 
  **Short description:** Aura di ghiaccio. Muro di ghiaccio.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
+ **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

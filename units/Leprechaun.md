@@ -3,7 +3,7 @@ title: "Leprecauno"
 permalink: /units/Leprechaun/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Aiutati dalla misteriosa protezione offerta dai loro amuleti magici, i Leprecauni evocati usano il Monolite dell'Albero del Mondo per raggiungere il sanguinoso e violento campo di battaglia e diventare i più imbattibili difensori della natura!"
 unitID: 909
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Leprecauno"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Leprecauno](/it/Items/unt_270/)
+ **Unit Soul:** [Leprecauno](/ItemsIT/unt_270/)
 
  **Short description:** Schiva e para. Potenzia i contrattacchi.
 
@@ -191,7 +191,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

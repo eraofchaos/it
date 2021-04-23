@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Storm Elemental)"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Elementale tempesta Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Storm Elemental Arco lungo.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Elementale tempesta](/it/units/Storm Elemental/) 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Arco lungo](/it/Items/con_914/) | <Forza della natura> L'Elementale della tempesta invoca il giudizio celeste, infliggendo danni pari al 300% del proprio ATT all'unità bersaglio e <paralizzandola> per 5 secondi. Recupero: 20 secondi. Attesa iniziale: 12 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/it/Items/con_914/) | DAN dell'Elementale della tempesta aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/it/Items/con_914/) | L'Elementale della tempesta gode di CRIT aumentato di 200 e DAN CRIT aumentato del 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/it/Items/con_914/) | Perforazione dell'Elementale della tempesta aumentata di 200. Effetto raddoppiato contro unità <paralizzate>. Quando lancia <Forza della natura>, se l'unità bersaglio è affetta dal debuff alla RES magica a 3 stelle esclusivo dell'Elementale del ghiaccio, attiva <Furia elementale>. <Furia elementale> infligge danni pari al 100% del proprio ATT più 2% dei PF massimi del bersaglio a tutte le unità nemiche in un'ampia area ogni 0,2 secondi e ne riduce Rid DAN e DIF del 20% per 3 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/it/Items/con_914/) | Rid DAN dell'Elementale della tempesta aumentata del 25%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/it/Items/con_914/) | L'Elementale della tempesta è immune ai danni degli incantesimi di tipo Aria. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/it/Items/con_914/) | <Riverbero elementale> Mentre è sul campo di battaglia, aumenta del 10% il DAN di tutte le unità Confluenza alleate. Quando lancia <Forza della natura>, tutte le unità Confluenza godono di DAN aumentato di un ulteriore 10%. L'effetto dura fino al termine della battaglia ma non è cumulabile. |
+  |  Risveglio  | **100x** [Token Arco lungo](/ItemsIT/con_914/) | <Forza della natura> L'Elementale della tempesta invoca il giudizio celeste, infliggendo danni pari al 300% del proprio ATT all'unità bersaglio e <paralizzandola> per 5 secondi. Recupero: 20 secondi. Attesa iniziale: 12 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/ItemsIT/con_914/) | DAN dell'Elementale della tempesta aumentato del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/ItemsIT/con_914/) | L'Elementale della tempesta gode di CRIT aumentato di 200 e DAN CRIT aumentato del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/ItemsIT/con_914/) | Perforazione dell'Elementale della tempesta aumentata di 200. Effetto raddoppiato contro unità <paralizzate>. Quando lancia <Forza della natura>, se l'unità bersaglio è affetta dal debuff alla RES magica a 3 stelle esclusivo dell'Elementale del ghiaccio, attiva <Furia elementale>. <Furia elementale> infligge danni pari al 100% del proprio ATT più 2% dei PF massimi del bersaglio a tutte le unità nemiche in un'ampia area ogni 0,2 secondi e ne riduce Rid DAN e DIF del 20% per 3 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco lungo](/ItemsIT/con_914/) | Rid DAN dell'Elementale della tempesta aumentata del 25%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco lungo](/ItemsIT/con_914/) | L'Elementale della tempesta è immune ai danni degli incantesimi di tipo Aria. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco lungo](/ItemsIT/con_914/) | <Riverbero elementale> Mentre è sul campo di battaglia, aumenta del 10% il DAN di tutte le unità Confluenza alleate. Quando lancia <Forza della natura>, tutte le unità Confluenza godono di DAN aumentato di un ulteriore 10%. L'effetto dura fino al termine della battaglia ma non è cumulabile. |
 
 
 ## Livello ↑

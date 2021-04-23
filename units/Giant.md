@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
 unitID: 607
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Gigante"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Gigante](/it/Items/unt_241/)
+ **Unit Soul:** [Gigante](/ItemsIT/unt_241/)
 
  **Unit description:** Dio della Guerra: riduce i PF di una percentuale a qualsiasi distanza.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Peso insostenibile](/it/Items/con_988/)
+ **Item to Rango ↑:** [Token Peso insostenibile](/ItemsIT/con_988/)
 
- **Skin:** [Skin speciale Peso insostenibile](/it/Items/con_656/)
+ **Skin:** [Skin speciale Peso insostenibile](/ItemsIT/con_656/)
 
 
 ## Emblemi sacri consigliati
@@ -171,7 +171,7 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

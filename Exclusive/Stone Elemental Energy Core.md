@@ -2,7 +2,7 @@
 title: "Esclusivo - Nucleo di energia (Stone Elemental)"
 permalink: /Exclusive/Stone Elemental Energy Core/
 excerpt: "Era of Chaos Nucleo di energia. Nucleo di energia. Era of Chaos Esclusivo Nucleo di energia. Elementale della pietra Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Stone Elemental Nucleo di energia.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Elementale della pietra](/it/units/Stone Elemental/) 
 
- **Item to Rango ↑:** [Token Nucleo di energia](/it/Items/con_999/)
+ **Item to Rango ↑:** [Token Nucleo di energia](/ItemsIT/con_999/)
 
- **Skin:** [Skin speciale Nucleo di energia](/it/Items/con_667/)
+ **Skin:** [Skin speciale Nucleo di energia](/ItemsIT/con_667/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Nucleo di energia](/it/Items/con_999/) | <Spaccaroccia> Colpisce il terreno infliggendo danni pari al 200% dell'ATT alle unità nemiche in un'ampia area, <respingendole> e <stordendole> per 3 secondi. Recupero: 20 secondi. Attesa iniziale: 10 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Nucleo di energia](/it/Items/con_999/) | Rid DAN dell'Elementale della pietra aumentata del 20%. Effetto raddoppiato quando l'Elementale della pietra viene attaccato da un'unità magica. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Nucleo di energia](/it/Items/con_999/) | <Argilla> Quando un eroe nemico o alleato lancia un incantesimo di tipo Terra, l'Elementale della pietra recupera il 2% dei PF massimi. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Nucleo di energia](/it/Items/con_999/) | <Spaccaroccia> Riduce la Vel ATT delle unità nemiche del 20% per 8 secondi. Se le unità bersaglio sono affette da <Combustione> causata da <Tripletta infuocata>, la loro Rid DAN è ridotta del 15%. L'effetto dura 8 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Nucleo di energia](/it/Items/con_999/) | DIF dell'Elementale della pietra aumentata del 20%. <Argilla> ripristina 30.000 PF a tutte le unità Confluenza in un'ampia area. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Nucleo di energia](/it/Items/con_999/) | L'Elementale della pietra è immune ai danni degli incantesimi di tipo Terra. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Nucleo di energia](/it/Items/con_999/) | <Riverbero elementale> Se un Elementale della pietra è sul campo di battaglia, aumenta la DIF di tutte le unità Confluenza del 10%. Ogni volta che usa <Spaccaroccia>, aumenta del 10% la DIF di tutte le unità Confluenza. L'effetto dura fino al termine della battaglia, ma non è cumulabile. |
+  |  Risveglio  | **100x** [Token Nucleo di energia](/ItemsIT/con_999/) | <Spaccaroccia> Colpisce il terreno infliggendo danni pari al 200% dell'ATT alle unità nemiche in un'ampia area, <respingendole> e <stordendole> per 3 secondi. Recupero: 20 secondi. Attesa iniziale: 10 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Nucleo di energia](/ItemsIT/con_999/) | Rid DAN dell'Elementale della pietra aumentata del 20%. Effetto raddoppiato quando l'Elementale della pietra viene attaccato da un'unità magica. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Nucleo di energia](/ItemsIT/con_999/) | <Argilla> Quando un eroe nemico o alleato lancia un incantesimo di tipo Terra, l'Elementale della pietra recupera il 2% dei PF massimi. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Nucleo di energia](/ItemsIT/con_999/) | <Spaccaroccia> Riduce la Vel ATT delle unità nemiche del 20% per 8 secondi. Se le unità bersaglio sono affette da <Combustione> causata da <Tripletta infuocata>, la loro Rid DAN è ridotta del 15%. L'effetto dura 8 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Nucleo di energia](/ItemsIT/con_999/) | DIF dell'Elementale della pietra aumentata del 20%. <Argilla> ripristina 30.000 PF a tutte le unità Confluenza in un'ampia area. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Nucleo di energia](/ItemsIT/con_999/) | L'Elementale della pietra è immune ai danni degli incantesimi di tipo Terra. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Nucleo di energia](/ItemsIT/con_999/) | <Riverbero elementale> Se un Elementale della pietra è sul campo di battaglia, aumenta la DIF di tutte le unità Confluenza del 10%. Ogni volta che usa <Spaccaroccia>, aumenta del 10% la DIF di tutte le unità Confluenza. L'effetto dura fino al termine della battaglia, ma non è cumulabile. |
 
 
 ## Livello ↑

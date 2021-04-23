@@ -2,7 +2,7 @@
 title: "Supporto campo di battaglia"
 permalink: /Backup/
 excerpt: "Era of Chaos  Supporto campo di battaglia - I Maghi possono aprire un portale sul campo di battaglia per teletrasportarvi 3 unità di supporto e generare una potente aura magica. Questo portento terrorizzerà i tuoi nemici."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "index.md"
 toc: false

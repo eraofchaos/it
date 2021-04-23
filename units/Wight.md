@@ -3,7 +3,7 @@ title: "Anima"
 permalink: /units/Wight/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Anime bramano una sola cosa: la vita. Loro unico scopo è prosciugare gli esseri viventi della loro energia. I negromanti le evocano per perseguitare le proprie sfortunate vittime."
 unitID: 303
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Anima"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Anima](/it/Items/unt_210/)
+ **Unit Soul:** [Anima](/ItemsIT/unt_210/)
 
  **Unit description:** Strillo raccapricciante: causa <Silenzio> alle unità nemiche di fronte a sé.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
+ **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

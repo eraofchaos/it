@@ -2,7 +2,7 @@
 title: "Esclusivo - Coda di Viverna (Wyvern)"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Coda di Viverna. Coda di Viverna. Era of Chaos Esclusivo Coda di Viverna. Viverna Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Wyvern Coda di Viverna.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Viverna](/it/units/Wyvern/) 
 
- **Item to Rango ↑:** [Token Coda di Viverna](/it/Items/con_996/)
+ **Item to Rango ↑:** [Token Coda di Viverna](/ItemsIT/con_996/)
 
- **Skin:** [Skin speciale Coda di Viverna](/it/Items/con_664/)
+ **Skin:** [Skin speciale Coda di Viverna](/ItemsIT/con_664/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Coda di Viverna](/it/Items/con_996/) | <Anima impestata> Ogni volta che una Viverna viene sconfitta, le unità Fortezza alleate godono di DAN e Rid DAN aumentati dell'1%. Cumulabile fino a 15 volte. L'effetto dura fino al termine della battaglia. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Coda di Viverna](/it/Items/con_996/) | Vel ATT della Viverna aumentata del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Coda di Viverna](/it/Items/con_996/) | DAN della Viverna aumentato del 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Coda di Viverna](/it/Items/con_996/) | <Cuore impestato> Ogni volta che una Viverna entra in battaglia, le unità Fortezza alleate godono di Perforazione aumentata di 20 e DAN CRIT aumentato del 2%. Cumulabile fino a 15 volte. L'effetto dura fino al termine della battaglia. La Viverna evoca 1 Viverna ogni 15 secondi. Le Viverne evocate utilizzano le tecniche <Anima impestata> e <Cuore impestato>. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Coda di Viverna](/it/Items/con_996/) | Rid DAN della Viverna aumentata del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Coda di Viverna](/it/Items/con_996/) | DIF della Viverna aumentata del 20%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Coda di Viverna](/it/Items/con_996/) | <Sangue impestato> Gli attacchi base della Viverna applicano <Sangue tossico> ai bersagli per 30 secondi. All'inizio della battaglia, applica <Sangue tossico> a tutte le unità nemiche. Quando un'unità Fortezza sconfigge un'unità nemica affetta da <Sangue tossico>, evoca 1 Viverna. Le Viverne evocate utilizzano le tecniche <Anima impestata> e <Cuore impestato>. |
+  |  Risveglio  | **100x** [Token Coda di Viverna](/ItemsIT/con_996/) | <Anima impestata> Ogni volta che una Viverna viene sconfitta, le unità Fortezza alleate godono di DAN e Rid DAN aumentati dell'1%. Cumulabile fino a 15 volte. L'effetto dura fino al termine della battaglia. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Coda di Viverna](/ItemsIT/con_996/) | Vel ATT della Viverna aumentata del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Coda di Viverna](/ItemsIT/con_996/) | DAN della Viverna aumentato del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Coda di Viverna](/ItemsIT/con_996/) | <Cuore impestato> Ogni volta che una Viverna entra in battaglia, le unità Fortezza alleate godono di Perforazione aumentata di 20 e DAN CRIT aumentato del 2%. Cumulabile fino a 15 volte. L'effetto dura fino al termine della battaglia. La Viverna evoca 1 Viverna ogni 15 secondi. Le Viverne evocate utilizzano le tecniche <Anima impestata> e <Cuore impestato>. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Coda di Viverna](/ItemsIT/con_996/) | Rid DAN della Viverna aumentata del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Coda di Viverna](/ItemsIT/con_996/) | DIF della Viverna aumentata del 20%. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Coda di Viverna](/ItemsIT/con_996/) | <Sangue impestato> Gli attacchi base della Viverna applicano <Sangue tossico> ai bersagli per 30 secondi. All'inizio della battaglia, applica <Sangue tossico> a tutte le unità nemiche. Quando un'unità Fortezza sconfigge un'unità nemica affetta da <Sangue tossico>, evoca 1 Viverna. Le Viverne evocate utilizzano le tecniche <Anima impestata> e <Cuore impestato>. |
 
 
 ## Livello ↑

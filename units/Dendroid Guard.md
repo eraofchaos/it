@@ -3,7 +3,7 @@ title: "Guardia Dendroide"
 permalink: /units/Dendroid Guard/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Le Guardie Dendroidi sono incarnazioni della foresta stessa. Per quanto goffi, sono esseri eccezionalmente resistenti. In combattimento, usano forti liane per strangolare i nemici."
 unitID: 205
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Guardia Dendroide"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Guardia Dendroide](/it/Items/unt_203/)
+ **Unit Soul:** [Guardia Dendroide](/ItemsIT/unt_203/)
 
  **Unit description:** Vincolo: <rallenta> un'unità nemica, riducendone la Vel ATT.
 
@@ -87,7 +87,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

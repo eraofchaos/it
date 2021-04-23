@@ -3,7 +3,7 @@ title: "Elementale del mare"
 permalink: /units/Sea Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Elementale del mare"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Elementale del mare](/it/Items/unt_275/)
+ **Unit Soul:** [Elementale del mare](/ItemsIT/unt_275/)
 
  **Short description:** Controllo nemici lento.
 
@@ -84,7 +84,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
+ **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
  **Skin:** -
 
@@ -174,7 +174,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

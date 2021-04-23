@@ -2,7 +2,7 @@
 title: "Manufatti - Armatura dei Dannati - Scudo dei Morti sbadiglianti"
 permalink: /artifacts/Shield of the Yawning Dead/
 excerpt: "Era of Chaos  Armatura dei Dannati - Scudo dei Morti sbadiglianti. Uno scudo realizzato con le ossa dei non morti. Uno dei componenti dell'Armatura dei Dannati."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Shield of the Yawning Dead.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Domatore di lupi"
 permalink: /units/Wolf Rider/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
 unitID: 402
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Domatore di lupi"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Domatore di lupi](/it/Items/unt_218/)
+ **Unit Soul:** [Domatore di lupi](/ItemsIT/unt_218/)
 
  **Unit description:** Compagno animale: evoca Lupi per combattere quando l'unità viene sconfitta.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -181,7 +181,7 @@ toc: true
 * Danno unità
 * Resistenza magica
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

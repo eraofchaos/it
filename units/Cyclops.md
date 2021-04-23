@@ -3,7 +3,7 @@ title: "Ciclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
 unitID: 406
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Ciclope"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Ciclopi](/it/Items/unt_222/)
+ **Unit Soul:** [Ciclopi](/ItemsIT/unt_222/)
 
  **Unit description:** Macigno infuocato: infligge danni catastrofici alle unità nemiche sul suo percorso.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -183,7 +183,7 @@ toc: true
 * Velocità d'attacco
 * Colpo critico unità
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

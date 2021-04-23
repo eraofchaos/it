@@ -3,7 +3,7 @@ title: "Mummia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Mummia"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Mummia](/it/Items/unt_215/)
+ **Unit Soul:** [Mummia](/ItemsIT/unt_215/)
 
  **Unit description:** Decomposizione: riduce notevolmente le cure delle unità nemiche.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Benda](/it/Items/con_981/)
+ **Item to Rango ↑:** [Token Benda](/ItemsIT/con_981/)
 
- **Skin:** [Skin speciale Benda](/it/Items/con_649/)
+ **Skin:** [Skin speciale Benda](/ItemsIT/con_649/)
 
 
 ## Emblemi sacri consigliati
@@ -175,7 +175,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

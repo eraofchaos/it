@@ -3,7 +3,7 @@ title: "Tigre bianca"
 permalink: /units/White Tiger/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia."
 unitID: 809
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Tigre bianca"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Tool_3809](/it/Items/unt_261/)
+ **Unit Soul:** [Tool_3809](/ItemsIT/unt_261/)
 
  **Position :** La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia.
 
@@ -185,7 +185,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

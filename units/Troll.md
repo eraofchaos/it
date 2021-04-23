@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Troll sono creature estremamente intelligenti che combattono usando pesanti massi. Preferiscono occupare la prima fila, per spazzare via i nemici con possenti attacchi."
 unitID: 409
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Troll"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Troll](/it/Items/unt_225/)
+ **Unit Soul:** [Troll](/ItemsIT/unt_225/)
 
  **Short description:** Attacca bersagli singoli. Danni istantanei.
 
@@ -191,7 +191,7 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

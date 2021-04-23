@@ -2,7 +2,7 @@
 title: "Manufatti Component Upgrade Costs"
 permalink: /artifacts/Artifact Component Upgrade/
 excerpt: "Era of Chaos Artifact component upgrade cost. I manufatti possono migliorare gli attributi degli eroi e sbloccare tecniche più potenti."
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Artifact Component Upgrade.md"
 toc: false

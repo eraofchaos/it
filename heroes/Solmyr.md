@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr ha vissuto intrappolato in una lampada magica per più di mille anni. Ha giurato fedeltà eterna al proprio salvatore Gavin Magnus, immortale dominatore delle Highlands di Bracada."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Solmyr"
 toc: true
@@ -13,7 +13,7 @@ toc: true
 
  **Descrizione:** Solmyr ha vissuto intrappolato in una lampada magica per più di mille anni. Ha giurato fedeltà eterna al proprio salvatore Gavin Magnus, immortale dominatore delle Highlands di Bracada.
 ## Dettagli
- **Profession:** Mago
+ **Profession:** ![Mago](/images/h/h_prof_15.png) Mago
 
  **Race:** Torre
 
@@ -21,32 +21,58 @@ toc: true
 
  **User Rate:** SR
 
- **Specialty:** Catena di luce
+ **Specialità eroe:** Catena di luce
 
  **Mana base:** 43
 
  **Mana recovery:** 5.0
 
 
-  | Stars   |     Attack     |  Intelligence  |      Specialty     |
-  |---------|:---------------:|:---------------:|--------------------|
-  |    1    | 12 | 18 | TBD |
-  |    2    | 18 | 27 | TBD |
-  |    3    | 24 | 36 | TBD |
-  |    4    | 30 | 45 | TBD |
+  | Stars | Attacco eroe | Intelligenza eroe | Cost |     Specialty     |
+  |---------|:---------------:|:---------------:|:--|--------------------|
+  |    1    | 12 | 18 | **30x** [Solmyr](/ItemsIT/her_386/) | <Catena di luce> può colpire 2 unità in più e il suo DAN non diminuisce; gli incantesimi di Solmyr non hanno tempo di recupero iniziale |
+  |    2    | 18 | 27 | **50x** [Solmyr](/ItemsIT/her_386/) | Gli incantesimi di tipo Aria lanciati da Solmyr generano un <Campo elettrostatico>. I danni magici subiti dalle unità colpite dal <Campo elettrostatico> aumentano del 50%. Per 6 secondi, il bersaglio subisce danni da <Folgorazione> aggiuntivi pari al 15% dei propri PF massimi. Questo danno è cumulabile. |
+  |    3    | 24 | 36 | **100x** [Solmyr](/ItemsIT/her_386/) | Il recupero degli incantesimi di tipo Aria di tutti gli eroi diminuisce del 15% |
+  |    4    | 30 | 45 | **150x** [Solmyr](/ItemsIT/her_386/) | <Catena di luce> infligge danni aggiuntivi pari al 30% dei PF massimi dei bersagli |
 
-## Spells
-### 1 Spell: Freccia dell'Aria
+ **Special Desciption 1:** Suggerimento generico, ancora da aggiungere
+
+## Incantesimo
+### 1 Incantesimo: Freccia dell'Aria
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria alle unità nemiche nell'area d'effetto e ne riduce la MIRA del 30% per 8 sec.
 
-### 2 Spell: Saetta
+ **Descrizione 2:** Al prossimo livello, il DAN aumenta di <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">.
+
+ **Descrizione 3:** Infligge danni ai nemici.
+
+ **Descrizione 4:** Infligge danni da Aria alle unità nemiche e riduce del 30% la MIRA dei bersagli.
+
+### 2 Incantesimo: Saetta
  **Descrizione:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101+(($valueadd11+$valueadd12*($sklevel-1))+($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101)*$talent2+$talent1> danni da Aria a tutte le unità nemiche nell'area d'effetto.
 
-### 3 Spell: Muro di vento
+ **Descrizione 2:** Al prossimo livello, il DAN aumenta di <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">.
+
+ **Descrizione 3:** Infligge danni ai nemici.
+
+ **Descrizione 4:** Evoca una saetta che infligge danni da Aria alle unità nemiche.
+
+### 3 Incantesimo: Muro di vento
  **Descrizione:** Evoca 1 <Muro di vento>; le unità alleate che lo attraversano godono di Schivata aumentata ({<span style="color: #48b946;font-size:20px">{($buffaddattr12+$buffaddattr13*($sklevel-1))/20}%</span><span style="color: black">) e Vel MOV aumentata di {$buffaddattr22+$buffaddattr23*($sklevel-1)} per {$olast11/1000} s.
 
-### 4 Spell: Catena di luce
+ **Descrizione 2:** Al prossimo livello, la Schivata aumenta di un ulteriore <span style="color: #1ca216;font-size:18px">{($buffaddattr13)/20}%</span><span style="color: black">.
+
+ **Descrizione 3:** Aumenta Schivata e MOV degli alleati.
+
+ **Descrizione 4:** Evoca un Muro di vento che aumenta la Vel ATT e la Vel MOV delle unità alleate che lo attraversano.
+
+### 4 Incantesimo: Catena di luce
  **Descrizione:** Scaglia un fulmine che rimbalza tra 5 unità nemiche. Ogni rimbalzo infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))}</span><span style="color: black"><($valueadd11+$valueadd12*($sklevel-1))*($a124+$a126+$a129+$a131)+$a101> danni da Aria.
+
+ **Descrizione 2:** Al prossimo livello, il DAN aumenta di <span style="color: #00ff22;font-size:16px">{$valueadd12}</span><span style="color: black">.
+
+ **Descrizione 3:** Infligge danni ai nemici.
+
+ **Descrizione 4:** Scaglia un fulmine che rimbalza tra 9 unità nemiche. Ogni rimbalzo infligge danni da Aria.
 
 
 ## Aiutante

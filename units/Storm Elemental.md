@@ -3,7 +3,7 @@ title: "Elementale tempesta"
 permalink: /units/Storm Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Elementale tempesta"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Elementale della tempesta](/it/Items/unt_263/)
+ **Unit Soul:** [Elementale della tempesta](/ItemsIT/unt_263/)
 
  **Short description:** Marchia un bersaglio per infliggere danni elevati.
 
@@ -81,7 +81,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -173,7 +173,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

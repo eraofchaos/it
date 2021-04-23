@@ -2,7 +2,7 @@
 title: "Esclusivo - Benda (Mummy)"
 permalink: /Exclusive/Mummy Gauze/
 excerpt: "Era of Chaos Benda. Benda. Era of Chaos Esclusivo Benda. Mummia Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Mummy Benda.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Mummia](/it/units/Mummy/) 
 
- **Item to Rango ↑:** [Token Benda](/it/Items/con_981/)
+ **Item to Rango ↑:** [Token Benda](/ItemsIT/con_981/)
 
- **Skin:** [Skin speciale Benda](/it/Items/con_649/)
+ **Skin:** [Skin speciale Benda](/ItemsIT/con_649/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Benda](/it/Items/con_981/) | La Mummia applica <Morale basso> a tutte le unità in un'ampia area ogni 8 secondi e riduce del 15% il DAN delle unità nemiche nell'area, oltre a causare <Pestilenza> per 3 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Benda](/it/Items/con_981/) | Rid DAN della Mummia aumentata del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Benda](/it/Items/con_981/) | Quando la Mummia è affetta da <Morale basso>, la sua DIF aumenta del 15% per 5 secondi e ripristina l'8% dei PF massimi. Recupero: 15 secondi. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Benda](/it/Items/con_981/) | <Mummificazione> La Mummia avvolge le unità da mischia circostanti con le proprie bende, impedendo loro di muoversi, attaccare e lanciare tecniche e riducendone la Rid DAN del 15% per 3 secondi. Recupero: 25 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Benda](/it/Items/con_981/) | Rid DAN aumentata del 6% per ogni unità Necropoli sul campo di battaglia. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Benda](/it/Items/con_981/) | Quando un eroe alleato lancia un incantesimo di tipo Terra, la Mummia aumenta del 5% il DAN e del 10% la Rid DAN delle unità Necropoli in un'ampia area; l'effetto dura 6 secondi. Cumulabile fino a 3 volte. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Benda](/it/Items/con_981/) | Contro unità a distanza e incantatori, la Mummia gode di Rid DAN aumentata del 40%. Attiva nuovamente <Mummificazione> quando i suoi PF scendono al 75%, 50% e 25%; in questo periodo, la Mummia recupera PF pari al 3% dei PF massimi ogni secondo. |
+  |  Risveglio  | **100x** [Token Benda](/ItemsIT/con_981/) | La Mummia applica <Morale basso> a tutte le unità in un'ampia area ogni 8 secondi e riduce del 15% il DAN delle unità nemiche nell'area, oltre a causare <Pestilenza> per 3 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Benda](/ItemsIT/con_981/) | Rid DAN della Mummia aumentata del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Benda](/ItemsIT/con_981/) | Quando la Mummia è affetta da <Morale basso>, la sua DIF aumenta del 15% per 5 secondi e ripristina l'8% dei PF massimi. Recupero: 15 secondi. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Benda](/ItemsIT/con_981/) | <Mummificazione> La Mummia avvolge le unità da mischia circostanti con le proprie bende, impedendo loro di muoversi, attaccare e lanciare tecniche e riducendone la Rid DAN del 15% per 3 secondi. Recupero: 25 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Benda](/ItemsIT/con_981/) | Rid DAN aumentata del 6% per ogni unità Necropoli sul campo di battaglia. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Benda](/ItemsIT/con_981/) | Quando un eroe alleato lancia un incantesimo di tipo Terra, la Mummia aumenta del 5% il DAN e del 10% la Rid DAN delle unità Necropoli in un'ampia area; l'effetto dura 6 secondi. Cumulabile fino a 3 volte. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Benda](/ItemsIT/con_981/) | Contro unità a distanza e incantatori, la Mummia gode di Rid DAN aumentata del 40%. Attiva nuovamente <Mummificazione> quando i suoi PF scendono al 75%, 50% e 25%; in questo periodo, la Mummia recupera PF pari al 3% dei PF massimi ogni secondo. |
 
 
 ## Livello ↑

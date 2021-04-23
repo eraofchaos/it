@@ -3,7 +3,7 @@ title: "Behemoth"
 permalink: /units/Behemoth/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Behemoth sono creature primordiali. La loro origine risale a un'era antecedente a quella dei Draghi. Gli attacchi nemici hanno ben poco effetto sui loro immensi corpi."
 unitID: 407
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Behemoth"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Behemoth](/it/Items/unt_223/)
+ **Unit Soul:** [Behemoth](/ItemsIT/unt_223/)
 
  **Unit description:** Ruggito selvaggio: riduce notevolmente l'ATT del nemico e causa <Stordimento>.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Spirito sanguinario](/it/Items/con_982/)
+ **Item to Rango ↑:** [Token Spirito sanguinario](/ItemsIT/con_982/)
 
- **Skin:** [Skin speciale Spirito sanguinario](/it/Items/con_650/)
+ **Skin:** [Skin speciale Spirito sanguinario](/ItemsIT/con_650/)
 
 
 ## Emblemi sacri consigliati
@@ -180,7 +180,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

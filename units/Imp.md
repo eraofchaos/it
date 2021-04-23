@@ -3,7 +3,7 @@ title: "Folletto"
 permalink: /units/Imp/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Pur essendo Demoni minori, i Folletti sono combattenti scaltri e brutali, posseduti da una terrificante follia assassina."
 unitID: 501
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Folletto"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Folletto](/it/Items/unt_226/)
+ **Unit Soul:** [Folletto](/ItemsIT/unt_226/)
 
  **Unit description:** Impulso: l'unità ha una probabilità di tornare in vita con PF al massimo.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Schivata unità
 * Resistenza magica
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

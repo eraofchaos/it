@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco della Medusa (Medusa)"
 permalink: /Exclusive/Medusa Medusa's Bow/
 excerpt: "Era of Chaos Arco della Medusa. Arco della Medusa. Era of Chaos Esclusivo Arco della Medusa. Medusa Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Medusa Arco della Medusa.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Medusa](/it/units/Medusa/) 
 
- **Item to Rango ↑:** [Token Arco di Medusa](/it/Items/con_991/)
+ **Item to Rango ↑:** [Token Arco di Medusa](/ItemsIT/con_991/)
 
- **Skin:** [Skin speciale Arco di Medusa](/it/Items/con_659/)
+ **Skin:** [Skin speciale Arco di Medusa](/ItemsIT/con_659/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Arco di Medusa](/it/Items/con_991/) | Quando attacca, la Medusa ha una probabilità del 50% di infliggere <Veleno di serpente> a un'unità casuale. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia. Se la Medusa attacca un'unità con 10 cariche di <Veleno di serpente>, il suo danno aumenta del 30%. <Veleno di serpente>: Infligge danni pari al 5% dell'ATT della Medusa al secondo. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco di Medusa](/it/Items/con_991/) | CRIT della Medusa aumentato di 300. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco di Medusa](/it/Items/con_991/) | La Medusa gode di ATT e Vel ATT aumentati del 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco di Medusa](/it/Items/con_991/) | <Muta> La Medusa usa questa tecnica ogni 10 secondi per eliminare tutti i debuff di cui soffre. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco di Medusa](/it/Items/con_991/) | Danno della Medusa aumentato del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco di Medusa](/it/Items/con_991/) | La Medusa ottiene il 10% di assorbimento. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco di Medusa](/it/Items/con_991/) | <Sigillo di sangue> Quando attacca, la Medusa ha una probabilità del 3% di infliggere danni pari al 200% dell'ATT e ridurre la DIF del bersaglio del 20%, la Vel ATT del 10% e la Schivata di 500. L'effetto dura 5 secondi. |
+  |  Risveglio  | **100x** [Token Arco di Medusa](/ItemsIT/con_991/) | Quando attacca, la Medusa ha una probabilità del 50% di infliggere <Veleno di serpente> a un'unità casuale. L'effetto è cumulabile fino a 10 volte e dura fino al termine della battaglia. Se la Medusa attacca un'unità con 10 cariche di <Veleno di serpente>, il suo danno aumenta del 30%. <Veleno di serpente>: Infligge danni pari al 5% dell'ATT della Medusa al secondo. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Arco di Medusa](/ItemsIT/con_991/) | CRIT della Medusa aumentato di 300. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Arco di Medusa](/ItemsIT/con_991/) | La Medusa gode di ATT e Vel ATT aumentati del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Arco di Medusa](/ItemsIT/con_991/) | <Muta> La Medusa usa questa tecnica ogni 10 secondi per eliminare tutti i debuff di cui soffre. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Arco di Medusa](/ItemsIT/con_991/) | Danno della Medusa aumentato del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Arco di Medusa](/ItemsIT/con_991/) | La Medusa ottiene il 10% di assorbimento. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Arco di Medusa](/ItemsIT/con_991/) | <Sigillo di sangue> Quando attacca, la Medusa ha una probabilità del 3% di infliggere danni pari al 200% dell'ATT e ridurre la DIF del bersaglio del 20%, la Vel ATT del 10% e la Schivata di 500. L'effetto dura 5 secondi. |
 
 
 ## Livello ↑

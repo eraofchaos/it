@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Gorgone"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Gorgone](/it/Items/unt_257/)
+ **Unit Soul:** [Gorgone](/ItemsIT/unt_257/)
 
  **Short description:** ATT elevato. Resistente. Controllo nemici efficace.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Corno di Gorgone](/it/Items/con_995/)
+ **Item to Rango ↑:** [Token Corno di Gorgone](/ItemsIT/con_995/)
 
- **Skin:** [Skin speciale Corno di Gorgone](/it/Items/con_663/)
+ **Skin:** [Skin speciale Corno di Gorgone](/ItemsIT/con_663/)
 
 
 ## Emblemi sacri consigliati
@@ -186,7 +186,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

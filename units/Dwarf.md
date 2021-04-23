@@ -3,7 +3,7 @@ title: "Gnomo"
 permalink: /units/Dwarf/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli."
 unitID: 202
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Gnomo"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Gnomo](/it/Items/unt_200/)
+ **Unit Soul:** [Gnomo](/ItemsIT/unt_200/)
 
  **Unit description:** Urlo dello Gnomo: aumenta i PF massimi delle unità all'inizio della battaglia.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -181,7 +181,7 @@ toc: true
 * Difesa
 * Resistenza magica
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

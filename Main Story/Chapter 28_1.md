@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-1 Nelle profondità"
 permalink: /Main Story/Chapter 28_1/
 excerpt: "Capitolo 28 - 1. Era of Chaos  Storia principale - Capitolo 28_1. 28-1 Nelle profondità"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 28_1.md"
 toc: false

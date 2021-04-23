@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Demone"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Demone](/it/Items/unt_229/)
+ **Unit Soul:** [Demone](/ItemsIT/unt_229/)
 
  **Unit description:** Attacco scottante: infligge danni devastanti alle unità nemiche.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Difesa
 * Schivata unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

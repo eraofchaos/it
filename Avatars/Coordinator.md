@@ -2,7 +2,7 @@
 title: "Avatar - Coordinatore"
 permalink: /Avatars/Coordinator/
 excerpt: "Era of Chaos  Coordinatore"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Coordinator.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Monaco"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Monaco](/it/Items/unt_194/)
+ **Unit Soul:** [Monaco](/ItemsIT/unt_194/)
 
  **Unit description:** Preghiera: cura l'unità con la percentuale di PF minore.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Cantico arcano](/it/Items/con_915/)
+ **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
  **Skin:** -
 
@@ -165,7 +165,7 @@ toc: true
 
 * ?!? 
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Esclusivo - Bastone della Ricrescita (Druid)"
 permalink: /Exclusive/Druid Staff of Regrowth/
 excerpt: "Era of Chaos Bastone della Ricrescita. Bastone della Ricrescita. Era of Chaos Esclusivo Bastone della Ricrescita. Druido Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Druid Bastone della Ricrescita.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Druido](/it/units/Druid/) 
 
- **Item to Rango ↑:** [Token Bastone della Ricrescita](/it/Items/con_977/)
+ **Item to Rango ↑:** [Token Bastone della Ricrescita](/ItemsIT/con_977/)
 
- **Skin:** [Skin speciale Bastone della Ricrescita](/it/Items/con_645/)
+ **Skin:** [Skin speciale Bastone della Ricrescita](/ItemsIT/con_645/)
 
  **Type:** A distanza
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Bastone della Ricrescita](/it/Items/con_977/) | <Frusta di liane> All'inizio della battaglia, lancia questa tecnica su un'unità nemica casuale nelle retrovie, infliggendole danni pari al 30% dell'ATT e impedendone i movimenti per 10 secondi. Inoltre, le unità alleate nelle retrovie sono protette da uno <scudo> pari al 25% dei PF massimi. Durata: 10 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Bastone della Ricrescita](/it/Items/con_977/) | Il Druido gode di portata aumentata di 50 e Tenacia aumentata di 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Bastone della Ricrescita](/it/Items/con_977/) | All'inizio della battaglia, aumenta la propria DIF del 70% e aumenta la Rid DAN di tutte le unità alleate in un'ampia area del 22% per 15 secondi. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Bastone della Ricrescita](/it/Items/con_977/) | <Bocciolo> Evoca un <Bocciolo> ogni 24 secondi. I Boccioli benedicono tutte le unità Baluardo in un'ampia area ogni 5 secondi per un totale di 5 volte, aumentandone la Vel ATT del 5% ogni volta. Cumulabile fino a 30 volte. L'effetto dura 5 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Bastone della Ricrescita](/it/Items/con_977/) | Il Druido gode di Rid DAN e RES magica aumentate del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Bastone della Ricrescita](/it/Items/con_977/) | Quando è protetto da uno <scudo>, aumenta di 250 il CRIT delle unità alleate in un'ampia area per 5 secondi. Recupero: 10 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Bastone della Ricrescita](/it/Items/con_977/) | <Seme vampirico> Quando il Druido viene benedetto da un <Bocciolo>, pianta un <Seme vampirico> su un'unità nemica casuale, che infligge danni pari al 10% dei PF massimi ogni 3 secondi. Ciascun <Seme vampirico> può infliggere danni un massimo di 3 volte. |
+  |  Risveglio  | **100x** [Token Bastone della Ricrescita](/ItemsIT/con_977/) | <Frusta di liane> All'inizio della battaglia, lancia questa tecnica su un'unità nemica casuale nelle retrovie, infliggendole danni pari al 30% dell'ATT e impedendone i movimenti per 10 secondi. Inoltre, le unità alleate nelle retrovie sono protette da uno <scudo> pari al 25% dei PF massimi. Durata: 10 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Bastone della Ricrescita](/ItemsIT/con_977/) | Il Druido gode di portata aumentata di 50 e Tenacia aumentata di 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Bastone della Ricrescita](/ItemsIT/con_977/) | All'inizio della battaglia, aumenta la propria DIF del 70% e aumenta la Rid DAN di tutte le unità alleate in un'ampia area del 22% per 15 secondi. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Bastone della Ricrescita](/ItemsIT/con_977/) | <Bocciolo> Evoca un <Bocciolo> ogni 24 secondi. I Boccioli benedicono tutte le unità Baluardo in un'ampia area ogni 5 secondi per un totale di 5 volte, aumentandone la Vel ATT del 5% ogni volta. Cumulabile fino a 30 volte. L'effetto dura 5 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Bastone della Ricrescita](/ItemsIT/con_977/) | Il Druido gode di Rid DAN e RES magica aumentate del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Bastone della Ricrescita](/ItemsIT/con_977/) | Quando è protetto da uno <scudo>, aumenta di 250 il CRIT delle unità alleate in un'ampia area per 5 secondi. Recupero: 10 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Bastone della Ricrescita](/ItemsIT/con_977/) | <Seme vampirico> Quando il Druido viene benedetto da un <Bocciolo>, pianta un <Seme vampirico> su un'unità nemica casuale, che infligge danni pari al 10% dei PF massimi ogni 3 secondi. Ciascun <Seme vampirico> può infliggere danni un massimo di 3 volte. |
 
 
 ## Livello ↑

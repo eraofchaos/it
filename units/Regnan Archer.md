@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Arciere di Regna"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Arciere di Regna](/it/Items/unt_274/)
+ **Unit Soul:** [Arciere di Regna](/ItemsIT/unt_274/)
 
  **Short description:** CRIT e perforazione.
 
@@ -179,7 +179,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

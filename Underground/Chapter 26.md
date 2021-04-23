@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 26 Il suono del destino"
 permalink: /Underground/Chapter 26/
 excerpt: "Capitolo 26 Il suono del destino. Era of Chaos  Sottosuolo - Capitolo 26. Il suono del destino"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 26.md"
 toc: false

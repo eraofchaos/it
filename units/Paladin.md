@@ -3,7 +3,7 @@ title: "Paladino"
 permalink: /units/Paladin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Paladini sono le unità principali della fazione Castello. Sono abili a spronare i propri alleati affinché mostrino il loro vero potenziale."
 unitID: 108
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Paladino"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Paladino](/it/Items/unt_197/)
+ **Unit Soul:** [Paladino](/ItemsIT/unt_197/)
 
  **Unit description:** Rinforzi del valoroso: evoca un Seguace del Santuario
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Impavida](/it/Items/con_974/)
+ **Item to Rango ↑:** [Token Impavida](/ItemsIT/con_974/)
 
- **Skin:** [Skin speciale Impavida](/it/Items/con_642/)
+ **Skin:** [Skin speciale Impavida](/ItemsIT/con_642/)
 
 
 ## Emblemi sacri consigliati
@@ -170,7 +170,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

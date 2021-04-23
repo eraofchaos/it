@@ -2,7 +2,7 @@
 title: "Aiutante Astral"
 permalink: /heroes/Adjutant Astral/
 excerpt: "Era of Chaos  Aiutante Astral"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Adjutant Astral.md"
 QR: adhero_61203
@@ -34,7 +34,7 @@ classes: wide
 
 ## Livello Aiutante Upgrade
 
-  | Livello Aiutante | Potere Aiutante | [Pergamene incantesimi](/it/Items/con_694/) | [Manuale di tattica](/it/Items/unk_2115/) | Accumulated [Pergamene incantesimi](/it/Items/con_694/) | Accumulated [Manuale di tattica](/it/Items/unk_2115/) |
+  | Livello Aiutante | Potere Aiutante | [Pergamene incantesimi](/ItemsIT/con_694/) | [Manuale di tattica](/ItemsIT/unk_2115/) | Accumulated [Pergamene incantesimi](/ItemsIT/con_694/) | Accumulated [Manuale di tattica](/ItemsIT/unk_2115/) |
   |:-------|:-------|:------------|:------------|:------------|:------------|
   | **1** | 5000 | 0 | **0** | **0** | **0** |
   | **2** | 6000 | 100 | **0** | **100** | **0** |

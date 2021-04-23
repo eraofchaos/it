@@ -2,7 +2,7 @@
 title: "Esclusivo - Drago scheletrico immortale (Bone Dragon)"
 permalink: /Exclusive/Bone Dragon Immortal Dragon Bone/
 excerpt: "Era of Chaos Drago scheletrico immortale. Drago scheletrico immortale. Era of Chaos Esclusivo Drago scheletrico immortale. Drago scheletrico Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Bone Dragon Drago scheletrico immortale.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Drago scheletrico](/it/units/Bone Dragon/) 
 
- **Item to Rango ↑:** [Token Drago scheletrico immortale](/it/Items/con_980/)
+ **Item to Rango ↑:** [Token Drago scheletrico immortale](/ItemsIT/con_980/)
 
- **Skin:** [Skin speciale Drago scheletrico immortale](/it/Items/con_648/)
+ **Skin:** [Skin speciale Drago scheletrico immortale](/ItemsIT/con_648/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Drago scheletrico immortale](/it/Items/con_980/) | <Potere del Drago> Utilizzabile ogni 12 secondi. Tutte le unità nemiche hanno DIF ridotta del 5% e resistenza magica ridotta del 30% per 15 secondi. Cumulabile fino a 5 volte. Inoltre, causa <Silenzio> a tutte le unità nemiche per 3 secondi. Si attiva automaticamente ogni volta che un'unità nemica viene abbattuta. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Drago scheletrico immortale](/it/Items/con_980/) | Quando il Drago scheletrico è sul campo di battaglia, le unità Necropoli alleate godono di Tenacia aumentata di 200 e DIF aumentata del 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Drago scheletrico immortale](/it/Items/con_980/) | Il Drago scheletrico gode di ATT e DAN aumentati del 30%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Drago scheletrico immortale](/it/Items/con_980/) | Il Drago scheletrico non può perdere più del 40% dei PF massimi da una singola fonte di danno. Se subisce danni superiori al 28% dei PF massimi da una singola fonte, attiva automaticamente <Potere del Drago>. Recupero: 10 secondi. All'inizio della battaglia, il Drago scheletrico protegge tutte le unità Necropoli alleate con una <Corona di spine> che ne aumenta il DAN riflesso del 10%. L'effetto dura fino al termine della battaglia. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Drago scheletrico immortale](/it/Items/con_980/) | Il Drago scheletrico gode di Vel ATT e danno aumentati del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Drago scheletrico immortale](/it/Items/con_980/) | Il Drago scheletrico causa <Sanguinamento> alle unità nemiche in un'area. Il CRIT e la Tenacia delle unità nemiche nell'area affette da <Morale basso> si riducono di 150. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Drago scheletrico immortale](/it/Items/con_980/) | All'inizio della battaglia, il Drago scheletrico evoca 1 Mummia. Inoltre, evoca una Mummia ogni volta che un'unità nemica viene abbattuta. |
+  |  Risveglio  | **100x** [Token Drago scheletrico immortale](/ItemsIT/con_980/) | <Potere del Drago> Utilizzabile ogni 12 secondi. Tutte le unità nemiche hanno DIF ridotta del 5% e resistenza magica ridotta del 30% per 15 secondi. Cumulabile fino a 5 volte. Inoltre, causa <Silenzio> a tutte le unità nemiche per 3 secondi. Si attiva automaticamente ogni volta che un'unità nemica viene abbattuta. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Drago scheletrico immortale](/ItemsIT/con_980/) | Quando il Drago scheletrico è sul campo di battaglia, le unità Necropoli alleate godono di Tenacia aumentata di 200 e DIF aumentata del 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Drago scheletrico immortale](/ItemsIT/con_980/) | Il Drago scheletrico gode di ATT e DAN aumentati del 30%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Drago scheletrico immortale](/ItemsIT/con_980/) | Il Drago scheletrico non può perdere più del 40% dei PF massimi da una singola fonte di danno. Se subisce danni superiori al 28% dei PF massimi da una singola fonte, attiva automaticamente <Potere del Drago>. Recupero: 10 secondi. All'inizio della battaglia, il Drago scheletrico protegge tutte le unità Necropoli alleate con una <Corona di spine> che ne aumenta il DAN riflesso del 10%. L'effetto dura fino al termine della battaglia. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Drago scheletrico immortale](/ItemsIT/con_980/) | Il Drago scheletrico gode di Vel ATT e danno aumentati del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Drago scheletrico immortale](/ItemsIT/con_980/) | Il Drago scheletrico causa <Sanguinamento> alle unità nemiche in un'area. Il CRIT e la Tenacia delle unità nemiche nell'area affette da <Morale basso> si riducono di 150. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Drago scheletrico immortale](/ItemsIT/con_980/) | All'inizio della battaglia, il Drago scheletrico evoca 1 Mummia. Inoltre, evoca una Mummia ogni volta che un'unità nemica viene abbattuta. |
 
 
 ## Livello ↑

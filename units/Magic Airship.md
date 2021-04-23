@@ -3,7 +3,7 @@ title: "Aeronave magica"
 permalink: /units/Magic Airship/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Aeronave magica"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Aeronave magica](/it/Items/unt_242/)
+ **Unit Soul:** [Aeronave magica](/ItemsIT/unt_242/)
 
  **Short description:** Applica buff ai DPS nelle retrovie.
 
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Stella polare](/it/Items/con_989/)
+ **Item to Rango ↑:** [Token Stella polare](/ItemsIT/con_989/)
 
- **Skin:** [Skin speciale Stella polare](/it/Items/con_657/)
+ **Skin:** [Skin speciale Stella polare](/ItemsIT/con_657/)
 
 
 ## Emblemi sacri consigliati
@@ -174,7 +174,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

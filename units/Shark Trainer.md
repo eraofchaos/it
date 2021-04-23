@@ -3,7 +3,7 @@ title: "Addestratore di squali"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'Incubo fatale si aggira per gli oceani in sella a uno squalo e brandendo una scimitarra."
 unitID: 9909
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Addestratore di squali"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Addestratore di squali](/it/Items/unt_281/)
+ **Unit Soul:** [Addestratore di squali](/ItemsIT/unt_281/)
 
  **Short description:** Evoca squali che sbranano i nemici.
 
@@ -214,7 +214,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

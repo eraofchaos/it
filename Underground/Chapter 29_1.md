@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 29 - 29-1  La bellezza dei fuochi artificiali"
 permalink: /Underground/Chapter 29_1/
 excerpt: "Capitolo 29 - 1. Era of Chaos  Sottosuolo - Capitolo 29_1. 29-1  La bellezza dei fuochi artificiali"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 29_1.md"
 toc: false

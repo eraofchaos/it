@@ -3,7 +3,7 @@ title: "Uomo lucertola"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda."
 unitID: 802
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Uomo lucertola"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Uomo lucertola](/it/Items/unt_254/)
+ **Unit Soul:** [Uomo lucertola](/ItemsIT/unt_254/)
 
  **Short description:** DPS elevati.
 
@@ -83,7 +83,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Arco lungo](/it/Items/con_914/)
+ **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 
  **Skin:** -
 
@@ -175,7 +175,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento A distanza](/it/Items/con_789/)
+ **:** [Pozione di Talento A distanza](/ItemsIT/con_789/)
 
 
 ## Awaking

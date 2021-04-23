@@ -3,7 +3,7 @@ title: "Drago nero"
 permalink: /units/Black Dragon/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Drago nero"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Drago nero](/it/Items/unt_250/)
+ **Unit Soul:** [Drago nero](/ItemsIT/unt_250/)
 
  **Unit description:** Soffio del drago: attacca i nemici, causando <Combustione> in un'ampia area.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Squama del Drago nero](/it/Items/con_993/)
+ **Item to Rango ↑:** [Token Squama del Drago nero](/ItemsIT/con_993/)
 
- **Skin:** [Skin speciale Squama del Drago nero](/it/Items/con_661/)
+ **Skin:** [Skin speciale Squama del Drago nero](/ItemsIT/con_661/)
 
 
 ## Emblemi sacri consigliati
@@ -174,7 +174,7 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

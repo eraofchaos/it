@@ -3,7 +3,7 @@ title: "Tartaruga draconica"
 permalink: /units/Dragon Turtle/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, domina i mari più profondi con il suo corpo mastodontico."
 unitID: 9906
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Tartaruga draconica"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Tartaruga draconica](/it/Items/unt_278/)
+ **Unit Soul:** [Tartaruga draconica](/ItemsIT/unt_278/)
 
  **Short description:** Tank. Rigenera PF.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Obbedienza](/it/Items/con_1005/)
+ **Item to Rango ↑:** [Token Obbedienza](/ItemsIT/con_1005/)
 
- **Skin:** [Skin speciale Obbedienza](/it/Items/con_673/)
+ **Skin:** [Skin speciale Obbedienza](/ItemsIT/con_673/)
 
 
 ## Emblemi sacri consigliati
@@ -169,7 +169,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

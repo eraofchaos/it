@@ -3,7 +3,7 @@ title: "Troglodita"
 permalink: /units/Troglodyte/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Troglodita"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Troglodita](/it/Items/unt_244/)
+ **Unit Soul:** [Troglodita](/ItemsIT/unt_244/)
 
  **Unit description:** Muro di lance: DAN e <Stordimento> ad area.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Colpo critico unità
 * Resistenza magica
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada (Pikeman)"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Picchiere Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Pikeman Spada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Picchiere](/it/units/Pikeman/) 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token della Spada](/it/Items/con_912/) | <Affondo della Lancia Sacra> Il Picchiere infligge danni pari al 400% del proprio ATT ogni 15 secondi e riduce la DIF del bersaglio del 4% per 7 secondi. Cumulabile fino a 4 volte. Se l'unità bersaglio è <stordita>, la sua Tenacia viene ridotta di 150 per 6 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/it/Items/con_912/) | Vel ATT del Picchiere aumentata del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/it/Items/con_912/) | Tenacia del Picchiere aumentata di 150. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/it/Items/con_912/) | <Assalto fanatico> Attiva nuovamente <Affondo della Lancia Sacra> se il Picchiere gode di <Morale alto>. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/it/Items/con_912/) | DAN CRIT del Picchiere aumentato del 15%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/it/Items/con_912/) | Tutte le unità Castello sul campo di battaglia godono di DIF aumentata del 3% e Schivata aumentata di 30. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/it/Items/con_912/) | <Ardimento> Quando un attacco del Picchiere viene schivato, tutte le unità alleate di fronte a esso godono di DAN CRIT e Vel ATT aumentati del 20% per 12 secondi. Recupero: 20 secondi. |
+  |  Risveglio  | **100x** [Token della Spada](/ItemsIT/con_912/) | <Affondo della Lancia Sacra> Il Picchiere infligge danni pari al 400% del proprio ATT ogni 15 secondi e riduce la DIF del bersaglio del 4% per 7 secondi. Cumulabile fino a 4 volte. Se l'unità bersaglio è <stordita>, la sua Tenacia viene ridotta di 150 per 6 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/ItemsIT/con_912/) | Vel ATT del Picchiere aumentata del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/ItemsIT/con_912/) | Tenacia del Picchiere aumentata di 150. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/ItemsIT/con_912/) | <Assalto fanatico> Attiva nuovamente <Affondo della Lancia Sacra> se il Picchiere gode di <Morale alto>. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/ItemsIT/con_912/) | DAN CRIT del Picchiere aumentato del 15%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/ItemsIT/con_912/) | Tutte le unità Castello sul campo di battaglia godono di DIF aumentata del 3% e Schivata aumentata di 30. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/ItemsIT/con_912/) | <Ardimento> Quando un attacco del Picchiere viene schivato, tutte le unità alleate di fronte a esso godono di DAN CRIT e Vel ATT aumentati del 20% per 12 secondi. Recupero: 20 secondi. |
 
 
 ## Livello ↑

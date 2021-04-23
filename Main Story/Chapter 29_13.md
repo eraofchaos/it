@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-13 Campo di addestramento per mercenari"
 permalink: /Main Story/Chapter 29_13/
 excerpt: "Capitolo 29 - 13. Era of Chaos  Storia principale - Capitolo 29_13. 29-13 Campo di addestramento per mercenari"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 29_13.md"
 toc: false

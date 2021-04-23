@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-13 Il re dei maghi"
 permalink: /Main Story/Chapter 19_13/
 excerpt: "Capitolo 19 - 13. Era of Chaos  Storia principale - Capitolo 19_13. 19-13 Il re dei maghi"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 19_13.md"
 toc: false

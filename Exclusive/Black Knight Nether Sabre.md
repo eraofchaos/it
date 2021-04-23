@@ -2,7 +2,7 @@
 title: "Esclusivo - Lama del sottosuolo (Black Knight)"
 permalink: /Exclusive/Black Knight Nether Sabre/
 excerpt: "Era of Chaos Lama del sottosuolo. Lama del sottosuolo. Era of Chaos Esclusivo Lama del sottosuolo. Cavaliere nero Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Black Knight Lama del sottosuolo.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Cavaliere nero](/it/units/Black Knight/) 
 
- **Item to Rango ↑:** [Token Lama del sottosuolo](/it/Items/con_979/)
+ **Item to Rango ↑:** [Token Lama del sottosuolo](/ItemsIT/con_979/)
 
- **Skin:** [Skin speciale Lama del sottosuolo](/it/Items/con_647/)
+ **Skin:** [Skin speciale Lama del sottosuolo](/ItemsIT/con_647/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Lama del sottosuolo](/it/Items/con_979/) | Il Cavaliere nero riduce del 30% la DIF delle unità nemiche in un'ampia area. Quando affronta unità affette da <Morale basso>, la Perforazione aumenta di 500. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Lama del sottosuolo](/it/Items/con_979/) | Rid DAN del Cavaliere nero aumentata del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Lama del sottosuolo](/it/Items/con_979/) | DAN del Cavaliere nero aumentato del 25%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Lama del sottosuolo](/it/Items/con_979/) | All'inizio della battaglia, il Cavaliere nero parte alla carica. Durante la carica è immune a ogni danno. Dopo 6 secondi appare di fronte all'unità nemica all'estremità della fila. In mancanza di un bersaglio valido, attacca un'unità casuale nelle retrovie infliggendo un colpo critico (nessun effetto Risveglio, funziona una sola volta per battaglia). |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Lama del sottosuolo](/it/Items/con_979/) | Quando infligge un colpo critico, il Cavaliere nero ottiene 50 CRIT e 20% RES magica. Durata: 5 secondi. Cumulabile fino a 10 volte. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Lama del sottosuolo](/it/Items/con_979/) | Assorbimento del Cavaliere nero aumentato del 20%, più un ulteriore 20% quando infligge colpi critici. Durata: 5 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Lama del sottosuolo](/it/Items/con_979/) | <Rinascita del Re> Evoca 1 Cavaliere nero ogni 20 secondi. Quando l'unità bersaglio viene abbattuta, evoca 1 Cavaliere nero. Quando un Cavaliere nero viene evocato, il CRIT aumenta di 100 e la Perforazione di 50. |
+  |  Risveglio  | **100x** [Token Lama del sottosuolo](/ItemsIT/con_979/) | Il Cavaliere nero riduce del 30% la DIF delle unità nemiche in un'ampia area. Quando affronta unità affette da <Morale basso>, la Perforazione aumenta di 500. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Lama del sottosuolo](/ItemsIT/con_979/) | Rid DAN del Cavaliere nero aumentata del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Lama del sottosuolo](/ItemsIT/con_979/) | DAN del Cavaliere nero aumentato del 25%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Lama del sottosuolo](/ItemsIT/con_979/) | All'inizio della battaglia, il Cavaliere nero parte alla carica. Durante la carica è immune a ogni danno. Dopo 6 secondi appare di fronte all'unità nemica all'estremità della fila. In mancanza di un bersaglio valido, attacca un'unità casuale nelle retrovie infliggendo un colpo critico (nessun effetto Risveglio, funziona una sola volta per battaglia). |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Lama del sottosuolo](/ItemsIT/con_979/) | Quando infligge un colpo critico, il Cavaliere nero ottiene 50 CRIT e 20% RES magica. Durata: 5 secondi. Cumulabile fino a 10 volte. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Lama del sottosuolo](/ItemsIT/con_979/) | Assorbimento del Cavaliere nero aumentato del 20%, più un ulteriore 20% quando infligge colpi critici. Durata: 5 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Lama del sottosuolo](/ItemsIT/con_979/) | <Rinascita del Re> Evoca 1 Cavaliere nero ogni 20 secondi. Quando l'unità bersaglio viene abbattuta, evoca 1 Cavaliere nero. Quando un Cavaliere nero viene evocato, il CRIT aumenta di 100 e la Perforazione di 50. |
 
 
 ## Livello ↑

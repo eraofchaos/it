@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 13 - 13-5 Giudizio nel settimo giorno"
 permalink: /Underground/Chapter 13_5/
 excerpt: "Capitolo 13 - 5. Era of Chaos  Sottosuolo - Capitolo 13_5. 13-5 Giudizio nel settimo giorno"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 13_5.md"
 toc: false

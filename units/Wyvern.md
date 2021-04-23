@@ -3,7 +3,7 @@ title: "Viverna"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Viverna"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Viverna](/it/Items/unt_258/)
+ **Unit Soul:** [Viverna](/ItemsIT/unt_258/)
 
  **Short description:** Eccellente in mischia. Tossico.
 
@@ -82,9 +82,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Coda di Viverna](/it/Items/con_996/)
+ **Item to Rango ↑:** [Token Coda di Viverna](/ItemsIT/con_996/)
 
- **Skin:** [Skin speciale Coda di Viverna](/it/Items/con_664/)
+ **Skin:** [Skin speciale Coda di Viverna](/ItemsIT/con_664/)
 
 
 ## Emblemi sacri consigliati
@@ -172,7 +172,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

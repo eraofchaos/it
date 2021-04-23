@@ -2,7 +2,7 @@
 title: "Esclusivo - Ala di drago splendente (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Ala di drago splendente. Ala di drago splendente. Era of Chaos Esclusivo Ala di drago splendente. Drago verde Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Green Dragon Ala di drago splendente.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Drago verde](/it/units/Green Dragon/) 
 
- **Item to Rango ↑:** [Token Ala di drago splendente](/it/Items/con_976/)
+ **Item to Rango ↑:** [Token Ala di drago splendente](/ItemsIT/con_976/)
 
- **Skin:** [Skin speciale Ala di drago splendente](/it/Items/con_644/)
+ **Skin:** [Skin speciale Ala di drago splendente](/ItemsIT/con_644/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Ala di drago splendente](/it/Items/con_976/) | Gli attacchi del Drago verde causano <Sanguinamento>; le unità colpite subiscono danni pari al 2% dei PF massimi ogni 2 secondi per 3 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Ala di drago splendente](/it/Items/con_976/) | Il Drago verde gode di DAN aumentato del 20% e CRIT aumentato di 200. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Ala di drago splendente](/it/Items/con_976/) | Quando è protetto da uno <scudo>, la Vel ATT del Drago verde aumenta del 30%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Ala di drago splendente](/it/Items/con_976/) | <Protezione cristallina> La pelle cristallizzata del Drago verde annulla 5 istanze di danno. Dopo aver bloccato il danno per la quinta volta, <Protezione cristallina> svanisce; le unità nemiche circostanti subiscono danni pari al 100% dell'ATT del Drago verde e rimangono <cristallizzate> per 3 secondi. Ottiene <Protezione cristallina> ogni 20 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Ala di drago splendente](/it/Items/con_976/) | La Perforazione del Drago verde aumenta di 25 con ogni attacco. Cumulabile fino a 20 volte. Le cariche accumulate svaniscono se il Drago verde cambia bersaglio. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Ala di drago splendente](/it/Items/con_976/) | <Inarrestabile> Se l'unità attaccata è <rallentata>, subisce danni pari al 100% dell'ATT e viene <accecata> per 5 secondi. Recupero: 18 secondi. Se l'unità attaccata è <ostacolata>, subisce danni pari al 100% dell'ATT e la sua DIF si riduce del 15%. Durata: 5 secondi. Recupero: 18 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Ala di drago splendente](/it/Items/con_976/) | <Spine di diamante> Evoca e scaglia un'immensa quantità di affilatissimi cristalli, che infliggono danni pari al 100% dell'ATT alle unità nemiche in un'ampia area di fronte a sé. Danno raddoppiato contro bersagli <accecati>. Recupero: 21 secondi. |
+  |  Risveglio  | **100x** [Token Ala di drago splendente](/ItemsIT/con_976/) | Gli attacchi del Drago verde causano <Sanguinamento>; le unità colpite subiscono danni pari al 2% dei PF massimi ogni 2 secondi per 3 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Ala di drago splendente](/ItemsIT/con_976/) | Il Drago verde gode di DAN aumentato del 20% e CRIT aumentato di 200. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Ala di drago splendente](/ItemsIT/con_976/) | Quando è protetto da uno <scudo>, la Vel ATT del Drago verde aumenta del 30%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Ala di drago splendente](/ItemsIT/con_976/) | <Protezione cristallina> La pelle cristallizzata del Drago verde annulla 5 istanze di danno. Dopo aver bloccato il danno per la quinta volta, <Protezione cristallina> svanisce; le unità nemiche circostanti subiscono danni pari al 100% dell'ATT del Drago verde e rimangono <cristallizzate> per 3 secondi. Ottiene <Protezione cristallina> ogni 20 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Ala di drago splendente](/ItemsIT/con_976/) | La Perforazione del Drago verde aumenta di 25 con ogni attacco. Cumulabile fino a 20 volte. Le cariche accumulate svaniscono se il Drago verde cambia bersaglio. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Ala di drago splendente](/ItemsIT/con_976/) | <Inarrestabile> Se l'unità attaccata è <rallentata>, subisce danni pari al 100% dell'ATT e viene <accecata> per 5 secondi. Recupero: 18 secondi. Se l'unità attaccata è <ostacolata>, subisce danni pari al 100% dell'ATT e la sua DIF si riduce del 15%. Durata: 5 secondi. Recupero: 18 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Ala di drago splendente](/ItemsIT/con_976/) | <Spine di diamante> Evoca e scaglia un'immensa quantità di affilatissimi cristalli, che infliggono danni pari al 100% dell'ATT alle unità nemiche in un'ampia area di fronte a sé. Danno raddoppiato contro bersagli <accecati>. Recupero: 21 secondi. |
 
 
 ## Livello ↑

@@ -2,7 +2,7 @@
 title: "Avatar - Orientamento Confluenza"
 permalink: /Avatars/Conflux Will/
 excerpt: "Era of Chaos  Orientamento Confluenza"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Conflux Will.md"
 toc: false

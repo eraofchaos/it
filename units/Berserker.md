@@ -3,7 +3,7 @@ title: "Berserker"
 permalink: /units/Berserker/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Berserker sono i guerrieri più abili tra gli orchi. Sono alti, robusti e particolarmente irascibili. Sul campo di battaglia non esitano a gettarsi contro le unità nemiche per abbatterle a colpi d'ascia."
 unitID: 408
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Berserker"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Berserker](/it/Items/unt_224/)
+ **Unit Soul:** [Berserker](/ItemsIT/unt_224/)
 
  **Unit description:** Tempesta di guerra: infligge danni a 3 unità nemiche vicine.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Ascia del Berserker](/it/Items/con_983/)
+ **Item to Rango ↑:** [Token Ascia del Berserker](/ItemsIT/con_983/)
 
- **Skin:** [Skin speciale Ascia del Berserker](/it/Items/con_651/)
+ **Skin:** [Skin speciale Ascia del Berserker](/ItemsIT/con_651/)
 
 
 ## Emblemi sacri consigliati
@@ -183,7 +183,7 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

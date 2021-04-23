@@ -2,7 +2,7 @@
 title: "Avatar - Fiori che sbocciano e luna piena"
 permalink: /Avatars/Blooming Flowers and Full Moon/
 excerpt: "Era of Chaos  Fiori che sbocciano e luna piena"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Blooming Flowers and Full Moon.md"
 toc: false

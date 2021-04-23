@@ -3,7 +3,7 @@ title: "Guerrieri spartani"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
 unitID: 9702
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Guerrieri spartani"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Guerrieri spartani](/it/Items/unt_272/)
+ **Unit Soul:** [Guerrieri spartani](/ItemsIT/unt_272/)
 
  **Short description:** Lo scudo <stordisce>. La morte potenzia.
 
@@ -165,7 +165,7 @@ toc: true
 * Danno unità
 * Riduzione danno unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

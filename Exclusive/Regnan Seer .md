@@ -2,7 +2,7 @@
 title: "Esclusivo -  (Regnan Seer)"
 permalink: /Exclusive/Regnan Seer /
 excerpt: "Era of Chaos . . Era of Chaos Esclusivo . Veggente di Regna Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Regnan Seer .md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Veggente di Regna](/it/units/Regnan Seer/) 
 
- **Item to Rango ↑:** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/)
+ **Item to Rango ↑:** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/)
 
- **Skin:** [Tool_2990709](/it/Items/con_674/)
+ **Skin:** [Tool_2990709](/ItemsIT/con_674/)
 
  **Type:** Capitale
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/) |  |
-  | **1x** <i class="fas fa-star"/> | **50x** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/) |  |
-  | **2x** <i class="fas fa-star"/> | **90x** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/) |  |
-  | **3x** <i class="fas fa-star"/> | **130x** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/) |  |
-  | **4x** <i class="fas fa-star"/> | **170x** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/) |  |
-  | **5x** <i class="fas fa-star"/> | **210x** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/) |  |
-  | **6x** <i class="fas fa-star"/> | **250x** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/) |  |
+  |  Risveglio  | **100x** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/) |  |
+  | **1x** <i class="fas fa-star"/> | **50x** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/) |  |
+  | **2x** <i class="fas fa-star"/> | **90x** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/) |  |
+  | **3x** <i class="fas fa-star"/> | **130x** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/) |  |
+  | **4x** <i class="fas fa-star"/> | **170x** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/) |  |
+  | **5x** <i class="fas fa-star"/> | **210x** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/) |  |
+  | **6x** <i class="fas fa-star"/> | **250x** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/) |  |
 
 
 ## Livello ↑

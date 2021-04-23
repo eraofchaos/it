@@ -3,7 +3,7 @@ title: "Goblin"
 permalink: /units/Goblin/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Goblin indossano armature leggere e brandiscono armi pesanti. Sono guerrieri brutali e implacabili, in grado di annichilire le difese avversarie con estrema rapidità."
 unitID: 401
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Goblin"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Goblin](/it/Items/unt_217/)
+ **Unit Soul:** [Goblin](/ItemsIT/unt_217/)
 
  **Unit description:** Tempesta di guerra: infligge danni a 3 unità nemiche vicine.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -176,7 +176,7 @@ toc: true
 * Velocità d'attacco
 * Resistenza magica
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

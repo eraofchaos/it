@@ -3,7 +3,7 @@ title: "Unicorno"
 permalink: /units/Unicorn/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Unicorno"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Unicorno](/it/Items/unt_204/)
+ **Unit Soul:** [Unicorno](/ItemsIT/unt_204/)
 
  **Unit description:** Cecità: Riduce la MIRA di una fila di unità nemiche.
 
@@ -85,7 +85,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Carica impetuosa](/it/Items/con_916/)
+ **Item to Rango ↑:** [Token Carica impetuosa](/ItemsIT/con_916/)
 
  **Skin:** -
 
@@ -172,7 +172,7 @@ toc: true
 * Schivata unità
 * Riduzione danno unità
 
- **:** [Pozione di Talento Incursione](/it/Items/con_788/)
+ **:** [Pozione di Talento Incursione](/ItemsIT/con_788/)
 
 
 ## Awaking

@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Osservatore"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Osservatore](/it/Items/unt_246/)
+ **Unit Soul:** [Osservatore](/ItemsIT/unt_246/)
 
  **Unit description:** Controllo mentale: immobilizza i nemici, che perdono PF col tempo.
 
@@ -84,9 +84,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Sguardo oscuro](/it/Items/con_990/)
+ **Item to Rango ↑:** [Token Sguardo oscuro](/ItemsIT/con_990/)
 
- **Skin:** [Skin speciale Sguardo oscuro](/it/Items/con_658/)
+ **Skin:** [Skin speciale Sguardo oscuro](/ItemsIT/con_658/)
 
 
 ## Emblemi sacri consigliati
@@ -167,7 +167,7 @@ toc: true
 * Danno unità
 * Resistenza magica
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

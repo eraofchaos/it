@@ -3,7 +3,7 @@ title: "Veggente di Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore."
 unitID: 9907
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Veggente di Regna"
 toc: true
@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Veggente di Regna](/it/Items/unt_279/)
+ **Unit Soul:** [Veggente di Regna](/ItemsIT/unt_279/)
 
  **Short description:** Capo della Baia. Controllo nemici efficace.
 
@@ -83,9 +83,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Anima di stendardo La città sull'oceano](/it/Items/con_1006/)
+ **Item to Rango ↑:** [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/)
 
- **Skin:** [Tool_2990709](/it/Items/con_674/)
+ **Skin:** [Tool_2990709](/ItemsIT/con_674/)
 
 
 ## Emblemi sacri consigliati
@@ -180,7 +180,7 @@ toc: true
 * Velocità d'attacco
 * Danno unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

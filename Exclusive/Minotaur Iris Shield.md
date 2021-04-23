@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Minotaur)"
 permalink: /Exclusive/Minotaur Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Minotauro Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Minotaur Scudo dell'Iride.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Minotauro](/it/units/Minotaur/) 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Carica brutale> Il Minotauro si lancia in una violenta carica contro un'unità bersaglio, infliggendo danni pari al 300% del proprio ATT e riducendo del 20% la Rid DAN e del 10% la Vel ATT delle unità nemiche in un'ampia area per 7 secondi. Recupero: 15 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | Rid DAN del Minotauro aumentata del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | Tenacia aumentata di 400 per 5 secondi quando gode di <Morale alto>. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Afflusso di sangue> Il Minotauro recupera PF pari al 10% dei propri PF massimi e riduce del 20% il DAN delle unità nemiche circostanti per 6 secondi. Recupero: 15 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Ogni volta che viene schierata un'unità Dungeon, il Minotauro gode di PF aumentati dell'8% e DIF aumentata del 5%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando i PF del Minotauro scendono sotto il 30% per la prima volta, aumenta del 50% la propria DIF e aumenta del 20% la Vel ATT propria e delle unità alleate circostanti per 15 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Ruggito> Il Minotauro terrorizza i nemici con un ruggito che aumenta del 20% i danni inflitti dalle unità alleate e riduce del 20% la Rid DAN delle unità nemiche <avvelenate>. Durata: 7 secondi. Recupero: 15 secondi. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Carica brutale> Il Minotauro si lancia in una violenta carica contro un'unità bersaglio, infliggendo danni pari al 300% del proprio ATT e riducendo del 20% la Rid DAN e del 10% la Vel ATT delle unità nemiche in un'ampia area per 7 secondi. Recupero: 15 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Rid DAN del Minotauro aumentata del 20%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Tenacia aumentata di 400 per 5 secondi quando gode di <Morale alto>. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Afflusso di sangue> Il Minotauro recupera PF pari al 10% dei propri PF massimi e riduce del 20% il DAN delle unità nemiche circostanti per 6 secondi. Recupero: 15 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Ogni volta che viene schierata un'unità Dungeon, il Minotauro gode di PF aumentati dell'8% e DIF aumentata del 5%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Quando i PF del Minotauro scendono sotto il 30% per la prima volta, aumenta del 50% la propria DIF e aumenta del 20% la Vel ATT propria e delle unità alleate circostanti per 15 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Ruggito> Il Minotauro terrorizza i nemici con un ruggito che aumenta del 20% i danni inflitti dalle unità alleate e riduce del 20% la Rid DAN delle unità nemiche <avvelenate>. Durata: 7 secondi. Recupero: 15 secondi. |
 
 
 ## Livello ↑

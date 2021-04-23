@@ -3,7 +3,7 @@ title: "Rapace di fuoco"
 permalink: /units/Firebird/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
 unitID: 907
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Rapace di fuoco"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Rapace di fuoco](/it/Items/unt_268/)
+ **Unit Soul:** [Rapace di fuoco](/ItemsIT/unt_268/)
 
  **Unit description:** Soffio infuocato: infligge danni alle unità nemiche davanti a sé.
 
@@ -86,9 +86,9 @@ toc: true
 
  **Is Open:** + 
 
- **Item to Rango ↑:** [Token Fiamma eterna](/it/Items/con_1001/)
+ **Item to Rango ↑:** [Token Fiamma eterna](/ItemsIT/con_1001/)
 
- **Skin:** [Skin speciale Fiamma eterna](/it/Items/con_669/)
+ **Skin:** [Skin speciale Fiamma eterna](/ItemsIT/con_669/)
 
 
 ## Emblemi sacri consigliati
@@ -174,7 +174,7 @@ toc: true
 * Colpo critico unità
 * Danno unità
 
- **:** [Pozione di Talento Incantatori](/it/Items/con_790/)
+ **:** [Pozione di Talento Incantatori](/ItemsIT/con_790/)
 
 
 ## Awaking

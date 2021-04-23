@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Tower"
 permalink: /Exclusive/Exclusive Tower/
 excerpt: "Era of Chaos Esclusivo Tower. Esclusivo Tower. List of Esclusivo Tower in Era of Chaos"
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Exclusive Tower"
 toc: false
@@ -17,12 +17,12 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Gremlin](/it/units/Gremlin/) | [Arco lungo](/it/Exclusive/Gremlin Long Bow/) | - | Carica | [Token Arco lungo](/it/Items/con_914/) | - |
-  | 2  | [Gargolla di pietra](/it/units/Stone Gargoyle/) | [Spada](/it/Exclusive/Stone Gargoyle Sword/) | - | Carica | [Token della Spada](/it/Items/con_912/) | - |
-  | 3  | [Golem di ferro](/it/units/Iron Golem/) | [Scudo dell'Iride](/it/Exclusive/Iron Golem Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/it/Items/con_913/) | - |
-  | 4  | [Arcimago](/it/units/Arch Mage/) | [Cantico arcano](/it/Exclusive/Arch Mage Arcane Chant/) | - | Carica | [Token Cantico arcano](/it/Items/con_915/) | - |
-  | 5  | [Genio](/it/units/Genie/) | [Lira](/it/Exclusive/Genie Lyra/) | - | A distanza | [Token Lira](/it/Items/con_986/) | [Skin speciale Lira](/it/Items/con_654/) |
-  | 6  | [Naga](/it/units/Naga/) | [Spada da Naga](/it/Exclusive/Naga Naga Sword/) | + | Supporto | [Token Spada delle Naga](/it/Items/con_987/) | [Skin speciale Spada delle Naga](/it/Items/con_655/) |
-  | 7  | [Gigante](/it/units/Giant/) | [Peso insostenibile](/it/Exclusive/Giant Thousand Ton/) | - | Supporto | [Token Peso insostenibile](/it/Items/con_988/) | [Skin speciale Peso insostenibile](/it/Items/con_656/) |
-  | 8  | [Aeronave magica](/it/units/Magic Airship/) | [Stella polare](/it/Exclusive/Magic Airship Polaris/) | - | A distanza | [Token Stella polare](/it/Items/con_989/) | [Skin speciale Stella polare](/it/Items/con_657/) |
+  | 1  | [Gremlin](/it/units/Gremlin/) | [Arco lungo](/it/Exclusive/Gremlin Long Bow/) | - | Carica | [Token Arco lungo](/ItemsIT/con_914/) | - |
+  | 2  | [Gargolla di pietra](/it/units/Stone Gargoyle/) | [Spada](/it/Exclusive/Stone Gargoyle Sword/) | - | Carica | [Token della Spada](/ItemsIT/con_912/) | - |
+  | 3  | [Golem di ferro](/it/units/Iron Golem/) | [Scudo dell'Iride](/it/Exclusive/Iron Golem Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
+  | 4  | [Arcimago](/it/units/Arch Mage/) | [Cantico arcano](/it/Exclusive/Arch Mage Arcane Chant/) | - | Carica | [Token Cantico arcano](/ItemsIT/con_915/) | - |
+  | 5  | [Genio](/it/units/Genie/) | [Lira](/it/Exclusive/Genie Lyra/) | - | A distanza | [Token Lira](/ItemsIT/con_986/) | [Skin speciale Lira](/ItemsIT/con_654/) |
+  | 6  | [Naga](/it/units/Naga/) | [Spada da Naga](/it/Exclusive/Naga Naga Sword/) | + | Supporto | [Token Spada delle Naga](/ItemsIT/con_987/) | [Skin speciale Spada delle Naga](/ItemsIT/con_655/) |
+  | 7  | [Gigante](/it/units/Giant/) | [Peso insostenibile](/it/Exclusive/Giant Thousand Ton/) | - | Supporto | [Token Peso insostenibile](/ItemsIT/con_988/) | [Skin speciale Peso insostenibile](/ItemsIT/con_656/) |
+  | 8  | [Aeronave magica](/it/units/Magic Airship/) | [Stella polare](/it/Exclusive/Magic Airship Polaris/) | - | A distanza | [Token Stella polare](/ItemsIT/con_989/) | [Skin speciale Stella polare](/ItemsIT/con_657/) |
   | 9  | [Golem draconico](/it/units/Dragon Golem/) | - | - | - | none | none |

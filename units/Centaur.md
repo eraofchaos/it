@@ -3,7 +3,7 @@ title: "Centauro"
 permalink: /units/Centaur/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Centauri sono un popolo di guerrieri. Fin dalla tenera età, queste creature sono votate a studiare e perfezionare l'arte della guerra. Sono combattenti piuttosto versatili, in grado di fungere da unità d'assalto, da mischia o da esplorazione."
 unitID: 201
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Centauro"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
- **Unit Soul:** [Centauro](/it/Items/unt_199/)
+ **Unit Soul:** [Centauro](/ItemsIT/unt_199/)
 
  **Unit description:** Schiacciata: infligge danni e <rallenta> l'unità più vicina.
 
@@ -86,7 +86,7 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -177,7 +177,7 @@ toc: true
 * Difesa
 * Riduzione danno unità
 
- **:** [Pozione di Talento Difesa](/it/Items/con_787/)
+ **:** [Pozione di Talento Difesa](/ItemsIT/con_787/)
 
 
 ## Awaking

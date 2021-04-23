@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada (Pit Fiend)"
 permalink: /Exclusive/Pit Fiend Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Demone dell'abisso Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Pit Fiend Spada.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Demone dell'abisso](/it/units/Pit Fiend/) 
 
- **Item to Rango ↑:** [Token della Spada](/it/Items/con_912/)
+ **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token della Spada](/it/Items/con_912/) | <Sferzata> Il Demone dell'abisso attacca con la frusta, infliggendo danni pari al 300% del proprio ATT alle unità nemiche in un'ampia area e causando <Sanguinamento>. Ha inoltre il 50% di probabilità di ridurne il DAN del 20% per 6 secondi. Recupero: 16 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/it/Items/con_912/) | Il Demone dell'abisso gode di ATT aumentato del 20% e guarigione ricevuta aumentata del 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/it/Items/con_912/) | Quando il Demone dell'abisso è sul campo di battaglia, le unità Inferno alleate godono di Rid DAN aumentata del 10%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/it/Items/con_912/) | <Vincolo infernale> Il Demone dell'abisso avvolge l'unità bersaglio con la propria frusta, svelandone i punti deboli, impedendone attacco e movimento e riducendone la Rid DAN del 15% per 4 secondi. Recupero: 20 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/it/Items/con_912/) | DAN del Demone dell'abisso aumentato del 20%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/it/Items/con_912/) | Quando il Demone dell'abisso attacca un'unità affetta da <Sanguinamento>, ha il 30% di probabilità di restituire PF pari al 50% del proprio ATT a sé e a un'unità Inferno alleata casuale. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/it/Items/con_912/) | <Sua Maestà> Il Demone dell'abisso frusta un'unità Inferno alleata casuale per esprimerne il vero potenziale: l'unità gode di DAN aumentata del 20%, Rid DAN aumentata del 20%, CRIT aumentato di 200 e Tenacia aumentata di 200 per 8 secondi. Mentre l'effetto è attivo, la guarigione ricevuta è ridotta del 30%. Recupero: 27 secondi. |
+  |  Risveglio  | **100x** [Token della Spada](/ItemsIT/con_912/) | <Sferzata> Il Demone dell'abisso attacca con la frusta, infliggendo danni pari al 300% del proprio ATT alle unità nemiche in un'ampia area e causando <Sanguinamento>. Ha inoltre il 50% di probabilità di ridurne il DAN del 20% per 6 secondi. Recupero: 16 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token della Spada](/ItemsIT/con_912/) | Il Demone dell'abisso gode di ATT aumentato del 20% e guarigione ricevuta aumentata del 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token della Spada](/ItemsIT/con_912/) | Quando il Demone dell'abisso è sul campo di battaglia, le unità Inferno alleate godono di Rid DAN aumentata del 10%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token della Spada](/ItemsIT/con_912/) | <Vincolo infernale> Il Demone dell'abisso avvolge l'unità bersaglio con la propria frusta, svelandone i punti deboli, impedendone attacco e movimento e riducendone la Rid DAN del 15% per 4 secondi. Recupero: 20 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token della Spada](/ItemsIT/con_912/) | DAN del Demone dell'abisso aumentato del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token della Spada](/ItemsIT/con_912/) | Quando il Demone dell'abisso attacca un'unità affetta da <Sanguinamento>, ha il 30% di probabilità di restituire PF pari al 50% del proprio ATT a sé e a un'unità Inferno alleata casuale. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token della Spada](/ItemsIT/con_912/) | <Sua Maestà> Il Demone dell'abisso frusta un'unità Inferno alleata casuale per esprimerne il vero potenziale: l'unità gode di DAN aumentata del 20%, Rid DAN aumentata del 20%, CRIT aumentato di 200 e Tenacia aumentata di 200 per 8 secondi. Mentre l'effetto è attivo, la guarigione ricevuta è ridotta del 30%. Recupero: 27 secondi. |
 
 
 ## Livello ↑

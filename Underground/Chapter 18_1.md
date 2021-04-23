@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 18 - 18-1 Confusione totale"
 permalink: /Underground/Chapter 18_1/
 excerpt: "Capitolo 18 - 1. Era of Chaos  Sottosuolo - Capitolo 18_1. 18-1 Confusione totale"
-last_modified_at: 2021-04-22
+last_modified_at: 2021-04-23
 locale: it
 ref: "Chapter 18_1.md"
 toc: false

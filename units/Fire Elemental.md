@@ -3,7 +3,7 @@ title: "Elementale del fuoco"
 permalink: /units/Fire Elemental/
 excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità energetica estremamente instabile. Quando viene distrutto, la corrente che lo attraversa scaturisce ovunque, fulminando i nemici."
 unitID: 904
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Elementale del fuoco"
 toc: true
@@ -27,7 +27,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 
- **Unit Soul:** [Elementale del fuoco](/it/Items/unt_265/)
+ **Unit Soul:** [Elementale del fuoco](/ItemsIT/unt_265/)
 
  **Short description:** Brucia i nemici. Esplosione ad ampio raggio.
 
@@ -81,9 +81,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** [Token Energia del Fuoco](/it/Items/con_998/)
+ **Item to Rango ↑:** [Token Energia del Fuoco](/ItemsIT/con_998/)
 
- **Skin:** [Skin speciale Energia del Fuoco](/it/Items/con_666/)
+ **Skin:** [Skin speciale Energia del Fuoco](/ItemsIT/con_666/)
 
 
 ## Emblemi sacri consigliati
@@ -174,7 +174,7 @@ toc: true
 * Velocità d'attacco
 * Schivata unità
 
- **:** [Pozione di Talento Attacco](/it/Items/con_786/)
+ **:** [Pozione di Talento Attacco](/ItemsIT/con_786/)
 
 
 ## Awaking

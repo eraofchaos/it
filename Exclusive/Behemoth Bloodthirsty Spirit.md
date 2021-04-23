@@ -2,7 +2,7 @@
 title: "Esclusivo - Spirito sanguinario (Behemoth)"
 permalink: /Exclusive/Behemoth Bloodthirsty Spirit/
 excerpt: "Era of Chaos Spirito sanguinario. Spirito sanguinario. Era of Chaos Esclusivo Spirito sanguinario. Behemoth Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Behemoth Spirito sanguinario.md"
 toc: false
@@ -15,9 +15,9 @@ classes: wide
 
  **Esclusivo for Unit:** [Behemoth](/it/units/Behemoth/) 
 
- **Item to Rango ↑:** [Token Spirito sanguinario](/it/Items/con_982/)
+ **Item to Rango ↑:** [Token Spirito sanguinario](/ItemsIT/con_982/)
 
- **Skin:** [Skin speciale Spirito sanguinario](/it/Items/con_650/)
+ **Skin:** [Skin speciale Spirito sanguinario](/ItemsIT/con_650/)
 
  **Type:** Supporto
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Spirito sanguinario](/it/Items/con_982/) | <Spirito della Roccaforte> Il Behemoth protegge le unità Roccaforte dai danni, attirando a sé il 25% di tutti i danni subiti dalle unità Roccaforte sul campo di battaglia e aumentando la Rid DAN del 40% per 5 secondi. Recupero: 25 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Spirito sanguinario](/it/Items/con_982/) | Se il Behemoth è sul campo di battaglia, aumenta del 20% il DAN delle unità a distanza e degli incantatori Roccaforte alleati e del 20% la Rid DAN delle unità da mischia alleate. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Spirito sanguinario](/it/Items/con_982/) | PF base del Behemoth aumentati di 50.000. I danni subiti da unità a distanza e incantatori sono ridotti del 40%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Spirito sanguinario](/it/Items/con_982/) | <Behemoth inarrestabile> Quando il Behemoth subisce un colpo critico scatena la propria furia, <stordendo> i nemici in un'ampia area attorno a sé per 3 secondi e riducendo del 20% DAN e Vel ATT dei nemici in un'ampia area per 5 secondi. Recupero: 6 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Spirito sanguinario](/it/Items/con_982/) | Quando il Behemoth lancia <Spirito della Roccaforte>, il suo antico potere ripristina il 20% dei suoi PF massimi nell'arco di 5 secondi. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Spirito sanguinario](/it/Items/con_982/) | Quando il Behemoth lancia <Behemoth inarrestabile>, travolge tutti i nemici in un'ampia area attorno a sé, infliggendo danni pari al 10% dei PF massimi dei nemici più 150% dell'ATT del Behemoth. Ogni volta che lancia <Behemoth inarrestabile>, il Behemoth gode di DAN aumentato dell'8% e Rid DAN aumentata del 5% per 8 secondi. Cumulabile fino a 8 volte. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Spirito sanguinario](/it/Items/con_982/) | <Frenesia bellica> Quando i PF del Behemoth scendono a 72%, 48% e 24% per la prima volta, la sua DIF aumenta del 13%. L'effetto rimane attivo anche quando i PF vengono ripristinati. |
+  |  Risveglio  | **100x** [Token Spirito sanguinario](/ItemsIT/con_982/) | <Spirito della Roccaforte> Il Behemoth protegge le unità Roccaforte dai danni, attirando a sé il 25% di tutti i danni subiti dalle unità Roccaforte sul campo di battaglia e aumentando la Rid DAN del 40% per 5 secondi. Recupero: 25 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Spirito sanguinario](/ItemsIT/con_982/) | Se il Behemoth è sul campo di battaglia, aumenta del 20% il DAN delle unità a distanza e degli incantatori Roccaforte alleati e del 20% la Rid DAN delle unità da mischia alleate. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Spirito sanguinario](/ItemsIT/con_982/) | PF base del Behemoth aumentati di 50.000. I danni subiti da unità a distanza e incantatori sono ridotti del 40%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Spirito sanguinario](/ItemsIT/con_982/) | <Behemoth inarrestabile> Quando il Behemoth subisce un colpo critico scatena la propria furia, <stordendo> i nemici in un'ampia area attorno a sé per 3 secondi e riducendo del 20% DAN e Vel ATT dei nemici in un'ampia area per 5 secondi. Recupero: 6 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Spirito sanguinario](/ItemsIT/con_982/) | Quando il Behemoth lancia <Spirito della Roccaforte>, il suo antico potere ripristina il 20% dei suoi PF massimi nell'arco di 5 secondi. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Spirito sanguinario](/ItemsIT/con_982/) | Quando il Behemoth lancia <Behemoth inarrestabile>, travolge tutti i nemici in un'ampia area attorno a sé, infliggendo danni pari al 10% dei PF massimi dei nemici più 150% dell'ATT del Behemoth. Ogni volta che lancia <Behemoth inarrestabile>, il Behemoth gode di DAN aumentato dell'8% e Rid DAN aumentata del 5% per 8 secondi. Cumulabile fino a 8 volte. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Spirito sanguinario](/ItemsIT/con_982/) | <Frenesia bellica> Quando i PF del Behemoth scendono a 72%, 48% e 24% per la prima volta, la sua DIF aumenta del 13%. L'effetto rimane attivo anche quando i PF vengono ripristinati. |
 
 
 ## Livello ↑

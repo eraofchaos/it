@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Dwarf)"
 permalink: /Exclusive/Dwarf Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Gnomo Esclusivo."
-last_modified_at: 2021-04-21
+last_modified_at: 2021-04-23
 locale: it
 ref: "Dwarf Scudo dell'Iride.md"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  **Esclusivo for Unit:** [Gnomo](/it/units/Dwarf/) 
 
- **Item to Rango ↑:** [Token Scudo dell'Iride](/it/Items/con_913/)
+ **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 
  **Skin:** -
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando viene attaccato, lo Gnomo percuote la propria incudine, aumentando la propria DIF del 50% per 5 secondi, durante i quali non può muoversi né attaccare. Al termine dell'effetto, le unità alleate nella prima fila ottengono uno <scudo> pari al 10% dei PF massimi per 5 secondi. Recupero: 25 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/it/Items/con_913/) | Lo Gnomo gode di PF aumentati del 20% e DIF aumentata del 10%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/it/Items/con_913/) | Rid DAN dello Gnomo aumentata del 20%. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Martellata> Lo Gnomo attacca con il martello, infliggendo alle unità nemiche danni pari al 150% del proprio ATT e <rallentando> i bersagli colpiti per 5 secondi. Recupero: 20 secondi. |
-  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/it/Items/con_913/) | Ogni volta che viene schierata un'unità Baluardo, lo Gnomo gode di PF aumentati dell'8% e Rid DAN aumentata del 4%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/it/Items/con_913/) | Quando lancia <Martellata>, crea un cratere nel punto dell'attacco; le unità nemiche all'interno del cratere subiscono danni pari al 5% dei PF massimi dello Gnomo ogni 2 secondi. Durata: 10 secondi. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/it/Items/con_913/) | <Armatura a piastre> Quando i suoi PF scendono per la prima volta a 66% e 33%, lo Gnomo si protegge con una corazza pari al 10% dei propri PF massimi e la sua Rid DAN aumenta del 10% fino al termine della battaglia. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Quando viene attaccato, lo Gnomo percuote la propria incudine, aumentando la propria DIF del 50% per 5 secondi, durante i quali non può muoversi né attaccare. Al termine dell'effetto, le unità alleate nella prima fila ottengono uno <scudo> pari al 10% dei PF massimi per 5 secondi. Recupero: 25 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Lo Gnomo gode di PF aumentati del 20% e DIF aumentata del 10%. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Rid DAN dello Gnomo aumentata del 20%. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Martellata> Lo Gnomo attacca con il martello, infliggendo alle unità nemiche danni pari al 150% del proprio ATT e <rallentando> i bersagli colpiti per 5 secondi. Recupero: 20 secondi. |
+  | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Ogni volta che viene schierata un'unità Baluardo, lo Gnomo gode di PF aumentati dell'8% e Rid DAN aumentata del 4%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Quando lancia <Martellata>, crea un cratere nel punto dell'attacco; le unità nemiche all'interno del cratere subiscono danni pari al 5% dei PF massimi dello Gnomo ogni 2 secondi. Durata: 10 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Armatura a piastre> Quando i suoi PF scendono per la prima volta a 66% e 33%, lo Gnomo si protegge con una corazza pari al 10% dei propri PF massimi e la sua Rid DAN aumenta del 10% fino al termine della battaglia. |
 
 
 ## Livello ↑
