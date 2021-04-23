@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Arco di ciliegio degli Elfi](/it/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | [Frecce Piuma d'angelo](/it/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
-  |   | **Arco del Tiratore esperto** |  | 
-  |   | [Corda d'arco di crine di unicorno](/it/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  | ![Arco di ciliegio degli Elfi](/images/t/artifact_40101.png) [Arco di ciliegio degli Elfi](/it/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Frecce Piuma d'angelo](/images/t/artifact_40101.png) [Frecce Piuma d'angelo](/it/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  |   | ![Arco del Tiratore esperto](/images/t/icon_artifact_10.png) **Arco del Tiratore esperto** |  | 
+  |   | ![Corda d'arco di crine di unicorno](/images/t/artifact_40101.png) [Corda d'arco di crine di unicorno](/it/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Dettagli

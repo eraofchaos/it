@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Collare della Congiura](/it/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | [Anello della Congiura](/it/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
-  |   | **Anello del Mago** |  | 
-  |   | [Cappa della Congiura](/it/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  | ![Collare della Congiura](/images/t/artifact_40221.png) [Collare della Congiura](/it/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Anello della Congiura](/images/t/artifact_40221.png) [Anello della Congiura](/it/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  |   | ![Anello del Mago](/images/t/icon_artifact_22.png) **Anello del Mago** |  | 
+  |   | ![Cappa della Congiura](/images/t/artifact_40221.png) [Cappa della Congiura](/it/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Dettagli

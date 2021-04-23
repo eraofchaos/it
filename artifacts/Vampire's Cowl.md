@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Cappa del Vampiro](/images/t/artifact_40322.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** La preziosa cappa di un Vampiro. Uno dei componenti del Mantello del Re Non Morto.
 
- **Part of Artifact:** [Mantello del Re Non Morto](/it/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
+ **Part of Artifact:** ![Mantello del Re Non Morto](/images/t/icon_artifact_32.png) [Mantello del Re Non Morto](/it/artifacts/Cloak of the Undead King/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

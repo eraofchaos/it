@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Balestra perfezionata](/images/t/artifact_40446.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Manufatto indossato dall'eroe Gelu prima di raggiungere la maggiore età. Uno dei componenti della Spada dell'Armageddon.
 
- **Part of Artifact:** [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Spada dell'Armageddon](/images/t/icon_artifact_44.png) [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

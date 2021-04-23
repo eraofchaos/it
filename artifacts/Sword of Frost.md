@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Ascia del Minotauro](/it/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | [Bordone dell'Aldilà](/it/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  | [Tridente Abissale](/it/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Spada di Ghiaccio** | [Bordone dell'Ogre](/it/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  | [Bordone dell'Appassimento](/it/artifacts/Withering Staff/){: .btn .btn--era5} |   | [Scudo del Cristallo di ghiaccio](/it/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  |  [Ascia del Minotauro](/it/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Bordone dell'Aldilà](/it/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  |  [Tridente Abissale](/it/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Spada di Ghiaccio** |  [Bordone dell'Ogre](/it/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  |  [Bordone dell'Appassimento](/it/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Scudo del Cristallo di ghiaccio](/it/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Dettagli

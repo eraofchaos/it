@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Spada del Fuoco infernale](/it/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | [Armatura d'Ossa](/it/artifacts/Bone Armour/){: .btn .btn--era4} | 
-  |   | **Armatura dei Dannati** |  | 
-  | [Scudo dei Morti sbadiglianti](/it/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | [Elmo del Teschio](/it/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  | ![Spada del Fuoco infernale](/images/t/artifact_40301.png) [Spada del Fuoco infernale](/it/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Armatura d'Ossa](/images/t/artifact_40301.png) [Armatura d'Ossa](/it/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  |   | ![Armatura dei Dannati](/images/t/icon_artifact_30.png) **Armatura dei Dannati** |  | 
+  | ![Scudo dei Morti sbadiglianti](/images/t/artifact_40301.png) [Scudo dei Morti sbadiglianti](/it/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Elmo del Teschio](/images/t/artifact_40301.png) [Elmo del Teschio](/it/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Dettagli

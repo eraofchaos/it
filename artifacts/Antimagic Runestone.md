@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Ornamento dell'Interferenza](/it/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | [Cotta del Contrappeso](/it/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
-  |   | **Pietra runica Antimagia** |  | 
-  |   | [Stivali della Polarità](/it/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  | ![Ornamento dell'Interferenza](/images/t/artifact_40231.png) [Ornamento dell'Interferenza](/it/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Cotta del Contrappeso](/images/t/artifact_40231.png) [Cotta del Contrappeso](/it/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  |   | ![Pietra runica Antimagia](/images/t/icon_artifact_23.png) **Pietra runica Antimagia** |  | 
+  |   | ![Stivali della Polarità](/images/t/artifact_40231.png) [Stivali della Polarità](/it/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Dettagli

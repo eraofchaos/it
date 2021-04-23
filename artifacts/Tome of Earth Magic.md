@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Tomo della Magia della Terra](/images/t/artifact_40464.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un libro di incantesimi sulla Magia della Terra di livello avanzato. La leggenda narra che Jeddite se ne sia servito per sconfiggere Mutare trasformata in drago. Uno dei componenti del Cappello dell'Incantatore.
 
- **Part of Artifact:** [Cappello dell'Incantatore](/it/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Cappello dell'Incantatore](/images/t/icon_artifact_46.png) [Cappello dell'Incantatore](/it/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 

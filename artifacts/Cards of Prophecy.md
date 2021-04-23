@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Carte della Profezia](/images/t/artifact_40122.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Carte da veggente dotate di un grande potere magico. Uno dei componenti del Ferro Portafortuna.
 
- **Part of Artifact:** [Ferro Portafortuna](/it/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
+ **Part of Artifact:** ![Ferro Portafortuna](/images/t/icon_artifact_12.png) [Ferro Portafortuna](/it/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Essenza di manufatto](/ItemsIT/con_905/)
 

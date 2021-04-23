@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Un monile modellato su un fulmine e dotato dei suoi poteri. Uno dei Codici dell'Arcimago.
 
- **Part of Artifact:** [Codice dell'Arcimago](/it/artifacts/Archmage's Codex/){: .btn .btn--era4}
+ **Part of Artifact:** ![Codice dell'Arcimago](/images/t/icon_artifact_34.png) [Codice dell'Arcimago](/it/artifacts/Archmage's Codex/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

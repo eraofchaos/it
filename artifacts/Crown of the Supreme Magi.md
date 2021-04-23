@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Corona del Mago supremo](/images/t/artifact_40313.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una corona ricevuta in dono per aver salvato un mago folle. Uno dei componenti dell'Ascia della Ferocia.
 
- **Part of Artifact:** [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Ascia della Ferocia](/images/t/icon_artifact_31.png) [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

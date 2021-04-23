@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Anello della Vitalità](/it/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | [Anello della Vita](/it/artifacts/Ring of Life/){: .btn .btn--era2} | 
-  |   | **Elisir Vitale** |  | 
-  |   | [Bottiglia dell'Energia](/it/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  | ![Anello della Vitalità](/images/t/artifact_40111.png) [Anello della Vitalità](/it/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Anello della Vita](/images/t/artifact_40111.png) [Anello della Vita](/it/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  |   | ![Elisir Vitale](/images/t/icon_artifact_11.png) **Elisir Vitale** |  | 
+  |   | ![Bottiglia dell'Energia](/images/t/artifact_40111.png) [Bottiglia dell'Energia](/it/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Dettagli

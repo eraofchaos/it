@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Frecce Piuma d'angelo](/images/t/artifact_40102.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una freccia magica realizzata dagli Elfi. Uno dei componenti dell'Arco del Tiratore esperto.
 
- **Part of Artifact:** [Arco del Tiratore esperto](/it/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Arco del Tiratore esperto](/images/t/icon_artifact_10.png) [Arco del Tiratore esperto](/it/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

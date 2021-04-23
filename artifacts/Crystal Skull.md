@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Un teschio scolpito nel cristallo da una civiltà sconosciuta. Ha il potere di scrutare nel cuore degli uomini.
 
- **Part of Artifact:** [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Mela dell'Eden](/images/t/icon_artifact_49.png) [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Tunica del Re dei Ciclopi](/images/t/artifact_40314.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Tunica lasciata a riva da un Ciclope che faceva il bagno. Uno dei componenti dell'Ascia della Ferocia.
 
- **Part of Artifact:** [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Ascia della Ferocia](/images/t/icon_artifact_31.png) [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

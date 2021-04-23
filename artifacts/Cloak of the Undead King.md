@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Amuleto del Becchino](/it/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | [Cappa del Vampiro](/it/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
-  |   | **Mantello del Re Non Morto** |  | 
-  |   | [Stivali del Morto](/it/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
+  | ![Amuleto del Becchino](/images/t/artifact_40321.png) [Amuleto del Becchino](/it/artifacts/Amulet of the Undertaker/){: .btn .btn--era4} |   | ![Cappa del Vampiro](/images/t/artifact_40321.png) [Cappa del Vampiro](/it/artifacts/Vampire's Cowl/){: .btn .btn--era4} | 
+  |   | ![Mantello del Re Non Morto](/images/t/icon_artifact_32.png) **Mantello del Re Non Morto** |  | 
+  |   | ![Stivali del Morto](/images/t/artifact_40321.png) [Stivali del Morto](/it/artifacts/Dead Man's Boots/){: .btn .btn--era4} |   | 
 
 
 ## Dettagli

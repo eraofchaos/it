@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Arco della Foresta](/images/t/artifact_40442.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un arco usato dagli Elfi del bosco. Uno dei componenti della Spada dell'Armageddon.
 
- **Part of Artifact:** [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Spada dell'Armageddon](/images/t/icon_artifact_44.png) [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

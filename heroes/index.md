@@ -47,7 +47,7 @@ classes: wide
   | 34 | ![Sephinroth](/images/h/h_Sephinroth.jpg) | [Sephinroth](/it/heroes/Sephinroth/) | Dungeon | Stregone | **R** |  Sguardo cristallizzante | R |
   | 35 | ![Shiva](/images/h/h_Shiwa.jpg) | [Shiva](/it/heroes/Shiva/) | Roccaforte | Barbaro | **R** |  Portatore di tempeste | R |
   | 36 | ![Solmyr](/images/h/h_Solmyr.jpg) | [Solmyr](/it/heroes/Solmyr/) | Torre | Mago | **SR+** |  Catena di luce | SR |
-  | 37 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/it/heroes/Tazar/) | Fortezza | Domatore | **SSR** |  Furia sanguinaria | SR |
+  | 37 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/it/heroes/Tazar/) | Fortezza | Domatore | **SSR** |  Furia sanguinaria | SSR |
   | 38 | ![Vidomina](/images/h/h_Vidomina.jpg) | [Vidomina](/it/heroes/Vidomina/) | Necropoli | Negromante | **SR+** |  Negromante | R |
   | 39 | ![Wystan](/images/h/h_Wystan.jpg) | [Wystan](/it/heroes/Wystan/) | Fortezza | Domatore | **R** |  Cacciatore della palude | R |
   | 40 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/it/heroes/Xeron/) | Inferno | Demoniaco | **SSR** |  Arcidiavolo | SSR |

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Stivali della Polarità](/images/t/artifact_40233.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Stivali con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia.
 
- **Part of Artifact:** [Pietra runica Antimagia](/it/artifacts/Antimagic Runestone/){: .btn .btn--era3}
+ **Part of Artifact:** ![Pietra runica Antimagia](/images/t/icon_artifact_23.png) [Pietra runica Antimagia](/it/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essenza di manufatto](/ItemsIT/con_905/)
 

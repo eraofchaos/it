@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Bottiglia dell'Energia](/images/t/artifact_40113.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una bottiglia che fa sentire rigenerati. Uno dei componenti dell'Elisir Vitale.
 
- **Part of Artifact:** [Elisir Vitale](/it/artifacts/Elixir of Life/){: .btn .btn--era2}
+ **Part of Artifact:** ![Elisir Vitale](/images/t/icon_artifact_11.png) [Elisir Vitale](/it/artifacts/Elixir of Life/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Essenza di manufatto](/ItemsIT/con_905/)
 

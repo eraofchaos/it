@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Corda d'arco di crine di unicorno](/images/t/artifact_40103.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una criniera offerta in dono agli Elfi da una bestia sacra. Uno dei componenti dell'Arco del Tiratore esperto.
 
- **Part of Artifact:** [Arco del Tiratore esperto](/it/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
+ **Part of Artifact:** ![Arco del Tiratore esperto](/images/t/icon_artifact_10.png) [Arco del Tiratore esperto](/it/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

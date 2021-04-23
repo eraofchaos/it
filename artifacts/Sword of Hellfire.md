@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Spada del Fuoco infernale](/images/t/artifact_40301.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una spada in cui alberga un oscuro potere. Uno dei componenti dell'Armatura dei Dannati.
 
- **Part of Artifact:** [Armatura dei Dannati](/it/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armatura dei Dannati](/images/t/icon_artifact_30.png) [Armatura dei Dannati](/it/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

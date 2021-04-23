@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Mazza del caos dell'Ogre](/it/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | [Tunica del Re dei Ciclopi](/it/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
-  |   | **Ascia della Ferocia** |  | 
-  | [Placca dell'Ogre furioso](/it/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | [Corona del Mago supremo](/it/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
+  | ![Mazza del caos dell'Ogre](/images/t/artifact_40311.png) [Mazza del caos dell'Ogre](/it/artifacts/Ogre's Club of Havoc/){: .btn .btn--era4} |   | ![Tunica del Re dei Ciclopi](/images/t/artifact_40311.png) [Tunica del Re dei Ciclopi](/it/artifacts/Tunic of the Cyclops King/){: .btn .btn--era4} | 
+  |   | ![Ascia della Ferocia](/images/t/icon_artifact_31.png) **Ascia della Ferocia** |  | 
+  | ![Placca dell'Ogre furioso](/images/t/artifact_40311.png) [Placca dell'Ogre furioso](/it/artifacts/Targ of the Rampaging Ogre/){: .btn .btn--era4} |   | ![Corona del Mago supremo](/images/t/artifact_40311.png) [Corona del Mago supremo](/it/artifacts/Crown of the Supreme Magi/){: .btn .btn--era4} | 
 
 
 ## Dettagli

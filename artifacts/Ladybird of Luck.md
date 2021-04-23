@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Coccinella della Fortuna](/images/t/artifact_40123.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una statua che brilla di luce propria. Uno dei componenti del Ferro Portafortuna.
 
- **Part of Artifact:** [Ferro Portafortuna](/it/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
+ **Part of Artifact:** ![Ferro Portafortuna](/images/t/icon_artifact_12.png) [Ferro Portafortuna](/it/artifacts/Lucky Horseshoe/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Essenza di manufatto](/ItemsIT/con_905/)
 

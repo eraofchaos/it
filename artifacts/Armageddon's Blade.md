@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Arco della Foresta](/it/artifacts/Forest Bow/){: .btn .btn--era5} |   | [Balestra perfezionata](/it/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | [Spada da Cavaliere](/it/artifacts/Knight Sword/){: .btn .btn--era5} | **Spada dell'Armageddon** | [Ascia Spaccamontagne](/it/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | [Bastone della Saggezza](/it/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | [Martello da Guerriero](/it/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Arco della Foresta](/images/t/artifact_40441.png) [Arco della Foresta](/it/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Balestra perfezionata](/images/t/artifact_40441.png) [Balestra perfezionata](/it/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Spada da Cavaliere](/images/t/artifact_40441.png) [Spada da Cavaliere](/it/artifacts/Knight Sword/){: .btn .btn--era5} | ![Spada dell'Armageddon](/images/t/icon_artifact_44.png) **Spada dell'Armageddon** | ![Ascia Spaccamontagne](/images/t/artifact_40441.png) [Ascia Spaccamontagne](/it/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Bastone della Saggezza](/images/t/artifact_40441.png) [Bastone della Saggezza](/it/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Martello da Guerriero](/images/t/artifact_40441.png) [Martello da Guerriero](/it/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Dettagli

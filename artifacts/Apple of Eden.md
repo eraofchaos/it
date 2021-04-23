@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Sfera di cristallo](/it/artifacts/Crystal Ball/){: .btn .btn--era5} |   | [Sudario dell'Eden](/it/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
-  | [Teschio di cristallo](/it/artifacts/Crystal Skull/){: .btn .btn--era5} | **Mela dell'Eden** | [Spada dell'Eden](/it/artifacts/Sword of Eden/){: .btn .btn--era5} | 
-  | [Ankh](/it/artifacts/Ankh/){: .btn .btn--era5} |   | [Il Bastone](/it/artifacts/Staff of Eden/){: .btn .btn--era5} | 
+  |  [Sfera di cristallo](/it/artifacts/Crystal Ball/){: .btn .btn--era5} |   |  [Sudario dell'Eden](/it/artifacts/Shroud of Eden/){: .btn .btn--era5} | 
+  |  [Teschio di cristallo](/it/artifacts/Crystal Skull/){: .btn .btn--era5} | ![Mela dell'Eden](/images/t/icon_artifact_49.png) **Mela dell'Eden** |  [Spada dell'Eden](/it/artifacts/Sword of Eden/){: .btn .btn--era5} | 
+  |  [Ankh](/it/artifacts/Ankh/){: .btn .btn--era5} |   |  [Il Bastone](/it/artifacts/Staff of Eden/){: .btn .btn--era5} | 
 
 
 ## Dettagli

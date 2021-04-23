@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Elmo del Teschio](/images/t/artifact_40303.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un elmo proveniente dal Sottosuolo. Uno dei componenti dell'Armatura dei Dannati.
 
- **Part of Artifact:** [Armatura dei Dannati](/it/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armatura dei Dannati](/images/t/icon_artifact_30.png) [Armatura dei Dannati](/it/artifacts/Armour of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

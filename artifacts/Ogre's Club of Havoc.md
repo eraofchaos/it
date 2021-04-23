@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Mazza del caos dell'Ogre](/images/t/artifact_40311.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una mazza sottratta a un capitano degli Ogre in una taverna. Uno dei componenti dell'Ascia della Ferocia.
 
- **Part of Artifact:** [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Ascia della Ferocia](/images/t/icon_artifact_31.png) [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

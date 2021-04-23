@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Pendente del mana](/it/artifacts/Charm of Mana/){: .btn .btn--era3} |   | [Amuleto Magico](/it/artifacts/Magic Charm/){: .btn .btn--era3} | 
-  |   | **Fonte del Mago** |  | 
-  |   | [Sfera mistica del mana](/it/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  | ![Pendente del mana](/images/t/artifact_40211.png) [Pendente del mana](/it/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Amuleto Magico](/images/t/artifact_40211.png) [Amuleto Magico](/it/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  |   | ![Fonte del Mago](/images/t/icon_artifact_21.png) **Fonte del Mago** |  | 
+  |   | ![Sfera mistica del mana](/images/t/artifact_40211.png) [Sfera mistica del mana](/it/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Dettagli

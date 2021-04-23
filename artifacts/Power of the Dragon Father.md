@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Schinieri di Ossa di Drago](/it/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   | [Collana di Denti di Drago](/it/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
-  | [Scudo di squame di Drago](/it/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | **Potenza del Padre dei Draghi** | [Corona di Denti di Drago](/it/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
-  | [Lingua di fuoco del Drago rosso](/it/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   | [Armatura di squame di Drago](/it/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
+  |  [Schinieri di Ossa di Drago](/it/artifacts/Dragonbone Greaves/){: .btn .btn--era5} |   |  [Collana di Denti di Drago](/it/artifacts/Necklace of Dragonteeth/){: .btn .btn--era5} | 
+  |  [Scudo di squame di Drago](/it/artifacts/Dragon Scale Shield/){: .btn .btn--era5} | ![Potenza del Padre dei Draghi](/images/t/icon_artifact_40.png) **Potenza del Padre dei Draghi** |  [Corona di Denti di Drago](/it/artifacts/Crown of Dragontooth/){: .btn .btn--era5} | 
+  |  [Lingua di fuoco del Drago rosso](/it/artifacts/Red Dragon Flame Tongue/){: .btn .btn--era5} |   |  [Armatura di squame di Drago](/it/artifacts/Dragon Scale Armour/){: .btn .btn--era5} | 
 
 
 ## Dettagli

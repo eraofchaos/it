@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Anello della Vitalità](/images/t/artifact_40111.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un anello che fornisce energia. Uno dei componenti dell'Elisir Vitale.
 
- **Part of Artifact:** [Elisir Vitale](/it/artifacts/Elixir of Life/){: .btn .btn--era2}
+ **Part of Artifact:** ![Elisir Vitale](/images/t/icon_artifact_11.png) [Elisir Vitale](/it/artifacts/Elixir of Life/){: .btn .btn--era2}
 
  **Dismantle: 1x** [Essenza di manufatto](/ItemsIT/con_905/)
 

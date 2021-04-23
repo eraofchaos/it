@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** La leggendaria Sindone dell'Eden. Non è possibile verificarne l'autenticità.
 
- **Part of Artifact:** [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Mela dell'Eden](/images/t/icon_artifact_49.png) [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

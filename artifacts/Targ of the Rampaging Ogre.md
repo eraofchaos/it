@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Placca dell'Ogre furioso](/images/t/artifact_40312.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un souvenir ottenuto dopo aver sconfitto un tenente degli Ogre. Uno dei componenti dell'Ascia della Ferocia.
 
- **Part of Artifact:** [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
+ **Part of Artifact:** ![Ascia della Ferocia](/images/t/icon_artifact_31.png) [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

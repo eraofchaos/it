@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Scudo leonino del Coraggio](/it/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | [Ciondolo della Santità](/it/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  | [Spada del Giudizio](/it/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Alleanza Angelica** | [Armatura delle Meraviglie](/it/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  | [Elmo dell'Illuminazione Celeste](/it/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | [Sandali del Santo](/it/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Scudo leonino del Coraggio](/it/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Ciondolo della Santità](/it/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  |  [Spada del Giudizio](/it/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alleanza Angelica](/images/t/icon_artifact_41.png) **Alleanza Angelica** |  [Armatura delle Meraviglie](/it/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  |  [Elmo dell'Illuminazione Celeste](/it/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Sandali del Santo](/it/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Dettagli

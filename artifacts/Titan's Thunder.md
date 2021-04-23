@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Spadone del Titano](/it/artifacts/Titan's Gladius/){: .btn .btn--era5} |   | [Corazza del Titano](/it/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
-  |   | **Tuono del Titano** |  | 
-  | [Scudo della Sentinella](/it/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   | [Elmo del Tuono](/it/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
+  |  [Spadone del Titano](/it/artifacts/Titan's Gladius/){: .btn .btn--era5} |   |  [Corazza del Titano](/it/artifacts/Titan's Cuirass/){: .btn .btn--era5} | 
+  |   | ![Tuono del Titano](/images/t/icon_artifact_42.png) **Tuono del Titano** |  | 
+  |  [Scudo della Sentinella](/it/artifacts/Sentinel's Shield/){: .btn .btn--era5} |   |  [Elmo del Tuono](/it/artifacts/Thunder Helmet/){: .btn .btn--era5} | 
 
 
 ## Dettagli

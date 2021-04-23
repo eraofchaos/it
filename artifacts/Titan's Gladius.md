@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Una spada brandita da un antico Gigante. Uno dei componenti del Tuono del Titano.
 
- **Part of Artifact:** [Tuono del Titano](/it/artifacts/Titan's Thunder/){: .btn .btn--era5}
+ **Part of Artifact:** ![Tuono del Titano](/images/t/icon_artifact_42.png) [Tuono del Titano](/it/artifacts/Titan's Thunder/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 

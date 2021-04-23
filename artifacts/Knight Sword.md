@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Spada da Cavaliere](/images/t/artifact_40441.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Spada usata dagli eroi a difesa dei castelli. Uno dei componenti della Spada dell'Armageddon.
 
- **Part of Artifact:** [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Spada dell'Armageddon](/images/t/icon_artifact_44.png) [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

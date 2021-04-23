@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Una croce che rende immortale chi la indossa. Nessuno sa cosa sia successo al suo ultimo proprietario.
 
- **Part of Artifact:** [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Mela dell'Eden](/images/t/icon_artifact_49.png) [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

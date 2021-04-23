@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Tomo della Magia del Fuoco](/it/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | [Tomo della Magia della Terra](/it/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
-  |   | **Cappello dell'Incantatore** |  | 
-  | [Tomo della Magia dell'Acqua](/it/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | [Tomo della Magia dell'Aria](/it/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Tomo della Magia del Fuoco](/images/t/artifact_40461.png) [Tomo della Magia del Fuoco](/it/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Tomo della Magia della Terra](/images/t/artifact_40461.png) [Tomo della Magia della Terra](/it/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  |   | ![Cappello dell'Incantatore](/images/t/icon_artifact_46.png) **Cappello dell'Incantatore** |  | 
+  | ![Tomo della Magia dell'Acqua](/images/t/artifact_40461.png) [Tomo della Magia dell'Acqua](/it/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Tomo della Magia dell'Aria](/images/t/artifact_40461.png) [Tomo della Magia dell'Aria](/it/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Dettagli

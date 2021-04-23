@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Quadrifoglo della Sorte](/it/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | [Carte della Profezia](/it/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
-  |   | **Ferro Portafortuna** |  | 
-  |   | [Coccinella della Fortuna](/it/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
+  | ![Quadrifoglo della Sorte](/images/t/artifact_40121.png) [Quadrifoglo della Sorte](/it/artifacts/Clover of Fortune/){: .btn .btn--era2} |   | ![Carte della Profezia](/images/t/artifact_40121.png) [Carte della Profezia](/it/artifacts/Cards of Prophecy/){: .btn .btn--era2} | 
+  |   | ![Ferro Portafortuna](/images/t/icon_artifact_12.png) **Ferro Portafortuna** |  | 
+  |   | ![Coccinella della Fortuna](/images/t/artifact_40121.png) [Coccinella della Fortuna](/it/artifacts/Ladybird of Luck/){: .btn .btn--era2} |   | 
 
 
 ## Dettagli

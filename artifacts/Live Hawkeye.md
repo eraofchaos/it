@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Uccello della Percezione](/it/artifacts/Bird of Perception/){: .btn .btn--era5} |   | [Anello dell'Occhio d'aquila](/it/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |  [Uccello della Percezione](/it/artifacts/Bird of Perception/){: .btn .btn--era5} |   |  [Anello dell'Occhio d'aquila](/it/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
   |   | **Occhio di Falco** |  | 
-  | [Vedetta stoica](/it/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | [Medaglia della Verità](/it/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+  |  [Vedetta stoica](/it/artifacts/Stoic Watchman/){: .btn .btn--era5} |   |  [Medaglia della Verità](/it/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Dettagli

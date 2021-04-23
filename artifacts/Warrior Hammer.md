@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Martello da Guerriero](/images/t/artifact_40445.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un martello da guerra nascosto nei pressi di Cresta del Gigante. Uno dei componenti della Spada dell'Armageddon.
 
- **Part of Artifact:** [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
+ **Part of Artifact:** ![Spada dell'Armageddon](/images/t/icon_artifact_44.png) [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

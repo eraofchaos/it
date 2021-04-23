@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Cotta del Contrappeso](/images/t/artifact_40232.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una cotta con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia.
 
- **Part of Artifact:** [Pietra runica Antimagia](/it/artifacts/Antimagic Runestone/){: .btn .btn--era3}
+ **Part of Artifact:** ![Pietra runica Antimagia](/images/t/icon_artifact_23.png) [Pietra runica Antimagia](/it/artifacts/Antimagic Runestone/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essenza di manufatto](/ItemsIT/con_905/)
 

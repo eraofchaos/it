@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | [Ciondolo della negatività](/it/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   | [Bastone della Confusione](/it/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
-  |   | **Codice dell'Arcimago** |  | 
-  | [Mantello dell'abiura](/it/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   | [Anello scintillante](/it/artifacts/Ring of Flares/){: .btn .btn--era4} | 
+  |  [Ciondolo della negatività](/it/artifacts/Pendant of Negativity/){: .btn .btn--era4} |   |  [Bastone della Confusione](/it/artifacts/Staff of Disruption/){: .btn .btn--era4} | 
+  |   | ![Codice dell'Arcimago](/images/t/icon_artifact_34.png) **Codice dell'Arcimago** |  | 
+  |  [Mantello dell'abiura](/it/artifacts/Recanter's Cloak/){: .btn .btn--era4} |   |  [Anello scintillante](/it/artifacts/Ring of Flares/){: .btn .btn--era4} | 
 
 
 ## Dettagli

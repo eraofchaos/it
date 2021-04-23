@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Tomo della Magia dell'Acqua](/images/t/artifact_40462.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un libro di incantesimi sulla Magia dell'Acqua di livello avanzato. Un dono per te da parte di Adelaide. Uno dei componenti del Cappello dell'Incantatore.
 
- **Part of Artifact:** [Cappello dell'Incantatore](/it/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
+ **Part of Artifact:** ![Cappello dell'Incantatore](/images/t/icon_artifact_46.png) [Cappello dell'Incantatore](/it/artifacts/Spellbinder's Hat/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Cappa della Congiura](/images/t/artifact_40223.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Una cappa attraversata da un flusso magico. Uno dei componenti dell'Anello del Mago.
 
- **Part of Artifact:** [Anello del Mago](/it/artifacts/Ring of the Mage/){: .btn .btn--era3}
+ **Part of Artifact:** ![Anello del Mago](/images/t/icon_artifact_22.png) [Anello del Mago](/it/artifacts/Ring of the Mage/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essenza di manufatto](/ItemsIT/con_905/)
 

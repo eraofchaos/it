@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Una spada della Prima Civilizzazione. Può invocare il potere del fulmine per abbattere i tuoi nemici.
 
- **Part of Artifact:** [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
+ **Part of Artifact:** ![Mela dell'Eden](/images/t/icon_artifact_49.png) [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

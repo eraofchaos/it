@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Armatura che testimonia la grandezza dell'Impero. Uno dei componenti dell'Alleanza Angelica.
 
- **Part of Artifact:** [Alleanza Angelica](/it/artifacts/Angelic Alliance/){: .btn .btn--era5}
+ **Part of Artifact:** ![Alleanza Angelica](/images/t/icon_artifact_41.png) [Alleanza Angelica](/it/artifacts/Angelic Alliance/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

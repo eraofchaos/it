@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Uno scudo benedetto dalla magia del Re dei Draghi. Uno dei componenti della Potenza del Padre dei Draghi.
 
- **Part of Artifact:** [Potenza del Padre dei Draghi](/it/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
+ **Part of Artifact:** ![Potenza del Padre dei Draghi](/images/t/icon_artifact_40.png) [Potenza del Padre dei Draghi](/it/artifacts/Power of the Dragon Father/){: .btn .btn--era5}
 
  **Dismantle: 225x** [Essenza di manufatto](/ItemsIT/con_905/)
 

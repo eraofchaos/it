@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Pendente del mana](/images/t/artifact_40211.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un amuleto che migliora la magia. Uno dei componenti della Fonte del Mago.
 
- **Part of Artifact:** [Fonte del Mago](/it/artifacts/Wizard's Well/){: .btn .btn--era3}
+ **Part of Artifact:** ![Fonte del Mago](/images/t/icon_artifact_21.png) [Fonte del Mago](/it/artifacts/Wizard's Well/){: .btn .btn--era3}
 
  **Dismantle: 3x** [Essenza di manufatto](/ItemsIT/con_905/)
 
