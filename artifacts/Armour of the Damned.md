@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Spada del Fuoco infernale](/images/t/artifact_40301.png) [Spada del Fuoco infernale](/it/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Armatura d'Ossa](/images/t/artifact_40301.png) [Armatura d'Ossa](/it/artifacts/Bone Armour/){: .btn .btn--era4} | 
+  | ![Spada del Fuoco infernale](/images/t/artifact_40301.png) [Spada del Fuoco infernale](/it/artifacts/Sword of Hellfire/){: .btn .btn--era4} |   | ![Armatura d'Ossa](/images/t/artifact_40304.png) [Armatura d'Ossa](/it/artifacts/Bone Armour/){: .btn .btn--era4} | 
   |   | ![Armatura dei Dannati](/images/t/icon_artifact_30.png) **Armatura dei Dannati** |  | 
-  | ![Scudo dei Morti sbadiglianti](/images/t/artifact_40301.png) [Scudo dei Morti sbadiglianti](/it/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Elmo del Teschio](/images/t/artifact_40301.png) [Elmo del Teschio](/it/artifacts/Skull Helmet/){: .btn .btn--era4} | 
+  | ![Scudo dei Morti sbadiglianti](/images/t/artifact_40302.png) [Scudo dei Morti sbadiglianti](/it/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} |   | ![Elmo del Teschio](/images/t/artifact_40303.png) [Elmo del Teschio](/it/artifacts/Skull Helmet/){: .btn .btn--era4} | 
 
 
 ## Dettagli
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Spada del Fuoco infernale](/it/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Danno magico**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4) | Una spada in cui alberga un oscuro potere. Uno dei componenti dell'Armatura dei Dannati. | 
-  | 2 | [Scudo dei Morti sbadiglianti](/it/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Difesa eroe**: 6+(LEVEL\*2.4) | Uno scudo realizzato con le ossa dei non morti. Uno dei componenti dell'Armatura dei Dannati. | 
-  | 3 | [Elmo del Teschio](/it/artifacts/Skull Helmet/){: .btn .btn--era4} | **Danno magico**: 4+(LEVEL\*1.6) %<br/>**Intelligenza eroe**: 6+(LEVEL\*2.4) | Un elmo proveniente dal Sottosuolo. Uno dei componenti dell'Armatura dei Dannati. | 
-  | 4 | [Armatura d'Ossa](/it/artifacts/Bone Armour/){: .btn .btn--era4} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Sapienza eroe**: 6+(LEVEL\*2.4) | Un armatura realizzata con ossa dure. Uno dei componenti dell'Armatura dei Dannati. | 
+  | 1 | ![Spada del Fuoco infernale](/images/t/artifact_40301.png) [Spada del Fuoco infernale](/it/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Danno magico**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4) | Una spada in cui alberga un oscuro potere. Uno dei componenti dell'Armatura dei Dannati. | 
+  | 2 | ![Scudo dei Morti sbadiglianti](/images/t/artifact_40302.png) [Scudo dei Morti sbadiglianti](/it/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Difesa eroe**: 6+(LEVEL\*2.4) | Uno scudo realizzato con le ossa dei non morti. Uno dei componenti dell'Armatura dei Dannati. | 
+  | 3 | ![Elmo del Teschio](/images/t/artifact_40303.png) [Elmo del Teschio](/it/artifacts/Skull Helmet/){: .btn .btn--era4} | **Danno magico**: 4+(LEVEL\*1.6) %<br/>**Intelligenza eroe**: 6+(LEVEL\*2.4) | Un elmo proveniente dal Sottosuolo. Uno dei componenti dell'Armatura dei Dannati. | 
+  | 4 | ![Armatura d'Ossa](/images/t/artifact_40304.png) [Armatura d'Ossa](/it/artifacts/Bone Armour/){: .btn .btn--era4} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Sapienza eroe**: 6+(LEVEL\*2.4) | Un armatura realizzata con ossa dure. Uno dei componenti dell'Armatura dei Dannati. | 
 
 
 ## Artifact Advancement

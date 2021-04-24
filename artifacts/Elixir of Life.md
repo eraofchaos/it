@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Anello della Vitalità](/images/t/artifact_40111.png) [Anello della Vitalità](/it/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Anello della Vita](/images/t/artifact_40111.png) [Anello della Vita](/it/artifacts/Ring of Life/){: .btn .btn--era2} | 
+  | ![Anello della Vitalità](/images/t/artifact_40111.png) [Anello della Vitalità](/it/artifacts/Ring of Vitality/){: .btn .btn--era2} |   | ![Anello della Vita](/images/t/artifact_40112.png) [Anello della Vita](/it/artifacts/Ring of Life/){: .btn .btn--era2} | 
   |   | ![Elisir Vitale](/images/t/icon_artifact_11.png) **Elisir Vitale** |  | 
-  |   | ![Bottiglia dell'Energia](/images/t/artifact_40111.png) [Bottiglia dell'Energia](/it/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
+  |   | ![Bottiglia dell'Energia](/images/t/artifact_40113.png) [Bottiglia dell'Energia](/it/artifacts/Bottle of Energy/){: .btn .btn--era2} |   | 
 
 
 ## Dettagli
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Anello della Vitalità](/it/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Difesa eroe**: 1+(LEVEL\*0.4)<br/>**Sapienza eroe**: 1+(LEVEL\*0.4) | Un anello che fornisce energia. Uno dei componenti dell'Elisir Vitale. | 
-  | 2 | [Anello della Vita](/it/artifacts/Ring of Life/){: .btn .btn--era2} | **Danno magico**: 1+(LEVEL\*0.4) %<br/>**Attacco eroe**: 1+(LEVEL\*0.4) | Un anello che garantisce un'ottima salute a chi lo indossa. Uno dei componenti dell'Elisir Vitale. | 
-  | 3 | [Bottiglia dell'Energia](/it/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Intelligenza eroe**: 1+(LEVEL\*0.4) | Una bottiglia che fa sentire rigenerati. Uno dei componenti dell'Elisir Vitale. | 
+  | 1 | ![Anello della Vitalità](/images/t/artifact_40111.png) [Anello della Vitalità](/it/artifacts/Ring of Vitality/){: .btn .btn--era2} | **Difesa eroe**: 1+(LEVEL\*0.4)<br/>**Sapienza eroe**: 1+(LEVEL\*0.4) | Un anello che fornisce energia. Uno dei componenti dell'Elisir Vitale. | 
+  | 2 | ![Anello della Vita](/images/t/artifact_40112.png) [Anello della Vita](/it/artifacts/Ring of Life/){: .btn .btn--era2} | **Danno magico**: 1+(LEVEL\*0.4) %<br/>**Attacco eroe**: 1+(LEVEL\*0.4) | Un anello che garantisce un'ottima salute a chi lo indossa. Uno dei componenti dell'Elisir Vitale. | 
+  | 3 | ![Bottiglia dell'Energia](/images/t/artifact_40113.png) [Bottiglia dell'Energia](/it/artifacts/Bottle of Energy/){: .btn .btn--era2} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Intelligenza eroe**: 1+(LEVEL\*0.4) | Una bottiglia che fa sentire rigenerati. Uno dei componenti dell'Elisir Vitale. | 
 
 
 ## Artifact Advancement

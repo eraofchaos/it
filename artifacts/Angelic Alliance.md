@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Scudo leonino del Coraggio](/it/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   |  [Ciondolo della Santità](/it/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
-  |  [Spada del Giudizio](/it/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alleanza Angelica](/images/t/icon_artifact_41.png) **Alleanza Angelica** |  [Armatura delle Meraviglie](/it/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
-  |  [Elmo dell'Illuminazione Celeste](/it/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   |  [Sandali del Santo](/it/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
+  |  [Scudo leonino del Coraggio](/it/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} |   | ![Ciondolo della Santità](/images/t/artifact_40416.png) [Ciondolo della Santità](/it/artifacts/Pendant of Holiness/){: .btn .btn--era5} | 
+  | ![Spada del Giudizio](/images/t/artifact_40411.png) [Spada del Giudizio](/it/artifacts/Sword of Judgement/){: .btn .btn--era5} | ![Alleanza Angelica](/images/t/icon_artifact_41.png) **Alleanza Angelica** | ![Armatura delle Meraviglie](/images/t/artifact_40414.png) [Armatura delle Meraviglie](/it/artifacts/Armor of Wonders/){: .btn .btn--era5} | 
+  | ![Elmo dell'Illuminazione Celeste](/images/t/artifact_40413.png) [Elmo dell'Illuminazione Celeste](/it/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} |   | ![Sandali del Santo](/images/t/artifact_40415.png) [Sandali del Santo](/it/artifacts/Sandals of the Saint/){: .btn .btn--era5} | 
 
 
 ## Dettagli
@@ -33,12 +33,12 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Spada del Giudizio](/it/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Attacco unità**: 14+(LEVEL\*5.6) %<br/>**Attacco eroe**: 8+(LEVEL\*3.2) | Spada che gli dei hanno donato all'umanità. Uno dei componenti dell'Alleanza Angelica. | 
+  | 1 | ![Spada del Giudizio](/images/t/artifact_40411.png) [Spada del Giudizio](/it/artifacts/Sword of Judgement/){: .btn .btn--era5} | **Attacco unità**: 14+(LEVEL\*5.6) %<br/>**Attacco eroe**: 8+(LEVEL\*3.2) | Spada che gli dei hanno donato all'umanità. Uno dei componenti dell'Alleanza Angelica. | 
   | 2 | [Scudo leonino del Coraggio](/it/artifacts/Lion's Shield of Courage/){: .btn .btn--era5} | **Attacco unità**: 5+(LEVEL\*2) %<br/>**Punti ferita unità**: 3+(LEVEL\*1.2) %<br/>**Difesa eroe**: 16+(LEVEL\*6.4) | Simbolo della potenza militare dei Grifoni. Uno dei componenti dell'Alleanza Angelica. | 
-  | 3 | [Elmo dell'Illuminazione Celeste](/it/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Una corona benedetta dagli dei. Uno dei componenti dell'Alleanza Angelica. | 
-  | 4 | [Armatura delle Meraviglie](/it/artifacts/Armor of Wonders/){: .btn .btn--era5} | **Punti ferita unità**: 8+(LEVEL\*3.2) %<br/>**Difesa eroe**: 4+(LEVEL\*1.6)<br/>**Sapienza eroe**: 16+(LEVEL\*6.4) | Armatura che testimonia la grandezza dell'Impero. Uno dei componenti dell'Alleanza Angelica. | 
-  | 5 | [Sandali del Santo](/it/artifacts/Sandals of the Saint/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Reliquia sacra che celebra l'unificazione dell'Erathia. Uno dei componenti dell'Alleanza Angelica. | 
-  | 6 | [Ciondolo della Santità](/it/artifacts/Pendant of Holiness/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Una collana appartenuta a un Angelo. Uno dei componenti dell'Alleanza Angelica. | 
+  | 3 | ![Elmo dell'Illuminazione Celeste](/images/t/artifact_40413.png) [Elmo dell'Illuminazione Celeste](/it/artifacts/Helm of Heavenly Enlightenment/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Una corona benedetta dagli dei. Uno dei componenti dell'Alleanza Angelica. | 
+  | 4 | ![Armatura delle Meraviglie](/images/t/artifact_40414.png) [Armatura delle Meraviglie](/it/artifacts/Armor of Wonders/){: .btn .btn--era5} | **Punti ferita unità**: 8+(LEVEL\*3.2) %<br/>**Difesa eroe**: 4+(LEVEL\*1.6)<br/>**Sapienza eroe**: 16+(LEVEL\*6.4) | Armatura che testimonia la grandezza dell'Impero. Uno dei componenti dell'Alleanza Angelica. | 
+  | 5 | ![Sandali del Santo](/images/t/artifact_40415.png) [Sandali del Santo](/it/artifacts/Sandals of the Saint/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Reliquia sacra che celebra l'unificazione dell'Erathia. Uno dei componenti dell'Alleanza Angelica. | 
+  | 6 | ![Ciondolo della Santità](/images/t/artifact_40416.png) [Ciondolo della Santità](/it/artifacts/Pendant of Holiness/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Una collana appartenuta a un Angelo. Uno dei componenti dell'Alleanza Angelica. | 
 
 
 ## Artifact Advancement

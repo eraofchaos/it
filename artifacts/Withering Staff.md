@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bordone dell'Appassimento](/images/t/artifact_40433.png)
+
 
 
 ## Dettagli

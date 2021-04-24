@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Collare della Congiura](/images/t/artifact_40221.png) [Collare della Congiura](/it/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Anello della Congiura](/images/t/artifact_40221.png) [Anello della Congiura](/it/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
+  | ![Collare della Congiura](/images/t/artifact_40221.png) [Collare della Congiura](/it/artifacts/Collar of Conjuring/){: .btn .btn--era3} |   | ![Anello della Congiura](/images/t/artifact_40222.png) [Anello della Congiura](/it/artifacts/Ring of Conjuring/){: .btn .btn--era3} | 
   |   | ![Anello del Mago](/images/t/icon_artifact_22.png) **Anello del Mago** |  | 
-  |   | ![Cappa della Congiura](/images/t/artifact_40221.png) [Cappa della Congiura](/it/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
+  |   | ![Cappa della Congiura](/images/t/artifact_40223.png) [Cappa della Congiura](/it/artifacts/Cape of Conjuring/){: .btn .btn--era3} |   | 
 
 
 ## Dettagli
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Collare della Congiura](/it/artifacts/Collar of Conjuring/){: .btn .btn--era3} | **Attacco unità**: 1+(LEVEL\*0.4) %<br/>**Intelligenza eroe**: 2+(LEVEL\*0.8)<br/>**Sapienza eroe**: 2+(LEVEL\*0.8) | Migliora il potere magico di chi lo indossa. Uno dei componenti dell'Anello del Mago. | 
-  | 2 | [Anello della Congiura](/it/artifacts/Ring of Conjuring/){: .btn .btn--era3} | **Danno magico**: 1+(LEVEL\*0.4) %<br/>**Attacco eroe**: 2+(LEVEL\*0.8)<br/>**Intelligenza eroe**: 2+(LEVEL\*0.8) | Un misterioso anello dotato di un forte potere magico. Uno dei componenti dell'Anello del Mago. | 
-  | 3 | [Cappa della Congiura](/it/artifacts/Cape of Conjuring/){: .btn .btn--era3} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Attacco eroe**: 2+(LEVEL\*0.8)<br/>**Sapienza eroe**: 2+(LEVEL\*0.8) | Una cappa attraversata da un flusso magico. Uno dei componenti dell'Anello del Mago. | 
+  | 1 | ![Collare della Congiura](/images/t/artifact_40221.png) [Collare della Congiura](/it/artifacts/Collar of Conjuring/){: .btn .btn--era3} | **Attacco unità**: 1+(LEVEL\*0.4) %<br/>**Intelligenza eroe**: 2+(LEVEL\*0.8)<br/>**Sapienza eroe**: 2+(LEVEL\*0.8) | Migliora il potere magico di chi lo indossa. Uno dei componenti dell'Anello del Mago. | 
+  | 2 | ![Anello della Congiura](/images/t/artifact_40222.png) [Anello della Congiura](/it/artifacts/Ring of Conjuring/){: .btn .btn--era3} | **Danno magico**: 1+(LEVEL\*0.4) %<br/>**Attacco eroe**: 2+(LEVEL\*0.8)<br/>**Intelligenza eroe**: 2+(LEVEL\*0.8) | Un misterioso anello dotato di un forte potere magico. Uno dei componenti dell'Anello del Mago. | 
+  | 3 | ![Cappa della Congiura](/images/t/artifact_40223.png) [Cappa della Congiura](/it/artifacts/Cape of Conjuring/){: .btn .btn--era3} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Attacco eroe**: 2+(LEVEL\*0.8)<br/>**Sapienza eroe**: 2+(LEVEL\*0.8) | Una cappa attraversata da un flusso magico. Uno dei componenti dell'Anello del Mago. | 
 
 
 ## Artifact Advancement

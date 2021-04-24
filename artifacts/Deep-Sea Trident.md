@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Tridente Abissale](/images/t/artifact_40431.png)
+
 
 
 ## Dettagli

@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Tomo della Magia del Fuoco](/images/t/artifact_40461.png) [Tomo della Magia del Fuoco](/it/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Tomo della Magia della Terra](/images/t/artifact_40461.png) [Tomo della Magia della Terra](/it/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
+  | ![Tomo della Magia del Fuoco](/images/t/artifact_40461.png) [Tomo della Magia del Fuoco](/it/artifacts/Tome of Fire Magic/){: .btn .btn--era5} |   | ![Tomo della Magia della Terra](/images/t/artifact_40464.png) [Tomo della Magia della Terra](/it/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | 
   |   | ![Cappello dell'Incantatore](/images/t/icon_artifact_46.png) **Cappello dell'Incantatore** |  | 
-  | ![Tomo della Magia dell'Acqua](/images/t/artifact_40461.png) [Tomo della Magia dell'Acqua](/it/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Tomo della Magia dell'Aria](/images/t/artifact_40461.png) [Tomo della Magia dell'Aria](/it/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
+  | ![Tomo della Magia dell'Acqua](/images/t/artifact_40462.png) [Tomo della Magia dell'Acqua](/it/artifacts/Tome of Water Magic/){: .btn .btn--era5} |   | ![Tomo della Magia dell'Aria](/images/t/artifact_40463.png) [Tomo della Magia dell'Aria](/it/artifacts/Tome of Air Magic/){: .btn .btn--era5} | 
 
 
 ## Dettagli
@@ -33,10 +33,10 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Tomo della Magia del Fuoco](/it/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 12+(LEVEL\*4.8) | Un libro di incantesimi sulla Magia del Fuoco di livello avanzato. La lettura serale di Luna. Uno dei componenti del Cappello dell'Incantatore. | 
-  | 2 | [Tomo della Magia dell'Acqua](/it/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Difesa eroe**: 12+(LEVEL\*4.8) | Un libro di incantesimi sulla Magia dell'Acqua di livello avanzato. Un dono per te da parte di Adelaide. Uno dei componenti del Cappello dell'Incantatore. | 
-  | 3 | [Tomo della Magia dell'Aria](/it/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Intelligenza eroe**: 12+(LEVEL\*4.8) | Un libro di incantesimi sulla Magia dell'Aria di livello avanzato. Sfogliando le sue pagine, avverti il potere degli Elementali dell'aria. Uno dei componenti del Cappello dell'Incantatore. | 
-  | 4 | [Tomo della Magia della Terra](/it/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Sapienza eroe**: 12+(LEVEL\*4.8) | Un libro di incantesimi sulla Magia della Terra di livello avanzato. La leggenda narra che Jeddite se ne sia servito per sconfiggere Mutare trasformata in drago. Uno dei componenti del Cappello dell'Incantatore. | 
+  | 1 | ![Tomo della Magia del Fuoco](/images/t/artifact_40461.png) [Tomo della Magia del Fuoco](/it/artifacts/Tome of Fire Magic/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 12+(LEVEL\*4.8) | Un libro di incantesimi sulla Magia del Fuoco di livello avanzato. La lettura serale di Luna. Uno dei componenti del Cappello dell'Incantatore. | 
+  | 2 | ![Tomo della Magia dell'Acqua](/images/t/artifact_40462.png) [Tomo della Magia dell'Acqua](/it/artifacts/Tome of Water Magic/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Difesa eroe**: 12+(LEVEL\*4.8) | Un libro di incantesimi sulla Magia dell'Acqua di livello avanzato. Un dono per te da parte di Adelaide. Uno dei componenti del Cappello dell'Incantatore. | 
+  | 3 | ![Tomo della Magia dell'Aria](/images/t/artifact_40463.png) [Tomo della Magia dell'Aria](/it/artifacts/Tome of Air Magic/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Intelligenza eroe**: 12+(LEVEL\*4.8) | Un libro di incantesimi sulla Magia dell'Aria di livello avanzato. Sfogliando le sue pagine, avverti il potere degli Elementali dell'aria. Uno dei componenti del Cappello dell'Incantatore. | 
+  | 4 | ![Tomo della Magia della Terra](/images/t/artifact_40464.png) [Tomo della Magia della Terra](/it/artifacts/Tome of Earth Magic/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Sapienza eroe**: 12+(LEVEL\*4.8) | Un libro di incantesimi sulla Magia della Terra di livello avanzato. La leggenda narra che Jeddite se ne sia servito per sconfiggere Mutare trasformata in drago. Uno dei componenti del Cappello dell'Incantatore. | 
 
 
 ## Artifact Advancement

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Scudo del Cristallo di ghiaccio](/images/t/artifact_40435.png)
+
 
 
 ## Dettagli

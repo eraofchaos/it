@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Uccello della Percezione](/it/artifacts/Bird of Perception/){: .btn .btn--era5} |   |  [Anello dell'Occhio d'aquila](/it/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
-  |   | **Occhio di Falco** |  | 
-  |  [Vedetta stoica](/it/artifacts/Stoic Watchman/){: .btn .btn--era5} |   |  [Medaglia della Verità](/it/artifacts/Medal of Truth/){: .btn .btn--era5} | 
+  | ![Uccello della Percezione](/images/t/artifact_40331.png) [Uccello della Percezione](/it/artifacts/Bird of Perception/){: .btn .btn--era5} |   | ![Anello dell'Occhio d'aquila](/images/t/artifact_40334.png) [Anello dell'Occhio d'aquila](/it/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | 
+  |   | ![Occhio di Falco](/images/t/icon_artifact_33.png) **Occhio di Falco** |  | 
+  | ![Vedetta stoica](/images/t/artifact_40332.png) [Vedetta stoica](/it/artifacts/Stoic Watchman/){: .btn .btn--era5} |   | ![Medaglia della Verità](/images/t/artifact_40333.png) [Medaglia della Verità](/it/artifacts/Medal of Truth/){: .btn .btn--era5} | 
 
 
 ## Dettagli
@@ -31,10 +31,10 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Uccello della Percezione](/it/artifacts/Bird of Perception/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Punti ferita unità**: 2+(LEVEL\*0.8) %<br/>**Difesa eroe**: 12+(LEVEL\*4.8) | Statua di un falco permeata dal potere magico di una strega. Uno dei componenti dell'Occhio di Falco. | 
-  | 2 | [Vedetta stoica](/it/artifacts/Stoic Watchman/){: .btn .btn--era5} | **Punti ferita unità**: 2+(LEVEL\*0.8) %<br/>**Danno magico**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 12+(LEVEL\*4.8) | Statua di un avventuriero dagli occhi fiammeggianti. Uno dei componenti dell'Occhio di Falco. | 
-  | 3 | [Medaglia della Verità](/it/artifacts/Medal of Truth/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Punti ferita unità**: 2+(LEVEL\*0.8) %<br/>**Sapienza eroe**: 12+(LEVEL\*4.8) | Un amuleto stregato con due occhi incastonati. Uno dei componenti dell'Occhio di Falco. | 
-  | 4 | [Anello dell'Occhio d'aquila](/it/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | **Punti ferita unità**: 3+(LEVEL\*1.2) %<br/>**Danno magico**: 3+(LEVEL\*1.2) %<br/>**Intelligenza eroe**: 12+(LEVEL\*4.8) | Un anello occulto con due occhi incastonati. Uno dei componenti dell'Occhio di Falco. | 
+  | 1 | ![Uccello della Percezione](/images/t/artifact_40331.png) [Uccello della Percezione](/it/artifacts/Bird of Perception/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Punti ferita unità**: 2+(LEVEL\*0.8) %<br/>**Difesa eroe**: 12+(LEVEL\*4.8) | Statua di un falco permeata dal potere magico di una strega. Uno dei componenti dell'Occhio di Falco. | 
+  | 2 | ![Vedetta stoica](/images/t/artifact_40332.png) [Vedetta stoica](/it/artifacts/Stoic Watchman/){: .btn .btn--era5} | **Punti ferita unità**: 2+(LEVEL\*0.8) %<br/>**Danno magico**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 12+(LEVEL\*4.8) | Statua di un avventuriero dagli occhi fiammeggianti. Uno dei componenti dell'Occhio di Falco. | 
+  | 3 | ![Medaglia della Verità](/images/t/artifact_40333.png) [Medaglia della Verità](/it/artifacts/Medal of Truth/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Punti ferita unità**: 2+(LEVEL\*0.8) %<br/>**Sapienza eroe**: 12+(LEVEL\*4.8) | Un amuleto stregato con due occhi incastonati. Uno dei componenti dell'Occhio di Falco. | 
+  | 4 | ![Anello dell'Occhio d'aquila](/images/t/artifact_40334.png) [Anello dell'Occhio d'aquila](/it/artifacts/Ring of Eagle Vision/){: .btn .btn--era5} | **Punti ferita unità**: 3+(LEVEL\*1.2) %<br/>**Danno magico**: 3+(LEVEL\*1.2) %<br/>**Intelligenza eroe**: 12+(LEVEL\*4.8) | Un anello occulto con due occhi incastonati. Uno dei componenti dell'Occhio di Falco. | 
 
 
 ## Artifact Advancement

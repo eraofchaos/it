@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bordone dell'Aldilà](/images/t/artifact_40436.png)
+
 
 
 ## Dettagli

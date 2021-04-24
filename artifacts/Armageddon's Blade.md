@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Arco della Foresta](/images/t/artifact_40441.png) [Arco della Foresta](/it/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Balestra perfezionata](/images/t/artifact_40441.png) [Balestra perfezionata](/it/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
-  | ![Spada da Cavaliere](/images/t/artifact_40441.png) [Spada da Cavaliere](/it/artifacts/Knight Sword/){: .btn .btn--era5} | ![Spada dell'Armageddon](/images/t/icon_artifact_44.png) **Spada dell'Armageddon** | ![Ascia Spaccamontagne](/images/t/artifact_40441.png) [Ascia Spaccamontagne](/it/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
-  | ![Bastone della Saggezza](/images/t/artifact_40441.png) [Bastone della Saggezza](/it/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Martello da Guerriero](/images/t/artifact_40441.png) [Martello da Guerriero](/it/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
+  | ![Arco della Foresta](/images/t/artifact_40442.png) [Arco della Foresta](/it/artifacts/Forest Bow/){: .btn .btn--era5} |   | ![Balestra perfezionata](/images/t/artifact_40446.png) [Balestra perfezionata](/it/artifacts/Examplar Crossbow/){: .btn .btn--era5} | 
+  | ![Spada da Cavaliere](/images/t/artifact_40441.png) [Spada da Cavaliere](/it/artifacts/Knight Sword/){: .btn .btn--era5} | ![Spada dell'Armageddon](/images/t/icon_artifact_44.png) **Spada dell'Armageddon** | ![Ascia Spaccamontagne](/images/t/artifact_40444.png) [Ascia Spaccamontagne](/it/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | 
+  | ![Bastone della Saggezza](/images/t/artifact_40443.png) [Bastone della Saggezza](/it/artifacts/Staff of Wisdom/){: .btn .btn--era5} |   | ![Martello da Guerriero](/images/t/artifact_40445.png) [Martello da Guerriero](/it/artifacts/Warrior Hammer/){: .btn .btn--era5} | 
 
 
 ## Dettagli
@@ -31,12 +31,12 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Spada da Cavaliere](/it/artifacts/Knight Sword/){: .btn .btn--era5} | **Attacco unità**: 14+(LEVEL\*5.6) %<br/>**Attacco eroe**: 8+(LEVEL\*3.2) | Spada usata dagli eroi a difesa dei castelli. Uno dei componenti della Spada dell'Armageddon. | 
-  | 2 | [Arco della Foresta](/it/artifacts/Forest Bow/){: .btn .btn--era5} | **Attacco unità**: 5+(LEVEL\*2) %<br/>**Punti ferita unità**: 3+(LEVEL\*1.2) %<br/>**Difesa eroe**: 16+(LEVEL\*6.4) | Un arco usato dagli Elfi del bosco. Uno dei componenti della Spada dell'Armageddon. | 
-  | 3 | [Bastone della Saggezza](/it/artifacts/Staff of Wisdom/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Una reliquia posta a protezione dello Scudo di Ghiaccio. Uno dei componenti della Spada dell'Armageddon. | 
-  | 4 | [Ascia Spaccamontagne](/it/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | **Punti ferita unità**: 8+(LEVEL\*3.2) %<br/>**Difesa eroe**: 4+(LEVEL\*1.6)<br/>**Sapienza eroe**: 16+(LEVEL\*6.4) | Una reliquia lasciata sul campo dal Re degli Gnomi dopo la battaglia di Enroth. Uno dei componenti della Spada dell'Armageddon. | 
-  | 5 | [Martello da Guerriero](/it/artifacts/Warrior Hammer/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Un martello da guerra nascosto nei pressi di Cresta del Gigante. Uno dei componenti della Spada dell'Armageddon. | 
-  | 6 | [Balestra perfezionata](/it/artifacts/Examplar Crossbow/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Manufatto indossato dall'eroe Gelu prima di raggiungere la maggiore età. Uno dei componenti della Spada dell'Armageddon. | 
+  | 1 | ![Spada da Cavaliere](/images/t/artifact_40441.png) [Spada da Cavaliere](/it/artifacts/Knight Sword/){: .btn .btn--era5} | **Attacco unità**: 14+(LEVEL\*5.6) %<br/>**Attacco eroe**: 8+(LEVEL\*3.2) | Spada usata dagli eroi a difesa dei castelli. Uno dei componenti della Spada dell'Armageddon. | 
+  | 2 | ![Arco della Foresta](/images/t/artifact_40442.png) [Arco della Foresta](/it/artifacts/Forest Bow/){: .btn .btn--era5} | **Attacco unità**: 5+(LEVEL\*2) %<br/>**Punti ferita unità**: 3+(LEVEL\*1.2) %<br/>**Difesa eroe**: 16+(LEVEL\*6.4) | Un arco usato dagli Elfi del bosco. Uno dei componenti della Spada dell'Armageddon. | 
+  | 3 | ![Bastone della Saggezza](/images/t/artifact_40443.png) [Bastone della Saggezza](/it/artifacts/Staff of Wisdom/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Una reliquia posta a protezione dello Scudo di Ghiaccio. Uno dei componenti della Spada dell'Armageddon. | 
+  | 4 | ![Ascia Spaccamontagne](/images/t/artifact_40444.png) [Ascia Spaccamontagne](/it/artifacts/Mountain Battleaxe/){: .btn .btn--era5} | **Punti ferita unità**: 8+(LEVEL\*3.2) %<br/>**Difesa eroe**: 4+(LEVEL\*1.6)<br/>**Sapienza eroe**: 16+(LEVEL\*6.4) | Una reliquia lasciata sul campo dal Re degli Gnomi dopo la battaglia di Enroth. Uno dei componenti della Spada dell'Armageddon. | 
+  | 5 | ![Martello da Guerriero](/images/t/artifact_40445.png) [Martello da Guerriero](/it/artifacts/Warrior Hammer/){: .btn .btn--era5} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Un martello da guerra nascosto nei pressi di Cresta del Gigante. Uno dei componenti della Spada dell'Armageddon. | 
+  | 6 | ![Balestra perfezionata](/images/t/artifact_40446.png) [Balestra perfezionata](/it/artifacts/Examplar Crossbow/){: .btn .btn--era5} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4)<br/>**Intelligenza eroe**: 16+(LEVEL\*6.4) | Manufatto indossato dall'eroe Gelu prima di raggiungere la maggiore età. Uno dei componenti della Spada dell'Armageddon. | 
 
 
 ## Artifact Advancement

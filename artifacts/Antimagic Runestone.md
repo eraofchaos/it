@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Ornamento dell'Interferenza](/images/t/artifact_40231.png) [Ornamento dell'Interferenza](/it/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Cotta del Contrappeso](/images/t/artifact_40231.png) [Cotta del Contrappeso](/it/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
+  | ![Ornamento dell'Interferenza](/images/t/artifact_40231.png) [Ornamento dell'Interferenza](/it/artifacts/Garniture of Interference/){: .btn .btn--era3} |   | ![Cotta del Contrappeso](/images/t/artifact_40232.png) [Cotta del Contrappeso](/it/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | 
   |   | ![Pietra runica Antimagia](/images/t/icon_artifact_23.png) **Pietra runica Antimagia** |  | 
-  |   | ![Stivali della Polarità](/images/t/artifact_40231.png) [Stivali della Polarità](/it/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
+  |   | ![Stivali della Polarità](/images/t/artifact_40233.png) [Stivali della Polarità](/it/artifacts/Boots of Polarity/){: .btn .btn--era3} |   | 
 
 
 ## Dettagli
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Ornamento dell'Interferenza](/it/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Attacco unità**: 1+(LEVEL\*0.4) %<br/>**Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Sapienza eroe**: 3+(LEVEL\*1.2) | Una collana con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia. | 
-  | 2 | [Cotta del Contrappeso](/it/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Intelligenza eroe**: 2+(LEVEL\*0.8)<br/>**Sapienza eroe**: 3+(LEVEL\*1.2) | Una cotta con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia. | 
-  | 3 | [Stivali della Polarità](/it/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Danno magico**: 1+(LEVEL\*0.4) %<br/>**Sapienza eroe**: 3+(LEVEL\*1.2) | Stivali con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia. | 
+  | 1 | ![Ornamento dell'Interferenza](/images/t/artifact_40231.png) [Ornamento dell'Interferenza](/it/artifacts/Garniture of Interference/){: .btn .btn--era3} | **Attacco unità**: 1+(LEVEL\*0.4) %<br/>**Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Sapienza eroe**: 3+(LEVEL\*1.2) | Una collana con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia. | 
+  | 2 | ![Cotta del Contrappeso](/images/t/artifact_40232.png) [Cotta del Contrappeso](/it/artifacts/Surcoat of Counterpoise/){: .btn .btn--era3} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Intelligenza eroe**: 2+(LEVEL\*0.8)<br/>**Sapienza eroe**: 3+(LEVEL\*1.2) | Una cotta con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia. | 
+  | 3 | ![Stivali della Polarità](/images/t/artifact_40233.png) [Stivali della Polarità](/it/artifacts/Boots of Polarity/){: .btn .btn--era3} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Danno magico**: 1+(LEVEL\*0.4) %<br/>**Sapienza eroe**: 3+(LEVEL\*1.2) | Stivali con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia. | 
 
 
 ## Artifact Advancement

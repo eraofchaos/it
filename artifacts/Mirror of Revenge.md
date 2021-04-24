@@ -11,7 +11,7 @@ classes: wide
 
   |:---:|:---:|:---:| 
   |  [Braciere del Caos](/it/artifacts/Chaos Brazier/){: .btn .btn--era4} |   |  [Clessidra dimenticata](/it/artifacts/Forgotten Hourglass/){: .btn .btn--era4} | 
-  |   | **Specchio della vendetta** |  | 
+  |   | ![Specchio della vendetta](/images/t/icon_artifact_35.png) **Specchio della vendetta** |  | 
   |  [Squama ghiacciata](/it/artifacts/Ice Scale/){: .btn .btn--era4} |   |  [Collana dell'Equilibrio](/it/artifacts/Necklace of Balance/){: .btn .btn--era4} | 
 
 

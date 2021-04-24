@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Armatura delle Meraviglie](/images/t/artifact_40414.png)
+
 
 
 ## Dettagli

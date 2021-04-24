@@ -15,7 +15,7 @@ classes: wide
 
  **Descrizione:** Un oggetto utilizzato per tenere sotto controllo la fusione di grandi poteri magici. Uno dei componenti dello Specchio della vendetta.
 
- **Part of Artifact:** [Specchio della vendetta](/it/artifacts/Mirror of Revenge/){: .btn .btn--era4}
+ **Part of Artifact:** ![Specchio della vendetta](/images/t/icon_artifact_35.png) [Specchio della vendetta](/it/artifacts/Mirror of Revenge/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

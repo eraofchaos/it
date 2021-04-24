@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Uccello della Percezione](/images/t/artifact_40331.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Statua di un falco permeata dal potere magico di una strega. Uno dei componenti dell'Occhio di Falco.
 
- **Part of Artifact:** [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Occhio di Falco](/images/t/icon_artifact_33.png) [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 

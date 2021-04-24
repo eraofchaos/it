@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ciondolo della Santità](/images/t/artifact_40416.png)
+
 
 
 ## Dettagli

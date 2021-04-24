@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  |  [Ascia del Minotauro](/it/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   |  [Bordone dell'Aldilà](/it/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
-  |  [Tridente Abissale](/it/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Spada di Ghiaccio** |  [Bordone dell'Ogre](/it/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
-  |  [Bordone dell'Appassimento](/it/artifacts/Withering Staff/){: .btn .btn--era5} |   |  [Scudo del Cristallo di ghiaccio](/it/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
+  | ![Ascia del Minotauro](/images/t/artifact_40432.png) [Ascia del Minotauro](/it/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} |   | ![Bordone dell'Aldilà](/images/t/artifact_40436.png) [Bordone dell'Aldilà](/it/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | 
+  | ![Tridente Abissale](/images/t/artifact_40431.png) [Tridente Abissale](/it/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Spada di Ghiaccio** | ![Bordone dell'Ogre](/images/t/artifact_40434.png) [Bordone dell'Ogre](/it/artifacts/Ogre's Staff/){: .btn .btn--era5} | 
+  | ![Bordone dell'Appassimento](/images/t/artifact_40433.png) [Bordone dell'Appassimento](/it/artifacts/Withering Staff/){: .btn .btn--era5} |   | ![Scudo del Cristallo di ghiaccio](/images/t/artifact_40435.png) [Scudo del Cristallo di ghiaccio](/it/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | 
 
 
 ## Dettagli
@@ -31,12 +31,12 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Tridente Abissale](/it/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Attacco unità**: 2+(LEVEL\*0.8) %<br/>**Punti ferita unità**: 8+(LEVEL\*3.2) %<br/>**Attacco eroe**: 10+(LEVEL\*4) | Arma usata da Poseidone. Uno dei componenti della Spada di Ghiaccio. | 
-  | 2 | [Ascia del Minotauro](/it/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} | **Attacco unità**: 5+(LEVEL\*2) %<br/>**Attacco eroe**: 12+(LEVEL\*4.8)<br/>**Difesa eroe**: 8+(LEVEL\*3.2) | Ascia da battaglia appartenuta al Minotauro. Uno dei componenti della Spada di Ghiaccio. | 
-  | 3 | [Bordone dell'Appassimento](/it/artifacts/Withering Staff/){: .btn .btn--era5} | **Attacco unità**: 2+(LEVEL\*0.8) %<br/>**Punti ferita unità**: 10+(LEVEL\*4) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4) | Grosso bastone appartenuto a un Arcilich. Uno dei componenti della Spada di Ghiaccio. | 
-  | 4 | [Bordone dell'Ogre](/it/artifacts/Ogre's Staff/){: .btn .btn--era5} | **Punti ferita unità**: 6+(LEVEL\*2.4) %<br/>**Difesa eroe**: 12+(LEVEL\*4.8)<br/>**Intelligenza eroe**: 6+(LEVEL\*2.4) | Bastone venerato da un Ogre. Uno dei componenti della Spada di Ghiaccio. | 
-  | 5 | [Scudo del Cristallo di ghiaccio](/it/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | **Punti ferita unità**: 8+(LEVEL\*3.2) %<br/>**Difesa eroe**: 10+(LEVEL\*4)<br/>**Sapienza eroe**: 4+(LEVEL\*1.6) | Uno scudo sacro custodito nell'altopiano di Bracada. Uno dei componenti della Spada di Ghiaccio. | 
-  | 6 | [Bordone dell'Aldilà](/it/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | **Attacco eroe**: 8+(LEVEL\*3.2)<br/>**Intelligenza eroe**: 10+(LEVEL\*4)<br/>**Sapienza eroe**: 12+(LEVEL\*4.8) | Un potente bastone custodito a Deyja. Uno dei componenti della Spada di Ghiaccio. | 
+  | 1 | ![Tridente Abissale](/images/t/artifact_40431.png) [Tridente Abissale](/it/artifacts/Deep-Sea Trident/){: .btn .btn--era5} | **Attacco unità**: 2+(LEVEL\*0.8) %<br/>**Punti ferita unità**: 8+(LEVEL\*3.2) %<br/>**Attacco eroe**: 10+(LEVEL\*4) | Arma usata da Poseidone. Uno dei componenti della Spada di Ghiaccio. | 
+  | 2 | ![Ascia del Minotauro](/images/t/artifact_40432.png) [Ascia del Minotauro](/it/artifacts/Minotaur's Battleaxe/){: .btn .btn--era5} | **Attacco unità**: 5+(LEVEL\*2) %<br/>**Attacco eroe**: 12+(LEVEL\*4.8)<br/>**Difesa eroe**: 8+(LEVEL\*3.2) | Ascia da battaglia appartenuta al Minotauro. Uno dei componenti della Spada di Ghiaccio. | 
+  | 3 | ![Bordone dell'Appassimento](/images/t/artifact_40433.png) [Bordone dell'Appassimento](/it/artifacts/Withering Staff/){: .btn .btn--era5} | **Attacco unità**: 2+(LEVEL\*0.8) %<br/>**Punti ferita unità**: 10+(LEVEL\*4) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4) | Grosso bastone appartenuto a un Arcilich. Uno dei componenti della Spada di Ghiaccio. | 
+  | 4 | ![Bordone dell'Ogre](/images/t/artifact_40434.png) [Bordone dell'Ogre](/it/artifacts/Ogre's Staff/){: .btn .btn--era5} | **Punti ferita unità**: 6+(LEVEL\*2.4) %<br/>**Difesa eroe**: 12+(LEVEL\*4.8)<br/>**Intelligenza eroe**: 6+(LEVEL\*2.4) | Bastone venerato da un Ogre. Uno dei componenti della Spada di Ghiaccio. | 
+  | 5 | ![Scudo del Cristallo di ghiaccio](/images/t/artifact_40435.png) [Scudo del Cristallo di ghiaccio](/it/artifacts/Ice Crystal Shield/){: .btn .btn--era5} | **Punti ferita unità**: 8+(LEVEL\*3.2) %<br/>**Difesa eroe**: 10+(LEVEL\*4)<br/>**Sapienza eroe**: 4+(LEVEL\*1.6) | Uno scudo sacro custodito nell'altopiano di Bracada. Uno dei componenti della Spada di Ghiaccio. | 
+  | 6 | ![Bordone dell'Aldilà](/images/t/artifact_40436.png) [Bordone dell'Aldilà](/it/artifacts/Staff of the Netherworld/){: .btn .btn--era5} | **Attacco eroe**: 8+(LEVEL\*3.2)<br/>**Intelligenza eroe**: 10+(LEVEL\*4)<br/>**Sapienza eroe**: 12+(LEVEL\*4.8) | Un potente bastone custodito a Deyja. Uno dei componenti della Spada di Ghiaccio. | 
 
 
 ## Artifact Advancement

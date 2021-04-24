@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Pendente del mana](/images/t/artifact_40211.png) [Pendente del mana](/it/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Amuleto Magico](/images/t/artifact_40211.png) [Amuleto Magico](/it/artifacts/Magic Charm/){: .btn .btn--era3} | 
+  | ![Pendente del mana](/images/t/artifact_40211.png) [Pendente del mana](/it/artifacts/Charm of Mana/){: .btn .btn--era3} |   | ![Amuleto Magico](/images/t/artifact_40212.png) [Amuleto Magico](/it/artifacts/Magic Charm/){: .btn .btn--era3} | 
   |   | ![Fonte del Mago](/images/t/icon_artifact_21.png) **Fonte del Mago** |  | 
-  |   | ![Sfera mistica del mana](/images/t/artifact_40211.png) [Sfera mistica del mana](/it/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
+  |   | ![Sfera mistica del mana](/images/t/artifact_40213.png) [Sfera mistica del mana](/it/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} |   | 
 
 
 ## Dettagli
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Pendente del mana](/it/artifacts/Charm of Mana/){: .btn .btn--era3} | **Attacco unità**: 1+(LEVEL\*0.4) %<br/>**Difesa eroe**: 3+(LEVEL\*1.2) | Un amuleto che migliora la magia. Uno dei componenti della Fonte del Mago. | 
-  | 2 | [Amuleto Magico](/it/artifacts/Magic Charm/){: .btn .btn--era3} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Intelligenza eroe**: 3+(LEVEL\*1.2) | Un amuleto dotato di potere magico. Uno dei componenti della Fonte del Mago. | 
-  | 3 | [Sfera mistica del mana](/it/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} | **Danno magico**: 1+(LEVEL\*0.4) %<br/>**Attacco eroe**: 3+(LEVEL\*1.2) | Una sfera di cristallo dotata di un forte potere magico. Uno dei componenti della Fonte del Mago. | 
+  | 1 | ![Pendente del mana](/images/t/artifact_40211.png) [Pendente del mana](/it/artifacts/Charm of Mana/){: .btn .btn--era3} | **Attacco unità**: 1+(LEVEL\*0.4) %<br/>**Difesa eroe**: 3+(LEVEL\*1.2) | Un amuleto che migliora la magia. Uno dei componenti della Fonte del Mago. | 
+  | 2 | ![Amuleto Magico](/images/t/artifact_40212.png) [Amuleto Magico](/it/artifacts/Magic Charm/){: .btn .btn--era3} | **Punti ferita unità**: 1+(LEVEL\*0.4) %<br/>**Intelligenza eroe**: 3+(LEVEL\*1.2) | Un amuleto dotato di potere magico. Uno dei componenti della Fonte del Mago. | 
+  | 3 | ![Sfera mistica del mana](/images/t/artifact_40213.png) [Sfera mistica del mana](/it/artifacts/Mystic Orb of Mana/){: .btn .btn--era3} | **Danno magico**: 1+(LEVEL\*0.4) %<br/>**Attacco eroe**: 3+(LEVEL\*1.2) | Una sfera di cristallo dotata di un forte potere magico. Uno dei componenti della Fonte del Mago. | 
 
 
 ## Artifact Advancement

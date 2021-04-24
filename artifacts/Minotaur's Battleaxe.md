@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Ascia del Minotauro](/images/t/artifact_40432.png)
+
 
 
 ## Dettagli

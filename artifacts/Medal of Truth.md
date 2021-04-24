@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Medaglia della Verità](/images/t/artifact_40333.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un amuleto stregato con due occhi incastonati. Uno dei componenti dell'Occhio di Falco.
 
- **Part of Artifact:** [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Occhio di Falco](/images/t/icon_artifact_33.png) [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 

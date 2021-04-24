@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Spada del Giudizio](/images/t/artifact_40411.png)
+
 
 
 ## Dettagli

@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Bordone dell'Ogre](/images/t/artifact_40434.png)
+
 
 
 ## Dettagli

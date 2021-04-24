@@ -9,6 +9,8 @@ toc: false
 classes: wide
 ---
 
+ ![Elmo dell'Illuminazione Celeste](/images/t/artifact_40413.png)
+
 
 
 ## Dettagli

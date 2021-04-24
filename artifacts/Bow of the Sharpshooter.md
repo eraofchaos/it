@@ -10,9 +10,9 @@ classes: wide
 ---
 
   |:---:|:---:|:---:| 
-  | ![Arco di ciliegio degli Elfi](/images/t/artifact_40101.png) [Arco di ciliegio degli Elfi](/it/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Frecce Piuma d'angelo](/images/t/artifact_40101.png) [Frecce Piuma d'angelo](/it/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
+  | ![Arco di ciliegio degli Elfi](/images/t/artifact_40101.png) [Arco di ciliegio degli Elfi](/it/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} |   | ![Frecce Piuma d'angelo](/images/t/artifact_40102.png) [Frecce Piuma d'angelo](/it/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | 
   |   | ![Arco del Tiratore esperto](/images/t/icon_artifact_10.png) **Arco del Tiratore esperto** |  | 
-  |   | ![Corda d'arco di crine di unicorno](/images/t/artifact_40101.png) [Corda d'arco di crine di unicorno](/it/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
+  |   | ![Corda d'arco di crine di unicorno](/images/t/artifact_40103.png) [Corda d'arco di crine di unicorno](/it/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} |   | 
 
 
 ## Dettagli
@@ -33,9 +33,9 @@ classes: wide
 
   | Nr |    Nome    |   Bonus | Descrizione | 
   |:---|:-----------|:--------|:------------| 
-  | 1 | [Arco di ciliegio degli Elfi](/it/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 4+(LEVEL\*1.6) | Un arco di legno realizzato dagli Elfi. Uno dei componenti dell'Arco del Tiratore esperto. | 
-  | 2 | [Frecce Piuma d'angelo](/it/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | **Attacco unità**: 2+(LEVEL\*0.8) %<br/>**Danno magico**: 2+(LEVEL\*0.8) %<br/>**Difesa eroe**: 4+(LEVEL\*1.6) | Una freccia magica realizzata dagli Elfi. Uno dei componenti dell'Arco del Tiratore esperto. | 
-  | 3 | [Corda d'arco di crine di unicorno](/it/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} | **Danno magico**: 4+(LEVEL\*1.6) %<br/>**Sapienza eroe**: 4+(LEVEL\*1.6) | Una criniera offerta in dono agli Elfi da una bestia sacra. Uno dei componenti dell'Arco del Tiratore esperto. | 
+  | 1 | ![Arco di ciliegio degli Elfi](/images/t/artifact_40101.png) [Arco di ciliegio degli Elfi](/it/artifacts/Bow of Elven Cherrywood/){: .btn .btn--era4} | **Attacco unità**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 4+(LEVEL\*1.6) | Un arco di legno realizzato dagli Elfi. Uno dei componenti dell'Arco del Tiratore esperto. | 
+  | 2 | ![Frecce Piuma d'angelo](/images/t/artifact_40102.png) [Frecce Piuma d'angelo](/it/artifacts/Angel Feather Arrows/){: .btn .btn--era4} | **Attacco unità**: 2+(LEVEL\*0.8) %<br/>**Danno magico**: 2+(LEVEL\*0.8) %<br/>**Difesa eroe**: 4+(LEVEL\*1.6) | Una freccia magica realizzata dagli Elfi. Uno dei componenti dell'Arco del Tiratore esperto. | 
+  | 3 | ![Corda d'arco di crine di unicorno](/images/t/artifact_40103.png) [Corda d'arco di crine di unicorno](/it/artifacts/Bowstring of the Unicorn's Mane/){: .btn .btn--era4} | **Danno magico**: 4+(LEVEL\*1.6) %<br/>**Sapienza eroe**: 4+(LEVEL\*1.6) | Una criniera offerta in dono agli Elfi da una bestia sacra. Uno dei componenti dell'Arco del Tiratore esperto. | 
 
 
 ## Artifact Advancement

@@ -9,13 +9,15 @@ toc: false
 classes: wide
 ---
 
+ ![Anello dell'Occhio d'aquila](/images/t/artifact_40334.png)
+
 
 
 ## Dettagli
 
  **Descrizione:** Un anello occulto con due occhi incastonati. Uno dei componenti dell'Occhio di Falco.
 
- **Part of Artifact:** [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
+ **Part of Artifact:** ![Occhio di Falco](/images/t/icon_artifact_33.png) [Occhio di Falco](/it/artifacts/Live Hawkeye/){: .btn .btn--era5}
 
  **Dismantle: 75x** [Essenza di manufatto](/ItemsIT/con_905/)
 
