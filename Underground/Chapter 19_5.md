@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 19 - 19-5 Le leggi del mondo"
 permalink: /Underground/Chapter 19_5/
 excerpt: "Capitolo 19 - 5. Era of Chaos  Sottosuolo - Capitolo 19_5. 19-5 Le leggi del mondo"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 19_5.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Erdamon/
 excerpt: "Era of Chaos Erdamon. Erdamon. Erdamon, antico Re della Lava, ha dormito per secoli sotto le montagne al confine di Eeofol. Ora si è risvegliato e si è unito all'esercito della Confluenza. Erdamon è pronto a tutto per liberare il mondo dalla minaccia dei Kreegan."
 heroID: 60703
 QR: hero_60703
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Erdamon"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Erdamon, antico Re della Lava, ha dormito per secoli sotto le montagne al confine di Eeofol. Ora si è risvegliato e si è unito all'esercito della Confluenza. Erdamon è pronto a tutto per liberare il mondo dalla minaccia dei Kreegan.
 ## Dettagli
- **Profession:** ![Viaggiatore planare](/images/h/h_prof_13.png) Viaggiatore planare
+ **Profession:** ![Viaggiatore planare](/images/h/h_prof_13.png)  [Viaggiatore planare](/it/heroes/Profession Planeswalker/)
 
- **Race:** Confluenza
+ **Fazione::** [Confluenza](/it/heroes/Faction Conflux/)
 
- **Rate:** R
+ **Rango:** [R](/it/heroes/Hero Rank R/)
 
  **User Rate:** R
 

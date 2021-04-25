@@ -1,9 +1,9 @@
 ---
 title: "Gigante"
 permalink: /units/Giant/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
+excerpt: "Era of Chaos Gigante. Gigante Unità. Titano. Era of Chaos Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
 unitID: 607
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Gigante"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/it/units/Unit Rank SSR/)
+ **Rango:** [SSR](/it/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

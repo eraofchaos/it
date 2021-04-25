@@ -1,9 +1,9 @@
 ---
 title: "Domatore di lupi"
 permalink: /units/Wolf Rider/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
+excerpt: "Era of Chaos Domatore di lupi. Domatore di lupi Unità. Signore dei Lupi. Era of Chaos I Signori dei Lupi combattono in sella a fedeli lupi ammaestrati. Le zanne e gli artigli dei loro destrieri seminano il panico nelle file avversarie."
 unitID: 402
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Domatore di lupi"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/it/units/Unit Rank R/)
+ **Rango:** [R](/it/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 

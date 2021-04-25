@@ -1,9 +1,9 @@
 ---
 title: "Rapace di fuoco"
 permalink: /units/Firebird/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
+excerpt: "Era of Chaos Rapace di fuoco. Rapace di fuoco Unità. Fenice. Era of Chaos Il Rapace di fuoco è la più potente delle creature elementali. Sua dimora è il fuoco, che gli dona vita eterna. Le fiamme ruggenti che lo circondano purificano l'aria stessa dal male."
 unitID: 907
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Rapace di fuoco"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

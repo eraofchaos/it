@@ -1,9 +1,9 @@
 ---
 title: "Unicorno"
 permalink: /units/Unicorn/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
+excerpt: "Era of Chaos Unicorno. Unicorno Unità. Unicorno da Guerra. Era of Chaos L'esistenza degli Unicorni è a tutt'oggi molto discussa; alcuni li considerano poco più che un mito. La loro bellezza è pari solo alla loro leggendaria ferocia in combattimento."
 unitID: 206
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Unicorno"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Necropolis -  Units"
 permalink: /units/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Faction Necropolis"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
  [Confluenza](/it/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--info} [Castello](/it/units/Faction Castle/){: .btn .btn--primary} [Torre](/it/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/it/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/it/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Mummia](/images/u/ti_munaiyi.jpg) | [Mummia](/it/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |
   | 2 | ![Campione oscuro](/images/u/ti_sishen.jpg) | [Campione oscuro](/it/units/Dark Champion/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |

@@ -1,9 +1,9 @@
 ---
 title: "Mummia"
 permalink: /units/Mummy/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
+excerpt: "Era of Chaos Mummia. Mummia Unità. Re delle Mummie. Era of Chaos I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Mummia"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

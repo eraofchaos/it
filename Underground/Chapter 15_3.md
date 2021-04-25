@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 15 - 15-3 Scultura angelica"
 permalink: /Underground/Chapter 15_3/
 excerpt: "Capitolo 15 - 3. Era of Chaos  Sottosuolo - Capitolo 15_3. 15-3 Scultura angelica"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 15_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-11 La fossa comune"
 permalink: /Main Story/Chapter 28_11/
 excerpt: "Capitolo 28 - 11. Era of Chaos  Storia principale - Capitolo 28_11. 28-11 La fossa comune"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 28_11.md"
 toc: false

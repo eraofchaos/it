@@ -1,9 +1,9 @@
 ---
 title: "Monaco"
 permalink: /units/Monk/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
+excerpt: "Era of Chaos Monaco. Monaco Unità. Fanatico. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Monaco"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 

@@ -1,9 +1,9 @@
 ---
 title: "Driade"
 permalink: /units/Sprite/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
+excerpt: "Era of Chaos Driade. Driade Unità. . Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Driade"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [R](/it/units/Unit Rank R/)
+ **Rango:** [R](/it/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 

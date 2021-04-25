@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr ha vissuto intrappolato in una lampada magica per più di mille anni. Ha giurato fedeltà eterna al proprio salvatore Gavin Magnus, immortale dominatore delle Highlands di Bracada."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Solmyr"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Solmyr ha vissuto intrappolato in una lampada magica per più di mille anni. Ha giurato fedeltà eterna al proprio salvatore Gavin Magnus, immortale dominatore delle Highlands di Bracada.
 ## Dettagli
- **Profession:** ![Mago](/images/h/h_prof_15.png) Mago
+ **Profession:** ![Mago](/images/h/h_prof_15.png)  [Mago](/it/heroes/Profession Wizard/)
 
- **Race:** Torre
+ **Fazione::** [Torre](/it/heroes/Faction Tower/)
 
- **Rate:** SR+
+ **Rango:** [SR+](/it/heroes/Hero Rank SR+/)
 
  **User Rate:** SR
 

@@ -1,9 +1,9 @@
 ---
 title: "Veggente di Regna"
 permalink: /units/Regnan Seer/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore."
+excerpt: "Era of Chaos Veggente di Regna. Veggente di Regna Unità. Elementale delle maree. Era of Chaos Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore."
 unitID: 9907
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Veggente di Regna"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/it/units/Unit Rank Commander/)
+ **Rango:** [Comandante](/it/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

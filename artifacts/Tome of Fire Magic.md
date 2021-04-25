@@ -2,7 +2,7 @@
 title: "Manufatti - Cappello dell'Incantatore - Tomo della Magia del Fuoco"
 permalink: /artifacts/Tome of Fire Magic/
 excerpt: "Era of Chaos  Cappello dell'Incantatore - Tomo della Magia del Fuoco. Un libro di incantesimi sulla Magia del Fuoco di livello avanzato. La lettura serale di Luna. Uno dei componenti del Cappello dell'Incantatore."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Tome of Fire Magic.md"
 toc: false

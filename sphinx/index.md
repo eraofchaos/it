@@ -1,8 +1,8 @@
 ---
 title: "Era of Chaos - Sfinge questions and correct answers"
 permalink: /sphinx/
-excerpt: "Era of Chaos Sfinge. Sfinge. List of ALL Sfinge questions with correct answers in Era of Chaos"
-last_modified_at: 2021-04-23
+excerpt: "Era of Chaos Sfinge. Sfinge questions. List of ALL Sfinge questions with correct answers in Era of Chaos"
+last_modified_at: 2021-04-25
 locale: it
 ref: "index.md"
 toc: false

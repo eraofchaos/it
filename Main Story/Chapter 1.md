@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 1 L'isola di Evenmorn"
 permalink: /Main Story/Chapter 1/
 excerpt: "Capitolo 1. Era of Chaos  Storia principale - Capitolo 1. L'isola di Evenmorn"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Collana mistica di Poseidone"
 permalink: /equipment/Poseidon's Soul Necklace/
 excerpt: "Era of Chaos Collana mistica di Poseidone. Collana mistica di Poseidone"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Poseidon's Soul Necklace.md"
 toc: false

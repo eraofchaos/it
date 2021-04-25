@@ -1,9 +1,9 @@
 ---
 title: "Picchiere"
 permalink: /units/Pikeman/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Picchieri sono la prima linea di difesa del Regno. Sono abili soldati, gloriosi veterani di molte battaglie e fedeli incrollabili del Regno, i cui abitanti nutrono per loro grande ammirazione."
+excerpt: "Era of Chaos Picchiere. Picchiere Unità. Alabardiere. Era of Chaos I Picchieri sono la prima linea di difesa del Regno. Sono abili soldati, gloriosi veterani di molte battaglie e fedeli incrollabili del Regno, i cui abitanti nutrono per loro grande ammirazione."
 unitID: 101
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Picchiere"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/it/units/Unit Rank R/)
+ **Rango:** [R](/it/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 

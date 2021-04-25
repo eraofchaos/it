@@ -1,9 +1,9 @@
 ---
 title: "Elfo del bosco"
 permalink: /units/Wood Elf/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
+excerpt: "Era of Chaos Elfo del bosco. Elfo del bosco Unità. Elfo Gigante. Era of Chaos Gli Elfi di AvLee sono arcieri eccezionali. Una vera e propria pioggia di frecce attende chi osa invadere la loro foresta."
 unitID: 203
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Elfo del bosco"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 

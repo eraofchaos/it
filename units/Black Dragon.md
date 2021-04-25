@@ -1,9 +1,9 @@
 ---
 title: "Drago nero"
 permalink: /units/Black Dragon/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
+excerpt: "Era of Chaos Drago nero. Drago nero Unità. Re dei Draghi neri. Era of Chaos Un sanguinario tiranno siede all'apice alla catena alimentare del Sottosuolo. Nemmeno gli incantesimi più potenti possono scalfirlo."
 unitID: 707
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Drago nero"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/it/units/Unit Rank SSR/)
+ **Rango:** [SSR](/it/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

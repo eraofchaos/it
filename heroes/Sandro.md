@@ -4,7 +4,7 @@ permalink: /heroes/Sandro/
 excerpt: "Era of Chaos Sandro. Sandro. Sandro è un negromante che ha esplorato ogni angolo di Enroth e dell'Erathia. Attualmente combatte per Finneas Vilmar, Signore dei negromanti di Deyja."
 heroID: 60501
 QR: hero_60501
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Sandro"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Sandro è un negromante che ha esplorato ogni angolo di Enroth e dell'Erathia. Attualmente combatte per Finneas Vilmar, Signore dei negromanti di Deyja.
 ## Dettagli
- **Profession:** ![Negromante](/images/h/h_prof_6.png) Negromante
+ **Profession:** ![Negromante](/images/h/h_prof_6.png)  [Negromante](/it/heroes/Profession Necromancer/)
 
- **Race:** Necropoli
+ **Fazione::** [Necropoli](/it/heroes/Faction Necropolis/)
 
- **Rate:** SSR
+ **Rango:** [SSR](/it/heroes/Hero Rank SSR/)
 
  **User Rate:** SSR
 

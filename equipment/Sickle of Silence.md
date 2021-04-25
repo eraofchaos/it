@@ -2,7 +2,7 @@
 title: "Falce del Silenzio"
 permalink: /equipment/Sickle of Silence/
 excerpt: "Era of Chaos Falce del Silenzio. Falce del Silenzio"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Sickle of Silence.md"
 toc: false

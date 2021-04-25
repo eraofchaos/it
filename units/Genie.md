@@ -1,9 +1,9 @@
 ---
 title: "Genio"
 permalink: /units/Genie/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
+excerpt: "Era of Chaos Genio. Genio Unità. Genio superiore. Era of Chaos Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
 unitID: 605
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Genio"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

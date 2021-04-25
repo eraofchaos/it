@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-12 Guerra civile alla Roccaforte"
 permalink: /Main Story/Chapter 10_12/
 excerpt: "Capitolo 10 - 12. Era of Chaos  Storia principale - Capitolo 10_12. 10-12 Guerra civile alla Roccaforte"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 10_12.md"
 toc: false

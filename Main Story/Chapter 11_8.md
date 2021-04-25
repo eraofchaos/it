@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-8 Una rapida battaglia"
 permalink: /Main Story/Chapter 11_8/
 excerpt: "Capitolo 11 - 8. Era of Chaos  Storia principale - Capitolo 11_8. 11-8 Una rapida battaglia"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 11_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Dispositivo di controllo"
 permalink: /equipment/Control System/
 excerpt: "Era of Chaos Dispositivo di controllo. Dispositivo di controllo"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Control System.md"
 toc: false

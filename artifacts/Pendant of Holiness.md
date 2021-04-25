@@ -2,7 +2,7 @@
 title: "Manufatti - Alleanza Angelica - Ciondolo della Santità"
 permalink: /artifacts/Pendant of Holiness/
 excerpt: "Era of Chaos  Alleanza Angelica - Ciondolo della Santità. Una collana appartenuta a un Angelo. Uno dei componenti dell'Alleanza Angelica."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Pendant of Holiness.md"
 toc: false

@@ -1,9 +1,9 @@
 ---
 title: "Naga"
 permalink: /units/Naga/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue."
+excerpt: "Era of Chaos Naga. Naga Unità. Regina delle Naga. Era of Chaos Questi mostri dalle molte braccia sono nati per combattere. Più debole è il loro nemico, maggiore è la loro brama di sangue."
 unitID: 606
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Naga"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/it/units/Unit Rank SSR/)
+ **Rango:** [SSR](/it/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

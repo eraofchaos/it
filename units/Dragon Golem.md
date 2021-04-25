@@ -1,9 +1,9 @@
 ---
 title: "Golem draconico"
 permalink: /units/Dragon Golem/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'apice della tecnologia degli Gnomi. Ogni singola parte di questa fusione tra macchina e magia trabocca di un potere inesauribile."
+excerpt: "Era of Chaos Golem draconico. Golem draconico Unità. null. Era of Chaos L'apice della tecnologia degli Gnomi. Ogni singola parte di questa fusione tra macchina e magia trabocca di un potere inesauribile."
 unitID: 609
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Golem draconico"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/it/units/Unit Rank Commander/)
+ **Rango:** [Comandante](/it/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

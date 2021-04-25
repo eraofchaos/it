@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-13 Dilaga la crisi"
 permalink: /Main Story/Chapter 10_13/
 excerpt: "Capitolo 10 - 13. Era of Chaos  Storia principale - Capitolo 10_13. 10-13 Dilaga la crisi"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 10_13.md"
 toc: false

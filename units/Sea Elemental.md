@@ -1,9 +1,9 @@
 ---
 title: "Elementale del mare"
 permalink: /units/Sea Elemental/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
+excerpt: "Era of Chaos Elementale del mare. Elementale del mare Unità. Elementale delle maree. Era of Chaos Nato nelle profondità oceaniche, questo spirito abissale brandisce il potere del mare per distruggere i propri avversari."
 unitID: 9903
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Elementale del mare"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/it/units/Unit Rank R/)
+ **Rango:** [R](/it/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 

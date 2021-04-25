@@ -1,9 +1,9 @@
 ---
 title: "Medusa"
 permalink: /units/Medusa/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
+excerpt: "Era of Chaos Medusa. Medusa Unità. Regina Medusa. Era of Chaos Donne bellissime, con corpi sinuosi e chiome serpentine. I loro occhi gelidi trasformano chiunque ne incroci lo sguardo in solida pietra."
 unitID: 704
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Medusa"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

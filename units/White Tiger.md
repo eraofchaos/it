@@ -1,9 +1,9 @@
 ---
 title: "Tigre bianca"
 permalink: /units/White Tiger/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia."
+excerpt: "Era of Chaos Tigre bianca. Tigre bianca Unità. null. Era of Chaos La Tigre bianca usa il proprio devastante spirito per colpire la linea difensiva avversaria dove è più debole, e può scatenare una pestilenza per cambiare le sorti della battaglia."
 unitID: 809
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Tigre bianca"
 toc: true
@@ -26,7 +26,7 @@ toc: true
 
  **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [Comandante](/it/units/Unit Rank Commander/)
+ **Rango:** [Comandante](/it/units/Unit Rank Commander/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

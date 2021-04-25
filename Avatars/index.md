@@ -2,15 +2,15 @@
 title: "Cornice Avatar e Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cornice Avatar e Avatar. Cornice Avatar e Avatar"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "index.md"
 toc: false
 classes: wide
 ---
 
-  |  Nr | I | Avatar | Open | Descrizione |
-  |:----|:-:|:-----------|:----:|:--------------|
+  |  Nr | Icon | Avatar | Open | Descrizione |
+  |:----|:----:|:-----------|:----:|:--------------|
   | 1 | ![Ala rossa](/images/a/avatarFrame_83.png) | [Ala rossa](/it/Avatars/Foolbatt's Squama/) | + | Cornice avatar Ala rossa |
   | 2 | ![Amore di ghiaccio e fuoco](/images/a/avatarFrame_28.png) | [Amore di ghiaccio e fuoco](/it/Avatars/Love of Ice and Fire/) | + | Cornice avatar Amore di ghiaccio e fuoco |
   | 3 |  | [Anima della Natura](/it/Avatars/Nature's Soul/) | - | Cornice avatar Anima della Natura |

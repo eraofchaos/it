@@ -2,7 +2,7 @@
 title: "Scudo d'acciaio"
 permalink: /equipment/Steel Shield/
 excerpt: "Era of Chaos Scudo d'acciaio. Scudo d'acciaio"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Steel Shield.md"
 toc: false

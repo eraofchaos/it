@@ -1,9 +1,9 @@
 ---
 title: "Efreet"
 permalink: /units/Efreeti/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
+excerpt: "Era of Chaos Efreet. Efreet Unità. Efreet Sultano. Era of Chaos Gli Efreet nascono nei fiammeggianti calderoni dell'Inferno. La loro magia riempie l'aria stessa di fiamme."
 unitID: 506
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Efreet"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 

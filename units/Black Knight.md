@@ -1,9 +1,9 @@
 ---
 title: "Cavaliere nero"
 permalink: /units/Black Knight/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
+excerpt: "Era of Chaos Cavaliere nero. Cavaliere nero Unità. Terrore in marcia. Era of Chaos I Cavalieri neri sono posseduti da incantesimi terrificanti. Vagano per la Necropoli massacrando ogni essere vivente che osi mettersi sul loro cammino."
 unitID: 306
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Cavaliere nero"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SSR](/it/units/Unit Rank SSR/)
+ **Rango:** [SSR](/it/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

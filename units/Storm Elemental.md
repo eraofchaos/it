@@ -1,9 +1,9 @@
 ---
 title: "Elementale tempesta"
 permalink: /units/Storm Elemental/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
+excerpt: "Era of Chaos Elementale tempesta. Elementale tempesta Unità. Tempesta di fulmini. Era of Chaos Un'entità di pura energia, nata dalle battaglie degli Elementali dell'aria. Chi ha il coraggio di affrontarlo deve fare i conti con il suo potentissimo attacco elettrico."
 unitID: 902
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Elementale tempesta"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 

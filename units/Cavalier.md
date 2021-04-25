@@ -1,9 +1,9 @@
 ---
 title: "Catafratto"
 permalink: /units/Cavalier/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
+excerpt: "Era of Chaos Catafratto. Catafratto Unità. Cavalieri campioni. Era of Chaos I Catafratti travolgono i nemici a bordo dei propri imponenti destrieri corazzati. Molte vittorie portano il marchio di questi guerrieri pressoché invincibili."
 unitID: 106
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Catafratto"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 

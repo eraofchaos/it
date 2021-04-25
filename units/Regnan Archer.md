@@ -1,9 +1,9 @@
 ---
 title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
+excerpt: "Era of Chaos Arciere di Regna. Arciere di Regna Unità. null. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Arciere di Regna"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x1](/it/units/Unit Member x1/)
 
- **Rank:** [SSR](/it/units/Unit Rank SSR/)
+ **Rango:** [SSR](/it/units/Unit Rank SSR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

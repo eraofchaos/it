@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-15 Pierpont"
 permalink: /Main Story/Chapter 18_15/
 excerpt: "Capitolo 18 - 15. Era of Chaos  Storia principale - Capitolo 18_15. 18-15 Pierpont"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 18_15.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Zanne feroci"
 permalink: /equipment/Ferocious Fangs/
 excerpt: "Era of Chaos Zanne feroci. Zanne feroci"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Ferocious Fangs.md"
 toc: false

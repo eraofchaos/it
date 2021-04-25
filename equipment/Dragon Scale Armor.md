@@ -2,7 +2,7 @@
 title: "Armatura di squame di Drago"
 permalink: /equipment/Dragon Scale Armor/
 excerpt: "Era of Chaos Armatura di squame di Drago. Armatura di squame di Drago"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Dragon Scale Armor.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Viveur"
 permalink: /Avatars/Social Butterfly/
 excerpt: "Era of Chaos  Viveur"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Social Butterfly.md"
 toc: false

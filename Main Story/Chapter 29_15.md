@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-15 L'abisso di Roccanera"
 permalink: /Main Story/Chapter 29_15/
 excerpt: "Capitolo 29 - 15. Era of Chaos  Storia principale - Capitolo 29_15. 29-15 L'abisso di Roccanera"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 29_15.md"
 toc: false

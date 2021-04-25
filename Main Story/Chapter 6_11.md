@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 - 6-11 Dalla parte della città"
 permalink: /Main Story/Chapter 6_11/
 excerpt: "Capitolo 6 - 11. Era of Chaos  Storia principale - Capitolo 6_11. 6-11 Dalla parte della città"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 6_11.md"
 toc: false

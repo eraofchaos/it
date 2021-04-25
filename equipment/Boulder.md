@@ -2,7 +2,7 @@
 title: "Macigno"
 permalink: /equipment/Boulder/
 excerpt: "Era of Chaos Macigno. Macigno"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Boulder.md"
 toc: false

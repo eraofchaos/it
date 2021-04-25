@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Units"
 permalink: /units/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Faction Inferno"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
  [Confluenza](/it/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--info} [Castello](/it/units/Faction Castle/){: .btn .btn--primary} [Torre](/it/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/it/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/it/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Folletto](/images/u/ti_xiaoemo.jpg) | [Folletto](/it/units/Imp/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Famiglio  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/it/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |

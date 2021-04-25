@@ -1,9 +1,9 @@
 ---
 title: "Vampiro"
 permalink: /units/Vampire/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
+excerpt: "Era of Chaos Vampiro. Vampiro Unità. Signore dei Vampiri. Era of Chaos I Vampiri sono ligi ai propri antichi rituali aristocratici. Possono sembrare affascinanti, quasi cavallereschi, ma un semplice morso dei loro canini è un'inappellabile condanna a morte."
 unitID: 304
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Vampiro"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 

@@ -4,7 +4,7 @@ permalink: /heroes/Ryland/
 excerpt: "Era of Chaos Ryland. Ryland. Ryland è stato il primo, e finora unico, umano a essere stato accettato dal Circolo degli Elfi Anziani. Si dice scherzando che sia lui stesso un Elfo, reincarnato nel corpo di un umano."
 heroID: 60303
 QR: hero_60303
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Ryland"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Ryland è stato il primo, e finora unico, umano a essere stato accettato dal Circolo degli Elfi Anziani. Si dice scherzando che sia lui stesso un Elfo, reincarnato nel corpo di un umano.
 ## Dettagli
- **Profession:** ![Ranger](/images/h/h_prof_3.png) Ranger
+ **Profession:** ![Ranger](/images/h/h_prof_3.png)  [Ranger](/it/heroes/Profession Ranger/)
 
- **Race:** Baluardo
+ **Fazione::** [Baluardo](/it/heroes/Faction Rampart/)
 
- **Rate:** SR
+ **Rango:** [SR](/it/heroes/Hero Rank SR/)
 
  **User Rate:** R
 

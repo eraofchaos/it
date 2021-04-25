@@ -4,7 +4,7 @@ permalink: /heroes/Mutare/
 excerpt: "Era of Chaos Mutare. Mutare. Mutare, nuova Signora di Nighon, è in grado fin dalla nascita di comandare i Draghi, un'abilità che la rende pressoché invincibile in battaglia."
 heroID: 61301
 QR: hero_61301
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Mutare"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Mutare, nuova Signora di Nighon, è in grado fin dalla nascita di comandare i Draghi, un'abilità che la rende pressoché invincibile in battaglia.
 ## Dettagli
- **Profession:** ![Signore Supremo](/images/h/h_prof_16.png) Signore Supremo
+ **Profession:** ![Signore Supremo](/images/h/h_prof_16.png)  [Signore Supremo](/it/heroes/Profession Overlord/)
 
- **Race:** Dungeon
+ **Fazione::** [Dungeon](/it/heroes/Faction Dungeon/)
 
- **Rate:** R
+ **Rango:** [R](/it/heroes/Hero Rank R/)
 
  **User Rate:** R
 

@@ -1,9 +1,9 @@
 ---
 title: "Spadaccino"
 permalink: /units/Swordsman/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
+excerpt: "Era of Chaos Spadaccino. Spadaccino Unità. Crociato. Era of Chaos I Crociati accolgono tra le proprie file solo i guerrieri più temerari ed esperti. Le loro tecniche di combattimento sono rinomate in tutto il Regno."
 unitID: 104
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Spadaccino"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 

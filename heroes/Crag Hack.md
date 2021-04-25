@@ -4,7 +4,7 @@ permalink: /heroes/Crag Hack/
 excerpt: "Era of Chaos Crag Hack. Crag Hack. Crag Hack un tempo era uno sconosciuto eroe di Enroth che aveva deciso di fare vela per l'Erathia. Lì ha trovato una terra devastata dalla guerra, luogo ideale per mettere a frutto le sue abilità."
 heroID: 60602
 QR: hero_60602
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Crag Hack"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Crag Hack un tempo era uno sconosciuto eroe di Enroth che aveva deciso di fare vela per l'Erathia. Lì ha trovato una terra devastata dalla guerra, luogo ideale per mettere a frutto le sue abilità.
 ## Dettagli
- **Profession:** ![Barbaro](/images/h/h_prof_7.png) Barbaro
+ **Profession:** ![Barbaro](/images/h/h_prof_7.png)  [Barbaro](/it/heroes/Profession Barbarian/)
 
- **Race:** Roccaforte
+ **Fazione::** [Roccaforte](/it/heroes/Faction Stronghold/)
 
- **Rate:** SR
+ **Rango:** [SR](/it/heroes/Hero Rank SR/)
 
  **User Rate:** R+
 

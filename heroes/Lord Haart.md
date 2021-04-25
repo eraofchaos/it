@@ -4,7 +4,7 @@ permalink: /heroes/Lord Haart/
 excerpt: "Era of Chaos Lord Haart. Lord Haart. Lord Haart, il generale tornato dalla morte. Alla testa del suo esercito di non morti, detiene un potere ancora più formidabile di quello che aveva in vita."
 heroID: 60401
 QR: hero_60401
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Lord Haart"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Lord Haart, il generale tornato dalla morte. Alla testa del suo esercito di non morti, detiene un potere ancora più formidabile di quello che aveva in vita.
 ## Dettagli
- **Profession:** ![Cavaliere della Morte](/images/h/h_prof_5.png) Cavaliere della Morte
+ **Profession:** ![Cavaliere della Morte](/images/h/h_prof_5.png)  [Cavaliere della Morte](/it/heroes/Profession Death Knight/)
 
- **Race:** Necropoli
+ **Fazione::** [Necropoli](/it/heroes/Faction Necropolis/)
 
- **Rate:** SSR
+ **Rango:** [SSR](/it/heroes/Hero Rank SSR/)
 
  **User Rate:** SR-
 

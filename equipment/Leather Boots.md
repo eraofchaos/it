@@ -2,7 +2,7 @@
 title: "Stivali di cuoio"
 permalink: /equipment/Leather Boots/
 excerpt: "Era of Chaos Stivali di cuoio. Stivali di cuoio"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Leather Boots.md"
 toc: false

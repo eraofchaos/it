@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-13 L'incubo"
 permalink: /Main Story/Chapter 17_13/
 excerpt: "Capitolo 17 - 13. Era of Chaos  Storia principale - Capitolo 17_13. 17-13 L'incubo"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 17_13.md"
 toc: false

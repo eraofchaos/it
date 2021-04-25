@@ -1,9 +1,9 @@
 ---
 title: "Mosca serpente"
 permalink: /units/Serpent Fly/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie."
+excerpt: "Era of Chaos Mosca serpente. Mosca serpente Unità. Mosca drago. Era of Chaos Rapidissimi ricettacoli di epidemie, che usano le prede come incubatrici per la propria progenie."
 unitID: 803
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Mosca serpente"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 

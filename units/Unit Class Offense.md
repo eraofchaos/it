@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Unit Class Offense"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [A distanza](/it/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/it/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/it/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/it/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/it/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
   | 2 | ![Campione oscuro](/images/u/ti_sishen.jpg) | [Campione oscuro](/it/units/Dark Champion/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |

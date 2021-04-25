@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 28 - 28-5  Brigantaggio"
 permalink: /Underground/Chapter 28_5/
 excerpt: "Capitolo 28 - 5. Era of Chaos  Sottosuolo - Capitolo 28_5. 28-5  Brigantaggio"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Chapter 28_5.md"
 toc: false

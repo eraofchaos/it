@@ -1,9 +1,9 @@
 ---
 title: "Aeronave magica"
 permalink: /units/Magic Airship/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
+excerpt: "Era of Chaos Aeronave magica. Aeronave magica Unità. null. Era of Chaos L'immensa vela rotonda si erge sul robusto scafo della nave, facendola librare oltre le nuvole, là dove l'aria è più limpida."
 unitID: 608
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Aeronave magica"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

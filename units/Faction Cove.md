@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Faction Cove"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
 
  [Confluenza](/it/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--info} [Castello](/it/units/Faction Castle/){: .btn .btn--primary} [Torre](/it/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/it/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/it/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Veggente di Regna](/images/u/ti_haihou.jpg) | [Veggente di Regna](/it/units/Regnan Seer/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Elementale delle maree  |
   | 2 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Antico mostro marino  |

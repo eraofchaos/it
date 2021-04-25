@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "index.md"
 toc: false
@@ -10,15 +10,15 @@ classes: wide
 ---
   by Fazione: [Confluenza](/it/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--info} [Castello](/it/units/Faction Castle/){: .btn .btn--primary} [Torre](/it/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/it/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/it/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
 
-  by Class: [A distanza](/it/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/it/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/it/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/it/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/it/units/Unit Class Defense/){: .btn .btn--info} 
+  by Classe: [A distanza](/it/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/it/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/it/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/it/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/it/units/Unit Class Defense/){: .btn .btn--info} 
 
-  by Rank: [R](/it/units/Unit Rank R/){: .btn .btn--primary} [SSR](/it/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/it/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/it/units/Unit Rank SR/){: .btn .btn--danger} 
+  by Rango: [R](/it/units/Unit Rank R/){: .btn .btn--primary} [SSR](/it/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/it/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/it/units/Unit Rank SR/){: .btn .btn--danger} 
 
   by Members: [x9](/it/units/Unit Member x9/){: .btn .btn--primary} [x1](/it/units/Unit Member x1/){: .btn .btn--success} [x4](/it/units/Unit Member x4/){: .btn .btn--warning} 
 
   by Stars: [<i class="fas fa-star"/>](/it/units/Star 1/){: .btn .btn--primary} [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/){: .btn .btn--success} [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/){: .btn .btn--warning} 
 
-  | Nr | I |         Nome        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Nome        |   Type   | Awake |  Rango  |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Addestratore di squali](/images/u/ti_xunshashi.jpg) | [Addestratore di squali](/it/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Cavalcasquali  |
   | 2 | ![Aeronave magica](/images/u/ti_reqiqiu.jpg) | [Aeronave magica](/it/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |

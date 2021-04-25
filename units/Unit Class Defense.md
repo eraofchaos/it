@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Unit Class Defense"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [A distanza](/it/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/it/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/it/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/it/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/it/units/Unit Class Defense/){: .btn .btn--info} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Mummia](/images/u/ti_munaiyi.jpg) | [Mummia](/it/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |
   | 2 | ![Folletto](/images/u/ti_xiaoemo.jpg) | [Folletto](/it/units/Imp/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Famiglio  |

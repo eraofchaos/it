@@ -2,7 +2,7 @@
 title: "Manufatti - Arco del Tiratore esperto"
 permalink: /artifacts/Bow of the Sharpshooter/
 excerpt: "Era of Chaos  Arco del Tiratore esperto. Arco del Tiratore esperto Reliquia sacra realizzata usando i tesori degli Elfi. Può aumentare l'attacco a distanza."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Bow of the Sharpshooter.md"
 toc: false

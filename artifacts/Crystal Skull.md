@@ -2,7 +2,7 @@
 title: "Manufatti - Mela dell'Eden - Teschio di cristallo"
 permalink: /artifacts/Crystal Skull/
 excerpt: "Era of Chaos  Mela dell'Eden - Teschio di cristallo. Un teschio scolpito nel cristallo da una civiltà sconosciuta. Ha il potere di scrutare nel cuore degli uomini."
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Crystal Skull.md"
 toc: false

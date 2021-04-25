@@ -1,9 +1,9 @@
 ---
 title: "Gnoll"
 permalink: /units/Gnoll/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
+excerpt: "Era of Chaos Gnoll. Gnoll Unità. Guerriero gnoll. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Gnoll"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/it/units/Unit Rank R/)
+ **Rango:** [R](/it/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 

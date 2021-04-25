@@ -4,7 +4,7 @@ permalink: /heroes/Melodia/
 excerpt: "Era of Chaos Melodia. Melodia. Melodia è una druida baciata dalla fortuna. È in grado di ottenere vittorie incredibili anche nelle situazioni più disperate. Le sue truppe sono ben felici di combattere al suo comando."
 heroID: 60201
 QR: hero_60201
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Melodia"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Melodia è una druida baciata dalla fortuna. È in grado di ottenere vittorie incredibili anche nelle situazioni più disperate. Le sue truppe sono ben felici di combattere al suo comando.
 ## Dettagli
- **Profession:** ![Druido](/images/h/h_prof_4.png) Druido
+ **Profession:** ![Druido](/images/h/h_prof_4.png)  [Druido](/it/heroes/Profession Druid/)
 
- **Race:** Baluardo
+ **Fazione::** [Baluardo](/it/heroes/Faction Rampart/)
 
- **Rate:** SSR-
+ **Rango:** [SSR-](/it/heroes/Hero Rank SSR-/)
 
  **User Rate:** R
 

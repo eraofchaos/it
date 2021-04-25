@@ -4,7 +4,7 @@ permalink: /heroes/Fiur/
 excerpt: "Era of Chaos Fiur. Fiur. Pur giovane e privo di vera esperienza, Fiur ha un potere senza eguali. Si pensa che col tempo diventerà uno degli eroi più potenti della Confluenza."
 heroID: 60704
 QR: hero_60704
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Fiur"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Pur giovane e privo di vera esperienza, Fiur ha un potere senza eguali. Si pensa che col tempo diventerà uno degli eroi più potenti della Confluenza.
 ## Dettagli
- **Profession:** ![Viaggiatore planare](/images/h/h_prof_13.png) Viaggiatore planare
+ **Profession:** ![Viaggiatore planare](/images/h/h_prof_13.png)  [Viaggiatore planare](/it/heroes/Profession Planeswalker/)
 
- **Race:** Confluenza
+ **Fazione::** [Confluenza](/it/heroes/Faction Conflux/)
 
- **Rate:** R
+ **Rango:** [R](/it/heroes/Hero Rank R/)
 
  **User Rate:** R
 

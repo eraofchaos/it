@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Unit Rank R"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/it/units/Unit Rank R/){: .btn .btn--primary} [SSR](/it/units/Unit Rank SSR/){: .btn .btn--success} [Comandante](/it/units/Unit Rank Commander/){: .btn .btn--warning} [SR](/it/units/Unit Rank SR/){: .btn .btn--danger} 
 
-  | Nr | I |         Name        |   Type   | Awake |    Rank   |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
+  | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Folletto](/images/u/ti_xiaoemo.jpg) | [Folletto](/it/units/Imp/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 51.3 | 1224 |  Famiglio  |
   | 2 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/it/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |

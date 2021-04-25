@@ -1,9 +1,9 @@
 ---
 title: "Scheletro"
 permalink: /units/Skeleton/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
+excerpt: "Era of Chaos Scheletro. Scheletro Unità. Scheletro guerriero. Era of Chaos Questi fragili mucchietti d'ossa sembrano facili da sbriciolare, ma in poco tempo sono capaci di frantumare il morale dei propri nemici."
 unitID: 301
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Scheletro"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/it/units/Unit Rank R/)
+ **Rango:** [R](/it/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 

@@ -4,7 +4,7 @@ permalink: /heroes/Kendal/
 excerpt: "Era of Chaos Kendal. Kendal. Un fedele generale al servizio della famiglia reale dell'Erathia. Dalla morte di Re Cuor di Grifone, Morgan Kendal ha assunto il ruolo di sovrintendente, nell'attesa del ritorno del legittimo erede al trono."
 heroID: 60104
 QR: hero_60104
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Kendal"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Un fedele generale al servizio della famiglia reale dell'Erathia. Dalla morte di Re Cuor di Grifone, Morgan Kendal ha assunto il ruolo di sovrintendente, nell'attesa del ritorno del legittimo erede al trono.
 ## Dettagli
- **Profession:** ![Cavaliere](/images/h/h_prof_1.png) Cavaliere
+ **Profession:** ![Cavaliere](/images/h/h_prof_1.png)  [Cavaliere](/it/heroes/Profession Knight/)
 
- **Race:** Castello
+ **Fazione::** [Castello](/it/heroes/Faction Castle/)
 
- **Rate:** SR
+ **Rango:** [SR](/it/heroes/Hero Rank SR/)
 
  **User Rate:** R
 

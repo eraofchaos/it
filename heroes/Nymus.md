@@ -4,7 +4,7 @@ permalink: /heroes/Nymus/
 excerpt: "Era of Chaos Nymus. Nymus. Nymus è uno spirito esperto di combattimenti. Per le sue competenze, l'Arcidiavolo le ha affidato il compito di addestrare i Demoni dell'abisso. Il suo ritorno sul campo di battaglia scatena il terrore nel cuore dei nemici."
 heroID: 60803
 QR: hero_60803
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Nymus"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Nymus è uno spirito esperto di combattimenti. Per le sue competenze, l'Arcidiavolo le ha affidato il compito di addestrare i Demoni dell'abisso. Il suo ritorno sul campo di battaglia scatena il terrore nel cuore dei nemici.
 ## Dettagli
- **Profession:** ![Demoniaco](/images/h/h_prof_9.png) Demoniaco
+ **Profession:** ![Demoniaco](/images/h/h_prof_9.png)  [Demoniaco](/it/heroes/Profession Demoniac/)
 
- **Race:** Inferno
+ **Fazione::** [Inferno](/it/heroes/Faction Inferno/)
 
- **Rate:** SR
+ **Rango:** [SR](/it/heroes/Hero Rank SR/)
 
  **User Rate:** R+
 

@@ -1,9 +1,9 @@
 ---
 title: "Lich"
 permalink: /units/Lich/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
+excerpt: "Era of Chaos Lich. Lich Unità. Lich potenziato. Era of Chaos I Lich abitano corpi avvizziti, contorti e marcescenti. Odiano profondamente tutti gli esseri viventi e non bramano altro che morte, pestilenza e distruzione."
 unitID: 305
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Lich"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 

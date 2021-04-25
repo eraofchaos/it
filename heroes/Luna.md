@@ -4,7 +4,7 @@ permalink: /heroes/Luna/
 excerpt: "Era of Chaos Luna. Luna. Luna abitava a Enroth quando le giunse notizia che un Elementale si era manifestato nell'Erathia. Convinta di poter carpire da esso incredibili magie, partì per mare per studiarne i segreti."
 heroID: 60701
 QR: hero_60701
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Luna"
 toc: true
@@ -13,11 +13,11 @@ toc: true
 
  **Descrizione:** Luna abitava a Enroth quando le giunse notizia che un Elementale si era manifestato nell'Erathia. Convinta di poter carpire da esso incredibili magie, partì per mare per studiarne i segreti.
 ## Dettagli
- **Profession:** ![Elementalista](/images/h/h_prof_14.png) Elementalista
+ **Profession:** ![Elementalista](/images/h/h_prof_14.png)  [Elementalista](/it/heroes/Profession Elementalist/)
 
- **Race:** Confluenza
+ **Fazione::** [Confluenza](/it/heroes/Faction Conflux/)
 
- **Rate:** SR+
+ **Rango:** [SR+](/it/heroes/Hero Rank SR+/)
 
  **User Rate:** R
 

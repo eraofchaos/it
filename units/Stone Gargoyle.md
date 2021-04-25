@@ -1,9 +1,9 @@
 ---
 title: "Gargolla di pietra"
 permalink: /units/Stone Gargoyle/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
+excerpt: "Era of Chaos Gargolla di pietra. Gargolla di pietra Unità. . Era of Chaos Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Gargolla di pietra"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [SR](/it/units/Unit Rank SR/)
+ **Rango:** [SR](/it/units/Unit Rank SR/)
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 2/)
 

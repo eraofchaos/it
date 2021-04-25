@@ -1,9 +1,9 @@
 ---
 title: "Troglodita"
 permalink: /units/Troglodyte/
-excerpt: "Era of Chaos Unità. Unità. Era of Chaos Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
+excerpt: "Era of Chaos Troglodita. Troglodita Unità. Troglodita oscuro. Era of Chaos Una creatura sotterranea. La sua vista è limitata, ma possiede un acuto senso dell'olfatto con cui individua le prede nascoste."
 unitID: 701
-last_modified_at: 2021-04-23
+last_modified_at: 2021-04-25
 locale: it
 ref: "Troglodita"
 toc: true
@@ -23,7 +23,7 @@ toc: true
 
  **Members:** [x9](/it/units/Unit Member x9/)
 
- **Rank:** [R](/it/units/Unit Rank R/)
+ **Rango:** [R](/it/units/Unit Rank R/)
 
  **Starts:** [<i class="fas fa-star"/>](/it/units/Star 1/)
 
