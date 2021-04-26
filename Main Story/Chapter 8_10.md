@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-10 La città nel lago"
 permalink: /Main Story/Chapter 8_10/
 excerpt: "Capitolo 8 - 10. Era of Chaos  Storia principale - Capitolo 8_10. 8-10 La città nel lago"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 8_10.md"
 toc: false

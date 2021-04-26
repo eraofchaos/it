@@ -2,7 +2,7 @@
 title: "Backup - Assalto caric."
 permalink: /Backup/Charge Offensive/
 excerpt: "Era of Chaos  Assalto caric."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Charge Offensive.md"
 toc: false
@@ -24,6 +24,8 @@ classes: wide
 
 
 ## Tecnica speciale - **Assalto caricato** 
+
+  ![Assalto caricato](/images/b/backupIcon_1.png)
 
  **Skill Power:** 1204
 
@@ -50,6 +52,8 @@ classes: wide
 
 ## Tecnica campo di battaglia - **Tempesta letale** 
 
+  ![Tempesta letale](/images/b/backupSkill1Icon_1.png)
+
  **Tecnica campo di battaglia Power:** 1060
 
  **Tecnica campo di battaglia Unlock:** 5x [Pergamena dell'energia](/ItemsIT/con_830/)
@@ -74,6 +78,8 @@ classes: wide
 
 
 ## Tecnica globale - **Avanguardia** 
+
+  ![Avanguardia](/images/b/backupSkill2Icon_1.png)
 
  **Tecnica globale Power:** 1076
 

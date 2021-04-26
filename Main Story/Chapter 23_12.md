@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-12 Un bagno nel sangue di drago"
 permalink: /Main Story/Chapter 23_12/
 excerpt: "Capitolo 23 - 12. Era of Chaos  Storia principale - Capitolo 23_12. 23-12 Un bagno nel sangue di drago"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 23_12.md"
 toc: false

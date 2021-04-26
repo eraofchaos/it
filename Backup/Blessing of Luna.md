@@ -2,7 +2,7 @@
 title: "Backup - Benedizione di Luna"
 permalink: /Backup/Blessing of Luna/
 excerpt: "Era of Chaos  Benedizione di Luna"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Blessing of Luna.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Tecnica speciale - **Benedizione di Luna** 
 
+  ![Benedizione di Luna](/images/b/backupIcon_2.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Tecnica campo di battaglia - **Cura** 
 
+  ![Cura](/images/b/backupSkill1Icon_2.png)
+
  **Tecnica campo di battaglia Power:** 1060
 
  **Tecnica campo di battaglia Unlock:** 5x [Pergamena dell'energia](/ItemsIT/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Tecnica globale - **Fonte di energia** 
+
+  ![Fonte di energia](/images/b/backupSkill2Icon_2.png)
 
  **Tecnica globale Power:** 1076
 

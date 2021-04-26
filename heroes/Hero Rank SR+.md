@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SR+ -  Heroes"
 permalink: /heroes/Hero Rank SR+/
 excerpt: "Era of Chaos Hero Rank SR+. Hero Rank SR+. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Hero Rank SR+"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/it/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/it/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/it/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/it/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/it/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Nome    |  Fazione:   |  Profession   |  Rango  |    Specialty     | User Rate  | 
+  | Nr |  I |    Nome    |  Fazione  |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Luna](/images/h/h_Luna.jpg) | [Luna](/it/heroes/Luna/) | Confluenza | Elementalista | **SR+** |  Muro infernale | R |
   | 2 | ![Sandro (umano)](/images/h/h_HumanSandro.jpg) | [Sandro (umano)](/it/heroes/Human Sandro/) | Necropoli | Negromante | **SR+** |  Anima immortale | SR |

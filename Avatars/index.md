@@ -2,7 +2,7 @@
 title: "Cornice Avatar e Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cornice Avatar e Avatar. Cornice Avatar e Avatar"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "index.md"
 toc: false
@@ -27,7 +27,7 @@ classes: wide
   | 14 | ![Collezionista - Base](/images/a/avatarFrame_71.png) | [Collezionista - Base](/it/Avatars/Collector - Basic/) | + | Collezionista - Base |
   | 15 | ![Collezionista - Esperto](/images/a/avatarFrame_59.png) | [Collezionista - Esperto](/it/Avatars/Collector - Expert/) | + | Cornice avatar esclusiva Prova dell'Emblema sacro |
   | 16 | ![Collezionista di tesori](/images/a/avatarFrame_19.png) | [Collezionista di tesori](/it/Avatars/Treasure Collector/) | + | Cornice avatar Collezionista di tesori |
-  | 17 |  | [Comandante letale](/it/Avatars/Deadly Commander/) | + | Cornice avatar Comandante letale |
+  | 17 | ![Comandante letale](/images/a/avatarFrame_21.png) | [Comandante letale](/it/Avatars/Deadly Commander/) | + | Cornice avatar Comandante letale |
   | 18 | ![Comandante tattico](/images/a/avatarFrame_20.png) | [Comandante tattico](/it/Avatars/Tactical Commander/) | + | Cornice avatar Comandante tattico |
   | 19 | ![Combattiamo!](/images/a/avatarFrame_84.png) | [Combattiamo!](/it/Avatars/Let's Fight!/) | - | Cornice avatar In guerra |
   | 20 | ![Commemorazione onoraria NFL](/images/a/avatarFrame_94.png) | [Commemorazione onoraria NFL](/it/Avatars/NFL Honors Commemoration/) | + | Cornice avatar Commemorazione onoraria NFL |

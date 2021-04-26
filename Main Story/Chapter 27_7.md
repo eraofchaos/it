@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-7 Sostentamento sotterraneo"
 permalink: /Main Story/Chapter 27_7/
 excerpt: "Capitolo 27 - 7. Era of Chaos  Storia principale - Capitolo 27_7. 27-7 Sostentamento sotterraneo"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 27_7.md"
 toc: false

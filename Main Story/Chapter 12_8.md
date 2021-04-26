@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-8 Battaglia lampo"
 permalink: /Main Story/Chapter 12_8/
 excerpt: "Capitolo 12 - 8. Era of Chaos  Storia principale - Capitolo 12_8. 12-8 Battaglia lampo"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 12_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pentacolo di lava"
 permalink: /equipment/Molten Pentagram/
 excerpt: "Era of Chaos Pentacolo di lava. Pentacolo di lava"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Molten Pentagram.md"
 toc: false

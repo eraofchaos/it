@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 17 La liberazione dell'impero"
 permalink: /Underground/Chapter 17/
 excerpt: "Capitolo 17 La liberazione dell'impero. Era of Chaos  Sottosuolo - Capitolo 17. La liberazione dell'impero"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 17.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2:  **100000x** <i class="fas fa-coins"/>
+ Ricompensa 2:  **100000x** <i class="fas fa-coins"/>
 
- Reward 3: **160 x** Star Points
+ Ricompensa 3: **160 x** Star Points
 
- Reward 4: **15 x** [Shiva](/ItemsIT/her_376/){: .btn .btn--era5}
+ Ricompensa 4: **15 x** [Shiva](/ItemsIT/her_376/){: .btn .btn--era5}
 

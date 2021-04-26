@@ -2,7 +2,7 @@
 title: "Backup - Caccia silvana"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Era of Chaos  Caccia silvana"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Hunt in the Forest.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Tecnica speciale - **Caccia silvana** 
 
+  ![Caccia silvana](/images/b/backupIcon_5.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Tecnica campo di battaglia - **Incentivo** 
 
+  ![Incentivo](/images/b/backupSkill1Icon_5.png)
+
  **Tecnica campo di battaglia Power:** 1060
 
  **Tecnica campo di battaglia Unlock:** 5x [Pergamena dell'energia](/ItemsIT/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Tecnica globale - **Rafforzamento** 
+
+  ![Rafforzamento](/images/b/backupSkill2Icon_5.png)
 
  **Tecnica globale Power:** 1076
 

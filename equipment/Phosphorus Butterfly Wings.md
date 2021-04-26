@@ -2,7 +2,7 @@
 title: "Ali di farfalla luminescenti"
 permalink: /equipment/Phosphorus Butterfly Wings/
 excerpt: "Era of Chaos Ali di farfalla luminescenti. Ali di farfalla luminescenti"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Phosphorus Butterfly Wings.md"
 toc: false

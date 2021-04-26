@@ -2,7 +2,7 @@
 title: "Stella divina"
 permalink: /equipment/Heavenly Star/
 excerpt: "Era of Chaos Stella divina. Stella divina"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Heavenly Star.md"
 toc: false

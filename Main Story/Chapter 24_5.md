@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-5 Il mistero della caverna"
 permalink: /Main Story/Chapter 24_5/
 excerpt: "Capitolo 24 - 5. Era of Chaos  Storia principale - Capitolo 24_5. 24-5 Il mistero della caverna"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 24_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 Un nuovo inizio"
 permalink: /Main Story/Chapter 6/
 excerpt: "Capitolo 6. Era of Chaos  Storia principale - Capitolo 6. Un nuovo inizio"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 6.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Completa Capitolo 6
 
- **Reward:**  **100x** <i class="fas fa-gem"/>
+ **Ricompensa:**  **100x** <i class="fas fa-gem"/>
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **3 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **1000x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **15000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **1500x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **400x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **400x** <i class="fas fa-gem"/>
 
- Reward 2: **10 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **10 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **20000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **2000x** [ESP unità](/ItemsIT/con_902/)
 

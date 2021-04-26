@@ -2,7 +2,7 @@
 title: "Supporto campo di battaglia"
 permalink: /Backup/
 excerpt: "Era of Chaos  Supporto campo di battaglia - I Maghi possono aprire un portale sul campo di battaglia per teletrasportarvi 3 unità di supporto e generare una potente aura magica. Questo portento terrorizzerà i tuoi nemici."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "index.md"
 toc: false
@@ -13,14 +13,14 @@ classes: wide
 
   I Maghi possono aprire un portale sul campo di battaglia per teletrasportarvi 3 unità di supporto e generare una potente aura magica. Questo portento terrorizzerà i tuoi nemici.
 
-  |  Nr  | Supporto campo di battaglia | Open Level | Tecnica speciale | Tecnica campo di battaglia | Tecnica globale |
-  |:-----|:---------------|:----------:|:--------------|:--------------|:-------------|
-  | 1  | [Assalto caric.](/it/Backup/Charge Offensive/) |  | Assalto caricato | Tempesta letale | Avanguardia |
-  | 2  | [Benedizione di Luna](/it/Backup/Blessing of Luna/) | 80 | Benedizione di Luna | Cura | Fonte di energia |
-  | 3  | [Attacco del Mietitore](/it/Backup/Scythe of the Death/) | 85 | Attacco del Mietitore | Urto | Erudizione |
-  | 4  | [Coercizione artica](/it/Backup/Arctic Coercion/) | 89 | Coercizione artica | Energia dirompente | Nutrimento |
-  | 5  | [Cerchio magico](/it/Backup/Spell Commandment/) | 93 | Cerchio magico | Campo di energia | Incandescenza |
-  | 6  | [Caccia silvana](/it/Backup/Hunt in the Forest/) | 97 | Caccia silvana | Incentivo | Rafforzamento |
+  |  Nr  | Icon | Supporto campo di battaglia | Open Level | Tecnica speciale | Tecnica campo di battaglia | Tecnica globale |
+  |:-----|------|:---------------|:----------:|:--------------|:--------------|:-------------|
+  | 1  | ![Assalto caric.](/images/b/backupIcon_1.png) | [Assalto caric.](/it/Backup/Charge Offensive/) |  | Assalto caricato | Tempesta letale | Avanguardia |
+  | 2  | ![Benedizione di Luna](/images/b/backupIcon_2.png) | [Benedizione di Luna](/it/Backup/Blessing of Luna/) | 80 | Benedizione di Luna | Cura | Fonte di energia |
+  | 3  | ![Attacco del Mietitore](/images/b/backupIcon_3.png) | [Attacco del Mietitore](/it/Backup/Scythe of the Death/) | 85 | Attacco del Mietitore | Urto | Erudizione |
+  | 4  | ![Coercizione artica](/images/b/backupIcon_4.png) | [Coercizione artica](/it/Backup/Arctic Coercion/) | 89 | Coercizione artica | Energia dirompente | Nutrimento |
+  | 5  | ![Cerchio magico](/images/b/backupIcon_6.png) | [Cerchio magico](/it/Backup/Spell Commandment/) | 93 | Cerchio magico | Campo di energia | Incandescenza |
+  | 6  | ![Caccia silvana](/images/b/backupIcon_5.png) | [Caccia silvana](/it/Backup/Hunt in the Forest/) | 97 | Caccia silvana | Incentivo | Rafforzamento |
 
 
 ## Tecnica speciale Level up costs:

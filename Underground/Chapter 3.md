@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 3 Le Rupi dei Grifoni"
 permalink: /Underground/Chapter 3/
 excerpt: "Capitolo 3 Le Rupi dei Grifoni. Era of Chaos  Sottosuolo - Capitolo 3. Le Rupi dei Grifoni"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 3.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **250x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **250x** <i class="fas fa-gem"/>
 
- Reward 2:  **20000x** <i class="fas fa-coins"/>
+ Ricompensa 2:  **20000x** <i class="fas fa-coins"/>
 
- Reward 3: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 3: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 4: **15 x** [Caterina](/ItemsIT/her_361/){: .btn .btn--era5}
+ Ricompensa 4: **15 x** [Caterina](/ItemsIT/her_361/){: .btn .btn--era5}
 

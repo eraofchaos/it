@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-9 Le origini degli orchi"
 permalink: /Main Story/Chapter 21_9/
 excerpt: "Capitolo 21 - 9. Era of Chaos  Storia principale - Capitolo 21_9. 21-9 Le origini degli orchi"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 21_9.md"
 toc: false

@@ -4,7 +4,7 @@ permalink: /heroes/Jenova/
 excerpt: "Era of Chaos Jenova. Jenova. Jenova è stata catturata da bambina e venduta come schiava dagli Elfi oscuri. Deve la propria libertà all'intervento di un Unicorno vendicativo. Questo l'ha spinta ad adorare tali misteriose creature della foresta, dedicando loro la propria intera vita. Nessuno conosce gli Unicorni meglio di Jenova, che è in grado di comandare la loro incredibile forza e velocità sul campo di battaglia."
 heroID: 60202
 QR: hero_60202
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Jenova"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Dettagli
  **Profession:** ![Ranger](/images/h/h_prof_3.png)  [Ranger](/it/heroes/Profession Ranger/)
 
- **Fazione::** [Baluardo](/it/heroes/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/heroes/Faction Rampart/)
 
  **Rango:** [R](/it/heroes/Hero Rank R/)
 

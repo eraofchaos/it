@@ -2,7 +2,7 @@
 title: "Backup - Attacco del Mietitore"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Era of Chaos  Attacco del Mietitore"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Scythe of the Death.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Tecnica speciale - **Attacco del Mietitore** 
 
+  ![Attacco del Mietitore](/images/b/backupIcon_3.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Tecnica campo di battaglia - **Urto** 
 
+  ![Urto](/images/b/backupSkill1Icon_3.png)
+
  **Tecnica campo di battaglia Power:** 1060
 
  **Tecnica campo di battaglia Unlock:** 5x [Pergamena dell'energia](/ItemsIT/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Tecnica globale - **Erudizione** 
+
+  ![Erudizione](/images/b/backupSkill2Icon_3.png)
 
  **Tecnica globale Power:** 1076
 

@@ -2,7 +2,7 @@
 title: "Spada del giudizio"
 permalink: /equipment/Judgment Sword/
 excerpt: "Era of Chaos Spada del giudizio. Spada del giudizio"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Judgment Sword.md"
 toc: false

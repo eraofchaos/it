@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-8 Ogni strada"
 permalink: /Main Story/Chapter 21_8/
 excerpt: "Capitolo 21 - 8. Era of Chaos  Storia principale - Capitolo 21_8. 21-8 Ogni strada"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 21_8.md"
 toc: false

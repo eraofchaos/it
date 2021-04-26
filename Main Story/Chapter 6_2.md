@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 - 6-2 Raduno di eserciti"
 permalink: /Main Story/Chapter 6_2/
 excerpt: "Capitolo 6 - 2. Era of Chaos  Storia principale - Capitolo 6_2. 6-2 Raduno di eserciti"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 6_2.md"
 toc: false

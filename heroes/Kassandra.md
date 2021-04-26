@@ -4,7 +4,7 @@ permalink: /heroes/Kassandra/
 excerpt: "Era of Chaos Kassandra. Kassandra. L'incredibile abilità in combattimento di Kassandra deriva dall'educazione spartana ricevuta in gioventù. Dopo essere stata lasciata a morire sul monte Taigeto, ha scelto di diventare una mercenaria."
 heroID: 62001
 QR: hero_62001
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Kassandra"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Dettagli
  **Profession:**  [Unknown](/it/heroes/Profession Unknown/)
 
- **Fazione::** [Esercito neutrale](/it/heroes/Faction Neutral Army/)
+ **Fazione:** [Esercito neutrale](/it/heroes/Faction Neutral Army/)
 
  **Rango:** [SSR-](/it/heroes/Hero Rank SSR-/)
 

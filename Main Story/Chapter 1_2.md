@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 1 - 1-2 Un castello in rovina"
 permalink: /Main Story/Chapter 1_2/
 excerpt: "Capitolo 1 - 2. Era of Chaos  Storia principale - Capitolo 1_2. 1-2 Un castello in rovina"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 1_2.md"
 toc: false

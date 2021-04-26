@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-3 Nell'abisso come in cielo"
 permalink: /Main Story/Chapter 28_3/
 excerpt: "Capitolo 28 - 3. Era of Chaos  Storia principale - Capitolo 28_3. 28-3 Nell'abisso come in cielo"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 28_3.md"
 toc: false

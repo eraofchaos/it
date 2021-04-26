@@ -2,7 +2,7 @@
 title: "Era of Chaos - Mare curativo - Questions with correct answers"
 permalink: /Healing Sea/
 excerpt: "Era of Chaos Mare curativo. List of ALL Mare curativo questions with correct answers"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "healingSea"
 toc: false
@@ -57,7 +57,7 @@ classes: wide
 
    **Correct Answer:** **B. Lo Gnomo** 
 
-   **Rewards:**  **300x Cristallo di sangue draconico** (Un cumulo di Cristalli di sangue draconico (risorsa di livello 4); si può usare per migliorare la Caserma.)
+   **Ricompense:**  **300x Cristallo di sangue draconico** (Un cumulo di Cristalli di sangue draconico (risorsa di livello 4); si può usare per migliorare la Caserma.)
 
    *Wrong Answer:* *A. L'Elfo del bosco* 
 
@@ -71,7 +71,7 @@ classes: wide
 
    **Correct Answer:** **A. È questo il dilemma.** 
 
-   **Rewards:**  **1x Coupon sconto** (Un coupon da utilizzare durante l'evento Mare curativo.)
+   **Ricompense:**  **1x Coupon sconto** (Un coupon da utilizzare durante l'evento Mare curativo.)
 
    *Wrong Answer:* *B. Non è questo il dilemma.* 
 
@@ -85,7 +85,7 @@ classes: wide
 
    **Correct Answer:** **B. I Kreegan** 
 
-   **Rewards:**  **1x Teletrasporto** (Permette l'utilizzo del teletrasporto nell'evento Mare curativo.)
+   **Ricompense:**  **1x Teletrasporto** (Permette l'utilizzo del teletrasporto nell'evento Mare curativo.)
 
    *Wrong Answer:* *A. Gli Orchi* 
 
@@ -99,7 +99,7 @@ classes: wide
 
    **Correct Answer:** **B. Voglio fare un Ciclope di neve.** 
 
-   **Rewards:**  **1x Teletrasporto** (Permette l'utilizzo del teletrasporto nell'evento Mare curativo.)
+   **Ricompense:**  **1x Teletrasporto** (Permette l'utilizzo del teletrasporto nell'evento Mare curativo.)
 
    *Wrong Answer:* *A. No.* 
 
@@ -113,7 +113,7 @@ classes: wide
 
    **Correct Answer:** **B. Minotauro** 
 
-   **Rewards:**  **1x Coupon sconto** (Un coupon da utilizzare durante l'evento Mare curativo.)
+   **Ricompense:**  **1x Coupon sconto** (Un coupon da utilizzare durante l'evento Mare curativo.)
 
    *Wrong Answer:* *A. Centauro* 
 
@@ -127,7 +127,7 @@ classes: wide
 
    **Correct Answer:** **B. Un Tiratore esperto** 
 
-   **Rewards:**  **300x Cristallo di sangue draconico** (Un cumulo di Cristalli di sangue draconico (risorsa di livello 4); si può usare per migliorare la Caserma.)
+   **Ricompense:**  **300x Cristallo di sangue draconico** (Un cumulo di Cristalli di sangue draconico (risorsa di livello 4); si può usare per migliorare la Caserma.)
 
    *Wrong Answer:* *A. Un Drago nero* 
 
@@ -141,7 +141,7 @@ classes: wide
 
    **Correct Answer:** **B. Il Drago d'oro** 
 
-   **Rewards:**  **1x Teletrasporto** (Permette l'utilizzo del teletrasporto nell'evento Mare curativo.)
+   **Ricompense:**  **1x Teletrasporto** (Permette l'utilizzo del teletrasporto nell'evento Mare curativo.)
 
    *Wrong Answer:* *A. Il Drago verde* 
 
@@ -155,7 +155,7 @@ classes: wide
 
    **Correct Answer:** **A. un indomabile spirito combattivo** 
 
-   **Rewards:**  **1x Coupon sconto** (Un coupon da utilizzare durante l'evento Mare curativo.)
+   **Ricompense:**  **1x Coupon sconto** (Un coupon da utilizzare durante l'evento Mare curativo.)
 
    *Wrong Answer:* *B. morale alto* 
 
@@ -169,7 +169,7 @@ classes: wide
 
    **Correct Answer:** **B. Demoni** 
 
-   **Rewards:**  **1x Coupon sconto** (Un coupon da utilizzare durante l'evento Mare curativo.)
+   **Ricompense:**  **1x Coupon sconto** (Un coupon da utilizzare durante l'evento Mare curativo.)
 
    *Wrong Answer:* *A. Angeli* 
 
@@ -183,7 +183,7 @@ classes: wide
 
    **Correct Answer:** **A. La colpa è mia** 
 
-   **Rewards:**  **300x Cristallo di sangue draconico** (Un cumulo di Cristalli di sangue draconico (risorsa di livello 4); si può usare per migliorare la Caserma.)
+   **Ricompense:**  **300x Cristallo di sangue draconico** (Un cumulo di Cristalli di sangue draconico (risorsa di livello 4); si può usare per migliorare la Caserma.)
 
    *Wrong Answer:* *B. La colpa è comunque tua* 
 
@@ -197,7 +197,7 @@ classes: wide
 
    **Correct Answer:** **B. Sottosuolo** 
 
-   **Rewards:**  **1x Teletrasporto** (Permette l'utilizzo del teletrasporto nell'evento Mare curativo.)
+   **Ricompense:**  **1x Teletrasporto** (Permette l'utilizzo del teletrasporto nell'evento Mare curativo.)
 
    *Wrong Answer:* *A. Roccaforte* 
 

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 Il ritorno della Regina"
 permalink: /Main Story/Chapter 2/
 excerpt: "Capitolo 2. Era of Chaos  Storia principale - Capitolo 2. Il ritorno della Regina"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 2.md"
 toc: false
@@ -25,23 +25,23 @@ classes: wide
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/30</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **3 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **5000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **5000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **1000x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">30/30</span>
 
- Reward 1:  **300x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **300x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **1500x** [ESP unità](/ItemsIT/con_902/)
 

@@ -2,7 +2,7 @@
 title: "Fiore del Signore Supremo"
 permalink: /equipment/Flower Overlord/
 excerpt: "Era of Chaos Fiore del Signore Supremo. Fiore del Signore Supremo"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Flower Overlord.md"
 toc: false

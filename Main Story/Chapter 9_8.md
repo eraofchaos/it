@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-8 Un evento inaspettato"
 permalink: /Main Story/Chapter 9_8/
 excerpt: "Capitolo 9 - 8. Era of Chaos  Storia principale - Capitolo 9_8. 9-8 Un evento inaspettato"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 9_8.md"
 toc: false

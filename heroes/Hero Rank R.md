@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank R -  Heroes"
 permalink: /heroes/Hero Rank R/
 excerpt: "Era of Chaos Hero Rank R. Hero Rank R. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Hero Rank R"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/it/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/it/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/it/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/it/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/it/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Nome    |  Fazione:   |  Profession   |  Rango  |    Specialty     | User Rate  | 
+  | Nr |  I |    Nome    |  Fazione  |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Wystan](/images/h/h_Wystan.jpg) | [Wystan](/it/heroes/Wystan/) | Fortezza | Domatore | **R** |  Cacciatore della palude | R |
   | 2 | ![Shiva](/images/h/h_Shiwa.jpg) | [Shiva](/it/heroes/Shiva/) | Roccaforte | Barbaro | **R** |  Portatore di tempeste | R |

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 11 La stagione del raccolto"
 permalink: /Underground/Chapter 11/
 excerpt: "Capitolo 11 La stagione del raccolto. Era of Chaos  Sottosuolo - Capitolo 11. La stagione del raccolto"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 11.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **450x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **450x** <i class="fas fa-gem"/>
 
- Reward 2:  **80000x** <i class="fas fa-coins"/>
+ Ricompensa 2:  **80000x** <i class="fas fa-coins"/>
 
- Reward 3: **130 x** Star Points
+ Ricompensa 3: **130 x** Star Points
 
- Reward 4: **15 x** [Crag Hack](/ItemsIT/her_375/){: .btn .btn--era5}
+ Ricompensa 4: **15 x** [Crag Hack](/ItemsIT/her_375/){: .btn .btn--era5}
 

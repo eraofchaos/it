@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 15 - 15-1 Scultura demoniaca"
 permalink: /Underground/Chapter 15_1/
 excerpt: "Capitolo 15 - 1. Era of Chaos  Sottosuolo - Capitolo 15_1. 15-1 Scultura demoniaca"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 15_1.md"
 toc: false

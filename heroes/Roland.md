@@ -4,7 +4,7 @@ permalink: /heroes/Roland/
 excerpt: "Era of Chaos Roland. Roland. Re Roland fu salvato dalla minaccia dei Kreegan da un gruppo di guerrieri. Per sdebitarsi, decise di arruolarsi nell'esercito erathiano, raggiungendo il rango di generale. Fu lì che ebbe modo di incontrare Caterina; insieme, nel tempo i due hanno respinto innumerevoli invasioni. "
 heroID: 60103
 QR: hero_60103
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Roland"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Dettagli
  **Profession:** ![Cavaliere](/images/h/h_prof_1.png)  [Cavaliere](/it/heroes/Profession Knight/)
 
- **Fazione::** [Castello](/it/heroes/Faction Castle/)
+ **Fazione:** [Castello](/it/heroes/Faction Castle/)
 
  **Rango:** [SSR](/it/heroes/Hero Rank SSR/)
 

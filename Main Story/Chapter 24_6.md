@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-6 I segreti dei draghi"
 permalink: /Main Story/Chapter 24_6/
 excerpt: "Capitolo 24 - 6. Era of Chaos  Storia principale - Capitolo 24_6. 24-6 I segreti dei draghi"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 24_6.md"
 toc: false

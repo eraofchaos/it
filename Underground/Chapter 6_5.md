@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 6 - 6-5 Missione compiuta"
 permalink: /Underground/Chapter 6_5/
 excerpt: "Capitolo 6 - 5. Era of Chaos  Sottosuolo - Capitolo 6_5. 6-5 Missione compiuta"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 6_5.md"
 toc: false

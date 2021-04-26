@@ -2,7 +2,7 @@
 title: "Cristallo congelato"
 permalink: /equipment/Deep Ice Crystal/
 excerpt: "Era of Chaos Cristallo congelato. Cristallo congelato"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Deep Ice Crystal.md"
 toc: false

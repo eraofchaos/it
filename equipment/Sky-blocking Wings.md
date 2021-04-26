@@ -2,7 +2,7 @@
 title: "Ali oscuranti"
 permalink: /equipment/Sky-blocking Wings/
 excerpt: "Era of Chaos Ali oscuranti. Ali oscuranti"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Sky-blocking Wings.md"
 toc: false

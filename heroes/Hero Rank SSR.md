@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR -  Heroes"
 permalink: /heroes/Hero Rank SSR/
 excerpt: "Era of Chaos Hero Rank SSR. Hero Rank SSR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Hero Rank SSR"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/it/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/it/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/it/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/it/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/it/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Nome    |  Fazione:   |  Profession   |  Rango  |    Specialty     | User Rate  | 
+  | Nr |  I |    Nome    |  Fazione  |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Roland](/images/h/h_Roland.jpg) | [Roland](/it/heroes/Roland/) | Castello | Cavaliere | **SSR** |  Morale elevato | SR+ |
   | 2 | ![Ciele](/images/h/h_Ciele.jpg) | [Ciele](/it/heroes/Ciele/) | Confluenza | Elementalista | **SSR** |  Riverbero elementale | SSR |

@@ -2,7 +2,7 @@
 title: "Backup - Coercizione artica"
 permalink: /Backup/Arctic Coercion/
 excerpt: "Era of Chaos  Coercizione artica"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Arctic Coercion.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Tecnica speciale - **Coercizione artica** 
 
+  ![Coercizione artica](/images/b/backupIcon_4.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Tecnica campo di battaglia - **Energia dirompente** 
 
+  ![Energia dirompente](/images/b/backupSkill1Icon_4.png)
+
  **Tecnica campo di battaglia Power:** 1060
 
  **Tecnica campo di battaglia Unlock:** 5x [Pergamena dell'energia](/ItemsIT/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Tecnica globale - **Nutrimento** 
+
+  ![Nutrimento](/images/b/backupSkill2Icon_4.png)
 
  **Tecnica globale Power:** 1076
 

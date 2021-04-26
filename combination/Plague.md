@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Pestilenza"
 permalink: /combination/Plague/
 excerpt: "Informazioni combinazione - Pestilenza. Units and Heroes Formation."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Pestilenza.md"
 toc: false

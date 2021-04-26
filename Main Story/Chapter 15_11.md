@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-11 L'evocazione del Demone"
 permalink: /Main Story/Chapter 15_11/
 excerpt: "Capitolo 15 - 11. Era of Chaos  Storia principale - Capitolo 15_11. 15-11 L'evocazione del Demone"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 15_11.md"
 toc: false

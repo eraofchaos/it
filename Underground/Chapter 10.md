@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 10 Cuor di Grifone"
 permalink: /Underground/Chapter 10/
 excerpt: "Capitolo 10 Cuor di Grifone. Era of Chaos  Sottosuolo - Capitolo 10. Cuor di Grifone"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 10.md"
 toc: false
@@ -22,11 +22,11 @@ classes: wide
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/15</span>
 
- Reward 1:  **400x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **400x** <i class="fas fa-gem"/>
 
- Reward 2:  **80000x** <i class="fas fa-coins"/>
+ Ricompensa 2:  **80000x** <i class="fas fa-coins"/>
 
- Reward 3: **120 x** Star Points
+ Ricompensa 3: **120 x** Star Points
 
- Reward 4: **15 x** [Crag Hack](/ItemsIT/her_375/){: .btn .btn--era5}
+ Ricompensa 4: **15 x** [Crag Hack](/ItemsIT/her_375/){: .btn .btn--era5}
 

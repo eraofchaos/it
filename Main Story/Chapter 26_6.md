@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-6 Nessuna notizia"
 permalink: /Main Story/Chapter 26_6/
 excerpt: "Capitolo 26 - 6. Era of Chaos  Storia principale - Capitolo 26_6. 26-6 Nessuna notizia"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 26_6.md"
 toc: false

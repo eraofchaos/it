@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SR -  Heroes"
 permalink: /heroes/Hero Rank SR/
 excerpt: "Era of Chaos Hero Rank SR. Hero Rank SR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Hero Rank SR"
 toc: false
@@ -10,7 +10,7 @@ classes: wide
 ---
  [R](/it/heroes/Hero Rank R/){: .btn .btn--primary} [SSR](/it/heroes/Hero Rank SSR/){: .btn .btn--success} [SR+](/it/heroes/Hero Rank SR+/){: .btn .btn--warning} [SSR-](/it/heroes/Hero Rank SSR-/){: .btn .btn--danger} [SR](/it/heroes/Hero Rank SR/){: .btn .btn--info} 
 
-  | Nr |  I |    Nome    |  Fazione:   |  Profession   |  Rango  |    Specialty     | User Rate  | 
+  | Nr |  I |    Nome    |  Fazione  |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Yog](/images/h/h_Yog.jpg) | [Yog](/it/heroes/Yog/) | Roccaforte | Barbaro | **SR** |  Ciclope infuriato | SR |
   | 2 | ![Rashka](/images/h/h_Rashka.jpg) | [Rashka](/it/heroes/Rashka/) | Inferno | Demoniaco | **SR** |  Signore del Fuoco | R |

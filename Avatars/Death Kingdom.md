@@ -2,7 +2,7 @@
 title: "Avatar - Regno della morte"
 permalink: /Avatars/Death Kingdom/
 excerpt: "Era of Chaos  Regno della morte"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Death Kingdom.md"
 toc: false

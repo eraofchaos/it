@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 Le Rupi dei Grifoni"
 permalink: /Main Story/Chapter 4/
 excerpt: "Capitolo 4. Era of Chaos  Storia principale - Capitolo 4. Le Rupi dei Grifoni"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 4.md"
 toc: false
@@ -30,35 +30,35 @@ classes: wide
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **2 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **2 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **10000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **10000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **1000x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **3 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **3 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **15000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **15000x** <i class="fas fa-coins"/>
 
- Reward 4:  **1500x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **1500x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **350x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **350x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **20000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **2000x** [ESP unità](/ItemsIT/con_902/)
 

@@ -2,7 +2,7 @@
 title: "Elmo da ufficiale"
 permalink: /equipment/Officer's Helmet/
 excerpt: "Era of Chaos Elmo da ufficiale. Elmo da ufficiale"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Officer's Helmet.md"
 toc: false

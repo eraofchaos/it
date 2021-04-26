@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-3 La colonna di Kurl"
 permalink: /Main Story/Chapter 19_3/
 excerpt: "Capitolo 19 - 3. Era of Chaos  Storia principale - Capitolo 19_3. 19-3 La colonna di Kurl"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 19_3.md"
 toc: false

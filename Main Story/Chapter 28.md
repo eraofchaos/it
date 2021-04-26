@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 Tunnel e trogloditi"
 permalink: /Main Story/Chapter 28/
 excerpt: "Capitolo 28. Era of Chaos  Storia principale - Capitolo 28. Tunnel e trogloditi"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 28.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Completa Capitolo 28
 
- **Reward:**  **100x** <i class="fas fa-gem"/>
+ **Ricompensa:**  **100x** <i class="fas fa-gem"/>
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **30 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **30 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **200000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **200000x** <i class="fas fa-coins"/>
 
- Reward 4:  **50000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **50000x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **100x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **100x** <i class="fas fa-gem"/>
 
- Reward 2: **40 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **40 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **300000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **300000x** <i class="fas fa-coins"/>
 
- Reward 4:  **90000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **90000x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **500x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **500x** <i class="fas fa-gem"/>
 
- Reward 2: **25 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **25 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **100000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **100000x** <i class="fas fa-coins"/>
 
- Reward 4:  **10000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **10000x** [ESP unità](/ItemsIT/con_902/)
 

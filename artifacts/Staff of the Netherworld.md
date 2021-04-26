@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio - Bordone dell'Aldilà"
 permalink: /artifacts/Staff of the Netherworld/
 excerpt: "Era of Chaos  Spada di Ghiaccio - Bordone dell'Aldilà. Un potente bastone custodito a Deyja. Uno dei componenti della Spada di Ghiaccio."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Staff of the Netherworld.md"
 toc: false

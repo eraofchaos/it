@@ -4,7 +4,7 @@ permalink: /heroes/Gelu/
 excerpt: "Era of Chaos Gelu. Gelu. Gelu il Mezzelfo è il più famoso guerriero dell'Erathia. Il suo talento per la distruzione è stato scoperto dal generale Morgan Kendal mentre serviva nell'esercito della Regina Caterina."
 heroID: 60301
 QR: hero_60301
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Gelu"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Dettagli
  **Profession:** ![Ranger](/images/h/h_prof_3.png)  [Ranger](/it/heroes/Profession Ranger/)
 
- **Fazione::** [Baluardo](/it/heroes/Faction Rampart/)
+ **Fazione:** [Baluardo](/it/heroes/Faction Rampart/)
 
  **Rango:** [SR+](/it/heroes/Hero Rank SR+/)
 

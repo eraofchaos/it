@@ -2,7 +2,7 @@
 title: "VIP - VIP 17"
 permalink: /VIP/VIP 17/
 excerpt: "Era of Chaos  Sistema VIP. VIP 17"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "VIP 17.md"
 toc: false
@@ -32,7 +32,7 @@ classes: wide
 
 ## Dettagli
 
- **Reward:** null
+ **Ricompensa:** null
 
  **EXP:** ?
 

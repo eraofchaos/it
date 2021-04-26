@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-2 Uno strano maleficio"
 permalink: /Main Story/Chapter 18_2/
 excerpt: "Capitolo 18 - 2. Era of Chaos  Storia principale - Capitolo 18_2. 18-2 Uno strano maleficio"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 18_2.md"
 toc: false

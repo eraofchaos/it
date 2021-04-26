@@ -2,7 +2,7 @@
 title: "Spine dorsali del Folletto"
 permalink: /equipment/Imp Back-spikes/
 excerpt: "Era of Chaos Spine dorsali del Folletto. Spine dorsali del Folletto"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Imp Back-spikes.md"
 toc: false

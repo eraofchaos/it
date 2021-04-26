@@ -2,7 +2,7 @@
 title: "VIP - VIP 3"
 permalink: /VIP/VIP 3/
 excerpt: "Era of Chaos  Sistema VIP. VIP 3"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "VIP 3.md"
 toc: false
@@ -36,7 +36,7 @@ classes: wide
 
 ## Dettagli
 
- **Reward:** **1x** [Pacchetto premium V3](/ItemsIT/con_1299/)
+ **Ricompensa:** **1x** [Pacchetto premium V3](/ItemsIT/con_1299/)
 
  **EXP:** 500
 

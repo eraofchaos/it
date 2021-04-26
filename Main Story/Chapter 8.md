@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 Terre di confine"
 permalink: /Main Story/Chapter 8/
 excerpt: "Capitolo 8. Era of Chaos  Storia principale - Capitolo 8. Terre di confine"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 8.md"
 toc: false
@@ -30,41 +30,41 @@ classes: wide
 
 ## Completa Capitolo 8
 
- **Reward:** [Rashka](/it/heroes/Rashka/)
+ **Ricompensa:** [Rashka](/it/heroes/Rashka/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">15/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **5 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **20000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **20000x** <i class="fas fa-coins"/>
 
- Reward 4:  **2000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **2000x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">30/45</span>
 
- Reward 1:  **50x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **50x** <i class="fas fa-gem"/>
 
- Reward 2: **10 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **10 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **30000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **30000x** <i class="fas fa-coins"/>
 
- Reward 4:  **3000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **3000x** [ESP unità](/ItemsIT/con_902/)
 
 
 
 ## <span style="color: #ffeea0">Per ottenere la tua ricompensa: </span><span style="color: #27f73a">45/45</span>
 
- Reward 1:  **450x** <i class="fas fa-gem"/>
+ Ricompensa 1:  **450x** <i class="fas fa-gem"/>
 
- Reward 2: **15 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
+ Ricompensa 2: **15 x** [Pergamene incantesimi](/ItemsIT/con_694/){: .btn .btn--era3}
 
- Reward 3:  **50000x** <i class="fas fa-coins"/>
+ Ricompensa 3:  **50000x** <i class="fas fa-coins"/>
 
- Reward 4:  **5000x** [ESP unità](/ItemsIT/con_902/)
+ Ricompensa 4:  **5000x** [ESP unità](/ItemsIT/con_902/)
 

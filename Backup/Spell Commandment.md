@@ -2,7 +2,7 @@
 title: "Backup - Cerchio magico"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Cerchio magico"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Spell Commandment.md"
 toc: false
@@ -29,6 +29,8 @@ classes: wide
 
 ## Tecnica speciale - **Cerchio magico** 
 
+  ![Cerchio magico](/images/b/backupIcon_6.png)
+
  **Skill Power:** 1204
 
  **Skill delay:** 25 sec
@@ -54,6 +56,8 @@ classes: wide
 
 ## Tecnica campo di battaglia - **Campo di energia** 
 
+  ![Campo di energia](/images/b/backupSkill1Icon_6.png)
+
  **Tecnica campo di battaglia Power:** 1060
 
  **Tecnica campo di battaglia Unlock:** 5x [Pergamena dell'energia](/ItemsIT/con_830/)
@@ -78,6 +82,8 @@ classes: wide
 
 
 ## Tecnica globale - **Incandescenza** 
+
+  ![Incandescenza](/images/b/backupSkill2Icon_6.png)
 
  **Tecnica globale Power:** 1076
 

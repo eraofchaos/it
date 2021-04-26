@@ -2,7 +2,7 @@
 title: "Manufatti - Specchio della vendetta"
 permalink: /artifacts/Mirror of Revenge/
 excerpt: "Era of Chaos  Specchio della vendetta. Specchio della vendetta Un debole Mago ha usato incantesimi proibiti per creare questo malvagio manufatto intriso di sogni di vendetta. Usalo per aumentare il potere delle tue truppe."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Mirror of Revenge.md"
 toc: false

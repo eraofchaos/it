@@ -4,7 +4,7 @@ permalink: /heroes/Jeddite/
 excerpt: "Era of Chaos Jeddite. Jeddite. Jeddite è un uomo misterioso, con stretti legami con gli ufficiali di più alto rango in svariati paesi. Nessuno conosce il suo passato, e lui non ne fa mai menzione."
 heroID: 61401
 QR: hero_61401
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Jeddite"
 toc: true
@@ -15,7 +15,7 @@ toc: true
 ## Dettagli
  **Profession:** ![Stregone](/images/h/h_prof_11.png)  [Stregone](/it/heroes/Profession Warlock/)
 
- **Fazione::** [Dungeon](/it/heroes/Faction Dungeon/)
+ **Fazione:** [Dungeon](/it/heroes/Faction Dungeon/)
 
  **Rango:** [SR](/it/heroes/Hero Rank SR/)
 

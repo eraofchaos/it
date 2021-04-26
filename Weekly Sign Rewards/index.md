@@ -2,7 +2,7 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "index.md"
 toc: true
@@ -10,7 +10,7 @@ toc: true
 
 #### 2021 Week 18  Settimana dell'Inferno
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **3 May** | **5x [Folletto](/ItemsIT/unt_226/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **4 May** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Gog è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -23,7 +23,7 @@ toc: true
 
 #### 2021 Week 17  Settimana della Baia
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **26 Apr** | **3x [Elementale del mare](/ItemsIT/unt_275/)**  | Un gruppo di Elementali del mare è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **27 Apr** | **3x [Pirati di Regna](/ItemsIT/unt_273/)**  | Un gruppo di Pirati di Regna è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -36,7 +36,7 @@ toc: true
 
 #### 2021 Week 16  Settimana della Roccaforte
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **19 Apr** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **20 Apr** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Domatori di lupi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -49,7 +49,7 @@ toc: true
 
 #### 2021 Week 15  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **12 Apr** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **13 Apr** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Elementali del ghiaccio è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -62,7 +62,7 @@ toc: true
 
 #### 2021 Week 14  Settimana della Necropoli
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **5 Apr** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **6 Apr** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Morti viventi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -75,7 +75,7 @@ toc: true
 
 #### 2021 Week 13  Settimana del Dungeon
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **29 Mar** | **5x [Troglodita](/ItemsIT/unt_244/)**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **30 Mar** | **3x [Arpia](/ItemsIT/unt_245/)**  | Un gruppo di Arpie è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -88,7 +88,7 @@ toc: true
 
 #### 2021 Week 12  Settimana della Fortezza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **22 Mar** | **5x [Gnoll](/ItemsIT/unt_253/)**  | Un gruppo di Gnoll è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **23 Mar** | **5x [Scrigno Fortezza](/ItemsIT/con_1277/)**  | Le tue truppe della Fortezza ti portano in dono un gran numero di scrigni del tesoro preziosi! |
@@ -101,7 +101,7 @@ toc: true
 
 #### 2021 Week 11  Settimana del Castello
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **15 Mar** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **16 Mar** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Tiratori scelti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -114,7 +114,7 @@ toc: true
 
 #### 2021 Week 10  Settimana dell'Inferno
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **8 Mar** | **5x [Folletto](/ItemsIT/unt_226/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **9 Mar** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Gog è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -127,7 +127,7 @@ toc: true
 
 #### 2021 Week 9  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **1 Mar** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **2 Mar** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Elementali del ghiaccio è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -140,7 +140,7 @@ toc: true
 
 #### 2021 Week 8  Settimana della Torre
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **22 Feb** | **5x [Gremlin](/ItemsIT/unt_235/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **23 Feb** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gargolle di pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -153,7 +153,7 @@ toc: true
 
 #### 2021 Week 7  Settimana della Baia
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **15 Feb** | **3x [Elementale del mare](/ItemsIT/unt_275/)**  | Un gruppo di Elementali del mare è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **16 Feb** | **3x [Pirati di Regna](/ItemsIT/unt_273/)**  | Un gruppo di Pirati di Regna è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -166,7 +166,7 @@ toc: true
 
 #### 2021 Week 6  Settimana del Baluardo
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **8 Feb** | **5x [Centauro](/ItemsIT/unt_199/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **9 Feb** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Elfi del bosco è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -179,7 +179,7 @@ toc: true
 
 #### 2021 Week 5  Settimana della Roccaforte
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **1 Feb** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **2 Feb** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Domatori di lupi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -192,7 +192,7 @@ toc: true
 
 #### 2021 Week 4  Settimana della Necropoli
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **25 Jan** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **26 Jan** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Morti viventi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -205,7 +205,7 @@ toc: true
 
 #### 2021 Week 3  Settimana della Fortezza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **18 Jan** | **5x [Gnoll](/ItemsIT/unt_253/)**  | Un gruppo di Gnoll è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **19 Jan** | **5x [Scrigno Fortezza](/ItemsIT/con_1277/)**  | Le tue truppe della Fortezza ti portano in dono un gran numero di scrigni del tesoro preziosi! |
@@ -218,7 +218,7 @@ toc: true
 
 #### 2021 Week 2  Settimana dell'Inferno
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **11 Jan** | **5x [Folletto](/ItemsIT/unt_226/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **12 Jan** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Gog è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -231,7 +231,7 @@ toc: true
 
 #### 2021 Week 1  Settimana del Castello
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **4 Jan** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **5 Jan** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Tiratori scelti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -244,7 +244,7 @@ toc: true
 
 #### 2020 Week 52  Settimana della Torre
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **28 Dec** | **5x [Gremlin](/ItemsIT/unt_235/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **29 Dec** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gargolle di pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -257,7 +257,7 @@ toc: true
 
 #### 2020 Week 51  Settimana del Dungeon
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **21 Dec** | **5x [Troglodita](/ItemsIT/unt_244/)**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **22 Dec** | **3x [Arpia](/ItemsIT/unt_245/)**  | Un gruppo di Arpie è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -270,7 +270,7 @@ toc: true
 
 #### 2020 Week 50  Settimana del Baluardo
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **14 Dec** | **5x [Centauro](/ItemsIT/unt_199/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **15 Dec** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Elfi del bosco è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -283,7 +283,7 @@ toc: true
 
 #### 2020 Week 49  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **7 Dec** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **8 Dec** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Elementali del ghiaccio è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -296,7 +296,7 @@ toc: true
 
 #### 2020 Week 48  Settimana del Castello
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **30 Nov** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **1 Dec** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Tiratori scelti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -309,7 +309,7 @@ toc: true
 
 #### 2020 Week 47  Settimana della Baia
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **23 Nov** | **3x [Elementale del mare](/ItemsIT/unt_275/)**  | Un gruppo di Elementali del mare è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **24 Nov** | **3x [Pirati di Regna](/ItemsIT/unt_273/)**  | Un gruppo di Pirati di Regna è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -322,7 +322,7 @@ toc: true
 
 #### 2020 Week 46  Settimana della Necropoli
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **16 Nov** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **17 Nov** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Morti viventi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -335,7 +335,7 @@ toc: true
 
 #### 2020 Week 45  Settimana dell'Inferno
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **9 Nov** | **5x [Folletto](/ItemsIT/unt_226/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **10 Nov** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Gog è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -348,7 +348,7 @@ toc: true
 
 #### 2020 Week 44  Settimana della Roccaforte
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **2 Nov** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **3 Nov** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Domatori di lupi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -361,7 +361,7 @@ toc: true
 
 #### 2020 Week 43  Settimana del Dungeon
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **26 Oct** | **5x [Troglodita](/ItemsIT/unt_244/)**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **27 Oct** | **3x [Arpia](/ItemsIT/unt_245/)**  | Un gruppo di Arpie è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -374,7 +374,7 @@ toc: true
 
 #### 2020 Week 42  Settimana della Torre
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **19 Oct** | **5x [Gremlin](/ItemsIT/unt_235/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **20 Oct** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gargolle di pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -387,7 +387,7 @@ toc: true
 
 #### 2020 Week 41  Settimana della Fortezza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **12 Oct** | **5x [Gnoll](/ItemsIT/unt_253/)**  | Un gruppo di Gnoll è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **13 Oct** | **5x [Scrigno Fortezza](/ItemsIT/con_1277/)**  | Le tue truppe della Fortezza ti portano in dono un gran numero di scrigni del tesoro preziosi! |
@@ -400,7 +400,7 @@ toc: true
 
 #### 2020 Week 40  Settimana del Castello
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **5 Oct** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **6 Oct** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Tiratori scelti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -413,7 +413,7 @@ toc: true
 
 #### 2020 Week 39  Settimana del Baluardo
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **28 Sep** | **5x [Centauro](/ItemsIT/unt_199/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **29 Sep** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Elfi del bosco è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -426,7 +426,7 @@ toc: true
 
 #### 2020 Week 38  Settimana del Dungeon
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **21 Sep** | **5x [Troglodita](/ItemsIT/unt_244/)**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **22 Sep** | **3x [Arpia](/ItemsIT/unt_245/)**  | Un gruppo di Arpie è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -439,7 +439,7 @@ toc: true
 
 #### 2020 Week 37  Settimana della Necropoli
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **14 Sep** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **15 Sep** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Morti viventi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -452,7 +452,7 @@ toc: true
 
 #### 2020 Week 36  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **7 Sep** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **8 Sep** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Elementali del ghiaccio è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -465,7 +465,7 @@ toc: true
 
 #### 2020 Week 35  Settimana della Roccaforte
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **31 Aug** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **1 Sep** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Domatori di lupi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -478,7 +478,7 @@ toc: true
 
 #### 2020 Week 34  Settimana della Torre
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **24 Aug** | **5x [Gremlin](/ItemsIT/unt_235/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **25 Aug** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gargolle di pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -491,7 +491,7 @@ toc: true
 
 #### 2020 Week 33  Settimana del Baluardo
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **17 Aug** | **5x [Centauro](/ItemsIT/unt_199/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **18 Aug** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Elfi del bosco è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -504,7 +504,7 @@ toc: true
 
 #### 2020 Week 32  Settimana del Dungeon
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **10 Aug** | **5x [Troglodita](/ItemsIT/unt_244/)**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **11 Aug** | **3x [Arpia](/ItemsIT/unt_245/)**  | Un gruppo di Arpie è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -517,7 +517,7 @@ toc: true
 
 #### 2020 Week 31  Settimana del Castello
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **3 Aug** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **4 Aug** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Tiratori scelti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -530,7 +530,7 @@ toc: true
 
 #### 2020 Week 30  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **27 Jul** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **28 Jul** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Elementali del ghiaccio è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -543,7 +543,7 @@ toc: true
 
 #### 2020 Week 29  Settimana della Fortezza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **20 Jul** | **5x [Gnoll](/ItemsIT/unt_253/)**  | Un gruppo di Gnoll è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **21 Jul** | **5x [Scrigno Fortezza](/ItemsIT/con_1277/)**  | Le tue truppe della Fortezza ti portano in dono un gran numero di scrigni del tesoro preziosi! |
@@ -556,7 +556,7 @@ toc: true
 
 #### 2020 Week 28  Settimana dell'Inferno
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **13 Jul** | **5x [Folletto](/ItemsIT/unt_226/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **14 Jul** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Gog è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -569,7 +569,7 @@ toc: true
 
 #### 2020 Week 27  Settimana della Necropoli
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **6 Jul** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **7 Jul** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Morti viventi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -582,7 +582,7 @@ toc: true
 
 #### 2020 Week 26  Settimana della Roccaforte
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **29 Jun** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **30 Jun** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Domatori di lupi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -595,7 +595,7 @@ toc: true
 
 #### 2020 Week 25  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **22 Jun** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **23 Jun** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Elementali del ghiaccio è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -608,7 +608,7 @@ toc: true
 
 #### 2020 Week 24  Settimana del Baluardo
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **15 Jun** | **5x [Centauro](/ItemsIT/unt_199/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **16 Jun** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Elfi del bosco è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -621,7 +621,7 @@ toc: true
 
 #### 2020 Week 23  Settimana della Torre
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **8 Jun** | **5x [Gremlin](/ItemsIT/unt_235/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **9 Jun** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gargolle di pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -634,7 +634,7 @@ toc: true
 
 #### 2020 Week 22  Settimana del Castello
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **1 Jun** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **2 Jun** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Tiratori scelti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -647,7 +647,7 @@ toc: true
 
 #### 2020 Week 21  Settimana dell'Inferno
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **25 May** | **5x [Folletto](/ItemsIT/unt_226/)**  | L'eroe Zydar e i suoi servitori dell'Inferno sono giunti al tuo accampamento per unirsi alle tue forze! |
   | **26 May** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -660,7 +660,7 @@ toc: true
 
 #### 2020 Week 20  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **18 May** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Elementali psichici è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **19 May** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -673,7 +673,7 @@ toc: true
 
 #### 2020 Week 19  Settimana del Dungeon
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **11 May** | **5x [Troglodita](/ItemsIT/unt_244/)**  | Seguendo i consigli di un antico drago, Mutare ha deciso di unirsi al tuo esercito! |
   | **12 May** | **3x [Arpia](/ItemsIT/unt_245/)**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -686,7 +686,7 @@ toc: true
 
 #### 2020 Week 18  Settimana della Necropoli
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **4 May** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Vidomina nutre un certo interesse per i tuoi guerrieri non morti e ha intenzione di unirsi alla tua squadra! |
   | **5 May** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -699,7 +699,7 @@ toc: true
 
 #### 2020 Week 17  Settimana della Roccaforte
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **27 Apr** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Roc è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **28 Apr** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -712,7 +712,7 @@ toc: true
 
 #### 2020 Week 16  Settimana del Castello
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **20 Apr** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **21 Apr** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Tiratori scelti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -725,7 +725,7 @@ toc: true
 
 #### 2020 Week 15  Settimana della Torre
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **13 Apr** | **5x [Gremlin](/ItemsIT/unt_235/)**  | I tuoi studi sulle arti arcane hanno incuriosito Solmyr, che ha deciso di unirsi al tuo esercito! |
   | **14 Apr** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -738,7 +738,7 @@ toc: true
 
 #### 2020 Week 14  Settimana del Dungeon
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **6 Apr** | **5x [Troglodita](/ItemsIT/unt_244/)**  | Seguendo i consigli di un antico drago, Mutare ha deciso di unirsi al tuo esercito! |
   | **7 Apr** | **3x [Arpia](/ItemsIT/unt_245/)**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -751,7 +751,7 @@ toc: true
 
 #### 2020 Week 13  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **30 Mar** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Elementali psichici è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **31 Mar** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -764,7 +764,7 @@ toc: true
 
 #### 2020 Week 12  Settimana della Roccaforte
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **23 Mar** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Roc è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **24 Mar** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -777,7 +777,7 @@ toc: true
 
 #### 2020 Week 11  Settimana dell'Inferno
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **16 Mar** | **5x [Folletto](/ItemsIT/unt_226/)**  | L'eroe Zydar e i suoi servitori dell'Inferno sono giunti al tuo accampamento per unirsi alle tue forze! |
   | **17 Mar** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -790,7 +790,7 @@ toc: true
 
 #### 2020 Week 10  Settimana del Baluardo
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **9 Mar** | **5x [Centauro](/ItemsIT/unt_199/)**  | L'eroe Ryland ammira ciò che hai fatto per proteggere la natura e ha deciso di mettersi al tuo servizio! |
   | **10 Mar** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -803,7 +803,7 @@ toc: true
 
 #### 2020 Week 9  Settimana della Necropoli
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **2 Mar** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Vidomina nutre un certo interesse per i tuoi guerrieri non morti e ha intenzione di unirsi alla tua squadra! |
   | **3 Mar** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -816,7 +816,7 @@ toc: true
 
 #### 2020 Week 8  Settimana della Torre
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **24 Feb** | **5x [Gremlin](/ItemsIT/unt_235/)**  | I tuoi studi sulle arti arcane hanno incuriosito Solmyr, che ha deciso di unirsi al tuo esercito! |
   | **25 Feb** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -829,7 +829,7 @@ toc: true
 
 #### 2020 Week 7  Settimana del Castello
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **17 Feb** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un Mago con il potere di controllare la neve ha fatto visita al tuo territorio! |
   | **18 Feb** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -842,7 +842,7 @@ toc: true
 
 #### 2020 Week 6  Settimana della Confluenza
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **10 Feb** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Elementali psichici è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **11 Feb** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -855,7 +855,7 @@ toc: true
 
 #### 2020 Week 5  Settimana della Roccaforte
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **3 Feb** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Roc è entrato a far parte del tuo esercito, rendendolo più forte! |
   | **4 Feb** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -868,7 +868,7 @@ toc: true
 
 #### 2020 Week 4  Settimana dell'Inferno
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **27 Jan** | **5x [Folletto](/ItemsIT/unt_226/)**  | L'eroe Zydar e i suoi servitori dell'Inferno sono giunti al tuo accampamento per unirsi alle tue forze! |
   | **28 Jan** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -881,7 +881,7 @@ toc: true
 
 #### 2020 Week 3  Settimana del Baluardo
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **20 Jan** | **5x [Centauro](/ItemsIT/unt_199/)**  | L'eroe Ryland ammira ciò che hai fatto per proteggere la natura e ha deciso di mettersi al tuo servizio! |
   | **21 Jan** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -894,7 +894,7 @@ toc: true
 
 #### 2020 Week 2  Settimana della Necropoli
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **13 Jan** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Vidomina nutre un certo interesse per i tuoi guerrieri non morti e ha intenzione di unirsi alla tua squadra! |
   | **14 Jan** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
@@ -907,7 +907,7 @@ toc: true
 
 #### 2020 Week 1  Settimana della Torre
 
-  |  Date  |      Reward    |    Reward Descrizione    |
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
   |:-------|:---------------|:------------------------:|
   | **6 Jan** | **5x [Gremlin](/ItemsIT/unt_235/)**  | I tuoi studi sulle arti arcane hanno incuriosito Solmyr, che ha deciso di unirsi al tuo esercito! |
   | **7 Jan** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |

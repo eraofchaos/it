@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 - 22-6 Clima draconico"
 permalink: /Main Story/Chapter 22_6/
 excerpt: "Capitolo 22 - 6. Era of Chaos  Storia principale - Capitolo 22_6. 22-6 Clima draconico"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Chapter 22_6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Abiti da cacciatore"
 permalink: /equipment/Hunter's Clothing/
 excerpt: "Era of Chaos Abiti da cacciatore. Abiti da cacciatore"
-last_modified_at: 2021-04-25
+last_modified_at: 2021-04-26
 locale: it
 ref: "Hunter's Clothing.md"
 toc: false
