@@ -2,7 +2,7 @@
 title: "Avatar - Percorso di Crescita"
 permalink: /Avatars/Path to Growth/
 excerpt: "Era of Chaos  Percorso di Crescita"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Path to Growth.md"
 toc: false

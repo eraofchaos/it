@@ -2,7 +2,7 @@
 title: "Manufatti - Potenza del Padre dei Draghi - Schinieri di Ossa di Drago"
 permalink: /artifacts/Dragonbone Greaves/
 excerpt: "Era of Chaos  Potenza del Padre dei Draghi - Schinieri di Ossa di Drago. Schinieri realizzati con le tibie del Re dei Draghi. Uno dei componenti della Potenza del Padre dei Draghi."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Dragonbone Greaves.md"
 toc: false

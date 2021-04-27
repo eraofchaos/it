@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Segugio infernale Esclusivo."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Hell Hound Carica impetuosa.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carica
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 
@@ -29,9 +29,9 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Carica impetuosa](/ItemsIT/con_916/) | Il Segugio infernale attacca con le sue tre teste, aumentando la propria Vel ATT del 300% ma riducendo il DAN del 20%. |
+  |  Risveglio  | **100x** [Token Carica impetuosa](/ItemsIT/con_916/) | Il Segugio infernale attacca con le sue tre teste, aumentando la propria Vel ATT del 200% ma riducendo il DAN del 20%. |
   | **1x** <i class="fas fa-star"/> | **50x** [Token Carica impetuosa](/ItemsIT/con_916/) | DAN del Segugio infernale aumentato del 20%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/ItemsIT/con_916/) | Ciascun attacco del Segugio infernale ne aumenta il DAN CRIT del 5% per 3 secondi. Cumulabile fino a 10 volte. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Carica impetuosa](/ItemsIT/con_916/) | Ciascun attacco del Segugio infernale ne aumenta il DAN CRIT del 3% per 3 secondi. Cumulabile fino a 10 volte. |
   | **3x** <i class="fas fa-star"/> | **130x** [Token Carica impetuosa](/ItemsIT/con_916/) | <Morto ma vivo> Quando i PF del Segugio infernale scendono sotto il 66% e il 33% per la prima volta, sacrifica una delle sue teste, rimuovendo ogni effetto di stato e ottenendone immunità e aumentando Schivata di 2000 e Tenacia di 1000 per 5 secondi. |
   | **4x** <i class="fas fa-star"/> | **170x** [Token Carica impetuosa](/ItemsIT/con_916/) | <Accensione> Il Segugio infernale causa continuamente <Combustione> alle unità nemiche circostanti e ne riduce la Tenacia di 200. |
   | **5x** <i class="fas fa-star"/> | **210x** [Token Carica impetuosa](/ItemsIT/con_916/) | Ciascun attacco del Segugio infernale riduce la Rid DAN dell'unità bersaglio del 3% per 3 secondi. Cumulabile fino a 8 volte. |

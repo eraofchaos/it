@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-7 Alle calcagna"
 permalink: /Main Story/Chapter 13_7/
 excerpt: "Capitolo 13 - 7. Era of Chaos  Storia principale - Capitolo 13_7. 13-7 Alle calcagna"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 13_7.md"
 toc: false

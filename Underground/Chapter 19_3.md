@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 19 - 19-3 Incrocio"
 permalink: /Underground/Chapter 19_3/
 excerpt: "Capitolo 19 - 3. Era of Chaos  Sottosuolo - Capitolo 19_3. 19-3 Incrocio"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 19_3.md"
 toc: false

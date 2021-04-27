@@ -2,7 +2,7 @@
 title: "Corno di pietra"
 permalink: /equipment/Stone Horn/
 excerpt: "Era of Chaos Corno di pietra. Corno di pietra"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Stone Horn.md"
 toc: false

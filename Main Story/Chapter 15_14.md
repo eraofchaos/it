@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-14 L'arrivo del Demone"
 permalink: /Main Story/Chapter 15_14/
 excerpt: "Capitolo 15 - 14. Era of Chaos  Storia principale - Capitolo 15_14. 15-14 L'arrivo del Demone"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 15_14.md"
 toc: false

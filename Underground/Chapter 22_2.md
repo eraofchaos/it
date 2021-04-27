@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 22 - 22-2 Scelte per il futuro"
 permalink: /Underground/Chapter 22_2/
 excerpt: "Capitolo 22 - 2. Era of Chaos  Sottosuolo - Capitolo 22_2. 22-2 Scelte per il futuro"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 22_2.md"
 toc: false

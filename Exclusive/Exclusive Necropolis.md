@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Necropolis"
 permalink: /Exclusive/Exclusive Necropolis/
 excerpt: "Era of Chaos Esclusivo Necropolis. Esclusivo Necropolis. List of Esclusivo Necropolis in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Exclusive Necropolis"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Scheletro](/it/units/Skeleton/) | [Scudo dell'Iride](/it/Exclusive/Skeleton Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
-  | 2  | [Morto vivente](/it/units/Walking Dead/) | [Scudo dell'Iride](/it/Exclusive/Walking Dead Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
+  | 2  | [Morto vivente](/it/units/Walking Dead/) | [Scudo dell'Iride](/it/Exclusive/Walking Dead Iris Shield/) | + | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
   | 3  | [Anima](/it/units/Wight/) | [Cantico arcano](/it/Exclusive/Wight Arcane Chant/) | - | Carica | [Token Cantico arcano](/ItemsIT/con_915/) | - |
   | 4  | [Vampiro](/it/units/Vampire/) | [Carica impetuosa](/it/Exclusive/Vampire Knight Pike/) | - | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |
   | 5  | [Lich](/it/units/Lich/) | [Tributo di morte](/it/Exclusive/Lich Death Tribute/) | + | A distanza | [Token Tributo di morte](/ItemsIT/con_978/) | [Skin speciale Tributo di morte](/ItemsIT/con_646/) |

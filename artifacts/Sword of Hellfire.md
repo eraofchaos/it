@@ -2,7 +2,7 @@
 title: "Manufatti - Armatura dei Dannati - Spada del Fuoco infernale"
 permalink: /artifacts/Sword of Hellfire/
 excerpt: "Era of Chaos  Armatura dei Dannati - Spada del Fuoco infernale. Una spada in cui alberga un oscuro potere. Uno dei componenti dell'Armatura dei Dannati."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Sword of Hellfire.md"
 toc: false

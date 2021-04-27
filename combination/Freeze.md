@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Congelamento"
 permalink: /combination/Freeze/
 excerpt: "Informazioni combinazione - Congelamento. Units and Heroes Formation."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Congelamento.md"
 toc: false

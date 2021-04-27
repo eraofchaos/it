@@ -3,7 +3,7 @@ title: "Leviatano"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Leviatano. Leviatano Unità. Antico mostro marino. Era of Chaos Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Leviatano"
 toc: true
@@ -190,40 +190,40 @@ toc: true
   ![Antico mostro marino](/images/u/tia_haiguai.jpg)
 
 ### Awaking Dettagli
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Antico mostro marino
 
- **Awaking Descrizione:** 
+ **Awaking Descrizione:** In un oscuro antro nelle più buie profondità dell'oceano, una creatura senza nome si evolve.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Schiera un Leviatano con almeno </span><span style="color: #1ca216;font-size:18px">4</span><span style="color: #876741;font-size:18px"> unità Baia e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Antico mostro marino nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Schiera un Leviatano con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Baia e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Descrizione:** 
+### 1st Skill (or 2nd): Spezza-ossa
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Mandibola feroce&gt;</span><span style="color: #645252;font-size:18px"> Danno aumentato del 50%. Inoltre, applica &lt;Rallentamento&gt; ai nemici nella fila e ne riduce di 100 la Tenacia e del 10% la Rid DAN. Durata: 5 secondi.</span>
 
-### 2nd Skill (or 1st): null
- **Descrizione:** 
+### 2nd Skill (or 1st): Cacciatore del clan
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Mandibola feroce&gt;</span><span style="color: #645252;font-size:18px"> Danno aumentato del 50%. Inoltre, aumenta del 20% il DAN e aumenta il CRIT e il DAN delle unità alleate nella fila rispettivamente di 100 e del 10%. Durata: 5 secondi.</span>
 
-### 3rd Skill (or 4th): null
- **Descrizione:** 
+### 3rd Skill (or 4th): Ingordigia
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Brama d'ossa&gt;</span><span style="color: #645252;font-size:18px"> Riduce di un ulteriore 50% gli attributi delle unità marchiate. Aumenta la probabilità di cura di &lt;Mandibola feroce&gt; del 50%.</span>
 
-### 4th Skill (or 3rd): null
- **Descrizione:** 
+### 4th Skill (or 3rd): <Banchetto infinito>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Brama d'ossa&gt;</span><span style="color: #645252;font-size:18px"> Marchia un'unità nemica aggiuntiva. Aumenta i PF ripristinati da &lt;Mandibola feroce&gt; del 50%.</span>
 
-### 5th Skill (or 6th): null
- **Descrizione:** 
+### 5th Skill (or 6th): Volontà incrollabile
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Correnti inalterabili&gt;</span><span style="color: #645252;font-size:18px"> Aumenta di un ulteriore 50% i bonus agli attributi di ciascuna carica.</span>
 
-### 6th Skill (or 5th): null
- **Descrizione:** 
+### 6th Skill (or 5th): Furia dei figli del mare
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Correnti inalterabili&gt;</span><span style="color: #645252;font-size:18px"> Porta a 8 il numero massimo di cariche.</span>
 
 ## Technical info
  **runart:** 1

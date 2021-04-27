@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 1 -  Units"
 permalink: /units/Star 1/
 excerpt: "Era of Chaos Star 1. Star 1. List of Star 1in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Star 1"
 toc: false
@@ -25,6 +25,6 @@ classes: wide
   | 11 | ![Catafratto](/images/u/ti_qishi.jpg) | [Catafratto](/it/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Cavalieri campioni  |
   | 12 | ![Scheletro](/images/u/ti_kulouzhanshi.jpg) | [Scheletro](/it/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Scheletro guerriero  |
   | 13 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 14 | ![Morto vivente](/images/u/ti_jiangshi.jpg) | [Morto vivente](/it/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombi  |
+  | 14 | ![Morto vivente](/images/u/ti_jiangshi.jpg) | [Morto vivente](/it/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombi  |
   | 15 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/it/units/Goblin/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 16 | ![Domatore di lupi](/images/u/ti_langqibing.jpg) | [Domatore di lupi](/it/units/Wolf Rider/) | Incursione | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Signore dei Lupi  |

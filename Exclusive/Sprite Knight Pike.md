@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Sprite)"
 permalink: /Exclusive/Sprite Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Driade Esclusivo."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Sprite Carica impetuosa.md"
 toc: false

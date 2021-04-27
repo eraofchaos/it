@@ -2,7 +2,7 @@
 title: "Emblema sacro - Bontà"
 permalink: /Emblem/Type Goodness/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Era of Chaos Emblema sacro Bontà. Era of Chaos Bontà"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "typeBontà.md"
 toc: false

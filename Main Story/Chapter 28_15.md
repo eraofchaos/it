@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-15 La città del tramonto"
 permalink: /Main Story/Chapter 28_15/
 excerpt: "Capitolo 28 - 15. Era of Chaos  Storia principale - Capitolo 28_15. 28-15 La città del tramonto"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 28_15.md"
 toc: false

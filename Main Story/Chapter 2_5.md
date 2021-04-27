@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-5 Al confine"
 permalink: /Main Story/Chapter 2_5/
 excerpt: "Capitolo 2 - 5. Era of Chaos  Storia principale - Capitolo 2_5. 2-5 Al confine"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 2_5.md"
 toc: false

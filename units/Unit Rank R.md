@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Unit Rank R"
 toc: false
@@ -23,6 +23,6 @@ classes: wide
   | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerriero gnoll  |
   | 10 | ![Scheletro](/images/u/ti_kulouzhanshi.jpg) | [Scheletro](/it/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Scheletro guerriero  |
   | 11 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
-  | 12 | ![Morto vivente](/images/u/ti_jiangshi.jpg) | [Morto vivente](/it/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 117.7 | 2758 |  Zombi  |
+  | 12 | ![Morto vivente](/images/u/ti_jiangshi.jpg) | [Morto vivente](/it/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombi  |
   | 13 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/it/units/Goblin/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 14 | ![Domatore di lupi](/images/u/ti_langqibing.jpg) | [Domatore di lupi](/it/units/Wolf Rider/) | Incursione | + | R | x9 | <i class="fas fa-star"/> | - | 72.8 | 860 |  Signore dei Lupi  |

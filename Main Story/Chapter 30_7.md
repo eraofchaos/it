@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-7 Le miniere di zolfo"
 permalink: /Main Story/Chapter 30_7/
 excerpt: "Capitolo 30 - 7. Era of Chaos  Storia principale - Capitolo 30_7. 30-7 Le miniere di zolfo"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 30_7.md"
 toc: false

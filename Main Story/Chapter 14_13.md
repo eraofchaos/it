@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 - 14-13 Il bersaglio è vicino"
 permalink: /Main Story/Chapter 14_13/
 excerpt: "Capitolo 14 - 13. Era of Chaos  Storia principale - Capitolo 14_13. 14-13 Il bersaglio è vicino"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 14_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Presagio del Monolito"
 permalink: /Avatars/Monolith Omen/
 excerpt: "Era of Chaos  Presagio del Monolito"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Monolith Omen.md"
 toc: false

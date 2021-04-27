@@ -2,11 +2,37 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 20  Settimana del Baluardo
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **17 May** | **5x [Centauro](/ItemsIT/unt_199/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **18 May** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Elfi del bosco è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **19 May** | **3x [Pegaso](/ItemsIT/unt_202/)**  | Un gruppo di Pegasi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **20 May** | **3x [Unicorno](/ItemsIT/unt_204/)**  | Un gruppo di Unicorni è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **21 May** | **3x [Gnomo](/ItemsIT/unt_200/)**  | Un gruppo di Gnomi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **22 May** | **3x [Guardia Dendroide](/ItemsIT/unt_203/)**  | Un gruppo di Guardie Dendroidi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **23 May** | **5x [Ryland](/ItemsIT/her_368/)**  | L'eroe Ryland ammira ciò che hai fatto per proteggere la natura e ha deciso di mettersi al tuo servizio! |
+
+
+#### 2021 Week 19  Settimana della Fortezza
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **10 May** | **5x [Gnoll](/ItemsIT/unt_253/)**  | Un gruppo di Gnoll è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **11 May** | **5x [Scrigno Fortezza](/ItemsIT/con_1277/)**  | Le tue truppe della Fortezza ti portano in dono un gran numero di scrigni del tesoro preziosi! |
+  | **12 May** | **100x <i class="fas fa-gem"/>**  | Le tue truppe hanno trovato un gran numero di tesori nelle torbide acque della palude! |
+  | **13 May** | **3x [Uomo lucertola](/ItemsIT/unt_254/)**  | Un gruppo di Uomini lucertola è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **14 May** | **5x [Rune roster Fortezza](/ItemsIT/con_818/)**  | Le tue truppe dell'Inferno ti portano in dono un gran numero di rune preziose! |
+  | **15 May** | **3x [Mosca serpente](/ItemsIT/unt_255/)**  | Un gruppo di Mosche serpente è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **16 May** | **5x [Korbac](/ItemsIT/her_394/)**  | Un coraggioso Domatore ha fatto visita ai tuoi territori! |
+
 
 #### 2021 Week 18  Settimana dell'Inferno
 

@@ -2,7 +2,7 @@
 title: "Zanna pietrificante"
 permalink: /equipment/Petrification Fang/
 excerpt: "Era of Chaos Zanna pietrificante. Zanna pietrificante"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Petrification Fang.md"
 toc: false

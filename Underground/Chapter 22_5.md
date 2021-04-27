@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 22 - 22-5 L'essenza della vita"
 permalink: /Underground/Chapter 22_5/
 excerpt: "Capitolo 22 - 5. Era of Chaos  Sottosuolo - Capitolo 22_5. 22-5 L'essenza della vita"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 22_5.md"
 toc: false

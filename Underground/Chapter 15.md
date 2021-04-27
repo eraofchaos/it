@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 15 Fronte unito"
 permalink: /Underground/Chapter 15/
 excerpt: "Capitolo 15 Fronte unito. Era of Chaos  Sottosuolo - Capitolo 15. Fronte unito"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 15.md"
 toc: false

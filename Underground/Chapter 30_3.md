@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 30 - 30-3  Tiratore scelto"
 permalink: /Underground/Chapter 30_3/
 excerpt: "Capitolo 30 - 3. Era of Chaos  Sottosuolo - Capitolo 30_3. 30-3  Tiratore scelto"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 30_3.md"
 toc: false

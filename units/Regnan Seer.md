@@ -3,7 +3,7 @@ title: "Veggente di Regna"
 permalink: /units/Regnan Seer/
 excerpt: "Era of Chaos Veggente di Regna. Veggente di Regna Unità. Elementale delle maree. Era of Chaos Il portavoce degli abissi, che combatte per proteggere la maestosità e il potere degli oceani. Brandisce la potenza dei mari per mettere in fuga ogni invasore."
 unitID: 9907
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Veggente di Regna"
 toc: true
@@ -126,7 +126,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Baia sono esperte negli scontri navali. Quando affrontano unità non Baia, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str9"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica normale 6 : Furia dell'oceano
- **Descrizione:** Quando vengono schierate almeno 3 unità Baia, la Vel ATT e la Rid DAN della Veggente di Regna aumentano. A 10 secondi dall'inizio della battaglia, la Veggente di Regna lancia <Profondo terrore>, che fa attivare <Aura oceanica> per 15 secondi. Recupero: 30 secondi.
+ **Descrizione:** <span style="color: #645252;font-size:20px">Se sono schierate 3 unità Baia, la Veggente di Regna gode di Vel ATT aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str10"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">) e Rid DAN aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str11"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Quando la Veggente di Regna lancia &lt;Profondo terrore&gt;, attiva anche la sua &lt;Aura oceanica&gt;. Durata: 15 secondi. Recupero: 30 secondi.</span><span style="color: black">
 
   <script language="JavaScript">
   function skillCalc(event) {
@@ -141,6 +141,8 @@ toc: true
     let str4 = "(LEVEL*0.1+0.5)"
     let str1 = "(LEVEL*2.5+12.5)"
     let str2 = "(LEVEL*0.1+1.5)"
+    let str10 = "(LEVEL*1+15)"
+    let str11 = "(LEVEL*1+15)"
     let str9 = "(LEVEL*1+5)"
     let res="ERR";
     try {
@@ -152,6 +154,8 @@ toc: true
      res = eval(str4); document.getElementById('str4').textContent = res;
      res = eval(str1); document.getElementById('str1').textContent = res;
      res = eval(str2); document.getElementById('str2').textContent = res;
+     res = eval(str10); document.getElementById('str10').textContent = res;
+     res = eval(str11); document.getElementById('str11').textContent = res;
      res = eval(str9); document.getElementById('str9').textContent = res;
     } catch (e) { log.textContent = "Issue with calculation!";}
     if (event!=null)

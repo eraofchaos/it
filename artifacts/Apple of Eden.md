@@ -2,7 +2,7 @@
 title: "Manufatti - Mela dell'Eden"
 permalink: /artifacts/Apple of Eden/
 excerpt: "Era of Chaos  Mela dell'Eden. Mela dell'Eden Un dono dell'antica civiltà dei Precursori. Secondo la leggenda, questo manufatto è in grado di manipolare tutti gli esseri viventi."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Apple of Eden.md"
 toc: false

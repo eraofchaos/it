@@ -2,7 +2,7 @@
 title: "Scudo blasfemo"
 permalink: /equipment/Unholy Shield/
 excerpt: "Era of Chaos Scudo blasfemo. Scudo blasfemo"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Unholy Shield.md"
 toc: false

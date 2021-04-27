@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-1 Il conquistatore"
 permalink: /Main Story/Chapter 21_1/
 excerpt: "Capitolo 21 - 1. Era of Chaos  Storia principale - Capitolo 21_1. 21-1 Il conquistatore"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 21_1.md"
 toc: false

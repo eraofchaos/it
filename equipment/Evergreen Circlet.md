@@ -2,7 +2,7 @@
 title: "Cerchietto sempreverde"
 permalink: /equipment/Evergreen Circlet/
 excerpt: "Era of Chaos Cerchietto sempreverde. Cerchietto sempreverde"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Evergreen Circlet.md"
 toc: false

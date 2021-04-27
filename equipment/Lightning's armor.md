@@ -2,7 +2,7 @@
 title: "Armatura del fulmine"
 permalink: /equipment/Lightning's armor/
 excerpt: "Era of Chaos Armatura del fulmine. Armatura del fulmine"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Lightning's armor.md"
 toc: false

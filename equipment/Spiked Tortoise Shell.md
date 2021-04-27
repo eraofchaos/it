@@ -2,7 +2,7 @@
 title: "Guscio di Testuggine spinata"
 permalink: /equipment/Spiked Tortoise Shell/
 excerpt: "Era of Chaos Guscio di Testuggine spinata. Guscio di Testuggine spinata"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Spiked Tortoise Shell.md"
 toc: false

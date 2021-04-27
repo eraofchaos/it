@@ -2,7 +2,7 @@
 title: "Antico bordone"
 permalink: /equipment/Elder Staff/
 excerpt: "Era of Chaos Antico bordone. Antico bordone"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Elder Staff.md"
 toc: false

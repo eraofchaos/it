@@ -2,7 +2,7 @@
 title: "Armatura da battaglia luminosa"
 permalink: /equipment/Light Battle Armor/
 excerpt: "Era of Chaos Armatura da battaglia luminosa. Armatura da battaglia luminosa"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Light Battle Armor.md"
 toc: false

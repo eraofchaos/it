@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-8 Scelte difficili"
 permalink: /Main Story/Chapter 24_8/
 excerpt: "Capitolo 24 - 8. Era of Chaos  Storia principale - Capitolo 24_8. 24-8 Scelte difficili"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 24_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Fonte del Mago - Sfera mistica del mana"
 permalink: /artifacts/Mystic Orb of Mana/
 excerpt: "Era of Chaos  Fonte del Mago - Sfera mistica del mana. Una sfera di cristallo dotata di un forte potere magico. Uno dei componenti della Fonte del Mago."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Mystic Orb of Mana.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Ogre Esclusivo."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Ogre Scudo dell'Iride.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Quando l'Ogre viene schierato in battaglia, aumenta del 10% la Vel ATT di tutte le unità Roccaforte alleate. Inoltre, gode di DIF aumentata del 10%. |
   | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Tenacia dell'Ogre aumentata di 500. |
   | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Quando l'Ogre viene schierato in battaglia, riduce del 10% la DIF di tutte le unità nemiche e gode di resistenza magica aumentata del 100%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | L'Ogre gode di DIF aumentata del 5% per ogni unità difensiva schierata. I PF dell'Ogre aumentano di 1000 per ogni unità Roccaforte schierata. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | L'Ogre gode di DIF aumentata del 5% per ogni unità difensiva schierata. I PF rigenerati dall'Ogre aumentano di 1000 per ogni unità Roccaforte schierata. |
 
 
 ## Livello ↑

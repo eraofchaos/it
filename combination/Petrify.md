@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Pietrificazione"
 permalink: /combination/Petrify/
 excerpt: "Informazioni combinazione - Pietrificazione. Units and Heroes Formation."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Pietrificazione.md"
 toc: false

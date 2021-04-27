@@ -2,7 +2,7 @@
 title: "Criniera fiammeggiante"
 permalink: /equipment/Mane of Flame/
 excerpt: "Era of Chaos Criniera fiammeggiante. Criniera fiammeggiante"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Mane of Flame.md"
 toc: false

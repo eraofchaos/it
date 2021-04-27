@@ -2,7 +2,7 @@
 title: "Orecchini del regnante"
 permalink: /equipment/Ruler's Earrings/
 excerpt: "Era of Chaos Orecchini del regnante. Orecchini del regnante"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Ruler's Earrings.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 - 22-14 Saggezza"
 permalink: /Main Story/Chapter 22_14/
 excerpt: "Capitolo 22 - 14. Era of Chaos  Storia principale - Capitolo 22_14. 22-14 Saggezza"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 22_14.md"
 toc: false

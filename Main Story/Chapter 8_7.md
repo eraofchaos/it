@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-7 Guerra a tutto campo"
 permalink: /Main Story/Chapter 8_7/
 excerpt: "Capitolo 8 - 7. Era of Chaos  Storia principale - Capitolo 8_7. 8-7 Guerra a tutto campo"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 8_7.md"
 toc: false

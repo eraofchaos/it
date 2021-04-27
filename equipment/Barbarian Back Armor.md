@@ -2,7 +2,7 @@
 title: "Corazza barbarica"
 permalink: /equipment/Barbarian Back Armor/
 excerpt: "Era of Chaos Corazza barbarica. Corazza barbarica"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Barbarian Back Armor.md"
 toc: false

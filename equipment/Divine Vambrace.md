@@ -2,7 +2,7 @@
 title: "Vambrace divino"
 permalink: /equipment/Divine Vambrace/
 excerpt: "Era of Chaos Vambrace divino. Vambrace divino"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Divine Vambrace.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Bende antiche"
 permalink: /equipment/Ancient Bandage/
 excerpt: "Era of Chaos Bende antiche. Bende antiche"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Ancient Bandage.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Morto vivente. Morto vivente Unità. Zombi. Era of Chaos Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Morto vivente"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nome:** [Scudo dell'Iride](/it/Exclusive/Walking Dead Iris Shield/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rango ↑:** [Token Scudo dell'Iride](/ItemsIT/con_913/)
 

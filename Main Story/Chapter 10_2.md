@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-2 In cerca di un corpo"
 permalink: /Main Story/Chapter 10_2/
 excerpt: "Capitolo 10 - 2. Era of Chaos  Storia principale - Capitolo 10_2. 10-2 In cerca di un corpo"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 10_2.md"
 toc: false

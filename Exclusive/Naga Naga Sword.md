@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada da Naga (Naga)"
 permalink: /Exclusive/Naga Naga Sword/
 excerpt: "Era of Chaos Spada da Naga. Spada da Naga. Era of Chaos Esclusivo Spada da Naga. Naga Esclusivo."
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Naga Spada da Naga.md"
 toc: false

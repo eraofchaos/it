@@ -2,7 +2,7 @@
 title: "Pietre del Sognatore"
 permalink: /equipment/Dreamer's Stones/
 excerpt: "Era of Chaos Pietre del Sognatore. Pietre del Sognatore"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Dreamer's Stones.md"
 toc: false

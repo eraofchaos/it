@@ -2,7 +2,7 @@
 title: "Corona dell'abbondanza"
 permalink: /equipment/Bountiful's Crown/
 excerpt: "Era of Chaos Corona dell'abbondanza. Corona dell'abbondanza"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Bountiful's Crown.md"
 toc: false

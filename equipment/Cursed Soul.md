@@ -2,7 +2,7 @@
 title: "Anima maledetta"
 permalink: /equipment/Cursed Soul/
 excerpt: "Era of Chaos Anima maledetta. Anima maledetta"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Cursed Soul.md"
 toc: false

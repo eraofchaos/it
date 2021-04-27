@@ -2,7 +2,7 @@
 title: "Avatar - Dominatore del gelo"
 permalink: /Avatars/Ruler of Frost/
 excerpt: "Era of Chaos  Dominatore del gelo"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Ruler of Frost.md"
 toc: false

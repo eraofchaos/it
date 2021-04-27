@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 7 - 7-2 Implorare aiuto"
 permalink: /Underground/Chapter 7_2/
 excerpt: "Capitolo 7 - 2. Era of Chaos  Sottosuolo - Capitolo 7_2. 7-2 Implorare aiuto"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 7_2.md"
 toc: false

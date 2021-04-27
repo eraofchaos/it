@@ -2,7 +2,7 @@
 title: "Soffio mortale"
 permalink: /equipment/Breath of Death/
 excerpt: "Era of Chaos Soffio mortale. Soffio mortale"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Breath of Death.md"
 toc: false

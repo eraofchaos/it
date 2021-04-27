@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 10 - 10-1 Attendere nell'ombra"
 permalink: /Underground/Chapter 10_1/
 excerpt: "Capitolo 10 - 1. Era of Chaos  Sottosuolo - Capitolo 10_1. 10-1 Attendere nell'ombra"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 10_1.md"
 toc: false

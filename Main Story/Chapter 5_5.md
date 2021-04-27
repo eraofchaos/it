@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-5 Uno spregiudicato tradimento"
 permalink: /Main Story/Chapter 5_5/
 excerpt: "Capitolo 5 - 5. Era of Chaos  Storia principale - Capitolo 5_5. 5-5 Uno spregiudicato tradimento"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 5_5.md"
 toc: false

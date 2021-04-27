@@ -2,7 +2,7 @@
 title: "Ape assassina"
 permalink: /equipment/Killer Bee/
 excerpt: "Era of Chaos Ape assassina. Ape assassina"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Killer Bee.md"
 toc: false

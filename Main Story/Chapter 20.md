@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 Tunnel e trogloditi"
 permalink: /Main Story/Chapter 20/
 excerpt: "Capitolo 20. Era of Chaos  Storia principale - Capitolo 20. Tunnel e trogloditi"
-last_modified_at: 2021-04-26
+last_modified_at: 2021-04-27
 locale: it
 ref: "Chapter 20.md"
 toc: false
