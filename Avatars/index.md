@@ -2,7 +2,7 @@
 title: "Cornice Avatar e Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cornice Avatar e Avatar. Cornice Avatar e Avatar"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "index.md"
 toc: false

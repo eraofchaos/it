@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 12 - 12-3 Una dura rappresaglia"
 permalink: /Underground/Chapter 12_3/
 excerpt: "Capitolo 12 - 3. Era of Chaos  Sottosuolo - Capitolo 12_3. 12-3 Una dura rappresaglia"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 12_3.md"
 toc: false

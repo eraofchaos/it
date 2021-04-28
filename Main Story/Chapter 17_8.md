@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-8 La miniera degli Gnomi"
 permalink: /Main Story/Chapter 17_8/
 excerpt: "Capitolo 17 - 8. Era of Chaos  Storia principale - Capitolo 17_8. 17-8 La miniera degli Gnomi"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 17_8.md"
 toc: false

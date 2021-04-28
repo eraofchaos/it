@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-6 Dimora inospitale"
 permalink: /Main Story/Chapter 7_6/
 excerpt: "Capitolo 7 - 6. Era of Chaos  Storia principale - Capitolo 7_6. 7-6 Dimora inospitale"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 7_6.md"
 toc: false

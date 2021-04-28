@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-2 La torre blu"
 permalink: /Main Story/Chapter 12_2/
 excerpt: "Capitolo 12 - 2. Era of Chaos  Storia principale - Capitolo 12_2. 12-2 La torre blu"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 12_2.md"
 toc: false

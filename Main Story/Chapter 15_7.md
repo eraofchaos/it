@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-7 L'altare della morte"
 permalink: /Main Story/Chapter 15_7/
 excerpt: "Capitolo 15 - 7. Era of Chaos  Storia principale - Capitolo 15_7. 15-7 L'altare della morte"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 15_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-13 Odio fraterno"
 permalink: /Main Story/Chapter 21_13/
 excerpt: "Capitolo 21 - 13. Era of Chaos  Storia principale - Capitolo 21_13. 21-13 Odio fraterno"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 21_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Signore Selvaggio"
 permalink: /Avatars/Wild Overlord/
 excerpt: "Era of Chaos  Signore Selvaggio"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Wild Overlord.md"
 toc: false

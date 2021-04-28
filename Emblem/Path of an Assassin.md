@@ -2,7 +2,7 @@
 title: "Emblema sacro - Il sentiero dell'Assassino"
 permalink: /Emblem/Path of an Assassin/
 excerpt: "Era of Chaos Il sentiero dell'Assassino. Il sentiero dell'Assassino. Era of Chaos Emblema sacro Il sentiero dell'Assassino. Era of Chaos Neutrale Il sentiero dell'Assassino"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Path of an Assassin.md"
 toc: false

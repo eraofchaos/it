@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-7 Una possibilità di sopravvivenza"
 permalink: /Main Story/Chapter 5_7/
 excerpt: "Capitolo 5 - 7. Era of Chaos  Storia principale - Capitolo 5_7. 5-7 Una possibilità di sopravvivenza"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 5_7.md"
 toc: false

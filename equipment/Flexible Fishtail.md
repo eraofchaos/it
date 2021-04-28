@@ -2,7 +2,7 @@
 title: "Coda di pesce flessibile"
 permalink: /equipment/Flexible Fishtail/
 excerpt: "Era of Chaos Coda di pesce flessibile. Coda di pesce flessibile"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Flexible Fishtail.md"
 toc: false

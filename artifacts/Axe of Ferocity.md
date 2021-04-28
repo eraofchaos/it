@@ -2,7 +2,7 @@
 title: "Manufatti - Ascia della Ferocia"
 permalink: /artifacts/Axe of Ferocity/
 excerpt: "Era of Chaos  Ascia della Ferocia. Ascia della Ferocia Arma realizzata usando reliquie sacre di diverse razze. Può migliorare l'abilità di combattimento ravvicinato."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Axe of Ferocity.md"
 toc: false

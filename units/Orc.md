@@ -3,7 +3,7 @@ title: "Orco"
 permalink: /units/Orc/
 excerpt: "Era of Chaos Orco. Orco Unità. Orco comandante. Era of Chaos Gli Orchi sembrano dotati di una scorta inesauribile di asce da lancio. Nessuno sa dove le nascondano."
 unitID: 403
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Orco"
 toc: true

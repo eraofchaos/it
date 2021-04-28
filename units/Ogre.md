@@ -3,7 +3,7 @@ title: "Ogre"
 permalink: /units/Ogre/
 excerpt: "Era of Chaos Ogre. Ogre Unità. Ogre mago. Era of Chaos Pur assomigliando a primati di piccole dimensioni, gli Ogre sono decisamente più pericolosi. In combattimento lanciano incantesimi che scatenano un'insaziabile sete di sangue."
 unitID: 404
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Ogre"
 toc: true

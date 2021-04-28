@@ -2,7 +2,7 @@
 title: "Pupilla dei defunti"
 permalink: /equipment/Pupil of the Departed/
 excerpt: "Era of Chaos Pupilla dei defunti. Pupilla dei defunti"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Pupil of the Departed.md"
 toc: false

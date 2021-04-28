@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-5 Il regno di Gavin"
 permalink: /Main Story/Chapter 19_5/
 excerpt: "Capitolo 19 - 5. Era of Chaos  Storia principale - Capitolo 19_5. 19-5 Il regno di Gavin"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 19_5.md"
 toc: false

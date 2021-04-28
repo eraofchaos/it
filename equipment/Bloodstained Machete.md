@@ -2,7 +2,7 @@
 title: "Machete insanguinato"
 permalink: /equipment/Bloodstained Machete/
 excerpt: "Era of Chaos Machete insanguinato. Machete insanguinato"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Bloodstained Machete.md"
 toc: false

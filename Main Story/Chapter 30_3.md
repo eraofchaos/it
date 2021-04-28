@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-3 La sorgente del Pegaso"
 permalink: /Main Story/Chapter 30_3/
 excerpt: "Capitolo 30 - 3. Era of Chaos  Storia principale - Capitolo 30_3. 30-3 La sorgente del Pegaso"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 30_3.md"
 toc: false

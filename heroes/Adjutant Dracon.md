@@ -2,7 +2,7 @@
 title: "Aiutante Dracon"
 permalink: /heroes/Adjutant Dracon/
 excerpt: "Era of Chaos  Aiutante Dracon"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Adjutant Dracon.md"
 QR: adhero_61202

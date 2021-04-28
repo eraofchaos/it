@@ -2,7 +2,7 @@
 title: "Aiutante Rashka"
 permalink: /heroes/Adjutant Rashka/
 excerpt: "Era of Chaos  Aiutante Rashka"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Adjutant Rashka.md"
 QR: adhero_60802

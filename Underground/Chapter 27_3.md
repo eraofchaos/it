@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 27 - 27-3 Il profeta dell'est"
 permalink: /Underground/Chapter 27_3/
 excerpt: "Capitolo 27 - 3. Era of Chaos  Sottosuolo - Capitolo 27_3. 27-3 Il profeta dell'est"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 27_3.md"
 toc: false

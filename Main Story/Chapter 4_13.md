@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-13 La Gilda dei mercenari"
 permalink: /Main Story/Chapter 4_13/
 excerpt: "Capitolo 4 - 13. Era of Chaos  Storia principale - Capitolo 4_13. 4-13 La Gilda dei mercenari"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 4_13.md"
 toc: false

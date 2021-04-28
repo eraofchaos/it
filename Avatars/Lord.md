@@ -2,7 +2,7 @@
 title: "Avatar - Signore"
 permalink: /Avatars/Lord/
 excerpt: "Era of Chaos  Signore"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Lord.md"
 toc: false

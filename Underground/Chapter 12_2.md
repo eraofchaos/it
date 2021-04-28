@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 12 - 12-2 Il re dei non morti"
 permalink: /Underground/Chapter 12_2/
 excerpt: "Capitolo 12 - 2. Era of Chaos  Sottosuolo - Capitolo 12_2. 12-2 Il re dei non morti"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 12_2.md"
 toc: false

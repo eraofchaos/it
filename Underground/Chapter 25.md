@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 25 Una terra addormentata"
 permalink: /Underground/Chapter 25/
 excerpt: "Capitolo 25 Una terra addormentata. Era of Chaos  Sottosuolo - Capitolo 25. Una terra addormentata"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 25.md"
 toc: false

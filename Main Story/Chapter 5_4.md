@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-4 Irremovibili"
 permalink: /Main Story/Chapter 5_4/
 excerpt: "Capitolo 5 - 4. Era of Chaos  Storia principale - Capitolo 5_4. 5-4 Irremovibili"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 5_4.md"
 toc: false

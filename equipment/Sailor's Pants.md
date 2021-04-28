@@ -2,7 +2,7 @@
 title: "Pantaloni da marinaio"
 permalink: /equipment/Sailor's Pants/
 excerpt: "Era of Chaos Pantaloni da marinaio. Pantaloni da marinaio"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Sailor's Pants.md"
 toc: false

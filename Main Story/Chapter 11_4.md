@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-4 L'avanguardia dell'occupazione"
 permalink: /Main Story/Chapter 11_4/
 excerpt: "Capitolo 11 - 4. Era of Chaos  Storia principale - Capitolo 11_4. 11-4 L'avanguardia dell'occupazione"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 11_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 17 - 17-5 Strenua difesa"
 permalink: /Underground/Chapter 17_5/
 excerpt: "Capitolo 17 - 5. Era of Chaos  Sottosuolo - Capitolo 17_5. 17-5 Strenua difesa"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 17_5.md"
 toc: false

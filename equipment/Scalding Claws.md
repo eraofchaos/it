@@ -2,7 +2,7 @@
 title: "Artigli ustionanti"
 permalink: /equipment/Scalding Claws/
 excerpt: "Era of Chaos Artigli ustionanti. Artigli ustionanti"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Scalding Claws.md"
 toc: false

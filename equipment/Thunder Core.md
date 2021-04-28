@@ -2,7 +2,7 @@
 title: "Nucleo di tuono"
 permalink: /equipment/Thunder Core/
 excerpt: "Era of Chaos Nucleo di tuono. Nucleo di tuono"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Thunder Core.md"
 toc: false

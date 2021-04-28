@@ -2,7 +2,7 @@
 title: "Scimitarra blasfema"
 permalink: /equipment/Unholy Scimitar/
 excerpt: "Era of Chaos Scimitarra blasfema. Scimitarra blasfema"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Unholy Scimitar.md"
 toc: false

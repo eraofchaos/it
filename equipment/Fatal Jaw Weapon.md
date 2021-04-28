@@ -2,7 +2,7 @@
 title: "Mascella fatale"
 permalink: /equipment/Fatal Jaw Weapon/
 excerpt: "Era of Chaos Mascella fatale. Mascella fatale"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Fatal Jaw Weapon.md"
 toc: false

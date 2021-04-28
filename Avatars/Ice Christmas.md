@@ -2,7 +2,7 @@
 title: "Avatar - Gelido Natale"
 permalink: /Avatars/Ice Christmas/
 excerpt: "Era of Chaos  Gelido Natale"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Ice Christmas.md"
 toc: false

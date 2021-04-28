@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 5 - 5-2 L'armata si avvicina"
 permalink: /Underground/Chapter 5_2/
 excerpt: "Capitolo 5 - 2. Era of Chaos  Sottosuolo - Capitolo 5_2. 5-2 L'armata si avvicina"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 5_2.md"
 toc: false

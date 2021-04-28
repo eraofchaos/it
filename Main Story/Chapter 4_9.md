@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-9 Torre di sorveglianza"
 permalink: /Main Story/Chapter 4_9/
 excerpt: "Capitolo 4 - 9. Era of Chaos  Storia principale - Capitolo 4_9. 4-9 Torre di sorveglianza"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 4_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Abito d'alloro"
 permalink: /equipment/Short Robe of Verdurous Leaves/
 excerpt: "Era of Chaos Abito d'alloro. Abito d'alloro"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Short Robe of Verdurous Leaves.md"
 toc: false

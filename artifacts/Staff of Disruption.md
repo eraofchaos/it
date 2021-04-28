@@ -2,7 +2,7 @@
 title: "Manufatti - Codice dell'Arcimago - Bastone della Confusione"
 permalink: /artifacts/Staff of Disruption/
 excerpt: "Era of Chaos  Codice dell'Arcimago - Bastone della Confusione. Un bastone contenente un immenso potere. Uno dei Codici dell'Arcimago."
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Staff of Disruption.md"
 toc: false

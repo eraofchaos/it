@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-14 Santuario sacro"
 permalink: /Main Story/Chapter 28_14/
 excerpt: "Capitolo 28 - 14. Era of Chaos  Storia principale - Capitolo 28_14. 28-14 Santuario sacro"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 28_14.md"
 toc: false

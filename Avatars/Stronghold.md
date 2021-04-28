@@ -2,7 +2,7 @@
 title: "Avatar - Roccaforte"
 permalink: /Avatars/Stronghold/
 excerpt: "Era of Chaos  Roccaforte"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Stronghold.md"
 toc: false

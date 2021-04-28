@@ -3,7 +3,7 @@ title: "Demone"
 permalink: /units/Demon/
 excerpt: "Era of Chaos Demone. Demone Unità. Guardia infernale. Era of Chaos I Demoni cornuti prendono il nome dalle affilatissime corna che campeggiano sulla loro fronte. Queste ultime sono la loro arma più temibile, capaci di penetrare ogni corazza e sventrare i nemici."
 unitID: 504
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Demone"
 toc: true

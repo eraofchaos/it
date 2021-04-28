@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 19 - 19-2 Venerazione mistica"
 permalink: /Underground/Chapter 19_2/
 excerpt: "Capitolo 19 - 2. Era of Chaos  Sottosuolo - Capitolo 19_2. 19-2 Venerazione mistica"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 19_2.md"
 toc: false

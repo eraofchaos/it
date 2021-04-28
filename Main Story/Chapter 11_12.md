@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-12 La coccinella della fortuna"
 permalink: /Main Story/Chapter 11_12/
 excerpt: "Capitolo 11 - 12. Era of Chaos  Storia principale - Capitolo 11_12. 11-12 La coccinella della fortuna"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 11_12.md"
 toc: false

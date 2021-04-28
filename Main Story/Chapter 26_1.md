@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-1 Identità nazionale"
 permalink: /Main Story/Chapter 26_1/
 excerpt: "Capitolo 26 - 1. Era of Chaos  Storia principale - Capitolo 26_1. 26-1 Identità nazionale"
-last_modified_at: 2021-04-27
+last_modified_at: 2021-04-28
 locale: it
 ref: "Chapter 26_1.md"
 toc: false
