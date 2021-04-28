@@ -30,7 +30,7 @@ toc: true
 
  **Starts:** [<i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/>](/it/units/Star 3/)
 
- **Unit Soul:** [Tool_3709](/ItemsIT/unt_252/)
+ **Unit Soul:** [Strega malvagia](/ItemsIT/unt_252/)
 
  **Short description:** Riflette gli incantesimi. Applica buff con l'aura.
 

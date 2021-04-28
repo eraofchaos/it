@@ -71,7 +71,7 @@ sidebar:
   | **2** |  **1000x** [Cristallo di sangue draconico](/ItemsIT/con_879/) | 1 | 10 | 20 |
   | **3** |  **30x** [Mithril del vuoto](/ItemsIT/con_817/) | 1 | 10 | 20 |
   | **4** |  **15x** [Biglietto Riscossione Emblemi sacri](/ItemsIT/con_513/) | 1 | 10 | 20 |
-  | **5** |  **10x** [Tool_10046](/ItemsIT/con_2135/) | 1 | 10 | 10 |
+  | **5** |  **10x** [Perla silente](/ItemsIT/con_2135/) | 1 | 10 | 10 |
   | **6** |  **8x** [Patto dell'Oracolo](/ItemsIT/con_816/) | 1 | 10 | 10 |
   | **7** |  **1x** [Scrigno Componenti Manufatto epico](/ItemsIT/con_1926/) | 2 | 2 | 5 |
   | **8** |  **8x** [Perla scintillante](/ItemsIT/con_527/) | 2 | 15 | 10 |
