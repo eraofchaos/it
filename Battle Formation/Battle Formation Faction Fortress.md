@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Fortezza"
 permalink: /Battle Formation/Battle Formation Faction Fortress
 excerpt: "Formazione di battaglia Fortezza"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "BattleFormationFactionFortress"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Aumenta del 10% la Resistenza magica delle unità Fortezza** |
   | **8** | **Contro unità affette da <Malattia>, il DAN CRIT delle unità Fortezza aumenta del 12%** |
   | **9** | **Aumenta del 4% la VEL ATT delle unità Fortezza** |
+  | **10** | **Aumenta del 15% l'ATT delle unità Fortezza** |
+  | **11** | **Aumenta del 17% i PF delle unità Fortezza** |
+  | **12** | **Contro unità affette da <Malattia>, l'<Assorbimento> delle unità Fortezza aumenta del 6%** |
 
 ## Formazione di battaglia Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Fortress - Blaster | CRIT + **5**  | 160 |  **10** x [Gnoll](/it/units/Gnoll) |
   | 17 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
   | 18 | Fortress - Storm Assaulter | ATT + **1** % | 80 |   |
+  
+
+
+## Formazione di battaglia Circle 3:
+
+  |  Nr  |  Nome   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Fortress - Damage Amplification | DAN unità + **0.4** % | 180 |  **10** x [Uomo lucertola](/it/units/Lizardman) |
+  | 2 | Fortress - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 3 | Fortress - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 4 | Fortress - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 5 | Fortress - A Strike Hit | MIRA + **7**  | 180 |  **10** x [Gnoll](/it/units/Gnoll) |
+  | 6 | Fortress - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 7 | Fortress - Storm Assaulter | ATT + **0.6** %, PF + **0.6** % | 90 |   |
+  | 8 | Fortress - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 9 | Fortress - Ingeniousness | Schivata + **7**  | 180 |  **10** x [Mosca serpente](/it/units/Serpent Fly) |
+  | 10 | Fortress - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 11 | Fortress - Physical Trials | PF + **1.2** % | 90 |   |
+  | 12 | Fortress - Physical Trials | PF + **1.2** % | 90 |   |
+  | 13 | Fortress - Shield Practice | Rid DAN unità + **0.4** % | 180 |  **10** x [Mosca serpente](/it/units/Serpent Fly) |
+  | 14 | Fortress - Physical Trials | PF + **1.2** % | 90 |   |
+  | 15 | Fortress - Physical Trials | PF + **1.2** % | 90 |   |
+  | 16 | Fortress - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 17 | Fortress - Rocklike Skin | Tenacia + **8**  | 180 |  **10** x [Gnoll](/it/units/Gnoll) |
+  | 18 | Fortress - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 19 | Fortress - Storm Assaulter | ATT + **0.6** %, PF + **0.6** % | 90 |   |
+  | 20 | Fortress - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 21 | Fortress - Blaster | CRIT + **6**  | 180 |  **10** x [Uomo lucertola](/it/units/Lizardman) |
+  | 22 | Fortress - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 23 | Fortress - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 24 | Fortress - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  
+
+
+## Formazione di battaglia Circle 4:
+
+  |  Nr  |  Nome   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Fortress - Damage Amplification | DAN unità + **0.5** % | 190 |  **20** x [Mosca serpente](/it/units/Serpent Fly) |
+  | 2 | Fortress - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 3 | Fortress - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 4 | Fortress - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 5 | Fortress - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 6 | Fortress - A Strike Hit | MIRA + **8**  | 190 |  **20** x [Uomo lucertola](/it/units/Lizardman) |
+  | 7 | Fortress - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 8 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 9 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 10 | Fortress - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 11 | Fortress - Ingeniousness | Schivata + **8**  | 190 |  **20** x [Uomo lucertola](/it/units/Lizardman) |
+  | 12 | Fortress - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 13 | Fortress - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 14 | Fortress - Physical Trials | PF + **1.4** % | 100 |   |
+  | 15 | Fortress - Physical Trials | PF + **1.4** % | 100 |   |
+  | 16 | Fortress - Shield Practice | Rid DAN unità + **0.5** % | 190 |  **20** x [Uomo lucertola](/it/units/Lizardman) |
+  | 17 | Fortress - Physical Trials | PF + **1.4** % | 100 |   |
+  | 18 | Fortress - Physical Trials | PF + **1.4** % | 100 |   |
+  | 19 | Fortress - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 20 | Fortress - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 21 | Fortress - Rocklike Skin | Tenacia + **10**  | 190 |  **20** x [Uomo lucertola](/it/units/Lizardman) |
+  | 22 | Fortress - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 23 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 24 | Fortress - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 25 | Fortress - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 26 | Fortress - Blaster | CRIT + **7**  | 190 |  **20** x [Mosca serpente](/it/units/Serpent Fly) |
+  | 27 | Fortress - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 28 | Fortress - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 29 | Fortress - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 30 | Fortress - Storm Assaulter | ATT + **1.4** % | 100 |   |
   
 

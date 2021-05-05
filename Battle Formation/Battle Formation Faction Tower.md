@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Torre"
 permalink: /Battle Formation/Battle Formation Faction Tower
 excerpt: "Formazione di battaglia Torre"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "BattleFormationFactionTower"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Aumenta del 10% la Resistenza magica delle unità Torre** |
   | **8** | **Quando un eroe alleato lancia un incantesimo di supporto, il DAN CRIT di tutte le unità Torre alleate aumenta del 12% per 6 secondi.** |
   | **9** | **Aumenta del 4% la VEL ATT delle unità Torre** |
+  | **10** | **Aumenta del 15% l'ATT delle unità Torre** |
+  | **11** | **Aumenta del 17% i PF delle unità Torre** |
+  | **12** | **Quando un eroe alleato lancia un incantesimo di supporto, la DIF di tutte le unità Torre alleate aumenta dell'8% per 6 secondi.** |
 
 ## Formazione di battaglia Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Tower - Blaster | CRIT + **5**  | 160 |  **10** x [Gremlin](/it/units/Gremlin) |
   | 17 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
   | 18 | Tower - Storm Assaulter | ATT + **1** % | 80 |   |
+  
+
+
+## Formazione di battaglia Circle 3:
+
+  |  Nr  |  Nome   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Tower - Damage Amplification | DAN unità + **0.4** % | 180 |  **10** x [Gargolla di pietra](/it/units/Stone Gargoyle) |
+  | 2 | Tower - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 3 | Tower - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 4 | Tower - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 5 | Tower - A Strike Hit | MIRA + **7**  | 180 |  **10** x [Golem di ferro](/it/units/Iron Golem) |
+  | 6 | Tower - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 7 | Tower - Storm Assaulter | ATT + **0.6** %, PF + **0.6** % | 90 |   |
+  | 8 | Tower - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 9 | Tower - Ingeniousness | Schivata + **7**  | 180 |  **10** x [Gremlin](/it/units/Gremlin) |
+  | 10 | Tower - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 11 | Tower - Physical Trials | PF + **1.2** % | 90 |   |
+  | 12 | Tower - Physical Trials | PF + **1.2** % | 90 |   |
+  | 13 | Tower - Shield Practice | Rid DAN unità + **0.4** % | 180 |  **10** x [Gremlin](/it/units/Gremlin) |
+  | 14 | Tower - Physical Trials | PF + **1.2** % | 90 |   |
+  | 15 | Tower - Physical Trials | PF + **1.2** % | 90 |   |
+  | 16 | Tower - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 17 | Tower - Rocklike Skin | Tenacia + **8**  | 180 |  **10** x [Golem di ferro](/it/units/Iron Golem) |
+  | 18 | Tower - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 19 | Tower - Storm Assaulter | ATT + **0.6** %, PF + **0.6** % | 90 |   |
+  | 20 | Tower - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 21 | Tower - Blaster | CRIT + **6**  | 180 |  **10** x [Gargolla di pietra](/it/units/Stone Gargoyle) |
+  | 22 | Tower - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 23 | Tower - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 24 | Tower - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  
+
+
+## Formazione di battaglia Circle 4:
+
+  |  Nr  |  Nome   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Tower - Damage Amplification | DAN unità + **0.5** % | 190 |  **20** x [Gargolla di pietra](/it/units/Stone Gargoyle) |
+  | 2 | Tower - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 3 | Tower - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 4 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 5 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 6 | Tower - A Strike Hit | MIRA + **8**  | 190 |  **20** x [Mago](/it/units/Mage) |
+  | 7 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 8 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 9 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 10 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 11 | Tower - Ingeniousness | Schivata + **8**  | 190 |  **20** x [Mago](/it/units/Mage) |
+  | 12 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 13 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 14 | Tower - Physical Trials | PF + **1.4** % | 100 |   |
+  | 15 | Tower - Physical Trials | PF + **1.4** % | 100 |   |
+  | 16 | Tower - Shield Practice | Rid DAN unità + **0.5** % | 190 |  **20** x [Mago](/it/units/Mage) |
+  | 17 | Tower - Physical Trials | PF + **1.4** % | 100 |   |
+  | 18 | Tower - Physical Trials | PF + **1.4** % | 100 |   |
+  | 19 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 20 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 21 | Tower - Rocklike Skin | Tenacia + **10**  | 190 |  **20** x [Mago](/it/units/Mage) |
+  | 22 | Tower - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 23 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 24 | Tower - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 25 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 26 | Tower - Blaster | CRIT + **7**  | 190 |  **20** x [Gargolla di pietra](/it/units/Stone Gargoyle) |
+  | 27 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 28 | Tower - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 29 | Tower - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 30 | Tower - Storm Assaulter | ATT + **1.4** % | 100 |   |
   
 

@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Inferno"
 permalink: /Battle Formation/Battle Formation Faction Inferno
 excerpt: "Formazione di battaglia Inferno"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "BattleFormationFactionInferno"
 toc: false
@@ -29,6 +29,9 @@ classes: wide
   | **7** | **Aumenta del 10% la Resistenza magica delle unità Inferno** |
   | **8** | **Contro unità affette da <Combustione>, il Colpo critico delle unità Inferno aumenta di 50** |
   | **9** | **Aumenta del 4% la VEL ATT delle unità Inferno** |
+  | **10** | **Aumenta del 15% l'ATT delle unità Inferno** |
+  | **11** | **Aumenta del 17% i PF delle unità Inferno** |
+  | **12** | **Per ogni unità Inferno sul campo, la DIF delle unità Inferno aumenta di 60** |
 
 ## Formazione di battaglia Circle 1:
 
@@ -71,5 +74,73 @@ classes: wide
   | 16 | Inferno - Blaster | CRIT + **5**  | 160 |  **10** x [Gog](/it/units/Gog) |
   | 17 | Inferno - Storm Assaulter | ATT + **0.7** %, PF + **0.3** % | 80 |   |
   | 18 | Inferno - Storm Assaulter | ATT + **1** % | 80 |   |
+  
+
+
+## Formazione di battaglia Circle 3:
+
+  |  Nr  |  Nome   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Inferno - Damage Amplification | DAN unità + **0.4** % | 180 |  **10** x [Demone](/it/units/Demon) |
+  | 2 | Inferno - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 3 | Inferno - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 4 | Inferno - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 5 | Inferno - A Strike Hit | MIRA + **7**  | 180 |  **10** x [Segugio infernale](/it/units/Hell Hound) |
+  | 6 | Inferno - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 7 | Inferno - Storm Assaulter | ATT + **0.6** %, PF + **0.6** % | 90 |   |
+  | 8 | Inferno - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 9 | Inferno - Ingeniousness | Schivata + **7**  | 180 |  **10** x [Demone](/it/units/Demon) |
+  | 10 | Inferno - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 11 | Inferno - Physical Trials | PF + **1.2** % | 90 |   |
+  | 12 | Inferno - Physical Trials | PF + **1.2** % | 90 |   |
+  | 13 | Inferno - Shield Practice | Rid DAN unità + **0.4** % | 180 |  **10** x [Segugio infernale](/it/units/Hell Hound) |
+  | 14 | Inferno - Physical Trials | PF + **1.2** % | 90 |   |
+  | 15 | Inferno - Physical Trials | PF + **1.2** % | 90 |   |
+  | 16 | Inferno - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 17 | Inferno - Rocklike Skin | Tenacia + **8**  | 180 |  **10** x [Demone](/it/units/Demon) |
+  | 18 | Inferno - Physical Trials | ATT + **0.4** %, PF + **0.8** % | 90 |   |
+  | 19 | Inferno - Storm Assaulter | ATT + **0.6** %, PF + **0.6** % | 90 |   |
+  | 20 | Inferno - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 21 | Inferno - Blaster | CRIT + **6**  | 180 |  **10** x [Segugio infernale](/it/units/Hell Hound) |
+  | 22 | Inferno - Storm Assaulter | ATT + **0.8** %, PF + **0.4** % | 90 |   |
+  | 23 | Inferno - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  | 24 | Inferno - Storm Assaulter | ATT + **1.2** % | 90 |   |
+  
+
+
+## Formazione di battaglia Circle 4:
+
+  |  Nr  |  Nome   |  Bonus  | <i class="fas fa-flask"/>  |  <i class="fab fa-optin-monster"/> |
+  |:-----|:--------------------|:---------|:-----------------:|:----------------:|
+  | 1 | Inferno - Damage Amplification | DAN unità + **0.5** % | 190 |  **20** x [Demone dell'abisso](/it/units/Pit Fiend) |
+  | 2 | Inferno - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 3 | Inferno - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 4 | Inferno - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 5 | Inferno - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 6 | Inferno - A Strike Hit | MIRA + **8**  | 190 |  **20** x [Efreet](/it/units/Efreeti) |
+  | 7 | Inferno - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 8 | Inferno - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 9 | Inferno - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 10 | Inferno - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 11 | Inferno - Ingeniousness | Schivata + **8**  | 190 |  **20** x [Demone dell'abisso](/it/units/Pit Fiend) |
+  | 12 | Inferno - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 13 | Inferno - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 14 | Inferno - Physical Trials | PF + **1.4** % | 100 |   |
+  | 15 | Inferno - Physical Trials | PF + **1.4** % | 100 |   |
+  | 16 | Inferno - Shield Practice | Rid DAN unità + **0.5** % | 190 |  **20** x [Efreet](/it/units/Efreeti) |
+  | 17 | Inferno - Physical Trials | PF + **1.4** % | 100 |   |
+  | 18 | Inferno - Physical Trials | PF + **1.4** % | 100 |   |
+  | 19 | Inferno - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 20 | Inferno - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 21 | Inferno - Rocklike Skin | Tenacia + **10**  | 190 |  **20** x [Demone dell'abisso](/it/units/Pit Fiend) |
+  | 22 | Inferno - Physical Trials | ATT + **0.5** %, PF + **0.9** % | 100 |   |
+  | 23 | Inferno - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 24 | Inferno - Storm Assaulter | ATT + **0.7** %, PF + **0.7** % | 100 |   |
+  | 25 | Inferno - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 26 | Inferno - Blaster | CRIT + **7**  | 190 |  **20** x [Efreet](/it/units/Efreeti) |
+  | 27 | Inferno - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 28 | Inferno - Storm Assaulter | ATT + **0.9** %, PF + **0.5** % | 100 |   |
+  | 29 | Inferno - Storm Assaulter | ATT + **1.4** % | 100 |   |
+  | 30 | Inferno - Storm Assaulter | ATT + **1.4** % | 100 |   |
   
 
