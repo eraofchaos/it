@@ -3,7 +3,7 @@ title: "Demone di ghiaccio"
 permalink: /units/Ice Demon/
 excerpt: "Era of Chaos Demone di ghiaccio. Demone di ghiaccio Unità. null. Era of Chaos Il Demone di ghiaccio è una creatura bizzarra anche per gli standard del Piano di Confluenza. È simile a un blocco di ghiaccio che non può sciogliersi. Con i suoi poteri, può privare della vista e mozzare il respiro. Ricorda i cadaveri sepolti nelle grotte glaciali."
 unitID: 908
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Demone di ghiaccio"
 toc: true

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-13 Turbamento"
 permalink: /Main Story/Chapter 8_13/
 excerpt: "Capitolo 8 - 13. Era of Chaos  Storia principale - Capitolo 8_13. 8-13 Turbamento"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 8_13.md"
 toc: false

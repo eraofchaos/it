@@ -2,7 +2,7 @@
 title: "Lancia d'ossa dello Squartatore"
 permalink: /equipment/Ripper's Bone Spear/
 excerpt: "Era of Chaos Lancia d'ossa dello Squartatore. Lancia d'ossa dello Squartatore"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Ripper's Bone Spear.md"
 toc: false

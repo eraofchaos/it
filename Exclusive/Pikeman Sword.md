@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada (Pikeman)"
 permalink: /Exclusive/Pikeman Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Picchiere Esclusivo."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Pikeman Spada.md"
 toc: false

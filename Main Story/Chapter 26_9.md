@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-9 Canzoni ammalianti"
 permalink: /Main Story/Chapter 26_9/
 excerpt: "Capitolo 26 - 9. Era of Chaos  Storia principale - Capitolo 26_9. 26-9 Canzoni ammalianti"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 26_9.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-3 Il cristallo vulcanico"
 permalink: /Main Story/Chapter 4_3/
 excerpt: "Capitolo 4 - 3. Era of Chaos  Storia principale - Capitolo 4_3. 4-3 Il cristallo vulcanico"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 4_3.md"
 toc: false

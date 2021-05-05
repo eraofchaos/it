@@ -2,7 +2,7 @@
 title: "Avatar - Dominatore del vuoto"
 permalink: /Avatars/Ruler of Void/
 excerpt: "Era of Chaos  Dominatore del vuoto"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Ruler of Void.md"
 toc: false

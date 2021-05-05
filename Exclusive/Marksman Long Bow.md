@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Marksman)"
 permalink: /Exclusive/Marksman Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Tiratore scelto Esclusivo."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Marksman Arco lungo.md"
 toc: false

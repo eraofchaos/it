@@ -2,7 +2,7 @@
 title: "Manufatti - Occhio di Falco - Uccello della Percezione"
 permalink: /artifacts/Bird of Perception/
 excerpt: "Era of Chaos  Occhio di Falco - Uccello della Percezione. Statua di un falco permeata dal potere magico di una strega. Uno dei componenti dell'Occhio di Falco."
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Bird of Perception.md"
 toc: false

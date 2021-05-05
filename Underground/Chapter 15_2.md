@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 15 - 15-2 Lava sotterranea"
 permalink: /Underground/Chapter 15_2/
 excerpt: "Capitolo 15 - 2. Era of Chaos  Sottosuolo - Capitolo 15_2. 15-2 Lava sotterranea"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 15_2.md"
 toc: false

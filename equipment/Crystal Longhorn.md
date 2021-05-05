@@ -2,7 +2,7 @@
 title: "Corno di cristallo"
 permalink: /equipment/Crystal Longhorn/
 excerpt: "Era of Chaos Corno di cristallo. Corno di cristallo"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Crystal Longhorn.md"
 toc: false

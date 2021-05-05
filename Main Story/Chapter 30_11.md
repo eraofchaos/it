@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-11 La tenda dalle lunghe gambe"
 permalink: /Main Story/Chapter 30_11/
 excerpt: "Capitolo 30 - 11. Era of Chaos  Storia principale - Capitolo 30_11. 30-11 La tenda dalle lunghe gambe"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 30_11.md"
 toc: false

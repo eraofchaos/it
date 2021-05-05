@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-6 Ricostruire il confine"
 permalink: /Main Story/Chapter 12_6/
 excerpt: "Capitolo 12 - 6. Era of Chaos  Storia principale - Capitolo 12_6. 12-6 Ricostruire il confine"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 12_6.md"
 toc: false

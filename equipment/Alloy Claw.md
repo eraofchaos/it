@@ -2,7 +2,7 @@
 title: "Artiglio in lega"
 permalink: /equipment/Alloy Claw/
 excerpt: "Era of Chaos Artiglio in lega. Artiglio in lega"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Alloy Claw.md"
 toc: false

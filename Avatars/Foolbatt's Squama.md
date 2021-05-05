@@ -2,7 +2,7 @@
 title: "Avatar - Ala rossa"
 permalink: /Avatars/Foolbatt's Squama/
 excerpt: "Era of Chaos  Ala rossa"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Foolbatt's Squama.md"
 toc: false

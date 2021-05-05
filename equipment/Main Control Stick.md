@@ -2,7 +2,7 @@
 title: "Leva di comando principale"
 permalink: /equipment/Main Control Stick/
 excerpt: "Era of Chaos Leva di comando principale. Leva di comando principale"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Main Control Stick.md"
 toc: false

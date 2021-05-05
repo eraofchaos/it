@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 10 - 10-3 Il corpo del re"
 permalink: /Underground/Chapter 10_3/
 excerpt: "Capitolo 10 - 3. Era of Chaos  Sottosuolo - Capitolo 10_3. 10-3 Il corpo del re"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 10_3.md"
 toc: false

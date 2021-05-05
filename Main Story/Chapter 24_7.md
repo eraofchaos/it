@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-7 Strani sogni"
 permalink: /Main Story/Chapter 24_7/
 excerpt: "Capitolo 24 - 7. Era of Chaos  Storia principale - Capitolo 24_7. 24-7 Strani sogni"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 24_7.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Artigli della Sirena"
 permalink: /equipment/Mermaid Claws/
 excerpt: "Era of Chaos Artigli della Sirena. Artigli della Sirena"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Mermaid Claws.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 24 Ondata elementale"
 permalink: /Underground/Chapter 24/
 excerpt: "Capitolo 24 Ondata elementale. Era of Chaos  Sottosuolo - Capitolo 24. Ondata elementale"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 24.md"
 toc: false

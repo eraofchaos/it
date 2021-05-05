@@ -2,7 +2,7 @@
 title: "Cimiero dell'Impero"
 permalink: /equipment/Empire's Crest/
 excerpt: "Era of Chaos Cimiero dell'Impero. Cimiero dell'Impero"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Empire's Crest.md"
 toc: false

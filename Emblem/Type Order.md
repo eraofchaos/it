@@ -2,7 +2,7 @@
 title: "Emblema sacro - Ordine"
 permalink: /Emblem/Type Order/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Era of Chaos Emblema sacro Ordine. Era of Chaos Ordine"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "typeOrdine.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-13 Le leggende di Nighon"
 permalink: /Main Story/Chapter 25_13/
 excerpt: "Capitolo 25 - 13. Era of Chaos  Storia principale - Capitolo 25_13. 25-13 Le leggende di Nighon"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 25_13.md"
 toc: false

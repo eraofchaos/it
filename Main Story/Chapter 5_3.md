@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-3 L'armata dell'alleanza"
 permalink: /Main Story/Chapter 5_3/
 excerpt: "Capitolo 5 - 3. Era of Chaos  Storia principale - Capitolo 5_3. 5-3 L'armata dell'alleanza"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 5_3.md"
 toc: false

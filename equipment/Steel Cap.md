@@ -2,7 +2,7 @@
 title: "Elmetto d'acciaio"
 permalink: /equipment/Steel Cap/
 excerpt: "Era of Chaos Elmetto d'acciaio. Elmetto d'acciaio"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Steel Cap.md"
 toc: false

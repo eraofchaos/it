@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 23 Indipendenza"
 permalink: /Underground/Chapter 23/
 excerpt: "Capitolo 23 Indipendenza. Era of Chaos  Sottosuolo - Capitolo 23. Indipendenza"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 23.md"
 toc: false

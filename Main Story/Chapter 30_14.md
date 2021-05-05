@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-14 La roccaforte infernale"
 permalink: /Main Story/Chapter 30_14/
 excerpt: "Capitolo 30 - 14. Era of Chaos  Storia principale - Capitolo 30_14. 30-14 La roccaforte infernale"
-last_modified_at: 2021-04-28
+last_modified_at: 2021-05-05
 locale: it
 ref: "Chapter 30_14.md"
 toc: false
