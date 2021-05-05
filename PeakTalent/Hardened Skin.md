@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at [Conquista militare](/it/PeakTalent/Military Attainment/)
+  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at ![Conquista militare](/images/pt/talent_2006.png) [Conquista militare](/it/PeakTalent/Military Attainment/)
 
   [Talento Apice EXP](/it/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | PF (1/4/9): +2000/600/300 | DAN riflesso: +0.5 | Difesa eroe di base: +2 | - |
   | 2 | PF (1/4/9): +4000/1200/600 | DAN riflesso: +1 | Difesa eroe di base: +4 | - |
   | 3 | PF (1/4/9): +6000/1800/900 | DAN riflesso: +1.5 | Difesa eroe di base: +8 | - |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punti Talento massimi](/ItemsIT/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punti Talento massimi](/ItemsIT/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punti Talento massimi](/ItemsIT/con_934/) | 200000 | 4 |

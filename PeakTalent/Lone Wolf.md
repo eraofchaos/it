@@ -27,7 +27,7 @@ sidebar:
   [Talento Apice EXP](/it/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ATT (1/4/9): +250/75/37.5 | PF (1/4/9): +2500/750/375 | Attacco eroe di base: +1 | Difesa eroe di base: +1 |
   | 2 | ATT (1/4/9): +500/150/75 | PF (1/4/9): +5000/1500/750 | Attacco eroe di base: +2 | Difesa eroe di base: +2 |
   | 3 | ATT (1/4/9): +750/225/112.5 | PF (1/4/9): +7500/2250/1125 | Attacco eroe di base: +4 | Difesa eroe di base: +4 |
@@ -43,7 +43,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punti Talento massimi](/ItemsIT/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punti Talento massimi](/ItemsIT/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punti Talento massimi](/ItemsIT/con_934/) | 200000 | 4 |

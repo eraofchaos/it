@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 8x** [Punti Talento massimi](/ItemsIT/con_934/) at [Impulso notturno](/it/PeakTalent/Midnight Pulse/)
+  **UNLOCK: 8x** [Punti Talento massimi](/ItemsIT/con_934/) at ![Impulso notturno](/images/pt/talent_3009.png) [Impulso notturno](/it/PeakTalent/Midnight Pulse/)
 
   [Talento Apice EXP](/it/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | DAN unità: +0.5% | DAN CRIT: +2 | Difesa eroe di base: +1 | Sapienza eroe di base: +1 |
   | 2 | DAN unità: +1% | DAN CRIT: +4 | Difesa eroe di base: +2 | Sapienza eroe di base: +2 |
   | 3 | DAN unità: +1.5% | DAN CRIT: +6 | Difesa eroe di base: +4 | Sapienza eroe di base: +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punti Talento massimi](/ItemsIT/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punti Talento massimi](/ItemsIT/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punti Talento massimi](/ItemsIT/con_934/) | 200000 | 4 |

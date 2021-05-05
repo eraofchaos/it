@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at [Scudo degli dei](/it/PeakTalent/Shield of Gods/)
+  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at ![Scudo degli dei](/images/pt/talent_4502.png) [Scudo degli dei](/it/PeakTalent/Shield of Gods/)
 
   [Talento Apice EXP](/it/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | DAN unità: +1% | Rid DAN unità: +1% | Intelligenza eroe di base: +2 | - |
   | 2 | DAN unità: +2% | Rid DAN unità: +2% | Intelligenza eroe di base: +4 | - |
   | 3 | DAN unità: +3% | Rid DAN unità: +3% | Intelligenza eroe di base: +8 | - |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punti Talento massimi](/ItemsIT/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punti Talento massimi](/ItemsIT/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punti Talento massimi](/ItemsIT/con_934/) | 200000 | 4 |

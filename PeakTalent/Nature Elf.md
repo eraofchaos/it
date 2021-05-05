@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at [Cavalleria](/it/PeakTalent/Chivalry/)
+  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at ![Cavalleria](/images/pt/talent_3006.png) [Cavalleria](/it/PeakTalent/Chivalry/)
 
   [Talento Apice EXP](/it/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | RES magica: +2 | DAN riflesso: +1 | Attacco eroe di base: +1 | Intelligenza eroe di base: +1 |
   | 2 | RES magica: +4 | DAN riflesso: +2 | Attacco eroe di base: +2 | Intelligenza eroe di base: +2 |
   | 3 | RES magica: +6 | DAN riflesso: +3 | Attacco eroe di base: +4 | Intelligenza eroe di base: +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punti Talento massimi](/ItemsIT/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punti Talento massimi](/ItemsIT/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punti Talento massimi](/ItemsIT/con_934/) | 200000 | 4 |

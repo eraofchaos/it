@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at [Forma instabile](/it/PeakTalent/The Unstable Form/)
+  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at ![Forma instabile](/images/pt/talent_3002.png) [Forma instabile](/it/PeakTalent/The Unstable Form/)
 
   [Talento Apice EXP](/it/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | Vel ATT: +1 | DAN riflesso: +1 | Attacco eroe di base: +1 | Difesa eroe di base: +1 |
   | 2 | Vel ATT: +2 | DAN riflesso: +2 | Attacco eroe di base: +2 | Difesa eroe di base: +2 |
   | 3 | Vel ATT: +3 | DAN riflesso: +3 | Attacco eroe di base: +4 | Difesa eroe di base: +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punti Talento massimi](/ItemsIT/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punti Talento massimi](/ItemsIT/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punti Talento massimi](/ItemsIT/con_934/) | 200000 | 4 |

@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 8x** [Punti Talento massimi](/ItemsIT/con_934/) at [Addestramento balistico](/it/PeakTalent/Gunnery Training/)
+  **UNLOCK: 8x** [Punti Talento massimi](/ItemsIT/con_934/) at ![Addestramento balistico](/images/pt/talent_2008.png) [Addestramento balistico](/it/PeakTalent/Gunnery Training/)
 
   [Talento Apice EXP](/it/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | ATT: +5% | PF: +5% | Intelligenza eroe di base: +1 | Sapienza eroe di base: +1 |
   | 2 | ATT: +10% | PF: +10% | Intelligenza eroe di base: +2 | Sapienza eroe di base: +2 |
   | 3 | ATT: +15% | PF: +15% | Intelligenza eroe di base: +4 | Sapienza eroe di base: +4 |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punti Talento massimi](/ItemsIT/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punti Talento massimi](/ItemsIT/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 100000 | 2 |
   | 3 | **100000** | **2** [Punti Talento massimi](/ItemsIT/con_934/) | 200000 | 4 |

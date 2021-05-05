@@ -24,12 +24,12 @@ sidebar:
 
   **Root:** -
 
-  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at [Maestro di guerra](/it/PeakTalent/War Master/)
+  **UNLOCK: 7x** [Punti Talento massimi](/ItemsIT/con_934/) at ![Maestro di guerra](/images/pt/talent_1001.png) [Maestro di guerra](/it/PeakTalent/War Master/)
 
   [Talento Apice EXP](/it/PeakTalent/Peak Talent EXP/)
 
   | Nr | All Units Bonus 1 | All Units Bonus 2 | All Heroes Bonus 1 | All Heroes Bonus 2 |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|--------------:|:-------------:|:-------------:|:-------------:|
   | 1 | PF (1/4/9): +5000/1500/750 | - | Difesa eroe di base: +2 | - |
   | 2 | PF (1/4/9): +10000/3000/1500 | - | Difesa eroe di base: +4 | - |
   | 3 | PF (1/4/9): +15000/4500/2250 | - | Difesa eroe di base: +6 | - |
@@ -45,7 +45,7 @@ sidebar:
 #### Upgrade Cost to Level Up
 
   | Nr | <i class="fas fa-coins"/> | [Punti Talento massimi](/ItemsIT/con_934/) | Accumulated <i class="fas fa-coins"/> | Accumulated [Punti Talento massimi](/ItemsIT/con_934/) |
-  |:---|--------------|:-------------|:-------------|:-------------|
+  |:---|:--------------|:-------------|:-------------|:-------------|
   | 1 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 50000 | 1 |
   | 2 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 100000 | 2 |
   | 3 | **50000** | **1** [Punti Talento massimi](/ItemsIT/con_934/) | 150000 | 3 |
