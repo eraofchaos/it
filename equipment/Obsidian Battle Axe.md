@@ -2,7 +2,7 @@
 title: "Ascia d'ossidiana"
 permalink: /equipment/Obsidian Battle Axe/
 excerpt: "Era of Chaos Ascia d'ossidiana. Ascia d'ossidiana"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Obsidian Battle Axe.md"
 toc: false

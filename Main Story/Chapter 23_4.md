@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-4 Il vecchio avvelenato"
 permalink: /Main Story/Chapter 23_4/
 excerpt: "Capitolo 23 - 4. Era of Chaos  Storia principale - Capitolo 23_4. 23-4 Il vecchio avvelenato"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 23_4.md"
 toc: false

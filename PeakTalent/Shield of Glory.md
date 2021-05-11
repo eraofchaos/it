@@ -2,7 +2,7 @@
 title: "Scudo della gloria. Talento Apice - Scudo della gloria"
 permalink: /PeakTalent/Shield of Glory/
 excerpt: "Era of Chaos Talento Apice Scudo della gloria. Talento Apice Scudo della gloria. Scudo della gloria"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Shield of Glory.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Gorgone. Gorgone Unità. Gorgone Invincibile. Era of Chaos Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Gorgone"
 toc: true
@@ -194,7 +194,7 @@ toc: true
   ![Gorgone Invincibile](/images/u/tia_manniu.jpg)
 
 ### Awaking Dettagli
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Gorgone Invincibile
 
@@ -224,10 +224,10 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Maledizione perversa&gt;</span><span style="color: #645252;font-size:18px">: riduce del 20% la Vel ATT delle unità nemiche. Quando viene sconfitta, &lt;pietrifica&gt; le unità nell'area per 8 secondi e riduce permanentemente del 3% la Vel ATT delle unità non Fortezza nemiche. L'effetto è cumulabile fino a 4 volte.</span>
 
 ### 5th Skill (or 6th): Regina della palude
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Signora Suprema della Palude&gt;</span><span style="color: #645252;font-size:18px">: la Gorgone non può subire danni singoli superiori al 20% dei propri PF massimi. Se la Gorgone è sul campo di battaglia, riduce la Vel ATT del 10% e la guarigione del 30% per tutte le unità non Fortezza nemiche.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Signora Suprema della Palude&gt;</span><span style="color: #645252;font-size:18px"> Se la Gorgone è sul campo di battaglia, gode di DIF aumentata del 10% e riduce del 20% la Vel ATT e del 30% la guarigione ricevuta dalle unità nemiche non Fortezza.</span>
 
 ### 6th Skill (or 5th): Signora della palude
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Signora Suprema della Palude&gt;</span><span style="color: #645252;font-size:18px">: la Gorgone non può subire danni singoli superiori al 20% dei propri PF massimi. Se la Gorgone è sul campo di battaglia, aumenta del 20% la Vel ATT di tutte le unità alleate.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Signora Suprema della Palude&gt;</span><span style="color: #645252;font-size:18px"> Se la Gorgone è sul campo di battaglia, gode di DIF aumentata del 10% e aumenta del 35% la Vel ATT di tutte le unità alleate.</span>
 
 ## Technical info
  **runart:** 1

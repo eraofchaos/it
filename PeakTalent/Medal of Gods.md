@@ -2,7 +2,7 @@
 title: "Medaglia degli dei. Talento Apice - Medaglia degli dei"
 permalink: /PeakTalent/Medal of Gods/
 excerpt: "Era of Chaos Talento Apice Medaglia degli dei. Talento Apice Medaglia degli dei. Medaglia degli dei"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Medal of Gods.md"
 toc: false

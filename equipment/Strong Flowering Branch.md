@@ -2,7 +2,7 @@
 title: "Ramo in fiore robusto"
 permalink: /equipment/Strong Flowering Branch/
 excerpt: "Era of Chaos Ramo in fiore robusto. Ramo in fiore robusto"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Strong Flowering Branch.md"
 toc: false

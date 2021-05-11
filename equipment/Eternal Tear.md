@@ -2,7 +2,7 @@
 title: "Lacrima eterna"
 permalink: /equipment/Eternal Tear/
 excerpt: "Era of Chaos Lacrima eterna. Lacrima eterna"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Eternal Tear.md"
 toc: false

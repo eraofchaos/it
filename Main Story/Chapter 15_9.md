@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-9 Ritrovarsi"
 permalink: /Main Story/Chapter 15_9/
 excerpt: "Capitolo 15 - 9. Era of Chaos  Storia principale - Capitolo 15_9. 15-9 Ritrovarsi"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 15_9.md"
 toc: false

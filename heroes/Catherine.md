@@ -4,7 +4,7 @@ permalink: /heroes/Catherine/
 excerpt: "Era of Chaos Caterina. Caterina. La Regina Caterina ha passato una vita intera sui campi di battaglia dell'Erathia per proteggere il regno fondato da suo padre. La sua guerra finirà solo al calare della Spada dell'Armageddon. "
 heroID: 60102
 QR: hero_60102
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Catherine"
 toc: true

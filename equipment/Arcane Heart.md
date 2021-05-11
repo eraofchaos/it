@@ -2,7 +2,7 @@
 title: "Cuore arcano"
 permalink: /equipment/Arcane Heart/
 excerpt: "Era of Chaos Cuore arcano. Cuore arcano"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Arcane Heart.md"
 toc: false

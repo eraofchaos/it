@@ -2,7 +2,7 @@
 title: "Piuma di Arcigrifone"
 permalink: /equipment/Archgriffin Feather/
 excerpt: "Era of Chaos Piuma di Arcigrifone. Piuma di Arcigrifone"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Archgriffin Feather.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Potenza del Padre dei Draghi - Corona di Denti di Drago"
 permalink: /artifacts/Crown of Dragontooth/
 excerpt: "Era of Chaos  Potenza del Padre dei Draghi - Corona di Denti di Drago. Un elmo realizzato con denti di drago. Uno dei componenti della Potenza del Padre dei Draghi."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Crown of Dragontooth.md"
 toc: false

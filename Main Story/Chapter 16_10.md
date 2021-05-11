@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-10 Le gemme degli Elfi"
 permalink: /Main Story/Chapter 16_10/
 excerpt: "Capitolo 16 - 10. Era of Chaos  Storia principale - Capitolo 16_10. 16-10 Le gemme degli Elfi"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 16_10.md"
 toc: false

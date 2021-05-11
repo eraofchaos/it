@@ -2,7 +2,7 @@
 title: "Runa sempreverde"
 permalink: /equipment/Evergreen Rune/
 excerpt: "Era of Chaos Runa sempreverde. Runa sempreverde"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Evergreen Rune.md"
 toc: false

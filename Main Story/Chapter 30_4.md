@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-4 L'albero della sapienza"
 permalink: /Main Story/Chapter 30_4/
 excerpt: "Capitolo 30 - 4. Era of Chaos  Storia principale - Capitolo 30_4. 30-4 L'albero della sapienza"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 30_4.md"
 toc: false

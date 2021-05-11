@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 14 - 14-2 Corridoio sotterraneo"
 permalink: /Underground/Chapter 14_2/
 excerpt: "Capitolo 14 - 2. Era of Chaos  Sottosuolo - Capitolo 14_2. 14-2 Corridoio sotterraneo"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 14_2.md"
 toc: false

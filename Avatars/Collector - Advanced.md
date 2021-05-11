@@ -2,7 +2,7 @@
 title: "Avatar - Collezionista - Avanzato"
 permalink: /Avatars/Collector - Advanced/
 excerpt: "Era of Chaos  Collezionista - Avanzato"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Collector - Advanced.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Uomo lucertola"
 permalink: /units/Lizardman/
 excerpt: "Era of Chaos Uomo lucertola. Uomo lucertola Unità. null. Era of Chaos Letali cacciatori che si annidano nelle ombre. Le loro frecce avvelenate sono in grado di abbattere qualunque preda."
 unitID: 802
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Uomo lucertola"
 toc: true
@@ -81,7 +81,7 @@ toc: true
 
  **Nome:** [Arco lungo](/it/Exclusive/Lizardman Long Bow/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rango ↑:** [Token Arco lungo](/ItemsIT/con_914/)
 

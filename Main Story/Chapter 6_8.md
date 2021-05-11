@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 - 6-8 La piaga"
 permalink: /Main Story/Chapter 6_8/
 excerpt: "Capitolo 6 - 8. Era of Chaos  Storia principale - Capitolo 6_8. 6-8 La piaga"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 6_8.md"
 toc: false

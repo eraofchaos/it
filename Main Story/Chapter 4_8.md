@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-8 Torre Beccoferreo"
 permalink: /Main Story/Chapter 4_8/
 excerpt: "Capitolo 4 - 8. Era of Chaos  Storia principale - Capitolo 4_8. 4-8 Torre Beccoferreo"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 4_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Aiutante Lord Haart"
 permalink: /heroes/Adjutant Lord Haart/
 excerpt: "Era of Chaos  Aiutante Lord Haart"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Adjutant Lord Haart.md"
 QR: adhero_60401

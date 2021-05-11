@@ -3,7 +3,7 @@ title: "Manticora"
 permalink: /units/Manticore/
 excerpt: "Era of Chaos Manticora. Manticora Unità. Scorpicora. Era of Chaos Una creatura mostruosa con corpo di leone, ali di pipistrello e coda di scorpione. Chiunque venga colpito dal suo pungiglione è destinato a una fine lenta e per nulla indolore."
 unitID: 706
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Manticora"
 toc: true

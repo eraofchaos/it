@@ -2,7 +2,7 @@
 title: "Manufatti - Ascia della Ferocia - Tunica del Re dei Ciclopi"
 permalink: /artifacts/Tunic of the Cyclops King/
 excerpt: "Era of Chaos  Ascia della Ferocia - Tunica del Re dei Ciclopi. Tunica lasciata a riva da un Ciclope che faceva il bagno. Uno dei componenti dell'Ascia della Ferocia."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Tunic of the Cyclops King.md"
 toc: false

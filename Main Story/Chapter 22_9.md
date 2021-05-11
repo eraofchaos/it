@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 - 22-9 La Regina dei Draghi d'oro"
 permalink: /Main Story/Chapter 22_9/
 excerpt: "Capitolo 22 - 9. Era of Chaos  Storia principale - Capitolo 22_9. 22-9 La Regina dei Draghi d'oro"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 22_9.md"
 toc: false

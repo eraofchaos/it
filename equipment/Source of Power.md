@@ -2,7 +2,7 @@
 title: "Fonte di potere"
 permalink: /equipment/Source of Power/
 excerpt: "Era of Chaos Fonte di potere. Fonte di potere"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Source of Power.md"
 toc: false

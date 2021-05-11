@@ -2,7 +2,7 @@
 title: "Armatura in lega"
 permalink: /equipment/Alloy Armor/
 excerpt: "Era of Chaos Armatura in lega. Armatura in lega"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Alloy Armor.md"
 toc: false

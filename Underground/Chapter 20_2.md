@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 20 - 20-2 A guardia degli elementali"
 permalink: /Underground/Chapter 20_2/
 excerpt: "Capitolo 20 - 2. Era of Chaos  Sottosuolo - Capitolo 20_2. 20-2 A guardia degli elementali"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 20_2.md"
 toc: false

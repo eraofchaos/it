@@ -2,7 +2,7 @@
 title: "Laboratorio alchemico"
 permalink: /Alchemy Workshop/
 excerpt: "Laboratorio alchemico.Il Laboratorio alchemico è un luogo davvero meraviglioso. Non solo contiene la saggezza accumulata di numerose razze, ma è in grado di produrre invenzioni formidabili."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "index.md"
 toc: false

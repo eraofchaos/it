@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-3 Orchi sul ponte"
 permalink: /Main Story/Chapter 18_3/
 excerpt: "Capitolo 18 - 3. Era of Chaos  Storia principale - Capitolo 18_3. 18-3 Orchi sul ponte"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 18_3.md"
 toc: false

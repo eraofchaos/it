@@ -2,7 +2,7 @@
 title: "Elmo votivo"
 permalink: /equipment/Vow Helmet/
 excerpt: "Era of Chaos Elmo votivo. Elmo votivo"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Vow Helmet.md"
 toc: false

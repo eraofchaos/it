@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 2 Angelo custode"
 permalink: /Underground/Chapter 2/
 excerpt: "Capitolo 2 Angelo custode. Era of Chaos  Sottosuolo - Capitolo 2. Angelo custode"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 2.md"
 toc: false

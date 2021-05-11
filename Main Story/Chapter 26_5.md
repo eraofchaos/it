@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-5 Un lugubre labirinto"
 permalink: /Main Story/Chapter 26_5/
 excerpt: "Capitolo 26 - 5. Era of Chaos  Storia principale - Capitolo 26_5. 26-5 Un lugubre labirinto"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 26_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 18 - 18-3 Restrizione di gara"
 permalink: /Underground/Chapter 18_3/
 excerpt: "Capitolo 18 - 3. Era of Chaos  Sottosuolo - Capitolo 18_3. 18-3 Restrizione di gara"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 18_3.md"
 toc: false

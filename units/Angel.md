@@ -3,7 +3,7 @@ title: "Angelo"
 permalink: /units/Angel/
 excerpt: "Era of Chaos Angelo. Angelo Unità. Arcangelo. Era of Chaos Gli Arcangeli sono simboli di forza e bontà, adorati ai quattro angoli del Regno. Sono combattenti temibili, capaci di distruggere gli avversari quanto di rianimare gli alleati caduti."
 unitID: 107
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Angelo"
 toc: true
@@ -113,7 +113,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">L'Angelo infligge </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str1"></span></span><span style="color: black"><span style="color: #645252;font-size:20px"> danni a 3 unità nemiche casuali e le </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;stordisce&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px"> per 3 sec.</span><span style="color: black">
 
 ### Tecnica normale 1 : Resurrezione
- **Descrizione:** <span style="color: #645252;font-size:20px">L'Angelo rianima 1 delle tue unità, curando </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF.</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">L'Angelo rianima 1 unità alleata, curando </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str2"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei suoi PF. Questa Tecnica è immune al &lt;Silenzio&gt;.</span><span style="color: black">
 
 ### Tecnica normale 2 : Splendore
  **Descrizione:** <span style="color: #645252;font-size:20px">Se l'Angelo è sul campo di battaglia, tutte le unità alleate ottengono rigenerazione extra dei PF ogni 2 secondi, pari a </span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str3"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px"> dei propri PF massimi.</span><span style="color: black">

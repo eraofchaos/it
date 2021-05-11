@@ -2,7 +2,7 @@
 title: "Cintura mistica"
 permalink: /equipment/Soul Belt/
 excerpt: "Era of Chaos Cintura mistica. Cintura mistica"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Soul Belt.md"
 toc: false

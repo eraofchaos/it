@@ -2,7 +2,7 @@
 title: "Cintura sanguinaria"
 permalink: /equipment/Bloodthirsty Belt/
 excerpt: "Era of Chaos Cintura sanguinaria. Cintura sanguinaria"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Bloodthirsty Belt.md"
 toc: false

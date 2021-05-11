@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 10 Cuor di Grifone"
 permalink: /Underground/Chapter 10/
 excerpt: "Capitolo 10 Cuor di Grifone. Era of Chaos  Sottosuolo - Capitolo 10. Cuor di Grifone"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 10.md"
 toc: false

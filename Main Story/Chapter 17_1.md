@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-1 Artigianato elfico"
 permalink: /Main Story/Chapter 17_1/
 excerpt: "Capitolo 17 - 1. Era of Chaos  Storia principale - Capitolo 17_1. 17-1 Artigianato elfico"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 17_1.md"
 toc: false

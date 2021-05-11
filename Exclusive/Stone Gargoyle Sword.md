@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada (Stone Gargoyle)"
 permalink: /Exclusive/Stone Gargoyle Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Gargolla di pietra Esclusivo."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Stone Gargoyle Spada.md"
 toc: false

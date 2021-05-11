@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-1 La sorgente magica"
 permalink: /Main Story/Chapter 30_1/
 excerpt: "Capitolo 30 - 1. Era of Chaos  Storia principale - Capitolo 30_1. 30-1 La sorgente magica"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 30_1.md"
 toc: false

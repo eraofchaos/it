@@ -2,7 +2,7 @@
 title: "Gemma mistica"
 permalink: /equipment/Soul Gem/
 excerpt: "Era of Chaos Gemma mistica. Gemma mistica"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Soul Gem.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Ascia della Ferocia - Corona del Mago supremo"
 permalink: /artifacts/Crown of the Supreme Magi/
 excerpt: "Era of Chaos  Ascia della Ferocia - Corona del Mago supremo. Una corona ricevuta in dono per aver salvato un mago folle. Uno dei componenti dell'Ascia della Ferocia."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Crown of the Supreme Magi.md"
 toc: false

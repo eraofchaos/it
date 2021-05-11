@@ -2,7 +2,7 @@
 title: "Spada degli dei. Talento Apice - Spada degli dei"
 permalink: /PeakTalent/Sword of Gods/
 excerpt: "Era of Chaos Talento Apice Spada degli dei. Talento Apice Spada degli dei. Spada degli dei"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Sword of Gods.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Aiutante Adelaide"
 permalink: /heroes/Adjutant Adelaide/
 excerpt: "Era of Chaos  Aiutante Adelaide"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Adjutant Adelaide.md"
 QR: adhero_60001

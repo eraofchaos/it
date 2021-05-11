@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-11 L'aiuto di un saggio"
 permalink: /Main Story/Chapter 25_11/
 excerpt: "Capitolo 25 - 11. Era of Chaos  Storia principale - Capitolo 25_11. 25-11 L'aiuto di un saggio"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Chapter 25_11.md"
 toc: false

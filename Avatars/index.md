@@ -2,7 +2,7 @@
 title: "Cornice Avatar e Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cornice Avatar e Avatar. Cornice Avatar e Avatar"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "index.md"
 toc: false
@@ -79,7 +79,7 @@ classes: wide
   | 66 | ![Necropoli](/images/a/avatarFrame_13.png) | [Necropoli](/it/Avatars/Necropolis/) | - | Cornice avatar Necropoli |
   | 67 | ![Nirvana della Fenice](/images/a/avatarFrame_17.png) | [Nirvana della Fenice](/it/Avatars/Phoenix Nirvana/) | + | Cornice avatar Fenice divina |
   | 68 | ![Ombra degli spiriti](/images/a/avatarFrame_78.png) | [Ombra degli spiriti](/it/Avatars/Shadow of Ghosts/) | - | Cornice avatar Ombra degli spiriti |
-  | 69 | ![Ombra delle bestie](/images/a/avatarFrame_79.png) | [Ombra delle bestie](/it/Avatars/Shadow of Beast/) | - | Cornice avatar Ombra della bestia |
+  | 69 | ![Ombra delle bestie](/images/a/avatarFrame_79.png) | [Ombra delle bestie](/it/Avatars/Shadow of Beast/) | + | Cornice avatar Ombra della bestia |
   | 70 | ![Orientamento Confluenza](/images/a/avatarFrame_117.png) | [Orientamento Confluenza](/it/Avatars/Conflux Will/) | + | Cornice avatar orientamento Confluenza |
   | 71 | ![Percorso di Crescita](/images/a/avatarFrame_68.png) | [Percorso di Crescita](/it/Avatars/Path to Growth/) | - | Cornice avatar Percorso di Crescita |
   | 72 | ![Ponte degli innamorati](/images/a/avatarFrame_27.png) | [Ponte degli innamorati](/it/Avatars/Starry Lovers' Bridge/) | - | Cornice avatar Ponte degli innamorati |

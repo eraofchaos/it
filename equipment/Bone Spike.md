@@ -2,7 +2,7 @@
 title: "Pungolo d'ossa"
 permalink: /equipment/Bone Spike/
 excerpt: "Era of Chaos Pungolo d'ossa. Pungolo d'ossa"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Bone Spike.md"
 toc: false

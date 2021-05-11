@@ -2,7 +2,7 @@
 title: "Flagello del fulmine"
 permalink: /equipment/Lightning's Flail/
 excerpt: "Era of Chaos Flagello del fulmine. Flagello del fulmine"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "Lightning's Flail.md"
 toc: false

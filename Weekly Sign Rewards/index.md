@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 21  Settimana della Torre
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **24 May** | **5x [Gremlin](/ItemsIT/unt_235/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **25 May** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gargolle di pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **26 May** | **100x <i class="fas fa-gem"/>**  | I tuoi studi alchemici ti hanno riservato delle sorprese inaspettate! |
+  | **27 May** | **3x [Golem di ferro](/ItemsIT/unt_237/)**  | Un gruppo di Golem di ferro è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **28 May** | **3x [Scrigno Unità Torre](/ItemsIT/con_1274/)**  | Hai scoperto una serie di splendidi scrigni nel laboratorio arcano della Torre! |
+  | **29 May** | **3x [Mago](/ItemsIT/unt_238/)**  | Un gruppo di Maghi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **30 May** | **5x [Solmyr](/ItemsIT/her_386/)**  | I tuoi studi sulle arti arcane hanno incuriosito Solmyr, che ha deciso di unirsi al tuo esercito! |
+
 
 #### 2021 Week 20  Settimana del Baluardo
 

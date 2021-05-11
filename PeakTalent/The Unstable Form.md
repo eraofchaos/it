@@ -2,7 +2,7 @@
 title: "Forma instabile. Talento Apice - Forma instabile"
 permalink: /PeakTalent/The Unstable Form/
 excerpt: "Era of Chaos Talento Apice Forma instabile. Talento Apice Forma instabile. Forma instabile"
-last_modified_at: 2021-05-05
+last_modified_at: 2021-05-11
 locale: it
 ref: "The Unstable Form.md"
 toc: false
