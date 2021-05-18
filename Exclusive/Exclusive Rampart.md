@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Esclusivo Rampart. Esclusivo Rampart. List of Esclusivo Rampart in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Exclusive Rampart"
 toc: false
@@ -23,6 +23,6 @@ classes: wide
   | 4  | [Pegaso](/it/units/Pegasus/) | [Arco lungo](/it/Exclusive/Pegasus Long Bow/) | + | Carica | [Token Arco lungo](/ItemsIT/con_914/) | - |
   | 5  | [Guardia Dendroide](/it/units/Dendroid Guard/) | [Scudo dell'Iride](/it/Exclusive/Dendroid Guard Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
   | 6  | [Unicorno](/it/units/Unicorn/) | [Carica impetuosa](/it/Exclusive/Unicorn Knight Pike/) | - | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |
-  | 7  | [Drago verde](/it/units/Green Dragon/) | [Ala di drago splendente](/it/Exclusive/Green Dragon Resplendent Dragonwing/) | - | Supporto | [Token Ala di drago splendente](/ItemsIT/con_976/) | [Skin speciale Ala di drago splendente](/ItemsIT/con_644/) |
+  | 7  | [Drago verde](/it/units/Green Dragon/) | [Ala di drago splendente](/it/Exclusive/Green Dragon Resplendent Dragonwing/) | + | Supporto | [Token Ala di drago splendente](/ItemsIT/con_976/) | [Skin speciale Ala di drago splendente](/ItemsIT/con_644/) |
   | 8  | [Druido](/it/units/Druid/) | [Bastone della Ricrescita](/it/Exclusive/Druid Staff of Regrowth/) | - | A distanza | [Token Bastone della Ricrescita](/ItemsIT/con_977/) | [Skin speciale Bastone della Ricrescita](/ItemsIT/con_645/) |
   | 9  | [Mantide](/it/units/Mantis/) | - | - | - | none | none |

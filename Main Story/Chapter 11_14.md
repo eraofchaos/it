@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-14 Attacco al galoppo"
 permalink: /Main Story/Chapter 11_14/
 excerpt: "Capitolo 11 - 14. Era of Chaos  Storia principale - Capitolo 11_14. 11-14 Attacco al galoppo"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 11_14.md"
 toc: false

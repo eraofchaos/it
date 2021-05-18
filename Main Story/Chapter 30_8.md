@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-8 L'Altare del fuoco"
 permalink: /Main Story/Chapter 30_8/
 excerpt: "Capitolo 30 - 8. Era of Chaos  Storia principale - Capitolo 30_8. 30-8 L'Altare del fuoco"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 30_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-5 Il salvataggio"
 permalink: /Main Story/Chapter 8_5/
 excerpt: "Capitolo 8 - 5. Era of Chaos  Storia principale - Capitolo 8_5. 8-5 Il salvataggio"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 8_5.md"
 toc: false

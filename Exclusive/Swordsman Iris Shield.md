@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Swordsman)"
 permalink: /Exclusive/Swordsman Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Spadaccino Esclusivo."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Swordsman Scudo dell'Iride.md"
 toc: false

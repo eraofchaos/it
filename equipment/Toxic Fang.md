@@ -2,7 +2,7 @@
 title: "Zanna tossica"
 permalink: /equipment/Toxic Fang/
 excerpt: "Era of Chaos Zanna tossica. Zanna tossica"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Toxic Fang.md"
 toc: false

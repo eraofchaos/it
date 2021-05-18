@@ -2,7 +2,7 @@
 title: "Bracciali fiammeggianti"
 permalink: /equipment/Bracers of Flame/
 excerpt: "Era of Chaos Bracciali fiammeggianti. Bracciali fiammeggianti"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Bracers of Flame.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Aiutante Kilgor"
 permalink: /heroes/Adjutant Kilgor/
 excerpt: "Era of Chaos  Aiutante Kilgor"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Adjutant Kilgor.md"
 QR: adhero_60601

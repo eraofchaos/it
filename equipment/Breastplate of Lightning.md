@@ -2,7 +2,7 @@
 title: "Corazza del fulmine"
 permalink: /equipment/Breastplate of Lightning/
 excerpt: "Era of Chaos Corazza del fulmine. Corazza del fulmine"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Breastplate of Lightning.md"
 toc: false

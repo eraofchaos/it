@@ -2,7 +2,7 @@
 title: "Backup - Attacco del Mietitore"
 permalink: /Backup/Scythe of the Death/
 excerpt: "Era of Chaos  Attacco del Mietitore"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Scythe of the Death.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Elmo pesante della Pre-vita"
 permalink: /equipment/Heavy Helm of Pre-life/
 excerpt: "Era of Chaos Elmo pesante della Pre-vita. Elmo pesante della Pre-vita"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Heavy Helm of Pre-life.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Spada di Ghiaccio"
 permalink: /artifacts/Sword of Frost/
 excerpt: "Era of Chaos  Spada di Ghiaccio. Spada di Ghiaccio La sua città di provenienza è stata distrutta da un immenso ghiacciaio"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Sword of Frost.md"
 toc: false

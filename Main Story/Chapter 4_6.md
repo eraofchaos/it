@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-6 La torre di guardia"
 permalink: /Main Story/Chapter 4_6/
 excerpt: "Capitolo 4 - 6. Era of Chaos  Storia principale - Capitolo 4_6. 4-6 La torre di guardia"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 4_6.md"
 toc: false

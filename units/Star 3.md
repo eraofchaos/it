@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Star 3"
 toc: false
@@ -46,7 +46,7 @@ classes: wide
   | 32 | ![Drago nero](/images/u/ti_heilong.jpg) | [Drago nero](/it/units/Black Dragon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Re dei Draghi neri  |
   | 33 | ![Giudice](/images/u/ti_shenpanguan.jpg) | [Giudice](/it/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 34 | ![Drago rosso](/images/u/ti_chilong.jpg) | [Drago rosso](/it/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 35 | ![Drago verde](/images/u/ti_lvlong.jpg) | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Drago d'Oro  |
+  | 35 | ![Drago verde](/images/u/ti_lvlong.jpg) | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Drago d'Oro  |
   | 36 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/it/units/Gorgon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gorgone Invincibile  |
   | 37 | ![Strega malvagia](/images/u/ti_xiemonv.jpg) | [Strega malvagia](/it/units/Evil Sorceress/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 38 | ![Viverna](/images/u/ti_feilong.jpg) | [Viverna](/it/units/Wyvern/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 500.0 | 5544 |  Viverna Monarca  |

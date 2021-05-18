@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-4 Per il rotto della cuffia"
 permalink: /Main Story/Chapter 8_4/
 excerpt: "Capitolo 8 - 4. Era of Chaos  Storia principale - Capitolo 8_4. 8-4 Per il rotto della cuffia"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 8_4.md"
 toc: false

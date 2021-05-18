@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-4 L'Altare del sangue"
 permalink: /Main Story/Chapter 29_4/
 excerpt: "Capitolo 29 - 4. Era of Chaos  Storia principale - Capitolo 29_4. 29-4 L'Altare del sangue"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 29_4.md"
 toc: false

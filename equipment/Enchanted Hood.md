@@ -2,7 +2,7 @@
 title: "Cappuccio incantato"
 permalink: /equipment/Enchanted Hood/
 excerpt: "Era of Chaos Cappuccio incantato. Cappuccio incantato"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Enchanted Hood.md"
 toc: false

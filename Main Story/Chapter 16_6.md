@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-6 Il re aureo"
 permalink: /Main Story/Chapter 16_6/
 excerpt: "Capitolo 16 - 6. Era of Chaos  Storia principale - Capitolo 16_6. 16-6 Il re aureo"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 16_6.md"
 toc: false

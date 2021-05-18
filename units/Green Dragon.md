@@ -3,7 +3,7 @@ title: "Drago verde"
 permalink: /units/Green Dragon/
 excerpt: "Era of Chaos Drago verde. Drago verde Unità. Drago d'Oro. Era of Chaos I Draghi verdi sono i protettori della foresta. Di dimensioni imponenti e armati di un soffio acido, sono avversari pressoché imbattibili."
 unitID: 207
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Drago verde"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nome:** [Ala di drago splendente](/it/Exclusive/Green Dragon Resplendent Dragonwing/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rango ↑:** [Token Ala di drago splendente](/ItemsIT/con_976/)
 

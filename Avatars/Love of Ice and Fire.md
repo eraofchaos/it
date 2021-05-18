@@ -2,7 +2,7 @@
 title: "Avatar - Amore di ghiaccio e fuoco"
 permalink: /Avatars/Love of Ice and Fire/
 excerpt: "Era of Chaos  Amore di ghiaccio e fuoco"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Love of Ice and Fire.md"
 toc: false

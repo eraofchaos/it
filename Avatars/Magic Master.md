@@ -2,7 +2,7 @@
 title: "Avatar - Maestro di magie"
 permalink: /Avatars/Magic Master/
 excerpt: "Era of Chaos  Maestro di magie"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Magic Master.md"
 toc: false

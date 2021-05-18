@@ -2,7 +2,7 @@
 title: "Armatura leggera fiammeggiante"
 permalink: /equipment/Light Armor of Flame/
 excerpt: "Era of Chaos Armatura leggera fiammeggiante. Armatura leggera fiammeggiante"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Light Armor of Flame.md"
 toc: false

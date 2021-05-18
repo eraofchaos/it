@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 17 - 17-2 La memoria del mago"
 permalink: /Underground/Chapter 17_2/
 excerpt: "Capitolo 17 - 2. Era of Chaos  Sottosuolo - Capitolo 17_2. 17-2 La memoria del mago"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 17_2.md"
 toc: false

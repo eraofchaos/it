@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 30 - 30-2  Banchetto di sangue"
 permalink: /Underground/Chapter 30_2/
 excerpt: "Capitolo 30 - 2. Era of Chaos  Sottosuolo - Capitolo 30_2. 30-2  Banchetto di sangue"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 30_2.md"
 toc: false

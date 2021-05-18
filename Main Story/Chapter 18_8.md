@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-8 La zona magica"
 permalink: /Main Story/Chapter 18_8/
 excerpt: "Capitolo 18 - 8. Era of Chaos  Storia principale - Capitolo 18_8. 18-8 La zona magica"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 18_8.md"
 toc: false

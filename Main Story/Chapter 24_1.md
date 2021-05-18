@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-1 La dimora del drago fatato"
 permalink: /Main Story/Chapter 24_1/
 excerpt: "Capitolo 24 - 1. Era of Chaos  Storia principale - Capitolo 24_1. 24-1 La dimora del drago fatato"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 24_1.md"
 toc: false

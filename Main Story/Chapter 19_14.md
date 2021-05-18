@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-14 Il Re Immortale"
 permalink: /Main Story/Chapter 19_14/
 excerpt: "Capitolo 19 - 14. Era of Chaos  Storia principale - Capitolo 19_14. 19-14 Il Re Immortale"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 19_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-5 Il villaggio dei trifogli"
 permalink: /Main Story/Chapter 29_5/
 excerpt: "Capitolo 29 - 5. Era of Chaos  Storia principale - Capitolo 29_5. 29-5 Il villaggio dei trifogli"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 29_5.md"
 toc: false

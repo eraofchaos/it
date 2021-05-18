@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "index.md"
 toc: false
@@ -44,7 +44,7 @@ classes: wide
   | 22 | ![Drago nero](/images/u/ti_heilong.jpg) | [Drago nero](/it/units/Black Dragon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Re dei Draghi neri  |
   | 23 | ![Drago rosso](/images/u/ti_chilong.jpg) | [Drago rosso](/it/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 24 | ![Drago scheletrico](/images/u/ti_gulong.jpg) | [Drago scheletrico](/it/units/Bone Dragon/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Drago fantasma  |
-  | 25 | ![Drago verde](/images/u/ti_lvlong.jpg) | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Drago d'Oro  |
+  | 25 | ![Drago verde](/images/u/ti_lvlong.jpg) | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Drago d'Oro  |
   | 26 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
   | 27 | ![Druido](/images/u/ti_deluyi.jpg) | [Druido](/it/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Arcidruido  |
   | 28 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |

@@ -2,7 +2,7 @@
 title: "Spallacci della Gorgone"
 permalink: /equipment/Gorgon Shoulder-guards/
 excerpt: "Era of Chaos Spallacci della Gorgone. Spallacci della Gorgone"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Gorgon Shoulder-guards.md"
 toc: false

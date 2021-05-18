@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-14 La foresta è in pericolo"
 permalink: /Main Story/Chapter 8_14/
 excerpt: "Capitolo 8 - 14. Era of Chaos  Storia principale - Capitolo 8_14. 8-14 La foresta è in pericolo"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 8_14.md"
 toc: false

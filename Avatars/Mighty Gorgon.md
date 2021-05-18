@@ -2,7 +2,7 @@
 title: "Avatar - Gorgone Invincibile"
 permalink: /Avatars/Mighty Gorgon/
 excerpt: "Era of Chaos  Gorgone Invincibile"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Mighty Gorgon.md"
 toc: false

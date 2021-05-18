@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 25 - 25-1 Segreto arcano"
 permalink: /Underground/Chapter 25_1/
 excerpt: "Capitolo 25 - 1. Era of Chaos  Sottosuolo - Capitolo 25_1. 25-1 Segreto arcano"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 25_1.md"
 toc: false

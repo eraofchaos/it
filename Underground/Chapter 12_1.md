@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 12 - 12-1 Eserciti in marcia"
 permalink: /Underground/Chapter 12_1/
 excerpt: "Capitolo 12 - 1. Era of Chaos  Sottosuolo - Capitolo 12_1. 12-1 Eserciti in marcia"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 12_1.md"
 toc: false

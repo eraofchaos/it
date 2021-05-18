@@ -2,7 +2,7 @@
 title: "Testa di Drago di titanio"
 permalink: /equipment/Titanium Dragon Head/
 excerpt: "Era of Chaos Testa di Drago di titanio. Testa di Drago di titanio"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Titanium Dragon Head.md"
 toc: false

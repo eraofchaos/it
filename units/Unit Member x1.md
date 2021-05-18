@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Era of Chaos Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Unit Member x1"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 20 | ![Drago nero](/images/u/ti_heilong.jpg) | [Drago nero](/it/units/Black Dragon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 430.0 | 8712 |  Re dei Draghi neri  |
   | 21 | ![Giudice](/images/u/ti_shenpanguan.jpg) | [Giudice](/it/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 22 | ![Drago rosso](/images/u/ti_chilong.jpg) | [Drago rosso](/it/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
-  | 23 | ![Drago verde](/images/u/ti_lvlong.jpg) | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.2 | 4525 |  Drago d'Oro  |
+  | 23 | ![Drago verde](/images/u/ti_lvlong.jpg) | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Drago d'Oro  |
   | 24 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/it/units/Gorgon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gorgone Invincibile  |
   | 25 | ![Strega malvagia](/images/u/ti_xiemonv.jpg) | [Strega malvagia](/it/units/Evil Sorceress/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |
   | 26 | ![Assassino](/images/u/ti_cishazhe.jpg) | [Assassino](/it/units/Assassin/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |

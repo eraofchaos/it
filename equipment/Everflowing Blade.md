@@ -2,7 +2,7 @@
 title: "Lama del flusso eterno"
 permalink: /equipment/Everflowing Blade/
 excerpt: "Era of Chaos Lama del flusso eterno. Lama del flusso eterno"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Everflowing Blade.md"
 toc: false

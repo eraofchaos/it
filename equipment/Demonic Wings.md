@@ -2,7 +2,7 @@
 title: "Ali demoniache"
 permalink: /equipment/Demonic Wings/
 excerpt: "Era of Chaos Ali demoniache. Ali demoniache"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Demonic Wings.md"
 toc: false

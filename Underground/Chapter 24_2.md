@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 24 - 24-2 Inferno fiammeggiante"
 permalink: /Underground/Chapter 24_2/
 excerpt: "Capitolo 24 - 2. Era of Chaos  Sottosuolo - Capitolo 24_2. 24-2 Inferno fiammeggiante"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 24_2.md"
 toc: false

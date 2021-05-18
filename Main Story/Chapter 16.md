@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 Per il Re e per il paese"
 permalink: /Main Story/Chapter 16/
 excerpt: "Capitolo 16. Era of Chaos  Storia principale - Capitolo 16. Per il Re e per il paese"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 16.md"
 toc: false

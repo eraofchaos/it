@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 22  Settimana del Castello
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **31 May** | **5x [Picchiere](/ItemsIT/unt_190/)**  | Un gruppo di Picchieri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **1 Jun** | **5x [Tiratore scelto](/ItemsIT/unt_191/)**  | Un gruppo di Tiratori scelti è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **2 Jun** | **3x [Spadaccino](/ItemsIT/unt_193/)**  | Un gruppo di Spadaccini è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **3 Jun** | **3x [Grifone](/ItemsIT/unt_192/)**  | Un gruppo di Grifoni è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **4 Jun** | **3x [Monaco](/ItemsIT/unt_194/)**  | Un gruppo di Monaci è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **5 Jun** | **3x [Catafratto](/ItemsIT/unt_195/)**  | Un gruppo di Catafratti è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **6 Jun** | **5x [Adelaide](/ItemsIT/her_359/)**  | Un Mago con il potere di controllare la neve ha fatto visita al tuo territorio! |
+
 
 #### 2021 Week 21  Settimana della Torre
 

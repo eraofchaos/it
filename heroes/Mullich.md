@@ -4,7 +4,7 @@ permalink: /heroes/Mullich/
 excerpt: "Era of Chaos Mullich. Mullich. L'autocontrollo e la disciplina di Sir Mullich sono ormai leggendari. Le sue truppe sono note per la loro velocità fulminea, risultato delle sue speciali tattiche di addestramento."
 heroID: 60101
 QR: hero_60101
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Mullich"
 toc: true

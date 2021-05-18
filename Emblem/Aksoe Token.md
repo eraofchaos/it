@@ -2,7 +2,7 @@
 title: "Emblema sacro - Simbolo di Aksoe"
 permalink: /Emblem/Aksoe Token/
 excerpt: "Era of Chaos Simbolo di Aksoe. Simbolo di Aksoe. Era of Chaos Emblema sacro Simbolo di Aksoe. Era of Chaos Neutrale Simbolo di Aksoe"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Aksoe Token.md"
 toc: false

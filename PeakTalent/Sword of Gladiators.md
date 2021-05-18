@@ -2,7 +2,7 @@
 title: "Spada dei gladiatori. Talento Apice - Spada dei gladiatori"
 permalink: /PeakTalent/Sword of Gladiators/
 excerpt: "Era of Chaos Talento Apice Spada dei gladiatori. Talento Apice Spada dei gladiatori. Spada dei gladiatori"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Sword of Gladiators.md"
 toc: false

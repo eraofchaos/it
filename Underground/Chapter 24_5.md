@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 24 - 24-5 Senza ritorno"
 permalink: /Underground/Chapter 24_5/
 excerpt: "Capitolo 24 - 5. Era of Chaos  Sottosuolo - Capitolo 24_5. 24-5 Senza ritorno"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Chapter 24_5.md"
 toc: false

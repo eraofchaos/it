@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Cyclops)"
 permalink: /Exclusive/Cyclops Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Ciclope Esclusivo."
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Cyclops Arco lungo.md"
 toc: false
@@ -29,7 +29,7 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Arco lungo](/ItemsIT/con_914/) | <Lancio del macigno> Scaglia un macigno che infligge danni pari al 200% dei PF massimi a tutti i nemici nell'area bersaglio. L'effetto può essere attivato una volta ogni 15 secondi. |
+  |  Risveglio  | **100x** [Token Arco lungo](/ItemsIT/con_914/) | <Lancio del macigno> Scaglia un macigno che infligge danni pari al 120% dell'ATT a tutti i nemici nell'area bersaglio e li <stordisce> per 4 secondi. L'effetto può essere attivato una volta ogni 15 secondi. |
   | **1x** <i class="fas fa-star"/> | **50x** [Token Arco lungo](/ItemsIT/con_914/) | Quando il Ciclope attacca per la prima volta, usa anche <Lancio del macigno>. |
   | **2x** <i class="fas fa-star"/> | **90x** [Token Arco lungo](/ItemsIT/con_914/) | Il Ciclope gode di DAN e Vel ATT aumentati del 20%. |
   | **3x** <i class="fas fa-star"/> | **130x** [Token Arco lungo](/ItemsIT/con_914/) | Quando i PF del Ciclope scendono sotto il 30% per la prima volta, usa <Scossa tellurica>, che ne aumenta permanentemente la Vel ATT del 25%. |

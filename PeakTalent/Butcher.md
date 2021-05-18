@@ -2,7 +2,7 @@
 title: "Macellaio. Talento Apice - Macellaio"
 permalink: /PeakTalent/Butcher/
 excerpt: "Era of Chaos Talento Apice Macellaio. Talento Apice Macellaio. Macellaio"
-last_modified_at: 2021-05-11
+last_modified_at: 2021-05-18
 locale: it
 ref: "Butcher.md"
 toc: false
