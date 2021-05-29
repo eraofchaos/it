@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 2 - 2-1 Rinascita alla luce del giorno"
 permalink: /Underground/Chapter 2_1/
 excerpt: "Capitolo 2 - 1. Era of Chaos  Sottosuolo - Capitolo 2_1. 2-1 Rinascita alla luce del giorno"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 2_1.md"
 toc: false

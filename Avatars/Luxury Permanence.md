@@ -2,7 +2,7 @@
 title: "Avatar - Gioia eterna"
 permalink: /Avatars/Luxury Permanence/
 excerpt: "Era of Chaos  Gioia eterna"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Luxury Permanence.md"
 toc: false

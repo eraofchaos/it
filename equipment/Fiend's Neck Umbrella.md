@@ -2,7 +2,7 @@
 title: "Ala collare demoniaca"
 permalink: /equipment/Fiend's Neck Umbrella/
 excerpt: "Era of Chaos Ala collare demoniaca. Ala collare demoniaca"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Fiend's Neck Umbrella.md"
 toc: false

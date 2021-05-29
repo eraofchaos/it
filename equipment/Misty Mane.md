@@ -2,7 +2,7 @@
 title: "Criniera nebulosa"
 permalink: /equipment/Misty Mane/
 excerpt: "Era of Chaos Criniera nebulosa. Criniera nebulosa"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Misty Mane.md"
 toc: false

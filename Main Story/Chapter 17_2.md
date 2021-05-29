@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-2 Fuga al Varco"
 permalink: /Main Story/Chapter 17_2/
 excerpt: "Capitolo 17 - 2. Era of Chaos  Storia principale - Capitolo 17_2. 17-2 Fuga al Varco"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 17_2.md"
 toc: false

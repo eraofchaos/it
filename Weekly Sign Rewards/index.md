@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 23  Settimana della Confluenza
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **7 Jun** | **5x [Driade](/ItemsIT/unt_262/)**  | Un gruppo di Driadi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **8 Jun** | **3x [Elementale del ghiaccio](/ItemsIT/unt_264/)**  | Un gruppo di Elementali del ghiaccio è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **9 Jun** | **100x <i class="fas fa-gem"/>**  | Le creature del Piano di Confluenza ti fanno omaggio di un mucchietto di Diamanti! |
+  | **10 Jun** | **3x [Elementale della pietra](/ItemsIT/unt_266/)**  | Un gruppo di Elementali della pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **11 Jun** | **3x [Elementale della tempesta](/ItemsIT/unt_263/)**  | Un gruppo di Elementali della tempesta è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **12 Jun** | **5x [Scrigno Unità Confluenza](/ItemsIT/con_1275/)**  | I tuoi soldati ti hanno portato alcuni scrigni traboccanti di potenza elementale! |
+  | **13 Jun** | **5x [Luna](/ItemsIT/her_378/)**  | Il potere elementale che fluisce nei tuoi territori ha attirato la visita di un mago elementale! |
+
 
 #### 2021 Week 22  Settimana del Castello
 

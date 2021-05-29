@@ -3,7 +3,7 @@ title: "Ciclope"
 permalink: /units/Cyclops/
 excerpt: "Era of Chaos Ciclope. Ciclope Unità. Re Ciclope. Era of Chaos I Ciclopi si distinguono per i loro corpi massicci e il singolo occhio sulla fronte. Sono combattenti feroci e temibili. Discendono direttamente dalla stirpe dei Demoni."
 unitID: 406
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Ciclope"
 toc: true

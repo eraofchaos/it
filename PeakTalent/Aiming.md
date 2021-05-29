@@ -2,7 +2,7 @@
 title: "Mira. Talento Apice - Mira"
 permalink: /PeakTalent/Aiming/
 excerpt: "Era of Chaos Talento Apice Mira. Talento Apice Mira. Mira"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Aiming.md"
 toc: false

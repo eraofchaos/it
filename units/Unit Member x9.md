@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Unit Member x9"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 6 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elementale delle maree  |
   | 7 | ![Gargolla di pietra](/images/u/ti_shixianggui.jpg) | [Gargolla di pietra](/it/units/Stone Gargoyle/) | Attacco | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 48.0 | 300 |    |
   | 8 | ![Picchiere](/images/u/ti_jibing.jpg) | [Picchiere](/it/units/Pikeman/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardiere  |
-  | 9 | ![Tiratore scelto](/images/u/ti_nushou.jpg) | [Tiratore scelto](/it/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | - | 85.3 | 438 |  Maestro arciere  |
+  | 9 | ![Tiratore scelto](/images/u/ti_nushou.jpg) | [Tiratore scelto](/it/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Maestro arciere  |
   | 10 | ![Arpia](/images/u/ti_yingshenren.jpg) | [Arpia](/it/units/Harpy/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Arpia deforme  |
   | 11 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/it/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita oscuro  |
   | 12 | ![Grifone](/images/u/ti_shijiu.jpg) | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifone reale  |

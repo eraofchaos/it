@@ -3,7 +3,7 @@ title: "Viverna"
 permalink: /units/Wyvern/
 excerpt: "Era of Chaos Viverna. Viverna Unità. Viverna Monarca. Era of Chaos Una creatura malevola e velenosa consuma la palude. Leggenda vuole che il miasma pestilenziale che la pervade sia una sua secrezione."
 unitID: 806
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Viverna"
 toc: true
@@ -204,7 +204,7 @@ toc: true
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Spruzzo velenoso&gt;</span><span style="color: #645252;font-size:18px"> si attiva una volta ogni 17 secondi, infliggendo danni pari al 10% dei PF massimi del bersaglio.</span>
 
 ### 3rd Skill (or 4th): Tocco velenoso
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Artiglio feroce&gt;</span><span style="color: #645252;font-size:18px">: riduce del 10 la Rid DAN delle unità bersaglio. Gli attacchi base causano &lt;Sanguinamento&gt;.</span>
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Artiglio feroce&gt;</span><span style="color: #645252;font-size:18px">: riduce del 10% la Rid DAN delle unità bersaglio. Gli attacchi base causano &lt;Sanguinamento&gt;.</span>
 
 ### 4th Skill (or 3rd): Portatrice di veleno
  **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Artiglio feroce&gt;</span><span style="color: #645252;font-size:18px">: riduce del 15% la guarigione delle unità bersaglio. Gli attacchi base infliggono danni pari al 20% dell'ATT e causano &lt;Sanguinamento&gt;</span>

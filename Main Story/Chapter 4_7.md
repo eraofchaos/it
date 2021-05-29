@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-7 Torre Ventolesto"
 permalink: /Main Story/Chapter 4_7/
 excerpt: "Capitolo 4 - 7. Era of Chaos  Storia principale - Capitolo 4_7. 4-7 Torre Ventolesto"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 4_7.md"
 toc: false

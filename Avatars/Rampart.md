@@ -2,7 +2,7 @@
 title: "Avatar - Baluardo"
 permalink: /Avatars/Rampart/
 excerpt: "Era of Chaos  Baluardo"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Rampart.md"
 toc: false

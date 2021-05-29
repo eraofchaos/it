@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-12 Una città senza draghi"
 permalink: /Main Story/Chapter 24_12/
 excerpt: "Capitolo 24 - 12. Era of Chaos  Storia principale - Capitolo 24_12. 24-12 Una città senza draghi"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 24_12.md"
 toc: false

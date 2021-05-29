@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-5 Ordine maligno"
 permalink: /Main Story/Chapter 17_5/
 excerpt: "Capitolo 17 - 5. Era of Chaos  Storia principale - Capitolo 17_5. 17-5 Ordine maligno"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 17_5.md"
 toc: false

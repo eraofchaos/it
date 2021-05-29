@@ -2,7 +2,7 @@
 title: "Avatar - Maestro d'incantesimi"
 permalink: /Avatars/Spell Master/
 excerpt: "Era of Chaos  Maestro d'incantesimi"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Spell Master.md"
 toc: false

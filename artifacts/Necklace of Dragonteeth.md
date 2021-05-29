@@ -2,7 +2,7 @@
 title: "Manufatti - Potenza del Padre dei Draghi - Collana di Denti di Drago"
 permalink: /artifacts/Necklace of Dragonteeth/
 excerpt: "Era of Chaos  Potenza del Padre dei Draghi - Collana di Denti di Drago. Una collana benedetta dal Drago Sacro. Uno dei componenti della Potenza del Padre dei Draghi."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Necklace of Dragonteeth.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Genio. Genio Unità. Genio superiore. Era of Chaos Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
 unitID: 605
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Genio"
 toc: true
@@ -186,7 +186,7 @@ toc: true
   ![Genio superiore](/images/u/tia_shendeng.jpg)
 
 ### Awaking Dettagli
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
  **Awaking Name:** Genio superiore
 

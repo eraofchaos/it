@@ -2,7 +2,7 @@
 title: "Flusso ondoso"
 permalink: /equipment/Wavy Flow/
 excerpt: "Era of Chaos Flusso ondoso. Flusso ondoso"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Wavy Flow.md"
 toc: false

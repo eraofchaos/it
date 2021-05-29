@@ -2,7 +2,7 @@
 title: "Manufatti - Codice dell'Arcimago - Anello scintillante"
 permalink: /artifacts/Ring of Flares/
 excerpt: "Era of Chaos  Codice dell'Arcimago - Anello scintillante. Un anello sulla cui superficie scorre magia pura. Uno dei Codici dell'Arcimago."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Ring of Flares.md"
 toc: false

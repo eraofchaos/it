@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 16 - 16-4 Echi di guerra"
 permalink: /Underground/Chapter 16_4/
 excerpt: "Capitolo 16 - 4. Era of Chaos  Sottosuolo - Capitolo 16_4. 16-4 Echi di guerra"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 16_4.md"
 toc: false

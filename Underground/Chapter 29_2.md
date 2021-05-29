@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 29 - 29-2  Il torero"
 permalink: /Underground/Chapter 29_2/
 excerpt: "Capitolo 29 - 2. Era of Chaos  Sottosuolo - Capitolo 29_2. 29-2  Il torero"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 29_2.md"
 toc: false

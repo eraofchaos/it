@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-7 La generosità del saggio"
 permalink: /Main Story/Chapter 26_7/
 excerpt: "Capitolo 26 - 7. Era of Chaos  Storia principale - Capitolo 26_7. 26-7 La generosità del saggio"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 26_7.md"
 toc: false

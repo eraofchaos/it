@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-6 L'altare del Demone"
 permalink: /Main Story/Chapter 15_6/
 excerpt: "Capitolo 15 - 6. Era of Chaos  Storia principale - Capitolo 15_6. 15-6 L'altare del Demone"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 15_6.md"
 toc: false

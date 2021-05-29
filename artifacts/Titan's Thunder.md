@@ -2,7 +2,7 @@
 title: "Manufatti - Tuono del Titano"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Tuono del Titano. Tuono del Titano Leggendaria reliquia sacra realizzata usando i tesori dei Giganti. Può scatenare il potere del fulmine su qualsiasi nemico."
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Titan's Thunder.md"
 toc: false
@@ -43,14 +43,14 @@ classes: wide
 
  **Nome: Tuono del Titano**
 
- **Effect:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto.
+ **Effect:** Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto.
 
   |  Level  |    Extra bonus  | 
   |:--------|:----------------| 
-  | **2** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. | 
-  | **5** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. | 
-  | **8** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. | 
-  | **11** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. | 
-  | **14** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$ulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. | 
+  | **2** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. | 
+  | **5** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. | 
+  | **8** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. | 
+  | **11** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto e ne riduce la MIRA del 30%. | 
+  | **14** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> danni da Aria alle unità nemiche nell'area d'effetto. Inoltre, infligge danni aggiuntivi pari al 15% dei PF massimi e riduce la MIRA del 30%. | 
   | **17** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> danni da Aria alle unità nemiche in un'ampia area, più una quantità di danni aggiuntivi pari al 15% dei loro PF massimi. Inoltre, ne riduce la MIRA del 30% e applica <span style="color: #e07c44;font-size:20px">&lt;Folgorazione&gt;</span>. | 
   | **20** | Infligge <span style="color: #48b946;font-size:20px">{($valueadd11+$valueadd12*($sklevel-1))*$aulevel}</span> danni da Aria alle unità nemiche in un'ampia area, più una quantità di danni aggiuntivi pari al 15% dei loro PF massimi. Inoltre, ne riduce la MIRA del 60% e applica <span style="color: #e07c44;font-size:20px">&lt;Folgorazione&gt;</span>. | 

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 8 - 8-2 A corto di uomini"
 permalink: /Underground/Chapter 8_2/
 excerpt: "Capitolo 8 - 2. Era of Chaos  Sottosuolo - Capitolo 8_2. 8-2 A corto di uomini"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 8_2.md"
 toc: false

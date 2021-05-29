@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-14 L'onda della morte"
 permalink: /Main Story/Chapter 10_14/
 excerpt: "Capitolo 10 - 14. Era of Chaos  Storia principale - Capitolo 10_14. 10-14 L'onda della morte"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 10_14.md"
 toc: false

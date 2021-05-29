@@ -2,7 +2,7 @@
 title: "Fasce per piedi"
 permalink: /equipment/Footwraps/
 excerpt: "Era of Chaos Fasce per piedi. Fasce per piedi"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Footwraps.md"
 toc: false

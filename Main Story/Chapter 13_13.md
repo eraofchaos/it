@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-13 L'inseguimento"
 permalink: /Main Story/Chapter 13_13/
 excerpt: "Capitolo 13 - 13. Era of Chaos  Storia principale - Capitolo 13_13. 13-13 L'inseguimento"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 13_13.md"
 toc: false

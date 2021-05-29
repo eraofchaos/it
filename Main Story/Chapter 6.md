@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 Un nuovo inizio"
 permalink: /Main Story/Chapter 6/
 excerpt: "Capitolo 6. Era of Chaos  Storia principale - Capitolo 6. Un nuovo inizio"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 16 - 16-2 Memoria celeste"
 permalink: /Underground/Chapter 16_2/
 excerpt: "Capitolo 16 - 2. Era of Chaos  Sottosuolo - Capitolo 16_2. 16-2 Memoria celeste"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 16_2.md"
 toc: false

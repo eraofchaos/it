@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-5 Frammento mistico"
 permalink: /Main Story/Chapter 10_5/
 excerpt: "Capitolo 10 - 5. Era of Chaos  Storia principale - Capitolo 10_5. 10-5 Frammento mistico"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 10_5.md"
 toc: false

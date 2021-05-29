@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-12 Fratellanza perduta"
 permalink: /Main Story/Chapter 8_12/
 excerpt: "Capitolo 8 - 12. Era of Chaos  Storia principale - Capitolo 8_12. 8-12 Fratellanza perduta"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 8_12.md"
 toc: false

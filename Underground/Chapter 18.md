@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 18 A braccetto con il diavolo"
 permalink: /Underground/Chapter 18/
 excerpt: "Capitolo 18 A braccetto con il diavolo. Era of Chaos  Sottosuolo - Capitolo 18. A braccetto con il diavolo"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 18.md"
 toc: false

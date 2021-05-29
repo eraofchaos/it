@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-11 Terre nebbiose"
 permalink: /Main Story/Chapter 11_11/
 excerpt: "Capitolo 11 - 11. Era of Chaos  Storia principale - Capitolo 11_11. 11-11 Terre nebbiose"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 11_11.md"
 toc: false

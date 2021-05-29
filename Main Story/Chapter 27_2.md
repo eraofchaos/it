@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-2 Il vortice magico"
 permalink: /Main Story/Chapter 27_2/
 excerpt: "Capitolo 27 - 2. Era of Chaos  Storia principale - Capitolo 27_2. 27-2 Il vortice magico"
-last_modified_at: 2021-05-18
+last_modified_at: 2021-05-28
 locale: it
 ref: "Chapter 27_2.md"
 toc: false
