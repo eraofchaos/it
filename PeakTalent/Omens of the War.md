@@ -2,7 +2,7 @@
 title: "Presagi di guerra. Talento Apice - Presagi di guerra"
 permalink: /PeakTalent/Omens of the War/
 excerpt: "Era of Chaos Talento Apice Presagi di guerra. Talento Apice Presagi di guerra. Presagi di guerra"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Omens of the War.md"
 toc: false

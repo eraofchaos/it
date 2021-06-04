@@ -2,7 +2,7 @@
 title: "Guanti protettivi"
 permalink: /equipment/Protective Gloves/
 excerpt: "Era of Chaos Guanti protettivi. Guanti protettivi"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Protective Gloves.md"
 toc: false

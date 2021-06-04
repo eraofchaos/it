@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Faction Cove"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
   | 2 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Antico mostro marino  |
   | 3 | ![Addestratore di squali](/images/u/ti_xunshashi.jpg) | [Addestratore di squali](/it/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Cavalcasquali  |
   | 4 | ![Arciere di Regna](/images/u/ti_ruigenanushou.jpg) | [Arciere di Regna](/it/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
-  | 5 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elementale delle maree  |
+  | 5 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elementale delle maree  |
   | 6 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
   | 7 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 8 | ![Tartaruga draconica](/images/u/ti_longgui.jpg) | [Tartaruga draconica](/it/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tartaruga draconica primordiale  |

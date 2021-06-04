@@ -2,7 +2,7 @@
 title: "Fascia di smeraldo"
 permalink: /equipment/Emerald Arm Ring/
 excerpt: "Era of Chaos Fascia di smeraldo. Fascia di smeraldo"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Emerald Arm Ring.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-10 Resistere alla prigionia"
 permalink: /Main Story/Chapter 27_10/
 excerpt: "Capitolo 27 - 10. Era of Chaos  Storia principale - Capitolo 27_10. 27-10 Resistere alla prigionia"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 27_10.md"
 toc: false

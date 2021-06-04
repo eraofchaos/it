@@ -2,7 +2,7 @@
 title: "Manufatti - Armatura dei Dannati - Elmo del Teschio"
 permalink: /artifacts/Skull Helmet/
 excerpt: "Era of Chaos  Armatura dei Dannati - Elmo del Teschio. Un elmo proveniente dal Sottosuolo. Uno dei componenti dell'Armatura dei Dannati."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Skull Helmet.md"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
  **Descrizione:** Un elmo proveniente dal Sottosuolo. Uno dei componenti dell'Armatura dei Dannati.
 
- **Part of Artifact:** ![Armatura dei Dannati](/images/t/icon_artifact_30.png) [Armatura dei Dannati](/it/artifacts/Armour of the Damned/){: .btn .btn--era4}
+ **Part of Artifact:** ![Armatura dei Dannati](/images/t/icon_artifact_30.png) [Armatura dei Dannati](/it/artifacts/Armor of the Damned/){: .btn .btn--era4}
 
  **Dismantle: 25x** [Essenza di manufatto](/ItemsIT/con_905/)
 

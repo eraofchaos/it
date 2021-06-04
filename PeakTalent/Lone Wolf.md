@@ -2,7 +2,7 @@
 title: "Lupo solitario. Talento Apice - Lupo solitario"
 permalink: /PeakTalent/Lone Wolf/
 excerpt: "Era of Chaos Talento Apice Lupo solitario. Talento Apice Lupo solitario. Lupo solitario"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Lone Wolf.md"
 toc: false

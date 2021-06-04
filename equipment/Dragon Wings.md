@@ -2,7 +2,7 @@
 title: "Ali di Drago"
 permalink: /equipment/Dragon Wings/
 excerpt: "Era of Chaos Ali di Drago. Ali di Drago"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Dragon Wings.md"
 toc: false

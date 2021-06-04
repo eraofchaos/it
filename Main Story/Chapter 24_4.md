@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-4 Una visione in sogno"
 permalink: /Main Story/Chapter 24_4/
 excerpt: "Capitolo 24 - 4. Era of Chaos  Storia principale - Capitolo 24_4. 24-4 Una visione in sogno"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 24_4.md"
 toc: false

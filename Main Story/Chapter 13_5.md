@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-5 Conseguenze"
 permalink: /Main Story/Chapter 13_5/
 excerpt: "Capitolo 13 - 5. Era of Chaos  Storia principale - Capitolo 13_5. 13-5 Conseguenze"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 13_5.md"
 toc: false

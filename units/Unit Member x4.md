@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Unit Member x4"
 toc: false
@@ -28,7 +28,7 @@ classes: wide
   | 14 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 15 | ![Spadaccino](/images/u/ti_shizijun.jpg) | [Spadaccino](/it/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crociato  |
   | 16 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/it/units/Medusa/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Regina Medusa  |
-  | 17 | ![Monaco](/images/u/ti_senglv.jpg) | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
+  | 17 | ![Monaco](/images/u/ti_senglv.jpg) | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Fanatico  |
   | 18 | ![Minotauro](/images/u/ti_niutouguai.jpg) | [Minotauro](/it/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Re dei Minotauri  |
   | 19 | ![Aeronave magica](/images/u/ti_reqiqiu.jpg) | [Aeronave magica](/it/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 20 | ![Uomo lucertola](/images/u/ti_xiyiren.jpg) | [Uomo lucertola](/it/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |

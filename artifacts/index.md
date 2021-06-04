@@ -2,7 +2,7 @@
 title: "Manufatti"
 permalink: /artifacts/
 excerpt: "Era of Chaos  List of all Manufatti. I manufatti possono migliorare gli attributi degli eroi e sbloccare tecniche più potenti."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 3   | ![Fonte del Mago](/images/t/icon_artifact_21.png) [Fonte del Mago](/it/artifacts/Wizard's Well/){: .btn .btn--era3} | 3 | 1 | Oggetto magico utile a combattere i Demoni. Può aumentare la velocità di rigenerazione del mana. |
   | 4   | ![Anello del Mago](/images/t/icon_artifact_22.png) [Anello del Mago](/it/artifacts/Ring of the Mage/){: .btn .btn--era3} | 3 | 1 | Anello magico realizzato usando oggetti incantati. Può aumentare il danno magico. |
   | 5   | ![Pietra runica Antimagia](/images/t/icon_artifact_23.png) [Pietra runica Antimagia](/it/artifacts/Antimagic Runestone/){: .btn .btn--era3} | 3 | 1 | Pietra runica Antimagia realizzata usando oggetti incantati. Può aumentare la resistenza al danno magico. |
-  | 6   | ![Armatura dei Dannati](/images/t/icon_artifact_30.png) [Armatura dei Dannati](/it/artifacts/Armour of the Damned/){: .btn .btn--era4} | 4 | 1 | Realizzata usando reliquie dei non morti. Permette a chi la indossa di indebolire le abilità del nemico. |
+  | 6   | ![Armatura dei Dannati](/images/t/icon_artifact_30.png) [Armatura dei Dannati](/it/artifacts/Armor of the Damned/){: .btn .btn--era4} | 4 | 1 | Realizzata usando reliquie dei non morti. Permette a chi la indossa di indebolire le abilità del nemico. |
   | 7   | ![Ascia della Ferocia](/images/t/icon_artifact_31.png) [Ascia della Ferocia](/it/artifacts/Axe of Ferocity/){: .btn .btn--era4} | 4 | 35 | Arma realizzata usando reliquie sacre di diverse razze. Può migliorare l'abilità di combattimento ravvicinato. |
   | 8   | ![Arco del Tiratore esperto](/images/t/icon_artifact_10.png) [Arco del Tiratore esperto](/it/artifacts/Bow of the Sharpshooter/){: .btn .btn--era4} | 3 | 1 | Reliquia sacra realizzata usando i tesori degli Elfi. Può aumentare l'attacco a distanza. |
   | 9   | ![Mantello del Re Non Morto](/images/t/icon_artifact_32.png) [Mantello del Re Non Morto](/it/artifacts/Cloak of the Undead King/){: .btn .btn--era4} | 3 | 35 | Reliquia sacra realizzata da un grande Re Non Morto per nascondere le sue fattezze. Può evocare un'armata scheletrica. |
@@ -31,6 +31,7 @@ classes: wide
   | 16   | ![Spada dell'Armageddon](/images/t/icon_artifact_44.png) [Spada dell'Armageddon](/it/artifacts/Armageddon's Blade/){: .btn .btn--era5} | 6 | 60 | La fiamma maledetta che brucerà la tua anima |
   | 17   | ![Alleanza Angelica](/images/t/icon_artifact_41.png) [Alleanza Angelica](/it/artifacts/Angelic Alliance/){: .btn .btn--era5} | 6 | 60 | Una reliquia sacra forgiata a partire da oggetti preziosi tramite il potere degli Angeli. Può aumentare la forza dei tuoi alleati. |
   | 18   | ![Mela dell'Eden](/images/t/icon_artifact_49.png) [Mela dell'Eden](/it/artifacts/Apple of Eden/){: .btn .btn--era5} | 6 | 35 | Un dono dell'antica civiltà dei Precursori. Secondo la leggenda, questo manufatto è in grado di manipolare tutti gli esseri viventi. |
+  | 19   | [Penna dell'emissario](/it/artifacts/Envoy's Pen/) | 4 | 1 | Un simbolo di forza e potere. Questa illustre reliquia è riservata ai vincitori. |
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/it/artifacts/Artifacts Upgrade/)

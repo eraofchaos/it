@@ -2,7 +2,7 @@
 title: "Avatar - Viticci portafortuna"
 permalink: /Avatars/Vines of Fortune/
 excerpt: "Era of Chaos  Viticci portafortuna"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Vines of Fortune.md"
 toc: false

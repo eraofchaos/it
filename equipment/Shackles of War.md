@@ -2,7 +2,7 @@
 title: "Catene della guerra"
 permalink: /equipment/Shackles of War/
 excerpt: "Era of Chaos Catene della guerra. Catene della guerra"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Shackles of War.md"
 toc: false

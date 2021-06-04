@@ -2,7 +2,7 @@
 title: "Pelle dura. Talento Apice - Pelle dura"
 permalink: /PeakTalent/Hardened Skin/
 excerpt: "Era of Chaos Talento Apice Pelle dura. Talento Apice Pelle dura. Pelle dura"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Hardened Skin.md"
 toc: false

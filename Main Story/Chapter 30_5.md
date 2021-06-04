@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-5 Il Falò Scoppiettante"
 permalink: /Main Story/Chapter 30_5/
 excerpt: "Capitolo 30 - 5. Era of Chaos  Storia principale - Capitolo 30_5. 30-5 Il Falò Scoppiettante"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 30_5.md"
 toc: false

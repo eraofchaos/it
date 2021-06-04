@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Heroes"
 permalink: /heroes/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction  in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Faction Inferno"
 toc: false
@@ -15,4 +15,4 @@ classes: wide
   | 1 | ![Rashka](/images/h/h_Rashka.jpg) | [Rashka](/it/heroes/Rashka/) | Inferno | Demoniaco | **SR** |  Signore del Fuoco | R |
   | 2 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/it/heroes/Xeron/) | Inferno | Demoniaco | **SSR** |  Arcidiavolo | SSR |
   | 3 | ![Zydar](/images/h/h_Zydar.jpg) | [Zydar](/it/heroes/Zydar/) | Inferno | Eretico | **R** |  Evocazione dell'Inferno | R |
-  | 4 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasmi infernali | R+ |
+  | 4 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasma infernale | R+ |

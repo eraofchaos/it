@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-10 Una debole resistenza"
 permalink: /Main Story/Chapter 9_10/
 excerpt: "Capitolo 9 - 10. Era of Chaos  Storia principale - Capitolo 9_10. 9-10 Una debole resistenza"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 9_10.md"
 toc: false

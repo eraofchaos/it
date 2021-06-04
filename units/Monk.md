@@ -3,7 +3,7 @@ title: "Monaco"
 permalink: /units/Monk/
 excerpt: "Era of Chaos Monaco. Monaco Unità. Fanatico. Era of Chaos I Monaci posseggono una fede incrollabile. Noti per la loro capacità di benedire e proteggere gli alleati, non disdegnano di calcare il campo di battaglia ad armi spianate."
 unitID: 105
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Monaco"
 toc: true
@@ -84,7 +84,7 @@ toc: true
 
  **Nome:** [Cantico arcano](/it/Exclusive/Monk Arcane Chant/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rango ↑:** [Token Cantico arcano](/ItemsIT/con_915/)
 
@@ -95,6 +95,7 @@ toc: true
 
 * [Segreto eterno](/it/Emblem/Everlasting Secret/) (Ordine)
 * [Ira](/it/Emblem/Anger/) (Caos)
+* [Fonte dell'immortalità](/it/Emblem/Spring of Immortality/) (Bontà)
 
 ## Informazioni combinazione
 

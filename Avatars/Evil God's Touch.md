@@ -2,7 +2,7 @@
 title: "Avatar - Tocco di un Dio Malvagio"
 permalink: /Avatars/Evil God's Touch/
 excerpt: "Era of Chaos  Tocco di un Dio Malvagio"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Evil God's Touch.md"
 toc: false

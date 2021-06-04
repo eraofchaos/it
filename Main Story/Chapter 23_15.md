@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-15 La città di fuoco e zolfo"
 permalink: /Main Story/Chapter 23_15/
 excerpt: "Capitolo 23 - 15. Era of Chaos  Storia principale - Capitolo 23_15. 23-15 La città di fuoco e zolfo"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 23_15.md"
 toc: false

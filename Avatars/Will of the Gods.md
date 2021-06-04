@@ -2,7 +2,7 @@
 title: "Avatar - Volontà degli Dei"
 permalink: /Avatars/Will of the Gods/
 excerpt: "Era of Chaos  Volontà degli Dei"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Will of the Gods.md"
 toc: false

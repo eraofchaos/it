@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-9 A caccia di Manticore"
 permalink: /Main Story/Chapter 28_9/
 excerpt: "Capitolo 28 - 9. Era of Chaos  Storia principale - Capitolo 28_9. 28-9 A caccia di Manticore"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 28_9.md"
 toc: false

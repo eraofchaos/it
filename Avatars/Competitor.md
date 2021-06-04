@@ -2,7 +2,7 @@
 title: "Avatar - Atleta"
 permalink: /Avatars/Competitor/
 excerpt: "Era of Chaos  Atleta"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Competitor.md"
 toc: false

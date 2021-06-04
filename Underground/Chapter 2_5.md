@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 2 - 2-5 In cerca di alleati"
 permalink: /Underground/Chapter 2_5/
 excerpt: "Capitolo 2 - 5. Era of Chaos  Sottosuolo - Capitolo 2_5. 2-5 In cerca di alleati"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 2_5.md"
 toc: false

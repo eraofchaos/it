@@ -2,7 +2,7 @@
 title: "Bordone del sottosuolo"
 permalink: /equipment/Nether Staff/
 excerpt: "Era of Chaos Bordone del sottosuolo. Bordone del sottosuolo"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Nether Staff.md"
 toc: false

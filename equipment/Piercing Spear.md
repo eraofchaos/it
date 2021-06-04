@@ -2,7 +2,7 @@
 title: "Lancia perforante"
 permalink: /equipment/Piercing Spear/
 excerpt: "Era of Chaos Lancia perforante. Lancia perforante"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Piercing Spear.md"
 toc: false

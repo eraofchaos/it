@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 7 Terre di confine"
 permalink: /Underground/Chapter 7/
 excerpt: "Capitolo 7 Terre di confine. Era of Chaos  Sottosuolo - Capitolo 7. Terre di confine"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 7.md"
 toc: false

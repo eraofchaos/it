@@ -2,7 +2,7 @@
 title: "Blue Artifact Components"
 permalink: /artifacts/Blue Artifact Components/
 excerpt: "Era of Chaos  List of all Blue Artifact Components . I manufatti possono migliorare gli attributi degli eroi e sbloccare tecniche più potenti."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Blue Artifact Components.md"
 toc: false

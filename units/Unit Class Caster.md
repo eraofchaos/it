@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Caster -  Units"
 permalink: /units/Unit Class Caster/
 excerpt: "Era of Chaos Unit Class Caster. Unit Class Caster. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Unit Class Caster"
 toc: false
@@ -17,13 +17,13 @@ classes: wide
   | 3 | ![Rapace di fuoco](/images/u/ti_fenghuang.jpg) | [Rapace di fuoco](/it/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
   | 4 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/it/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 5 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
-  | 6 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elementale delle maree  |
+  | 6 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elementale delle maree  |
   | 7 | ![Arcimago](/images/u/ti_dafashi.jpg) | [Arcimago](/it/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arcimago  |
   | 8 | ![Genio](/images/u/ti_shenguai.jpg) | [Genio](/it/units/Genie/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
   | 9 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 10 | ![Osservatore](/images/u/ti_xieyan.jpg) | [Osservatore](/it/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
   | 11 | ![Gigante](/images/u/ti_taitan.jpg) | [Gigante](/it/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titano  |
-  | 12 | ![Monaco](/images/u/ti_senglv.jpg) | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
+  | 12 | ![Monaco](/images/u/ti_senglv.jpg) | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Fanatico  |
   | 13 | ![Aeronave magica](/images/u/ti_reqiqiu.jpg) | [Aeronave magica](/it/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 14 | ![Mosca serpente](/images/u/ti_longying.jpg) | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Mosca drago  |
   | 15 | ![Giudice](/images/u/ti_shenpanguan.jpg) | [Giudice](/it/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |

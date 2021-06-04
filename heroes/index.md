@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "index.md"
 QR: heroes
@@ -43,7 +43,7 @@ classes: wide
   | 24 | ![Mullich](/images/h/h_Mullich.jpg) | [Mullich](/it/heroes/Mullich/) | Castello | Cavaliere | **R** |  Carica | R+ |
   | 25 | ![Mutare](/images/h/h_Mutare.jpg) | [Mutare](/it/heroes/Mutare/) | Dungeon | Signore Supremo | **R** |  Torrente del Dungeon | R |
   | 26 | ![Mutare (drago)](/images/h/h_MutareDrake.jpg) | [Mutare (drago)](/it/heroes/Dragon Mutare/) | Dungeon | Signore Supremo | **SSR** |  Risveglio del Drago | SSR |
-  | 27 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasmi infernali | R+ |
+  | 27 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasma infernale | R+ |
   | 28 | ![Peter Lee](/images/h/h_PeterLee.jpg) | [Peter Lee](/it/heroes/Peter Lee/) | Baia | Pirata | **SR+** |  Salpa | R+ |
   | 29 | ![Rashka](/images/h/h_Rashka.jpg) | [Rashka](/it/heroes/Rashka/) | Inferno | Demoniaco | **SR** |  Signore del Fuoco | R |
   | 30 | ![Roland](/images/h/h_Roland.jpg) | [Roland](/it/heroes/Roland/) | Castello | Cavaliere | **SSR** |  Morale elevato | SR+ |

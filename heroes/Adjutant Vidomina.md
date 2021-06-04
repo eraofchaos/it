@@ -2,7 +2,7 @@
 title: "Aiutante Vidomina"
 permalink: /heroes/Adjutant Vidomina/
 excerpt: "Era of Chaos  Aiutante Vidomina"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Adjutant Vidomina.md"
 QR: adhero_60502

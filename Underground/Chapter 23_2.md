@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 23 - 23-2 Potere difensivo"
 permalink: /Underground/Chapter 23_2/
 excerpt: "Capitolo 23 - 2. Era of Chaos  Sottosuolo - Capitolo 23_2. 23-2 Potere difensivo"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 23_2.md"
 toc: false

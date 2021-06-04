@@ -3,7 +3,7 @@ title: "Leviatano"
 permalink: /units/Revyaratan/
 excerpt: "Era of Chaos Leviatano. Leviatano Unità. Antico mostro marino. Era of Chaos Un mostro vaga per le profondità marine. Le sue immense fauci sembrano capaci di divorare ogni cosa."
 unitID: 9908
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Leviatano"
 toc: true

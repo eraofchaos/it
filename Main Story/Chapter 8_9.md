@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-9 Le tenute degli Elfi"
 permalink: /Main Story/Chapter 8_9/
 excerpt: "Capitolo 8 - 9. Era of Chaos  Storia principale - Capitolo 8_9. 8-9 Le tenute degli Elfi"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 8_9.md"
 toc: false

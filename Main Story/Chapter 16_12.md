@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-12 Il mutaforma"
 permalink: /Main Story/Chapter 16_12/
 excerpt: "Capitolo 16 - 12. Era of Chaos  Storia principale - Capitolo 16_12. 16-12 Il mutaforma"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 16_12.md"
 toc: false

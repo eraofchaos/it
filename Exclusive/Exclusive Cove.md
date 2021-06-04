@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Esclusivo Cove. Esclusivo Cove. List of Esclusivo Cove in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Exclusive Cove"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Pirati di Regna](/it/units/Regnan Pirates/) | [Spada](/it/Exclusive/Regnan Pirates Sword/) | + | Carica | [Token della Spada](/ItemsIT/con_912/) | - |
   | 2  | [Arciere di Regna](/it/units/Regnan Archer/) | [Miracolo](/it/Exclusive/Regnan Archer Miracle/) | - | Supporto | - | - |
-  | 3  | [Elementale del mare](/it/units/Sea Elemental/) | [Cantico arcano](/it/Exclusive/Sea Elemental Arcane Chant/) | - | Carica | [Token Cantico arcano](/ItemsIT/con_915/) | - |
+  | 3  | [Elementale del mare](/it/units/Sea Elemental/) | [Cantico arcano](/it/Exclusive/Sea Elemental Arcane Chant/) | + | Carica | [Token Cantico arcano](/ItemsIT/con_915/) | - |
   | 4  | [Serpente di Regna](/it/units/Regnan Serpent/) | [Maree diurne](/it/Exclusive/Regnan Serpent Day Tides/) | - | A distanza | [Token Maree diurne](/ItemsIT/con_1003/) | [Skin speciale Maree diurne](/ItemsIT/con_671/) |
   | 5  | [Sirena](/it/units/Mermaid/) | [Maree notturne](/it/Exclusive/Mermaid Night Tides/) | - | A distanza | [Token Maree notturne](/ItemsIT/con_1004/) | [Skin speciale Maree notturne](/ItemsIT/con_672/) |
   | 6  | [Tartaruga draconica](/it/units/Dragon Turtle/) | [Obbedienza](/it/Exclusive/Dragon Turtle Obedience/) | - | Supporto | [Token Obbedienza](/ItemsIT/con_1005/) | [Skin speciale Obbedienza](/ItemsIT/con_673/) |

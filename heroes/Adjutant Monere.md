@@ -2,7 +2,7 @@
 title: "Aiutante Monere"
 permalink: /heroes/Adjutant Monere/
 excerpt: "Era of Chaos  Aiutante Monere"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Adjutant Monere.md"
 QR: adhero_60702

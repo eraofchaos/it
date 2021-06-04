@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 24  Settimana del Dungeon
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **14 Jun** | **5x [Troglodita](/ItemsIT/unt_244/)**  | Un gruppo di Trogloditi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **15 Jun** | **3x [Arpia](/ItemsIT/unt_245/)**  | Un gruppo di Arpie è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **16 Jun** | **100x <i class="fas fa-gem"/>**  | Le creature del Sottosuolo ti fanno omaggio di un mucchietto di Diamanti! |
+  | **17 Jun** | **3x [Minotauro](/ItemsIT/unt_248/)**  | Un gruppo di Minotauri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **18 Jun** | **5x [Scrigno Dungeon](/ItemsIT/con_1276/)**  | Le tue truppe sono andate in cerca di alcuni tesori perduti nelle profondità del Sottosuolo. |
+  | **19 Jun** | **3x [Manticora](/ItemsIT/unt_249/)**  | Un gruppo di Manticore è entrato a far parte del tuo esercito. Diventi sempre più forte! |
+  | **20 Jun** | **5x [Mutare](/ItemsIT/her_389/)**  | Seguendo i consigli di un antico drago, Mutare ha deciso di unirsi al tuo esercito! |
+
 
 #### 2021 Week 23  Settimana della Confluenza
 

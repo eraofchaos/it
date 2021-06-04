@@ -2,7 +2,7 @@
 title: "Corno velenoso"
 permalink: /equipment/Venomous Horn/
 excerpt: "Era of Chaos Corno velenoso. Corno velenoso"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Venomous Horn.md"
 toc: false

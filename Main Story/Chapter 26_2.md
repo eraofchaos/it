@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-2 Il portale di evocazione"
 permalink: /Main Story/Chapter 26_2/
 excerpt: "Capitolo 26 - 2. Era of Chaos  Storia principale - Capitolo 26_2. 26-2 Il portale di evocazione"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 26_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-10 Il santuario"
 permalink: /Main Story/Chapter 12_10/
 excerpt: "Capitolo 12 - 10. Era of Chaos  Storia principale - Capitolo 12_10. 12-10 Il santuario"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 12_10.md"
 toc: false

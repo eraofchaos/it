@@ -2,7 +2,7 @@
 title: "Coda di Drago pestilenziale"
 permalink: /equipment/Plague Dragon Tail/
 excerpt: "Era of Chaos Coda di Drago pestilenziale. Coda di Drago pestilenziale"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Plague Dragon Tail.md"
 toc: false

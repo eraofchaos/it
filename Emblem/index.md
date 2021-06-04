@@ -2,7 +2,7 @@
 title: "Emblema sacro"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Equipaggia gli Emblemi sacri per potenziare notevolmente le tue unità. Le combinazioni di fazione e qualità dei diversi Emblemi sacri sono numerosissime. I set di Emblemi sacri aumentano ulteriormente gli attributi delle unità."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "index.md"
 toc: false
@@ -27,28 +27,30 @@ classes: wide
   | 5 | ![Simbolo di Aksoe](/images/r/rune_icon_303.png) | [Simbolo di Aksoe](/it/Emblem/Aksoe Token/) | Neutrale | Consigliato per le unità che causano <Rallentamento> | 
   | 6 | ![Superbia](/images/r/rune_icon_402.png) | [Superbia](/it/Emblem/Arrogance/) | Caos | Consigliato per le unità DPS | 
   | 7 | ![Santuario di Cosmos](/images/r/rune_icon_307.png) | [Santuario di Cosmos](/it/Emblem/Sanctuary of Kosmos/) | Ordine | Consigliato per le unità di difesa | 
-  | 8 | ![Autonimo dimenticato](/images/r/rune_icon_501.png) | [Autonimo dimenticato](/it/Emblem/Forgotten Autonym/) | Malvagio | Adatto a qualsiasi unità | 
-  | 9 | ![Colpevolezza di Tarnum](/images/r/rune_icon_305.png) | [Colpevolezza di Tarnum](/it/Emblem/Tarnum's Culpability/) | Neutrale | Adatto a qualsiasi unità | 
-  | 10 | ![Avarizia](/images/r/rune_icon_404.png) | [Avarizia](/it/Emblem/Greed/) | Caos | Consigliato per le unità di difesa | 
-  | 11 | ![Bened. della Regina](/images/r/rune_icon_105.png) | [Bened. della Regina](/it/Emblem/Queen's Blessing/) | Ordine | Consigliato per le unità di difesa | 
-  | 12 | ![Profeta verde](/images/r/rune_icon_204.png) | [Profeta verde](/it/Emblem/Green Prophet/) | Bontà | Adatto a qualsiasi unità | 
-  | 13 | ![Profezia infranta](/images/r/rune_icon_503.png) | [Profezia infranta](/it/Emblem/Broken Prophecy/) | Malvagio | Consigliato per le unità da 9 membri | 
-  | 14 | ![Retaggio dei Pugno di Ferro](/images/r/rune_icon_103.png) | [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) | Ordine | Consigliato per le unità DPS | 
-  | 15 | ![Muro della Sapienza](/images/r/rune_icon_202.png) | [Muro della Sapienza](/it/Emblem/Wall of Knowledge/) | Bontà | Adatto a qualsiasi unità | 
-  | 16 | ![Giudizio degli antenati](/images/r/rune_icon_301.png) | [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) | Neutrale | Consigliato per le unità che causano <Stordimento> | 
-  | 17 | ![Fuoco antico](/images/r/rune_icon_101.png) | [Fuoco antico](/it/Emblem/Ancient Fire/) | Ordine | Adatto a qualsiasi unità | 
-  | 18 | ![Il sentiero dell'Assassino](/images/r/rune_icon_107.png) | [Il sentiero dell'Assassino](/it/Emblem/Path of an Assassin/) | Neutrale | Consigliato per le unità DPS | 
-  | 19 | ![Soffio del Re dei Draghi](/images/r/rune_icon_505.png) | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) | Malvagio | Consigliato per le unità di difesa | 
-  | 20 | ![Meccanismo temporale](/images/r/rune_icon_205.png) | [Meccanismo temporale](/it/Emblem/Gear of Time/) | Bontà | Consigliato per le unità di difesa | 
-  | 21 | ![Chiave di pietra del cancello](/images/r/rune_icon_302.png) | [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) | Neutrale | Consigliato per le unità che causano <Sanguinamento> | 
-  | 22 | ![Invidia](/images/r/rune_icon_401.png) | [Invidia](/it/Emblem/Jealousy/) | Caos | Consigliato per le unità DPS | 
-  | 23 | ![Segreto eterno](/images/r/rune_icon_104.png) | [Segreto eterno](/it/Emblem/Everlasting Secret/) | Ordine | Adatto a qualsiasi unità | 
-  | 24 | ![Angelo custode](/images/r/rune_icon_203.png) | [Angelo custode](/it/Emblem/Guardian Angel/) | Bontà | Consigliato per le unità DPS | 
-  | 25 | ![Calamità del Re](/images/r/rune_icon_502.png) | [Calamità del Re](/it/Emblem/King's Calamity/) | Malvagio | Consigliato per le unità che causano <Combustione> | 
-  | 26 | ![Nucleo della Rete Globale](/images/r/rune_icon_304.png) | [Nucleo della Rete Globale](/it/Emblem/Core of the Global Network/) | Neutrale | Adatto a qualsiasi unità | 
-  | 27 | ![Ira](/images/r/rune_icon_403.png) | [Ira](/it/Emblem/Anger/) | Caos | Adatto a qualsiasi unità | 
-  | 28 | ![Ali di Grifone](/images/r/rune_icon_102.png) | [Ali di Grifone](/it/Emblem/Griffin Wings/) | Ordine | Consigliato per le unità DPS | 
-  | 29 | ![Testimonianza](/images/r/rune_icon_201.png) | [Testimonianza](/it/Emblem/Witness/) | Bontà | Consigliato per le unità DPS | 
+  | 8 | ![Fonte dell'immortalità](/images/r/rune_icon_206.png) | [Fonte dell'immortalità](/it/Emblem/Spring of Immortality/) | Bontà | null | 
+  | 9 | ![Autonimo dimenticato](/images/r/rune_icon_501.png) | [Autonimo dimenticato](/it/Emblem/Forgotten Autonym/) | Malvagio | Adatto a qualsiasi unità | 
+  | 10 | ![Colpevolezza di Tarnum](/images/r/rune_icon_305.png) | [Colpevolezza di Tarnum](/it/Emblem/Tarnum's Culpability/) | Neutrale | Adatto a qualsiasi unità | 
+  | 11 | ![Avarizia](/images/r/rune_icon_404.png) | [Avarizia](/it/Emblem/Greed/) | Caos | Consigliato per le unità di difesa | 
+  | 12 | ![Bened. della Regina](/images/r/rune_icon_105.png) | [Bened. della Regina](/it/Emblem/Queen's Blessing/) | Ordine | Consigliato per le unità di difesa | 
+  | 13 | ![Profeta verde](/images/r/rune_icon_204.png) | [Profeta verde](/it/Emblem/Green Prophet/) | Bontà | Adatto a qualsiasi unità | 
+  | 14 | ![Profezia infranta](/images/r/rune_icon_503.png) | [Profezia infranta](/it/Emblem/Broken Prophecy/) | Malvagio | Consigliato per le unità da 9 membri | 
+  | 15 | ![Retaggio dei Pugno di Ferro](/images/r/rune_icon_103.png) | [Retaggio dei Pugno di Ferro](/it/Emblem/Ironfist's Legacy/) | Ordine | Consigliato per le unità DPS | 
+  | 16 | ![Muro della Sapienza](/images/r/rune_icon_202.png) | [Muro della Sapienza](/it/Emblem/Wall of Knowledge/) | Bontà | Adatto a qualsiasi unità | 
+  | 17 | ![Giudizio degli antenati](/images/r/rune_icon_301.png) | [Giudizio degli antenati](/it/Emblem/The Judgment of Fathers/) | Neutrale | Consigliato per le unità che causano <Stordimento> | 
+  | 18 | ![Fuoco antico](/images/r/rune_icon_101.png) | [Fuoco antico](/it/Emblem/Ancient Fire/) | Ordine | Adatto a qualsiasi unità | 
+  | 19 | ![Il sentiero dell'Assassino](/images/r/rune_icon_107.png) | [Il sentiero dell'Assassino](/it/Emblem/Path of an Assassin/) | Neutrale | Consigliato per le unità DPS | 
+  | 20 | ![Soffio del Re dei Draghi](/images/r/rune_icon_505.png) | [Soffio del Re dei Draghi](/it/Emblem/Dragon King's Breath/) | Malvagio | Consigliato per le unità di difesa | 
+  | 21 | ![Prezzo della lealtà](/images/r/rune_icon_106.png) | [Prezzo della lealtà](/it/Emblem/The Price of Loyalty/) | Ordine | Consigliato per le unità DPS | 
+  | 22 | ![Meccanismo temporale](/images/r/rune_icon_205.png) | [Meccanismo temporale](/it/Emblem/Gear of Time/) | Bontà | Consigliato per le unità di difesa | 
+  | 23 | ![Chiave di pietra del cancello](/images/r/rune_icon_302.png) | [Chiave di pietra del cancello](/it/Emblem/Stone Key to the Gates/) | Neutrale | Consigliato per le unità che causano <Sanguinamento> | 
+  | 24 | ![Invidia](/images/r/rune_icon_401.png) | [Invidia](/it/Emblem/Jealousy/) | Caos | Consigliato per le unità DPS | 
+  | 25 | ![Segreto eterno](/images/r/rune_icon_104.png) | [Segreto eterno](/it/Emblem/Everlasting Secret/) | Ordine | Adatto a qualsiasi unità | 
+  | 26 | ![Angelo custode](/images/r/rune_icon_203.png) | [Angelo custode](/it/Emblem/Guardian Angel/) | Bontà | Consigliato per le unità DPS | 
+  | 27 | ![Calamità del Re](/images/r/rune_icon_502.png) | [Calamità del Re](/it/Emblem/King's Calamity/) | Malvagio | Consigliato per le unità che causano <Combustione> | 
+  | 28 | ![Nucleo della Rete Globale](/images/r/rune_icon_304.png) | [Nucleo della Rete Globale](/it/Emblem/Core of the Global Network/) | Neutrale | Adatto a qualsiasi unità | 
+  | 29 | ![Ira](/images/r/rune_icon_403.png) | [Ira](/it/Emblem/Anger/) | Caos | Adatto a qualsiasi unità | 
+  | 30 | ![Ali di Grifone](/images/r/rune_icon_102.png) | [Ali di Grifone](/it/Emblem/Griffin Wings/) | Ordine | Consigliato per le unità DPS | 
+  | 31 | ![Testimonianza](/images/r/rune_icon_201.png) | [Testimonianza](/it/Emblem/Witness/) | Bontà | Consigliato per le unità DPS | 
 
 ## Regole
 

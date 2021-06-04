@@ -2,7 +2,7 @@
 title: "Emblema sacro - Giudizio degli antenati"
 permalink: /Emblem/The Judgment of Fathers/
 excerpt: "Era of Chaos Giudizio degli antenati. Giudizio degli antenati. Era of Chaos Emblema sacro Giudizio degli antenati. Era of Chaos Neutrale Giudizio degli antenati"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "The Judgment of Fathers.md"
 toc: false

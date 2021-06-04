@@ -2,7 +2,7 @@
 title: "Stirpe selvaggia. Talento Apice - Stirpe selvaggia"
 permalink: /PeakTalent/Savage Descent/
 excerpt: "Era of Chaos Talento Apice Stirpe selvaggia. Talento Apice Stirpe selvaggia. Stirpe selvaggia"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Savage Descent.md"
 toc: false

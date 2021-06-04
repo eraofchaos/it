@@ -1,8 +1,8 @@
 ---
 title: "Maestro pescatore"
 permalink: /Fishing Master/
-excerpt: "Era of Chaos  Maestro pescatore - 　　Egregio Signore, ecco le tue ricompense per il completamento di una partita a Maestro pescatore. Controlla che sia tutto in regola."
-last_modified_at: 2021-05-28
+excerpt: "Era of Chaos  Maestro pescatore - []　　Egregio Signore, ecco le tue ricompense per il completamento di una partita a Maestro pescatore. Controlla che sia tutto in regola.[]"
+last_modified_at: 2021-06-03
 locale: it
 ref: "index.md"
 toc: false
@@ -28,7 +28,7 @@ sidebar:
 
 <br/>  <span style="color: #3c2a1e">4. Tocca il pulsante Reset per resettare il montepremi. Il costo in Diamanti per resettare il montepremi aumenterà in base al numero di reset effettuati. Il costo in Diamanti tornerà al valore iniziale ogni volta che otterrai una ricompensa di qualità arancione.</span><br/>
 
-<br/>  <span style="color: #3c2a1e">5. Una volta raggiunto il limite massimo di ricompense dello stesso tipo, non potrai più ricevere l'oggetto in questione resettando il montepremi. Una volta ottenute tutte le ricompense di alta qualità e resettato il montepremi, questo conterrà unicamente ricompense della qualità immediatamente inferiore (10 per round). </span><br/>
+<br/>  <span style="color: #3c2a1e">5. Una volta raggiunto il limite massimo di ricompense dello stesso tipo, non potrai più ricevere l'oggetto in questione resettando il montepremi. Una volta ottenute tutte le ricompense di alta qualità e resettato il montepremi, questo conterrà unicamente ricompense della qualità immediatamente inferiore (10 per round).</span>
 
 <br/>  <span style="color: #3c2a1e">6. Le ricompense principali del montepremi sono mostrate nell'angolo in alto a sinistra della schermata dell'evento. Tocca il pulsante Anteprima per visualizzare le ricompense del round in corso e tutte le ricompense dell'evento.</span><br/>
 

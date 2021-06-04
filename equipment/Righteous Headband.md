@@ -2,7 +2,7 @@
 title: "Cerchietto virtuoso"
 permalink: /equipment/Righteous Headband/
 excerpt: "Era of Chaos Cerchietto virtuoso. Cerchietto virtuoso"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Righteous Headband.md"
 toc: false

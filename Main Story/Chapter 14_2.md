@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 - 14-2 Messo a tacere"
 permalink: /Main Story/Chapter 14_2/
 excerpt: "Capitolo 14 - 2. Era of Chaos  Storia principale - Capitolo 14_2. 14-2 Messo a tacere"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 14_2.md"
 toc: false

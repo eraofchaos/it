@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 Drago di cristallo"
 permalink: /Main Story/Chapter 22/
 excerpt: "Capitolo 22. Era of Chaos  Storia principale - Capitolo 22. Drago di cristallo"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 22.md"
 toc: false

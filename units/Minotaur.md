@@ -3,7 +3,7 @@ title: "Minotauro"
 permalink: /units/Minotaur/
 excerpt: "Era of Chaos Minotauro. Minotauro Unità. Re dei Minotauri. Era of Chaos Una possente creatura vaga per l'oscuro labirinto. Gli esploratori incauti trovano una fine orrenda sul filo della sua immensa ascia."
 unitID: 705
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Minotauro"
 toc: true

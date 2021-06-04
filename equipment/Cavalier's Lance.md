@@ -2,7 +2,7 @@
 title: "Lancia del Catafratto"
 permalink: /equipment/Cavalier's Lance/
 excerpt: "Era of Chaos Lancia del Catafratto. Lancia del Catafratto"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Cavalier's Lance.md"
 toc: false

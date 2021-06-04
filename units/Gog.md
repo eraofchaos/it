@@ -3,7 +3,7 @@ title: "Gog"
 permalink: /units/Gog/
 excerpt: "Era of Chaos Gog. Gog Unità. Magog. Era of Chaos I Gog sono miti solo all'apparenza, ma sul campo di battaglia rivelano tutta la loro aggressività."
 unitID: 502
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Gog"
 toc: true

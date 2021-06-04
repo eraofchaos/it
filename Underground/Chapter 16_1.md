@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 16 - 16-1 Stratagemma mortale"
 permalink: /Underground/Chapter 16_1/
 excerpt: "Capitolo 16 - 1. Era of Chaos  Sottosuolo - Capitolo 16_1. 16-1 Stratagemma mortale"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 16_1.md"
 toc: false

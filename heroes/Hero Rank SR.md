@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SR -  Heroes"
 permalink: /heroes/Hero Rank SR/
 excerpt: "Era of Chaos Hero Rank SR. Hero Rank SR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Hero Rank SR"
 toc: false
@@ -20,4 +20,4 @@ classes: wide
   | 6 | ![Jeddite](/images/h/h_Jeddite.jpg) | [Jeddite](/it/heroes/Jeddite/) | Dungeon | Stregone | **SR** |  Ciclo vitale | SR |
   | 7 | ![Monere](/images/h/h_Monere.jpg) | [Monere](/it/heroes/Monere/) | Confluenza | Viaggiatore planare | **SR** |  Elementale psichico | R |
   | 8 | ![Kendal](/images/h/h_Kendel.jpg) | [Kendal](/it/heroes/Kendal/) | Castello | Cavaliere | **SR** |  Maestro stratega | R |
-  | 9 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasmi infernali | R+ |
+  | 9 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasma infernale | R+ |

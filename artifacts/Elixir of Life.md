@@ -2,7 +2,7 @@
 title: "Manufatti - Elisir Vitale"
 permalink: /artifacts/Elixir of Life/
 excerpt: "Era of Chaos  Elisir Vitale. Elisir Vitale Reliquia sacra che trabocca di energia vitale. Può aumentare i PF di un esercito."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Elixir of Life.md"
 toc: false

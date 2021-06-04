@@ -2,7 +2,7 @@
 title: "Sangue d'acido corrosivo"
 permalink: /equipment/Blood of Strong Acid/
 excerpt: "Era of Chaos Sangue d'acido corrosivo. Sangue d'acido corrosivo"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Blood of Strong Acid.md"
 toc: false

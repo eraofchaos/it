@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 30 - 30-1  Inamovibile"
 permalink: /Underground/Chapter 30_1/
 excerpt: "Capitolo 30 - 1. Era of Chaos  Sottosuolo - Capitolo 30_1. 30-1  Inamovibile"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 30_1.md"
 toc: false

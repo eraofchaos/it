@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-15 Il conflitto divampa"
 permalink: /Main Story/Chapter 5_15/
 excerpt: "Capitolo 5 - 15. Era of Chaos  Storia principale - Capitolo 5_15. 5-15 Il conflitto divampa"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 5_15.md"
 toc: false

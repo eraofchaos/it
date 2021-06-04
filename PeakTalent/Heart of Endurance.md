@@ -2,7 +2,7 @@
 title: "Resistenza eroica. Talento Apice - Resistenza eroica"
 permalink: /PeakTalent/Heart of Endurance/
 excerpt: "Era of Chaos Talento Apice Resistenza eroica. Talento Apice Resistenza eroica. Resistenza eroica"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Heart of Endurance.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Demoniac -  Heroes"
 permalink: /heroes/Profession Demoniac/
 excerpt: "Era of Chaos Profession Demoniac. Profession Demoniac. List of Profession  in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Profession Demoniac"
 toc: false
@@ -14,4 +14,4 @@ classes: wide
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
   | 1 | ![Rashka](/images/h/h_Rashka.jpg) | [Rashka](/it/heroes/Rashka/) | Inferno | Demoniaco | **SR** |  Signore del Fuoco | R |
   | 2 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/it/heroes/Xeron/) | Inferno | Demoniaco | **SSR** |  Arcidiavolo | SSR |
-  | 3 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasmi infernali | R+ |
+  | 3 | ![Nymus](/images/h/h_Nymus.jpg) | [Nymus](/it/heroes/Nymus/) | Inferno | Demoniaco | **SR** |  Fantasma infernale | R+ |

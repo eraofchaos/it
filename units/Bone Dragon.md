@@ -3,7 +3,7 @@ title: "Drago scheletrico"
 permalink: /units/Bone Dragon/
 excerpt: "Era of Chaos Drago scheletrico. Drago scheletrico Unità. Drago fantasma. Era of Chaos I Draghi scheletrici sono i più temibili difensori della Necropoli. Sono creature estremamente potenti, al pari delle loro controparti viventi."
 unitID: 307
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Drago scheletrico"
 toc: true

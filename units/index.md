@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "index.md"
 toc: false
@@ -50,7 +50,7 @@ classes: wide
   | 28 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
   | 29 | ![Elementale del fuoco](/images/u/ti_liehuoyuansu.jpg) | [Elementale del fuoco](/it/units/Fire Elemental/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Energia elementale  |
   | 30 | ![Elementale del ghiaccio](/images/u/ti_bingyuansu2.jpg) | [Elementale del ghiaccio](/it/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Spirito della neve silente  |
-  | 31 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | - | 201.8 | 1446 |  Elementale delle maree  |
+  | 31 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elementale delle maree  |
   | 32 | ![Elementale della pietra](/images/u/ti_shiyuansu.jpg) | [Elementale della pietra](/it/units/Stone Elemental/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
   | 33 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
   | 34 | ![Elementale tempesta](/images/u/ti_leiyuansu2.jpg) | [Elementale tempesta](/it/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tempesta di fulmini  |
@@ -81,7 +81,7 @@ classes: wide
   | 59 | ![Mantide](/images/u/ti_tanglang.jpg) | [Mantide](/it/units/Mantis/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |
   | 60 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/it/units/Medusa/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Regina Medusa  |
   | 61 | ![Minotauro](/images/u/ti_niutouguai.jpg) | [Minotauro](/it/units/Minotaur/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 108.0 | 2725 |  Re dei Minotauri  |
-  | 62 | ![Monaco](/images/u/ti_senglv.jpg) | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | - | 102.6 | 662 |  Fanatico  |
+  | 62 | ![Monaco](/images/u/ti_senglv.jpg) | [Monaco](/it/units/Monk/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/> | + | 102.6 | 662 |  Fanatico  |
   | 63 | ![Morto vivente](/images/u/ti_jiangshi.jpg) | [Morto vivente](/it/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombi  |
   | 64 | ![Mosca serpente](/images/u/ti_longying.jpg) | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Mosca drago  |
   | 65 | ![Mummia](/images/u/ti_munaiyi.jpg) | [Mummia](/it/units/Mummy/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 141.0 | 2691 |  Re delle Mummie  |

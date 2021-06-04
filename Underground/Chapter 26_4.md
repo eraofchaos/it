@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 26 - 26-4 Regina delle lame"
 permalink: /Underground/Chapter 26_4/
 excerpt: "Capitolo 26 - 4. Era of Chaos  Sottosuolo - Capitolo 26_4. 26-4 Regina delle lame"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Chapter 26_4.md"
 toc: false

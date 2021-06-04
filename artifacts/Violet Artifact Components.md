@@ -2,7 +2,7 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "Era of Chaos  List of all Violet Artifact Components . I manufatti possono migliorare gli attributi degli eroi e sbloccare tecniche più potenti."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Violet Artifact Components.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
  | ![Spada del Fuoco infernale](/images/t/artifact_40301.png) [Spada del Fuoco infernale](/it/artifacts/Sword of Hellfire/){: .btn .btn--era4} | **Danno magico**: 4+(LEVEL\*1.6) %<br/>**Attacco eroe**: 6+(LEVEL\*2.4) | Una spada in cui alberga un oscuro potere. Uno dei componenti dell'Armatura dei Dannati. | 
  | ![Scudo dei Morti sbadiglianti](/images/t/artifact_40302.png) [Scudo dei Morti sbadiglianti](/it/artifacts/Shield of the Yawning Dead/){: .btn .btn--era4} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Difesa eroe**: 6+(LEVEL\*2.4) | Uno scudo realizzato con le ossa dei non morti. Uno dei componenti dell'Armatura dei Dannati. | 
  | ![Elmo del Teschio](/images/t/artifact_40303.png) [Elmo del Teschio](/it/artifacts/Skull Helmet/){: .btn .btn--era4} | **Danno magico**: 4+(LEVEL\*1.6) %<br/>**Intelligenza eroe**: 6+(LEVEL\*2.4) | Un elmo proveniente dal Sottosuolo. Uno dei componenti dell'Armatura dei Dannati. | 
- | ![Armatura d'Ossa](/images/t/artifact_40304.png) [Armatura d'Ossa](/it/artifacts/Bone Armour/){: .btn .btn--era4} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Sapienza eroe**: 6+(LEVEL\*2.4) | Un armatura realizzata con ossa dure. Uno dei componenti dell'Armatura dei Dannati. | 
+ | ![Armatura d'Ossa](/images/t/artifact_40304.png) [Armatura d'Ossa](/it/artifacts/Bone Armor/){: .btn .btn--era4} | **Punti ferita unità**: 4+(LEVEL\*1.6) %<br/>**Sapienza eroe**: 6+(LEVEL\*2.4) | Un armatura realizzata con ossa dure. Uno dei componenti dell'Armatura dei Dannati. | 
 
 
   **Artifact upgrade:** [Artifacts upgrade cost](/it/artifacts/Artifacts Upgrade/)

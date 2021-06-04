@@ -2,7 +2,7 @@
 title: "Erede al Trono. Talento Apice - Erede al Trono"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Era of Chaos Talento Apice Erede al Trono. Talento Apice Erede al Trono. Erede al Trono"
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Born to Be King.md"
 toc: false
@@ -30,6 +30,13 @@ sidebar:
   | 1 | ![Spada della gloria](/images/pt/talent_4201.png) | [Spada della gloria](/it/PeakTalent/Sword of Glory/) | La gloria appartiene ai combattenti e agli abili gladiatori. |
   | 2 | ![Scudo della gloria](/images/pt/talent_4202.png) | [Scudo della gloria](/it/PeakTalent/Shield of Glory/) | La gloria appartiene ai gladiatori capaci di resistere a qualsiasi attacco. |
   | 3 | ![Medaglia della gloria](/images/pt/talent_4203.png) | [Medaglia della gloria](/it/PeakTalent/Medal of Glory/) | La gloria appartiene ai gladiatori senza paura. |
+
+
+  | Nr | Icon | Nome | Descrizione |
+  |:---|------|:-----------|:-----------|
+  | 1 | ![Spada dei Signori](/images/pt/talent_4301.png) | [Spada dei Signori](/it/PeakTalent/Sword of Lords/) | La vittoria appartiene ai combattenti e ai Signori più abili. |
+  | 2 | ![Scudo dei Signori](/images/pt/talent_4302.png) | [Scudo dei Signori](/it/PeakTalent/Shield of Lords/) | La vittoria appartiene ai Signori capaci di resistere a qualsiasi attacco. |
+  | 3 | ![Medaglia dei Signori](/images/pt/talent_4303.png) | [Medaglia dei Signori](/it/PeakTalent/Medal of Lords/) | La vittoria appartiene ai Signori senza paura. |
 
 
   | Nr | Icon | Nome | Descrizione |

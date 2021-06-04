@@ -2,7 +2,7 @@
 title: "Manufatti - Ferro Portafortuna - Carte della Profezia"
 permalink: /artifacts/Cards of Prophecy/
 excerpt: "Era of Chaos  Ferro Portafortuna - Carte della Profezia. Carte da veggente dotate di un grande potere magico. Uno dei componenti del Ferro Portafortuna."
-last_modified_at: 2021-05-28
+last_modified_at: 2021-06-03
 locale: it
 ref: "Cards of Prophecy.md"
 toc: false
