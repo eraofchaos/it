@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-6 Doppio governo"
 permalink: /Main Story/Chapter 19_6/
 excerpt: "Capitolo 19 - 6. Era of Chaos  Storia principale - Capitolo 19_6. 19-6 Doppio governo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 19_6.md"
 toc: false

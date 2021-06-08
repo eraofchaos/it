@@ -2,7 +2,7 @@
 title: "Guanti luminosi"
 permalink: /equipment/Light Gauntlets/
 excerpt: "Era of Chaos Guanti luminosi. Guanti luminosi"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Light Gauntlets.md"
 toc: false

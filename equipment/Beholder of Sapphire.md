@@ -2,7 +2,7 @@
 title: "Occhio di zaffiro"
 permalink: /equipment/Beholder of Sapphire/
 excerpt: "Era of Chaos Occhio di zaffiro. Occhio di zaffiro"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Beholder of Sapphire.md"
 toc: false

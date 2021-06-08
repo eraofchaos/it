@@ -2,7 +2,7 @@
 title: "Martello pesante"
 permalink: /equipment/Strong Hammer/
 excerpt: "Era of Chaos Martello pesante. Martello pesante"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Strong Hammer.md"
 toc: false

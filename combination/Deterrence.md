@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Impedimento"
 permalink: /combination/Deterrence/
 excerpt: "Informazioni combinazione - Impedimento. Units and Heroes Formation."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Impedimento.md"
 toc: false

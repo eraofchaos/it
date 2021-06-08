@@ -2,7 +2,7 @@
 title: "Esclusivo - Nucleo mistico (Psychic Elemental)"
 permalink: /Exclusive/Psychic Elemental Spirit Core/
 excerpt: "Era of Chaos Nucleo mistico. Nucleo mistico. Era of Chaos Esclusivo Nucleo mistico. Elementale psichico Esclusivo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Psychic Elemental Nucleo mistico.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Supporto
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1610
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Nucleo mistico](/ItemsIT/con_1000/) | <Demoralizzazione> L'Elementale psichico assalta la psiche del bersaglio, infliggendo danni pari al 20% dei PF massimi e ripristinando PF pari al 50% del proprio ATT. Recupero: 20 secondi. |
+  |  Risveglio  | **100x** [Token Nucleo mistico](/ItemsIT/con_1000/) | <Demoralizzazione> L'Elementale psichico assalta la psiche del bersaglio, infliggendo danni pari al 20% dei PF massimi e ripristinando PF pari al 75% del proprio ATT. Recupero: 15 secondi. |
   | **1x** <i class="fas fa-star"/> | **50x** [Token Nucleo mistico](/ItemsIT/con_1000/) | DAN dell'Elementale psichico aumentato del 30%. |
-  | **2x** <i class="fas fa-star"/> | **90x** [Token Nucleo mistico](/ItemsIT/con_1000/) | L'Elementale psichico è immune a tutti i danni magici. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, tutte le unità Confluenza alleate diventano immuni a tutti i danni magici. |
-  | **3x** <i class="fas fa-star"/> | **130x** [Token Nucleo mistico](/ItemsIT/con_1000/) | <Dominio> L'Elementale psichico assorbe il 20% della DIF di un'unità casuale, ottenendo un bonus percentuale della durata di 10 secondi. Recupero: 10 secondi. |
+  | **2x** <i class="fas fa-star"/> | **90x** [Token Nucleo mistico](/ItemsIT/con_1000/) | L'Elementale psichico è immune a tutti i danni magici. Quando l'Elementale psichico scende in campo, aumenta dell'8% il DAN di tutte le unità alleate. Per le unità Confluenza, l'effetto è raddoppiato. |
+  | **3x** <i class="fas fa-star"/> | **130x** [Token Nucleo mistico](/ItemsIT/con_1000/) | <Dominio> L'Elementale psichico assorbe il 15% della DIF e del DAN di un'unità casuale, ottenendo un bonus percentuale della durata di 10 secondi. Recupero: 10 secondi. |
   | **4x** <i class="fas fa-star"/> | **170x** [Token Nucleo mistico](/ItemsIT/con_1000/) | Rid DAN dell'Elementale psichico aumentata del 30%. |
-  | **5x** <i class="fas fa-star"/> | **210x** [Token Nucleo mistico](/ItemsIT/con_1000/) | L'Elementale psichico è immune a <Stordimento>, <Silenzio>, <Congelamento>, <Blocco temporale>, <Paralisi>, <Pietrificazione> e <Cristallizzazione>. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, tutte le unità Confluenza alleate diventano immuni agli effetti elencati sopra. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Nucleo mistico](/ItemsIT/con_1000/) | <Armonia elementale> L'Elementale psichico gode di CRIT aumentato di 500 e DAN CRIT aumentato del 50%. Quando l'Elementale psichico ottiene 4 diversi effetti di <Riverbero elementale>, attiva <Armonia elementale>. Mentre è sul campo di battaglia, tutte le unità Confluenza alleate godono di Tenacia e Schivata aumentate di 500 e Rid DAN aumentata del 20%. |
+  | **5x** <i class="fas fa-star"/> | **210x** [Token Nucleo mistico](/ItemsIT/con_1000/) | L'Elementale psichico è immune a <Stordimento>, <Blocco temporale>, <Paralisi>, <Pietrificazione> e <Cristallizzazione>. Quando i PF dell'Elementale psichico scendono sotto al 50% per la prima volta, ottiene uno <scudo> pari al 50% dei propri PF massimi. Durata: 10 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Nucleo mistico](/ItemsIT/con_1000/) | <Armonia elementale> L'Elementale psichico gode di CRIT aumentato di 500 e DAN CRIT aumentato del 50%. Quando un eroe alleato lancia un incantesimo, attiva <Armonia elementale>, aumentando la Tenacia di 100 e la Rid DAN dell'8%. Ciascun tipo di incantesimo può attivare <Armonia elementale> una sola volta. |
 
 
 ## Livello ↑

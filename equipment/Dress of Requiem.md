@@ -2,7 +2,7 @@
 title: "Vestito funereo"
 permalink: /equipment/Dress of Requiem/
 excerpt: "Era of Chaos Vestito funereo. Vestito funereo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Dress of Requiem.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Ombra degli spiriti"
 permalink: /Avatars/Shadow of Ghosts/
 excerpt: "Era of Chaos  Ombra degli spiriti"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Shadow of Ghosts.md"
 toc: false

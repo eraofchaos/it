@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "index.md"
 toc: false
@@ -52,7 +52,7 @@ classes: wide
   | 30 | ![Elementale del ghiaccio](/images/u/ti_bingyuansu2.jpg) | [Elementale del ghiaccio](/it/units/Ice Elemental/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 111.0 | 744 |  Spirito della neve silente  |
   | 31 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elementale delle maree  |
   | 32 | ![Elementale della pietra](/images/u/ti_shiyuansu.jpg) | [Elementale della pietra](/it/units/Stone Elemental/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.0 | 2825 |   -   |
-  | 33 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
+  | 33 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Elementale magico  |
   | 34 | ![Elementale tempesta](/images/u/ti_leiyuansu2.jpg) | [Elementale tempesta](/it/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tempesta di fulmini  |
   | 35 | ![Elfo del bosco](/images/u/ti_mujingling.jpg) | [Elfo del bosco](/it/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Elfo Gigante  |
   | 36 | ![Erbavespa](/images/u/ti_dufengcao.jpg) | [Erbavespa](/it/units/Waspwort/) | A distanza | - | SR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 950.3 | 5543 |   -   |

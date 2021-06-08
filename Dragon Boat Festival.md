@@ -2,7 +2,7 @@
 title: "Festa delle barche drago"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Festa delle barche drago - Missione Barche drago"
-last_modified_at: 2021-06-05
+last_modified_at: 2021-06-08
 locale: it
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ sidebar:
 
   <span style="color: #3c2a1e">1. Durante la Festa delle barche drago è stato ordinato a un Picchiere di partire su una barca per esplorare i misteriosi Regni Acquatici, di recente scoperta. Nel corso dell'esplorazione ha scoperto molte pietanze speciali, note come \"gnocchi di riso magici\".</span><br/>
 
-<br/>  <span style="color: #3c2a1e">2. Ciascun Regno Acquatico contiene %s gnocco/i. Tocca uno gnocco di riso per aprirlo: in ricompensa potrai ottenere un oggetto raro oppure attivare un evento.</span><br/>
+<br/>  <span style="color: #3c2a1e">2. Ciascun Regno Acquatico contiene 20 gnocco/i. Tocca uno gnocco di riso per aprirlo: in ricompensa potrai ottenere un oggetto raro oppure attivare un evento.</span><br/>
 
 <br/>  <span style="color: #3c2a1e">3. Ciascun Regno Acquatico contiene almeno 1 evento. Dopo aver attivato l'evento potrai far vela verso il Regno acquatico successivo. Una volta raggiunto un nuovo Regno Acquatico, non potrai più tornare al Regno precedente.</span><br/>
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Missione Barche drago
 
-  **Talk Pikeman:** Grazie per avermi trovato! A remare ci penso io.
+  **Talk Pikeman:** [color=000000]Grazie per avermi trovato! A remare ci penso io.[-]
 
-  **Talk Mermaid:** Che fortuna, mi hai trovata! Lascia che ti aiuti.
+  **Talk Mermaid:** [color=000000]Che fortuna, mi hai trovata! Lascia che ti aiuti.[-]
 
-  **First Talk Regnan Seer :** La tua determinazione mi colpisce, nobile guerriero della barca drago. Avvicinati e scegli una ricompensa.
+  **First Talk Regnan Seer :** [color=000000]La tua determinazione mi colpisce, nobile guerriero della barca drago. Avvicinati e scegli una ricompensa.[-]
 
-  **Second Talk Regnan Seer:** E così ci rincontriamo, nobile guerriero della barca drago. La tua determinazione mi commuove. Avvicinati e scegli una ricompensa.
+  **Second Talk Regnan Seer:** [color=000000]E così ci rincontriamo, nobile guerriero della barca drago. La tua determinazione mi commuove. Avvicinati e scegli una ricompensa.[-]
 
-  **Final Talk Regnan Seer:** Non ho più ricompense da darti, nobile guerriero della barca drago. Congratulazioni per aver completato la tua avventura!
+  **Final Talk Regnan Seer:** [color=000000]Non ho più ricompense da darti, nobile guerriero della barca drago. Congratulazioni per aver completato la tua avventura![-]
 
   **Movement Notification 1:** Ora che si è unito un nuovo membro dell'equipaggio, la barca drago può navigare verso Regni Acquatici ancora più lontani.
 

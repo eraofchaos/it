@@ -2,7 +2,7 @@
 title: "Avatar - Sentinella del mare"
 permalink: /Avatars/Patroller of the Sea/
 excerpt: "Era of Chaos  Sentinella del mare"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Patroller of the Sea.md"
 toc: false

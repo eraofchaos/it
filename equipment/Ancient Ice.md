@@ -2,7 +2,7 @@
 title: "Ghiaccio antico"
 permalink: /equipment/Ancient Ice/
 excerpt: "Era of Chaos Ghiaccio antico. Ghiaccio antico"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Ancient Ice.md"
 toc: false

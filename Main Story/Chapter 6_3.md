@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 - 6-3 L'alba della guerra"
 permalink: /Main Story/Chapter 6_3/
 excerpt: "Capitolo 6 - 3. Era of Chaos  Storia principale - Capitolo 6_3. 6-3 L'alba della guerra"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 6_3.md"
 toc: false

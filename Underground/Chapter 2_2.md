@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 2 - 2-2 Attraverso la nebbia"
 permalink: /Underground/Chapter 2_2/
 excerpt: "Capitolo 2 - 2. Era of Chaos  Sottosuolo - Capitolo 2_2. 2-2 Attraverso la nebbia"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 2_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 24 - 24-4 Carnivori"
 permalink: /Underground/Chapter 24_4/
 excerpt: "Capitolo 24 - 4. Era of Chaos  Sottosuolo - Capitolo 24_4. 24-4 Carnivori"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 24_4.md"
 toc: false

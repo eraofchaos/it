@@ -3,7 +3,7 @@ title: "Driade"
 permalink: /units/Sprite/
 excerpt: "Era of Chaos Driade. Driade Unità. . Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Driade"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fazione:** [Confluenza](/it/units/Faction Conflux/)
 
- **Race:** Domatore
+ **Race:** Demonio
 
  **Members:** [x4](/it/units/Unit Member x4/)
 
@@ -175,41 +175,43 @@ toc: true
 
 ## Awaking
 
+  ![](/images/u/tia_mofaxianling.jpg)
+
 ### Awaking Dettagli
  **Is it possible right now?** NO
 
  **Awaking Name:** 
 
- **Awaking Descrizione:** null
+ **Awaking Descrizione:** Mentre osservi i fiori dalla tua finestra, una Driade restituisce il tuo sguardo. Come i fiori decorano le loro dimore, le Driadi impreziosiscono i sogni altrui.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #876741;font-size:18px">Schiera una Driade con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Confluenza e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #876741;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #876741;font-size:18px"> mostri nell'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Mago elfico nei livelli del Sottosuolo 14-2 e 14-4.</span>
 
- 4. null
+ 4. <span style="color: #876741;font-size:18px">Schiera una Driade con </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Confluenza e vinci 3 battaglie nella Campagna. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): 
+ **Descrizione:** 
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): 
+ **Descrizione:** 
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): 
+ **Descrizione:** 
 
-### 4th Skill (or 3rd): Muro cavo
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): 
+ **Descrizione:** 
 
-### 5th Skill (or 6th): Infiltrazione
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): 
+ **Descrizione:** 
 
-### 6th Skill (or 5th): Assalto estenuante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): 
+ **Descrizione:** 
 
 ## Technical info
  **runart:** 1

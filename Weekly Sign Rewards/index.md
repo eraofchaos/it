@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 25  Settimana dell'Inferno
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **21 Jun** | **5x [Folletto](/ItemsIT/unt_226/)**  | Un gruppo di Folletti è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **22 Jun** | **5x [Gog](/ItemsIT/unt_227/)**  | Un gruppo di Gog è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **23 Jun** | **3x [Segugio infernale](/ItemsIT/unt_228/)**  | Un gruppo di Segugi infernali è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **24 Jun** | **5x [Scrigno Unità Inferno](/ItemsIT/con_1273/)**  | Le tue truppe dell'Inferno ti portano in dono un gran numero di scrigni del tesoro preziosi! |
+  | **25 Jun** | **3x [Demone](/ItemsIT/unt_229/)**  | Un gruppo di Demoni è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **26 Jun** | **3x [Demone dell'abisso](/ItemsIT/unt_230/)**  | Un gruppo di Demoni dell'abisso è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **27 Jun** | **5x [Rashka](/ItemsIT/her_384/)**  | L'eroe Rashka è intrigato dalla tua espansione e vorrebbe unirsi alla tua fazione! |
+
 
 #### 2021 Week 24  Settimana del Dungeon
 

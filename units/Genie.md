@@ -3,7 +3,7 @@ title: "Genio"
 permalink: /units/Genie/
 excerpt: "Era of Chaos Genio. Genio Unità. Genio superiore. Era of Chaos Creature magiche che vivono esclusivamente per esaudire i desideri dei mortali. L'incantesimo che li confina è al contempo la loro casa e la loro prigione."
 unitID: 605
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Genio"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fazione:** [Torre](/it/units/Faction Tower/)
 
- **Race:** Umano
+ **Race:** Mago
 
  **Members:** [x4](/it/units/Unit Member x4/)
 

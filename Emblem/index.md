@@ -2,7 +2,7 @@
 title: "Emblema sacro"
 permalink: /Emblem/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Equipaggia gli Emblemi sacri per potenziare notevolmente le tue unità. Le combinazioni di fazione e qualità dei diversi Emblemi sacri sono numerosissime. I set di Emblemi sacri aumentano ulteriormente gli attributi delle unità."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "index.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 3 Le Rupi dei Grifoni"
 permalink: /Underground/Chapter 3/
 excerpt: "Capitolo 3 Le Rupi dei Grifoni. Era of Chaos  Sottosuolo - Capitolo 3. Le Rupi dei Grifoni"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 3.md"
 toc: false

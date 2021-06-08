@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-8 Le origini del Sottosuolo"
 permalink: /Main Story/Chapter 25_8/
 excerpt: "Capitolo 25 - 8. Era of Chaos  Storia principale - Capitolo 25_8. 25-8 Le origini del Sottosuolo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 25_8.md"
 toc: false

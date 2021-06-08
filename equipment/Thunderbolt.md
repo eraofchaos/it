@@ -2,7 +2,7 @@
 title: "Fulmine"
 permalink: /equipment/Thunderbolt/
 excerpt: "Era of Chaos Fulmine. Fulmine"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Thunderbolt.md"
 toc: false

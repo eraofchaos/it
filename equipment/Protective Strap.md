@@ -2,7 +2,7 @@
 title: "Cinghia protettiva"
 permalink: /equipment/Protective Strap/
 excerpt: "Era of Chaos Cinghia protettiva. Cinghia protettiva"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Protective Strap.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Addestratore esperto. Talento Apice - Addestratore esperto"
 permalink: /PeakTalent/Great Trainer/
 excerpt: "Era of Chaos Talento Apice Addestratore esperto. Talento Apice Addestratore esperto. Addestratore esperto"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Great Trainer.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Machete rinforzato"
 permalink: /equipment/Toughened Machete/
 excerpt: "Era of Chaos Machete rinforzato. Machete rinforzato"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Toughened Machete.md"
 toc: false

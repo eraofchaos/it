@@ -2,7 +2,7 @@
 title: "Aiutante Gelu"
 permalink: /heroes/Adjutant Gelu/
 excerpt: "Era of Chaos  Aiutante Gelu"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Adjutant Gelu.md"
 QR: adhero_60301

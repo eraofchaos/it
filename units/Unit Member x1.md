@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x1 -  Units"
 permalink: /units/Unit Member x1/
 excerpt: "Era of Chaos Unit Member x1. Unit Member x1. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Unit Member x1"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
+  | 1 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Elementale magico  |
   | 2 | ![Tigre bianca](/images/u/ti_baihu.jpg) | [Tigre bianca](/it/units/White Tiger/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
   | 3 | ![Veggente di Regna](/images/u/ti_haihou.jpg) | [Veggente di Regna](/it/units/Regnan Seer/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Elementale delle maree  |
   | 4 | ![Campione oscuro](/images/u/ti_sishen.jpg) | [Campione oscuro](/it/units/Dark Champion/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |

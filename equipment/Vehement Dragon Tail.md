@@ -2,7 +2,7 @@
 title: "Coda di Drago impetuoso"
 permalink: /equipment/Vehement Dragon Tail/
 excerpt: "Era of Chaos Coda di Drago impetuoso. Coda di Drago impetuoso"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Vehement Dragon Tail.md"
 toc: false

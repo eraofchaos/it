@@ -2,7 +2,7 @@
 title: "Manufatti - Mantello del Re Non Morto - Amuleto del Becchino"
 permalink: /artifacts/Amulet of the Undertaker/
 excerpt: "Era of Chaos  Mantello del Re Non Morto - Amuleto del Becchino. Un amuleto usato da un Lich per proteggersi. Uno dei componenti del Mantello del Re Non Morto."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Amulet of the Undertaker.md"
 toc: false

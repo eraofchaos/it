@@ -2,7 +2,7 @@
 title: "Redini per squalo"
 permalink: /equipment/Shark Reins/
 excerpt: "Era of Chaos Redini per squalo. Redini per squalo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Shark Reins.md"
 toc: false

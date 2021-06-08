@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-5 Il dolore degli Elfi"
 permalink: /Main Story/Chapter 9_5/
 excerpt: "Capitolo 9 - 5. Era of Chaos  Storia principale - Capitolo 9_5. 9-5 Il dolore degli Elfi"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 9_5.md"
 toc: false

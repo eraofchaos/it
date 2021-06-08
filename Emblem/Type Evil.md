@@ -2,7 +2,7 @@
 title: "Emblema sacro - Malvagio"
 permalink: /Emblem/Type Evil/
 excerpt: "Era of Chaos Emblema sacro. Emblema sacro. Era of Chaos Emblema sacro Malvagio. Era of Chaos Malvagio"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "typeMalvagio.md"
 toc: false

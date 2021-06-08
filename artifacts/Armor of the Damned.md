@@ -2,7 +2,7 @@
 title: "Manufatti - Armatura dei Dannati"
 permalink: /artifacts/Armor of the Damned/
 excerpt: "Era of Chaos  Armatura dei Dannati. Armatura dei Dannati Realizzata usando reliquie dei non morti. Permette a chi la indossa di indebolire le abilità del nemico."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Armor of the Damned.md"
 toc: false

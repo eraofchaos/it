@@ -2,7 +2,7 @@
 title: "Armatura delle Meraviglie"
 permalink: /equipment/Armor of Wonder/
 excerpt: "Era of Chaos Armatura delle Meraviglie. Armatura delle Meraviglie"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Armor of Wonder.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-11 Senza fine"
 permalink: /Main Story/Chapter 27_11/
 excerpt: "Capitolo 27 - 11. Era of Chaos  Storia principale - Capitolo 27_11. 27-11 Senza fine"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 27_11.md"
 toc: false

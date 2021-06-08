@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 - 22-10 Il crocevia"
 permalink: /Main Story/Chapter 22_10/
 excerpt: "Capitolo 22 - 10. Era of Chaos  Storia principale - Capitolo 22_10. 22-10 Il crocevia"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 22_10.md"
 toc: false

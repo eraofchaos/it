@@ -2,7 +2,7 @@
 title: "Esclusivo - Ascia del Berserker (Berserker)"
 permalink: /Exclusive/Berserker Berserker's Axe/
 excerpt: "Era of Chaos Ascia del Berserker. Ascia del Berserker. Era of Chaos Esclusivo Ascia del Berserker. Berserker Esclusivo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Berserker Ascia del Berserker.md"
 toc: false

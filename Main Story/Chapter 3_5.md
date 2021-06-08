@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-5 Il castello fantasma"
 permalink: /Main Story/Chapter 3_5/
 excerpt: "Capitolo 3 - 5. Era of Chaos  Storia principale - Capitolo 3_5. 3-5 Il castello fantasma"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 3_5.md"
 toc: false

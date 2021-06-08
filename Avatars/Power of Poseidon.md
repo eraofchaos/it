@@ -2,7 +2,7 @@
 title: "Avatar - Potere di Poseidone"
 permalink: /Avatars/Power of Poseidon/
 excerpt: "Era of Chaos  Potere di Poseidone"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Power of Poseidon.md"
 toc: false

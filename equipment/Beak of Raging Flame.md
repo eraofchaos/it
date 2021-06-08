@@ -2,7 +2,7 @@
 title: "Becco della fiamma furente"
 permalink: /equipment/Beak of Raging Flame/
 excerpt: "Era of Chaos Becco della fiamma furente. Becco della fiamma furente"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Beak of Raging Flame.md"
 toc: false

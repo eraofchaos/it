@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 21 Il Graal"
 permalink: /Underground/Chapter 21/
 excerpt: "Capitolo 21 Il Graal. Era of Chaos  Sottosuolo - Capitolo 21. Il Graal"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 21.md"
 toc: false

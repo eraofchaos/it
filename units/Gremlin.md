@@ -3,7 +3,7 @@ title: "Gremlin"
 permalink: /units/Gremlin/
 excerpt: "Era of Chaos Gremlin. Gremlin Unità. null. Era of Chaos I Gremlin vivono in schiavitù al comando della Torre. In battaglia preferiscono attaccare da debita distanza con i loro mazzafrusti incantati."
 unitID: 601
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Gremlin"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fazione:** [Torre](/it/units/Faction Tower/)
 
- **Race:** Umano
+ **Race:** Scagnozzo
 
  **Members:** [x9](/it/units/Unit Member x9/)
 

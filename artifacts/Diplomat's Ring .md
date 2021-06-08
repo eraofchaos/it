@@ -2,7 +2,7 @@
 title: "Manufatti - Penna dell'emissario - Anello del diplomatico"
 permalink: /artifacts/Diplomat's Ring /
 excerpt: "Era of Chaos  Penna dell'emissario - Anello del diplomatico. Questo anello scintillante ricorda alle masse il prestigio di chi lo indossa. È uno dei componenti della Penna dell'emissario."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Diplomat's Ring .md"
 toc: false

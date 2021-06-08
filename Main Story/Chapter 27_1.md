@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-1 I tesori di Nighon"
 permalink: /Main Story/Chapter 27_1/
 excerpt: "Capitolo 27 - 1. Era of Chaos  Storia principale - Capitolo 27_1. 27-1 I tesori di Nighon"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 27_1.md"
 toc: false

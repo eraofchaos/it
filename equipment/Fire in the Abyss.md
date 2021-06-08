@@ -2,7 +2,7 @@
 title: "Fuoco abissale"
 permalink: /equipment/Fire in the Abyss/
 excerpt: "Era of Chaos Fuoco abissale. Fuoco abissale"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Fire in the Abyss.md"
 toc: false

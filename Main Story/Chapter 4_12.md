@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-12 Torre degli artigli"
 permalink: /Main Story/Chapter 4_12/
 excerpt: "Capitolo 4 - 12. Era of Chaos  Storia principale - Capitolo 4_12. 4-12 Torre degli artigli"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 4_12.md"
 toc: false

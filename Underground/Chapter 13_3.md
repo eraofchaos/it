@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 13 - 13-3 Campi insanguinati"
 permalink: /Underground/Chapter 13_3/
 excerpt: "Capitolo 13 - 3. Era of Chaos  Sottosuolo - Capitolo 13_3. 13-3 Campi insanguinati"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 13_3.md"
 toc: false

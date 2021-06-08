@@ -3,7 +3,7 @@ title: "Arpia"
 permalink: /units/Harpy/
 excerpt: "Era of Chaos Arpia. Arpia Unità. Arpia deforme. Era of Chaos Un mostro per metà umano e per metà uccello. Il suo urlo penetrante è insopportabile all'orecchio."
 unitID: 702
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Arpia"
 toc: true

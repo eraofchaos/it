@@ -2,7 +2,7 @@
 title: "Spallacci d'ombra"
 permalink: /equipment/Shadow Shoulders/
 excerpt: "Era of Chaos Spallacci d'ombra. Spallacci d'ombra"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Shadow Shoulders.md"
 toc: false

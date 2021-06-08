@@ -2,7 +2,7 @@
 title: "Conquista militare. Talento Apice - Conquista militare"
 permalink: /PeakTalent/Military Attainment/
 excerpt: "Era of Chaos Talento Apice Conquista militare. Talento Apice Conquista militare. Conquista militare"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Military Attainment.md"
 toc: false

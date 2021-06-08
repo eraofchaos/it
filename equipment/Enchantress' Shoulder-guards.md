@@ -2,7 +2,7 @@
 title: "Spallacci dell'Incantatrice"
 permalink: /equipment/Enchantress' Shoulder-guards/
 excerpt: "Era of Chaos Spallacci dell'Incantatrice. Spallacci dell'Incantatrice"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Enchantress' Shoulder-guards.md"
 toc: false

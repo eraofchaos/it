@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 7 - 7-1 Una tesoreria vuota"
 permalink: /Underground/Chapter 7_1/
 excerpt: "Capitolo 7 - 1. Era of Chaos  Sottosuolo - Capitolo 7_1. 7-1 Una tesoreria vuota"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 7_1.md"
 toc: false

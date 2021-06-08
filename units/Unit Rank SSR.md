@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SSR -  Units"
 permalink: /units/Unit Rank SSR/
 excerpt: "Era of Chaos Unit Rank SSR. Unit Rank SSR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Unit Rank SSR"
 toc: false
@@ -12,7 +12,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
+  | 1 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Elementale magico  |
   | 2 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/it/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Behemoth antico  |
   | 3 | ![Addestratore di squali](/images/u/ti_xunshashi.jpg) | [Addestratore di squali](/it/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Cavalcasquali  |
   | 4 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/it/units/Berserker/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Messaggero di morte  |

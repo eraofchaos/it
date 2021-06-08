@@ -2,7 +2,7 @@
 title: "Impulso notturno. Talento Apice - Impulso notturno"
 permalink: /PeakTalent/Midnight Pulse/
 excerpt: "Era of Chaos Talento Apice Impulso notturno. Talento Apice Impulso notturno. Impulso notturno"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Midnight Pulse.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Leggenda verdeggiante"
 permalink: /Avatars/Legend on the Grass/
 excerpt: "Era of Chaos  Leggenda verdeggiante"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Legend on the Grass.md"
 toc: false

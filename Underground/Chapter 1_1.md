@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 1 - 1-1 Nel Sottosuolo"
 permalink: /Underground/Chapter 1_1/
 excerpt: "Capitolo 1 - 1. Era of Chaos  Sottosuolo - Capitolo 1_1. 1-1 Nel Sottosuolo"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 1_1.md"
 toc: false

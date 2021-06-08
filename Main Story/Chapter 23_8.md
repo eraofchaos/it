@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-8 Gli esploratori scomparsi"
 permalink: /Main Story/Chapter 23_8/
 excerpt: "Capitolo 23 - 8. Era of Chaos  Storia principale - Capitolo 23_8. 23-8 Gli esploratori scomparsi"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 23_8.md"
 toc: false

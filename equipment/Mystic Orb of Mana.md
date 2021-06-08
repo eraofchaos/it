@@ -2,7 +2,7 @@
 title: "Sfera mistica del Mana"
 permalink: /equipment/Mystic Orb of Mana/
 excerpt: "Era of Chaos Sfera mistica del Mana. Sfera mistica del Mana"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Mystic Orb of Mana.md"
 toc: false

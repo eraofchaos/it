@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 4 - 4-2 Sotto assedio"
 permalink: /Underground/Chapter 4_2/
 excerpt: "Capitolo 4 - 2. Era of Chaos  Sottosuolo - Capitolo 4_2. 4-2 Sotto assedio"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 4_2.md"
 toc: false

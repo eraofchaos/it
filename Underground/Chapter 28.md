@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 28 Tunnel e trogloditi"
 permalink: /Underground/Chapter 28/
 excerpt: "Capitolo 28 Tunnel e trogloditi. Era of Chaos  Sottosuolo - Capitolo 28. Tunnel e trogloditi"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 28.md"
 toc: false

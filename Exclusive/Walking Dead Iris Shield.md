@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Walking Dead)"
 permalink: /Exclusive/Walking Dead Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Morto vivente Esclusivo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Walking Dead Scudo dell'Iride.md"
 toc: false
@@ -35,7 +35,7 @@ classes: wide
   | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Se il bersaglio è affetto da <Morale basso>, il Morto vivente gode di Vel ATT e assorbimento aumentati del 20%. |
   | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Il Morto vivente recupera 1% dei propri PF massimi al secondo. |
   | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Il Morto vivente riduce la DIF delle unità nemiche circostanti di 25 ogni 4 secondi per 5 secondi. Questo effetto è cumulabile. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | All'inizio della battaglia, la Vel MOV di tutte le unità nemiche è ridotta di 30 per 4 secondi. Aumenta del 20% il danno di tutte le unità Necropoli alleate per 20 secondi quando la Vel MOV torna al valore iniziale. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | All'inizio della battaglia, la Vel MOV di tutte le unità nemiche e alleate è ridotta di 30 per 4 secondi. Aumenta del 20% il danno di tutte le unità Necropoli alleate per 20 secondi quando la Vel MOV torna al valore iniziale. |
 
 
 ## Livello ↑

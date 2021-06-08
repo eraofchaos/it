@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Conflux -  Units"
 permalink: /units/Faction Conflux/
 excerpt: "Era of Chaos Faction Conflux. Faction Conflux. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Faction Conflux"
 toc: false
@@ -14,7 +14,7 @@ classes: wide
 
   | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
-  | 1 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 212.0 | 1749 |  Elementale magico  |
+  | 1 | ![Elementale psichico](/images/u/ti_jingshenyuansu.jpg) | [Elementale psichico](/it/units/Psychic Elemental/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 212.0 | 1749 |  Elementale magico  |
   | 2 | ![Rapace di fuoco](/images/u/ti_fenghuang.jpg) | [Rapace di fuoco](/it/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
   | 3 | ![Demone di ghiaccio](/images/u/ti_bingmo.jpg) | [Demone di ghiaccio](/it/units/Ice Demon/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 5996 |   -   |
   | 4 | ![Leprecauno](/images/u/ti_conglinyaojing.jpg) | [Leprecauno](/it/units/Leprechaun/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |

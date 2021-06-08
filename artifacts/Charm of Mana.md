@@ -2,7 +2,7 @@
 title: "Manufatti - Fonte del Mago - Pendente del mana"
 permalink: /artifacts/Charm of Mana/
 excerpt: "Era of Chaos  Fonte del Mago - Pendente del mana. Un amuleto che migliora la magia. Uno dei componenti della Fonte del Mago."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Charm of Mana.md"
 toc: false

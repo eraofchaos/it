@@ -2,7 +2,7 @@
 title: "Cornice Avatar e Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cornice Avatar e Avatar. Cornice Avatar e Avatar"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "index.md"
 toc: false
@@ -41,7 +41,7 @@ classes: wide
   | 28 | ![Cuore della Permanenza](/images/a/avatarFrame_54.png) | [Cuore della Permanenza](/it/Avatars/Heart of Permanence/) | - | Cornice avatar Cuore della Permanenza |
   | 29 | ![Cuore di fuoco](/images/a/avatarFrame_23.png) | [Cuore di fuoco](/it/Avatars/Heart of Fire/) | + | Cornice avatar Cuore di fuoco |
   | 30 | ![Danza delle Lame](/images/a/avatarFrame_26.png) | [Danza delle Lame](/it/Avatars/Dance of the Blades/) | + | Cornice avatar Danza delle Lame |
-  | 31 |  | [Demone infernale](/it/Avatars/Inferno Demon/) | - | Cornice avatar Demone infernale |
+  | 31 |  | [Demone infernale](/it/Avatars/Inferno Demon/) | + | Cornice avatar Demone infernale |
   | 32 | ![Dominatore del cielo](/images/a/avatarFrame_41.png) | [Dominatore del cielo](/it/Avatars/Ruler of Sky/) | + | Cornice avatar Dominatore del cielo |
   | 33 | ![Dominatore del fato (14 giorni)](/images/a/avatarFrame_63.png) | [Dominatore del fato (14 giorni)](/it/Avatars/Fate Dominator (14 Days)/) | - | Cornice avatar Dominatore del fato |
   | 34 | ![Dominatore del gelo](/images/a/avatarFrame_38.png) | [Dominatore del gelo](/it/Avatars/Ruler of Frost/) | + | Cornice avatar Dominatore del gelo |

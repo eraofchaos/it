@@ -3,7 +3,7 @@ title: "Gigante"
 permalink: /units/Giant/
 excerpt: "Era of Chaos Gigante. Gigante Unità. Titano. Era of Chaos Giganti che dimorano tra le nuvole, coperti di un'armatura aurea e armati di fulmini. Le leggende narrano che siano stati creati da creature antichissime che un tempo dominavano questo mondo."
 unitID: 607
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Gigante"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fazione:** [Torre](/it/units/Faction Tower/)
 
- **Race:** Umano
+ **Race:** Demonio
 
  **Members:** [x1](/it/units/Unit Member x1/)
 

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-1 Castelli occupati"
 permalink: /Main Story/Chapter 23_1/
 excerpt: "Capitolo 23 - 1. Era of Chaos  Storia principale - Capitolo 23_1. 23-1 Castelli occupati"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 23_1.md"
 toc: false

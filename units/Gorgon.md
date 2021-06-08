@@ -3,7 +3,7 @@ title: "Gorgone"
 permalink: /units/Gorgon/
 excerpt: "Era of Chaos Gorgone. Gorgone Unità. Gorgone Invincibile. Era of Chaos Immonde creature dallo sguardo letale. Una volta nelle loro mire, nessuna preda è mai uscita viva dalla loro palude."
 unitID: 805
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Gorgone"
 toc: true

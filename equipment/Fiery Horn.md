@@ -2,7 +2,7 @@
 title: "Corno fiammeggiante"
 permalink: /equipment/Fiery Horn/
 excerpt: "Era of Chaos Corno fiammeggiante. Corno fiammeggiante"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Fiery Horn.md"
 toc: false

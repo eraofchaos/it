@@ -2,7 +2,7 @@
 title: "Avatar - Giudice onesto"
 permalink: /Avatars/Righteous Justice/
 excerpt: "Era of Chaos  Giudice onesto"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Righteous Justice.md"
 toc: false

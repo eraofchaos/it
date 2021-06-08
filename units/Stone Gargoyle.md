@@ -3,7 +3,7 @@ title: "Gargolla di pietra"
 permalink: /units/Stone Gargoyle/
 excerpt: "Era of Chaos Gargolla di pietra. Gargolla di pietra Unità. . Era of Chaos Queste statue demoniache proteggono le dimore dei maghi più potenti. Da sopra il campo di battaglia, si dilettano a deridere gli avversari confinati a terra."
 unitID: 602
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Gargolla di pietra"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fazione:** [Torre](/it/units/Faction Tower/)
 
- **Race:** Umano
+ **Race:** Demonio
 
  **Members:** [x9](/it/units/Unit Member x9/)
 

@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Hell Hound)"
 permalink: /Exclusive/Hell Hound Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Segugio infernale Esclusivo."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Hell Hound Carica impetuosa.md"
 toc: false

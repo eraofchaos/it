@@ -2,7 +2,7 @@
 title: "Avatar - Demone infernale"
 permalink: /Avatars/Inferno Demon/
 excerpt: "Era of Chaos  Demone infernale"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Inferno Demon.md"
 toc: false
@@ -14,5 +14,5 @@ classes: wide
 
  **Tips:** Ottenibile partecipando all'evento 
 
- **Is available:**  - 
+ **Is available:**  + 
 

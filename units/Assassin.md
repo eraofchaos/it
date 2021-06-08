@@ -3,7 +3,7 @@ title: "Assassino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassino. Assassino Unità. null. Era of Chaos Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Assassino"
 toc: true

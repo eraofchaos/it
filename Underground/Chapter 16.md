@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 16 Per il Re e per il paese"
 permalink: /Underground/Chapter 16/
 excerpt: "Capitolo 16 Per il Re e per il paese. Era of Chaos  Sottosuolo - Capitolo 16. Per il Re e per il paese"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Chapter 16.md"
 toc: false

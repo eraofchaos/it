@@ -3,7 +3,7 @@ title: "Elementale psichico"
 permalink: /units/Psychic Elemental/
 excerpt: "Era of Chaos Elementale psichico. Elementale psichico Unità. Elementale magico. Era of Chaos Un'entità nata dalla forza delle idee del mondo materiale. È in grado di colpire direttamente la mente dei propri nemici. Chi non possiede forza mentale sufficiente a resistergli viene risucchiato in una spirale di caos e delirio."
 unitID: 906
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Elementale psichico"
 toc: true
@@ -19,7 +19,7 @@ toc: true
 
  **Fazione:** [Confluenza](/it/units/Faction Conflux/)
 
- **Race:** Domatore
+ **Race:** Demonio
 
  **Members:** [x1](/it/units/Unit Member x1/)
 
@@ -78,7 +78,7 @@ toc: true
 
  **Nome:** [Nucleo mistico](/it/Exclusive/Psychic Elemental Spirit Core/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rango ↑:** [Token Nucleo mistico](/ItemsIT/con_1000/)
 

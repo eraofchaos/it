@@ -2,7 +2,7 @@
 title: "Manufatti - Tuono del Titano"
 permalink: /artifacts/Titan's Thunder/
 excerpt: "Era of Chaos  Tuono del Titano. Tuono del Titano Leggendaria reliquia sacra realizzata usando i tesori dei Giganti. Può scatenare il potere del fulmine su qualsiasi nemico."
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Titan's Thunder.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Falce diabolica"
 permalink: /equipment/Devil's Scythe/
 excerpt: "Era of Chaos Falce diabolica. Falce diabolica"
-last_modified_at: 2021-06-03
+last_modified_at: 2021-06-08
 locale: it
 ref: "Devil's Scythe.md"
 toc: false
