@@ -42,7 +42,7 @@ sidebar:
 
 ## Forbici magiche
 
-  **Event Item:** Forbici magiche
+  **Event Item:** [Forbici magiche](/it/Items/con_2175/)
 
   **Descrizione:** Un oggetto legato all'evento Festa delle barche drago. Queste forbici sono intrise di un misterioso incantesimo che consente di utilizzarle per tagliare i cordini che chiudono gli gnocchi di riso magici. Le forbici vengono distrutte dopo l'utilizzo.
 
@@ -56,15 +56,15 @@ sidebar:
 
 ## Missione Barche drago
 
-  **Talk Pikeman:** [color=000000]Grazie per avermi trovato! A remare ci penso io.[-]
+  **Talk Pikeman:** <span style="color: #000000">Grazie per avermi trovato! A remare ci penso io.</span>
 
-  **Talk Mermaid:** [color=000000]Che fortuna, mi hai trovata! Lascia che ti aiuti.[-]
+  **Talk Mermaid:** <span style="color: #000000">Che fortuna, mi hai trovata! Lascia che ti aiuti.</span>
 
-  **First Talk Regnan Seer :** [color=000000]La tua determinazione mi colpisce, nobile guerriero della barca drago. Avvicinati e scegli una ricompensa.[-]
+  **First Talk Regnan Seer :** <span style="color: #000000">La tua determinazione mi colpisce, nobile guerriero della barca drago. Avvicinati e scegli una ricompensa.</span>
 
-  **Second Talk Regnan Seer:** [color=000000]E così ci rincontriamo, nobile guerriero della barca drago. La tua determinazione mi commuove. Avvicinati e scegli una ricompensa.[-]
+  **Second Talk Regnan Seer:** <span style="color: #000000">E così ci rincontriamo, nobile guerriero della barca drago. La tua determinazione mi commuove. Avvicinati e scegli una ricompensa.</span>
 
-  **Final Talk Regnan Seer:** [color=000000]Non ho più ricompense da darti, nobile guerriero della barca drago. Congratulazioni per aver completato la tua avventura![-]
+  **Final Talk Regnan Seer:** <span style="color: #000000">Non ho più ricompense da darti, nobile guerriero della barca drago. Congratulazioni per aver completato la tua avventura!</span>
 
   **Movement Notification 1:** Ora che si è unito un nuovo membro dell'equipaggio, la barca drago può navigare verso Regni Acquatici ancora più lontani.
 
