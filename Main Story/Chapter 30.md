@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 La salvezza del re"
 permalink: /Main Story/Chapter 30/
 excerpt: "Capitolo 30. Era of Chaos  Storia principale - Capitolo 30. La salvezza del re"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 30.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-1 Visione divina"
 permalink: /Main Story/Chapter 13_1/
 excerpt: "Capitolo 13 - 1. Era of Chaos  Storia principale - Capitolo 13_1. 13-1 Visione divina"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 13_1.md"
 toc: false

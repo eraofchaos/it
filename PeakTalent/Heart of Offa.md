@@ -2,7 +2,7 @@
 title: "Cuore di Offa. Talento Apice - Cuore di Offa"
 permalink: /PeakTalent/Heart of Offa/
 excerpt: "Era of Chaos Talento Apice Cuore di Offa. Talento Apice Cuore di Offa. Cuore di Offa"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Heart of Offa.md"
 toc: false

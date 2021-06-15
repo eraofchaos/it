@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-2 Si riapre il conflitto"
 permalink: /Main Story/Chapter 15_2/
 excerpt: "Capitolo 15 - 2. Era of Chaos  Storia principale - Capitolo 15_2. 15-2 Si riapre il conflitto"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 15_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Occhio di Falco - Anello dell'Occhio d'aquila"
 permalink: /artifacts/Ring of Eagle Vision/
 excerpt: "Era of Chaos  Occhio di Falco - Anello dell'Occhio d'aquila. Un anello occulto con due occhi incastonati. Uno dei componenti dell'Occhio di Falco."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Ring of Eagle Vision.md"
 toc: false

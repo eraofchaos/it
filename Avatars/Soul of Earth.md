@@ -2,7 +2,7 @@
 title: "Avatar - Anima della terra"
 permalink: /Avatars/Soul of Earth/
 excerpt: "Era of Chaos  Anima della terra"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Soul of Earth.md"
 toc: false

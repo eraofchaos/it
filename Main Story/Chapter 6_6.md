@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 - 6-6 Annientamento"
 permalink: /Main Story/Chapter 6_6/
 excerpt: "Capitolo 6 - 6. Era of Chaos  Storia principale - Capitolo 6_6. 6-6 Annientamento"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 6_6.md"
 toc: false

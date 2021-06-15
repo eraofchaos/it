@@ -2,7 +2,7 @@
 title: "Avatar - La Brughiera"
 permalink: /Avatars/The Moor/
 excerpt: "Era of Chaos  La Brughiera"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "The Moor.md"
 toc: false

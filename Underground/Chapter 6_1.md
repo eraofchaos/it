@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 6 - 6-1 Infestazione demoniaca"
 permalink: /Underground/Chapter 6_1/
 excerpt: "Capitolo 6 - 1. Era of Chaos  Sottosuolo - Capitolo 6_1. 6-1 Infestazione demoniaca"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 6_1.md"
 toc: false

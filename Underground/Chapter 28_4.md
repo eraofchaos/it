@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 28 - 28-4  Sacrificio onorevole"
 permalink: /Underground/Chapter 28_4/
 excerpt: "Capitolo 28 - 4. Era of Chaos  Sottosuolo - Capitolo 28_4. 28-4  Sacrificio onorevole"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 28_4.md"
 toc: false

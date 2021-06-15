@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Wood Elf)"
 permalink: /Exclusive/Wood Elf Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Elfo del bosco Esclusivo."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Wood Elf Arco lungo.md"
 toc: false

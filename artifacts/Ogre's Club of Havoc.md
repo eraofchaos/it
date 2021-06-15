@@ -2,7 +2,7 @@
 title: "Manufatti - Ascia della Ferocia - Mazza del caos dell'Ogre"
 permalink: /artifacts/Ogre's Club of Havoc/
 excerpt: "Era of Chaos  Ascia della Ferocia - Mazza del caos dell'Ogre. Una mazza sottratta a un capitano degli Ogre in una taverna. Uno dei componenti dell'Ascia della Ferocia."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Ogre's Club of Havoc.md"
 toc: false

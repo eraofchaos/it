@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Unit Member x4"
 toc: false
@@ -37,7 +37,7 @@ classes: wide
   | 23 | ![Manticora](/images/u/ti_shixie.jpg) | [Manticora](/it/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicora  |
   | 24 | ![Pegaso](/images/u/ti_feima.jpg) | [Pegaso](/it/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Argenteo  |
   | 25 | ![Basilisco](/images/u/ti_xiyi.jpg) | [Basilisco](/it/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
-  | 26 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 26 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mago elfico  |
   | 27 | ![Pirati di Regna](/images/u/ti_haidao.jpg) | [Pirati di Regna](/it/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Re dei Pirati  |
   | 28 | ![Guardia Dendroide](/images/u/ti_shuyao.jpg) | [Guardia Dendroide](/it/units/Dendroid Guard/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldato Dendroide  |
   | 29 | ![Elementale tempesta](/images/u/ti_leiyuansu2.jpg) | [Elementale tempesta](/it/units/Storm Elemental/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 99.2 | 662 |  Tempesta di fulmini  |

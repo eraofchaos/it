@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Dungeon"
 permalink: /Exclusive/Exclusive Dungeon/
 excerpt: "Era of Chaos Esclusivo Dungeon. Esclusivo Dungeon. List of Esclusivo Dungeon in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Exclusive Dungeon"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Troglodita](/it/units/Troglodyte/) | [Spada](/it/Exclusive/Troglodyte Sword/) | - | Carica | [Token della Spada](/ItemsIT/con_912/) | - |
-  | 2  | [Arpia](/it/units/Harpy/) | [Carica impetuosa](/it/Exclusive/Harpy Knight Pike/) | - | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |
+  | 2  | [Arpia](/it/units/Harpy/) | [Carica impetuosa](/it/Exclusive/Harpy Knight Pike/) | + | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |
   | 3  | [Osservatore](/it/units/Beholder/) | [Sguardo oscuro](/it/Exclusive/Beholder Dark Gaze/) | - | A distanza | [Token Sguardo oscuro](/ItemsIT/con_990/) | [Skin speciale Sguardo oscuro](/ItemsIT/con_658/) |
   | 4  | [Medusa](/it/units/Medusa/) | [Arco della Medusa](/it/Exclusive/Medusa Medusa's Bow/) | + | A distanza | [Token Arco di Medusa](/ItemsIT/con_991/) | [Skin speciale Arco di Medusa](/ItemsIT/con_659/) |
   | 5  | [Minotauro](/it/units/Minotaur/) | [Scudo dell'Iride](/it/Exclusive/Minotaur Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |

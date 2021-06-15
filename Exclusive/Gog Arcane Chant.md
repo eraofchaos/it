@@ -2,7 +2,7 @@
 title: "Esclusivo - Cantico arcano (Gog)"
 permalink: /Exclusive/Gog Arcane Chant/
 excerpt: "Era of Chaos Cantico arcano. Cantico arcano. Era of Chaos Esclusivo Cantico arcano. Gog Esclusivo."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Gog Cantico arcano.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Aggressore. Talento Apice - Aggressore"
 permalink: /PeakTalent/Aggressor/
 excerpt: "Era of Chaos Talento Apice Aggressore. Talento Apice Aggressore. Aggressore"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Aggressor.md"
 toc: false

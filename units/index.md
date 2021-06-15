@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "index.md"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
   | 4 | ![Anima](/images/u/ti_youling.jpg) | [Anima](/it/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spettro  |
   | 5 | ![Arciere di Regna](/images/u/ti_ruigenanushou.jpg) | [Arciere di Regna](/it/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
   | 6 | ![Arcimago](/images/u/ti_dafashi.jpg) | [Arcimago](/it/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arcimago  |
-  | 7 | ![Arpia](/images/u/ti_yingshenren.jpg) | [Arpia](/it/units/Harpy/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 74.0 | 860 |  Arpia deforme  |
+  | 7 | ![Arpia](/images/u/ti_yingshenren.jpg) | [Arpia](/it/units/Harpy/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Arpia deforme  |
   | 8 | ![Assassino](/images/u/ti_cishazhe.jpg) | [Assassino](/it/units/Assassin/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
   | 9 | ![Basilisco](/images/u/ti_xiyi.jpg) | [Basilisco](/it/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |
   | 10 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/it/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Behemoth antico  |
@@ -45,7 +45,7 @@ classes: wide
   | 23 | ![Drago rosso](/images/u/ti_chilong.jpg) | [Drago rosso](/it/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |
   | 24 | ![Drago scheletrico](/images/u/ti_gulong.jpg) | [Drago scheletrico](/it/units/Bone Dragon/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 758.0 | 5770 |  Drago fantasma  |
   | 25 | ![Drago verde](/images/u/ti_lvlong.jpg) | [Drago verde](/it/units/Green Dragon/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1018.2 | 4525 |  Drago d'Oro  |
-  | 26 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | - | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |    |
+  | 26 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mago elfico  |
   | 27 | ![Druido](/images/u/ti_deluyi.jpg) | [Druido](/it/units/Druid/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 844 |  Arcidruido  |
   | 28 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
   | 29 | ![Elementale del fuoco](/images/u/ti_liehuoyuansu.jpg) | [Elementale del fuoco](/it/units/Fire Elemental/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 195.0 | 1682 |  Energia elementale  |

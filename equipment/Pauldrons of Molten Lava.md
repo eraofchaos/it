@@ -2,7 +2,7 @@
 title: "Spallacci di lava"
 permalink: /equipment/Pauldrons of Molten Lava/
 excerpt: "Era of Chaos Spallacci di lava. Spallacci di lava"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Pauldrons of Molten Lava.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Lampada d'oro mistica"
 permalink: /equipment/Mystic Gold Lamp/
 excerpt: "Era of Chaos Lampada d'oro mistica. Lampada d'oro mistica"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Mystic Gold Lamp.md"
 toc: false

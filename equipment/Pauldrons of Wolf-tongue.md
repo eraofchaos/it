@@ -2,7 +2,7 @@
 title: "Spallacci della lingua di lupo"
 permalink: /equipment/Pauldrons of Wolf-tongue/
 excerpt: "Era of Chaos Spallacci della lingua di lupo. Spallacci della lingua di lupo"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Pauldrons of Wolf-tongue.md"
 toc: false

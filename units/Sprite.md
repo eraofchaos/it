@@ -1,9 +1,9 @@
 ---
 title: "Driade"
 permalink: /units/Sprite/
-excerpt: "Era of Chaos Driade. Driade Unità. . Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
+excerpt: "Era of Chaos Driade. Driade Unità. Mago elfico. Era of Chaos Innumerevoli favole e leggende narrano delle bellissime Driadi. Chiunque osi maltrattarle si attira il disprezzo dei lettori... e di conseguenza fa una fine decisamente poco lieta."
 unitID: 901
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Driade"
 toc: true
@@ -175,12 +175,12 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_mofaxianling.jpg)
+  ![Mago elfico](/images/u/tia_mofaxianling.jpg)
 
 ### Awaking Dettagli
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Mago elfico
 
  **Awaking Descrizione:** Mentre osservi i fiori dalla tua finestra, una Driade restituisce il tuo sguardo. Come i fiori decorano le loro dimore, le Driadi impreziosiscono i sogni altrui.
 
@@ -195,23 +195,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Descrizione:** 
+### 1st Skill (or 2nd): Esplosione di Energia
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Frammentazione energetica&gt;</span><span style="color: #645252;font-size:18px"> Ogni 20 secondi, infligge danni pari al 200% del proprio ATT all'unità bersaglio.</span>
 
-### 2nd Skill (or 1st): 
- **Descrizione:** 
+### 2nd Skill (or 1st): Vertigine energetica
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Frammentazione energetica&gt;</span><span style="color: #645252;font-size:18px"> Il primo attacco contro l'unità bersaglio infligge danni pari al 200% dell'ATT.</span>
 
-### 3rd Skill (or 4th): 
- **Descrizione:** 
+### 3rd Skill (or 4th): Favore della Driade
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Benedizione della Driade&gt;</span><span style="color: #645252;font-size:18px"> Aumenta di un ulteriore 10% la Rid DAN di tutte le unità alleate di fronte a sé. Effetto raddoppiato per gli incantatori.</span>
 
-### 4th Skill (or 3rd): 
- **Descrizione:** 
+### 4th Skill (or 3rd): Benedizione del servitore
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Benedizione della Driade&gt;</span><span style="color: #645252;font-size:18px"> Riduce di un ulteriore 10% DAN e ATT di tutte le unità nemiche di fronte a sé.</span>
 
-### 5th Skill (or 6th): 
- **Descrizione:** 
+### 5th Skill (or 6th): Tributo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Dedizione&gt;</span><span style="color: #645252;font-size:18px"> Applica &lt;Silenzio&gt; a 3 unità casuali sul campo di battaglia. Durata: 4 secondi.</span>
 
-### 6th Skill (or 5th): 
- **Descrizione:** 
+### 6th Skill (or 5th): Verbo dei morti
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Dedizione&gt;</span><span style="color: #645252;font-size:18px"> Questa Tecnica ora applica &lt;Silenzio&gt; all'unità bersaglio e ne riduce la Rid DAN del 15%. Durata: 4 secondi.</span>
 
 ## Technical info
  **runart:** 1

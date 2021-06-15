@@ -2,7 +2,7 @@
 title: "Corno stregato"
 permalink: /equipment/Charmed Horn/
 excerpt: "Era of Chaos Corno stregato. Corno stregato"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Charmed Horn.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Emblema sacro - Angelo custode"
 permalink: /Emblem/Guardian Angel/
 excerpt: "Era of Chaos Angelo custode. Angelo custode. Era of Chaos Emblema sacro Angelo custode. Era of Chaos Bontà Angelo custode"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Guardian Angel.md"
 toc: false

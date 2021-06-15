@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 Il Graal"
 permalink: /Main Story/Chapter 21/
 excerpt: "Capitolo 21. Era of Chaos  Storia principale - Capitolo 21. Il Graal"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 21.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-7 La città celeste"
 permalink: /Main Story/Chapter 3_7/
 excerpt: "Capitolo 3 - 7. Era of Chaos  Storia principale - Capitolo 3_7. 3-7 La città celeste"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 3_7.md"
 toc: false

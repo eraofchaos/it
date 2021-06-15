@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 3 - 3-2 Il marchio del drago"
 permalink: /Underground/Chapter 3_2/
 excerpt: "Capitolo 3 - 2. Era of Chaos  Sottosuolo - Capitolo 3_2. 3-2 Il marchio del drago"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 3_2.md"
 toc: false

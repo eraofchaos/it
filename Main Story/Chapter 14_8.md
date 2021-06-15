@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 - 14-8 Conflitto interno"
 permalink: /Main Story/Chapter 14_8/
 excerpt: "Capitolo 14 - 8. Era of Chaos  Storia principale - Capitolo 14_8. 14-8 Conflitto interno"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 14_8.md"
 toc: false

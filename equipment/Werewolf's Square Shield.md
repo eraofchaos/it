@@ -2,7 +2,7 @@
 title: "Scudo del Licantropo"
 permalink: /equipment/Werewolf's Square Shield/
 excerpt: "Era of Chaos Scudo del Licantropo. Scudo del Licantropo"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Werewolf's Square Shield.md"
 toc: false

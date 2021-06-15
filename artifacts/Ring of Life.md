@@ -2,7 +2,7 @@
 title: "Manufatti - Elisir Vitale - Anello della Vita"
 permalink: /artifacts/Ring of Life/
 excerpt: "Era of Chaos  Elisir Vitale - Anello della Vita. Un anello che garantisce un'ottima salute a chi lo indossa. Uno dei componenti dell'Elisir Vitale."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Ring of Life.md"
 toc: false

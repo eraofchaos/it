@@ -2,7 +2,7 @@
 title: "Avatar - Guerriero"
 permalink: /Avatars/Warrior/
 excerpt: "Era of Chaos  Guerriero"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Warrior.md"
 toc: false

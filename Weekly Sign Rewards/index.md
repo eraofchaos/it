@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 26  Settimana della Fortezza
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **28 Jun** | **5x [Gnoll](/ItemsIT/unt_253/)**  | Un gruppo di Gnoll è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **29 Jun** | **5x [Scrigno Fortezza](/ItemsIT/con_1277/)**  | Le tue truppe della Fortezza ti portano in dono un gran numero di scrigni del tesoro preziosi! |
+  | **30 Jun** | **100x <i class="fas fa-gem"/>**  | Le tue truppe hanno trovato un gran numero di tesori nelle torbide acque della palude! |
+  | **1 Jul** | **3x [Uomo lucertola](/ItemsIT/unt_254/)**  | Un gruppo di Uomini lucertola è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **2 Jul** | **5x [Rune roster Fortezza](/ItemsIT/con_818/)**  | Le tue truppe dell'Inferno ti portano in dono un gran numero di rune preziose! |
+  | **3 Jul** | **3x [Mosca serpente](/ItemsIT/unt_255/)**  | Un gruppo di Mosche serpente è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **4 Jul** | **5x [Korbac](/ItemsIT/her_394/)**  | Un coraggioso Domatore ha fatto visita ai tuoi territori! |
+
 
 #### 2021 Week 25  Settimana dell'Inferno
 

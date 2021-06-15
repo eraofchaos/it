@@ -2,7 +2,7 @@
 title: "Avatar - Ombra delle bestie"
 permalink: /Avatars/Shadow of Beast/
 excerpt: "Era of Chaos  Ombra delle bestie"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Shadow of Beast.md"
 toc: false

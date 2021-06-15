@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-12 La rupe del Drago verde"
 permalink: /Main Story/Chapter 29_12/
 excerpt: "Capitolo 29 - 12. Era of Chaos  Storia principale - Capitolo 29_12. 29-12 La rupe del Drago verde"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 29_12.md"
 toc: false

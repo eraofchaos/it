@@ -2,7 +2,7 @@
 title: "Frusta infernale"
 permalink: /equipment/Hellish Whip/
 excerpt: "Era of Chaos Frusta infernale. Frusta infernale"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Hellish Whip.md"
 toc: false

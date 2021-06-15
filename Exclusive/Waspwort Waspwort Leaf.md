@@ -2,7 +2,7 @@
 title: "Esclusivo - Foglia d'Erbavespa (Waspwort)"
 permalink: /Exclusive/Waspwort Waspwort Leaf/
 excerpt: "Era of Chaos Foglia d'Erbavespa. Foglia d'Erbavespa. Era of Chaos Esclusivo Foglia d'Erbavespa. Erbavespa Esclusivo."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Waspwort Foglia d'Erbavespa.md"
 toc: false

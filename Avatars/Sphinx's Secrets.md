@@ -2,7 +2,7 @@
 title: "Avatar - Segreti della Sfinge"
 permalink: /Avatars/Sphinx's Secrets/
 excerpt: "Era of Chaos  Segreti della Sfinge"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Sphinx's Secrets.md"
 toc: false

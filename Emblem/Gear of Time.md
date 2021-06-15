@@ -2,7 +2,7 @@
 title: "Emblema sacro - Meccanismo temporale"
 permalink: /Emblem/Gear of Time/
 excerpt: "Era of Chaos Meccanismo temporale. Meccanismo temporale. Era of Chaos Emblema sacro Meccanismo temporale. Era of Chaos Bontà Meccanismo temporale"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Gear of Time.md"
 toc: false

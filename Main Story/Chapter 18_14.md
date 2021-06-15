@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-14 Il traditore"
 permalink: /Main Story/Chapter 18_14/
 excerpt: "Capitolo 18 - 14. Era of Chaos  Storia principale - Capitolo 18_14. 18-14 Il traditore"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 18_14.md"
 toc: false

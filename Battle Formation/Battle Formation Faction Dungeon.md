@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Dungeon"
 permalink: /Battle Formation/Battle Formation Faction Dungeon
 excerpt: "Formazione di battaglia Dungeon"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "BattleFormationFactionDungeon"
 toc: false

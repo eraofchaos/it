@@ -2,7 +2,7 @@
 title: "Orange Artifact Components"
 permalink: /artifacts/Orange Artifact Components/
 excerpt: "Era of Chaos  List of all Orange Artifact Components . I manufatti possono migliorare gli attributi degli eroi e sbloccare tecniche più potenti."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Orange Artifact Components.md"
 toc: false

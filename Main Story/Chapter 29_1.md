@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-1 La villa infestata"
 permalink: /Main Story/Chapter 29_1/
 excerpt: "Capitolo 29 - 1. Era of Chaos  Storia principale - Capitolo 29_1. 29-1 La villa infestata"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 29_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-10 La colonna dell'Osservatore"
 permalink: /Main Story/Chapter 26_10/
 excerpt: "Capitolo 26 - 10. Era of Chaos  Storia principale - Capitolo 26_10. 26-10 La colonna dell'Osservatore"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 26_10.md"
 toc: false

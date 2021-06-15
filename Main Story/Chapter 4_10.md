@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-10 La Rupe dei Grifoni"
 permalink: /Main Story/Chapter 4_10/
 excerpt: "Capitolo 4 - 10. Era of Chaos  Storia principale - Capitolo 4_10. 4-10 La Rupe dei Grifoni"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 4_10.md"
 toc: false

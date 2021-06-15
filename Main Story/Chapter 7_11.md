@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-11 Respingere gli aggressori"
 permalink: /Main Story/Chapter 7_11/
 excerpt: "Capitolo 7 - 11. Era of Chaos  Storia principale - Capitolo 7_11. 7-11 Respingere gli aggressori"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 7_11.md"
 toc: false

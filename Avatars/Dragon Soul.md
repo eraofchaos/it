@@ -2,7 +2,7 @@
 title: "Avatar - Anima di Drago"
 permalink: /Avatars/Dragon Soul/
 excerpt: "Era of Chaos  Anima di Drago"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Dragon Soul.md"
 toc: false

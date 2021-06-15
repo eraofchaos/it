@@ -2,7 +2,7 @@
 title: "Manufatti - Penna dell'emissario - Medaglia dello statista"
 permalink: /artifacts/Statesman's Medal/
 excerpt: "Era of Chaos  Penna dell'emissario - Medaglia dello statista. Una medaglia che commemora le gloriose imprese del proprietario. È uno dei componenti della Penna dell'emissario."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Statesman's Medal.md"
 toc: false

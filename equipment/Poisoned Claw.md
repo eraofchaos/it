@@ -2,7 +2,7 @@
 title: "Artiglio avvelenato"
 permalink: /equipment/Poisoned Claw/
 excerpt: "Era of Chaos Artiglio avvelenato. Artiglio avvelenato"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Poisoned Claw.md"
 toc: false

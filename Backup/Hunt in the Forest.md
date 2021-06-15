@@ -2,7 +2,7 @@
 title: "Backup - Caccia silvana"
 permalink: /Backup/Hunt in the Forest/
 excerpt: "Era of Chaos  Caccia silvana"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Hunt in the Forest.md"
 toc: false

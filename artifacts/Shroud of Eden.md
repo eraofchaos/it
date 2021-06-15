@@ -2,7 +2,7 @@
 title: "Manufatti - Mela dell'Eden - Sudario dell'Eden"
 permalink: /artifacts/Shroud of Eden/
 excerpt: "Era of Chaos  Mela dell'Eden - Sudario dell'Eden. La leggendaria Sindone dell'Eden. Non è possibile verificarne l'autenticità."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Shroud of Eden.md"
 toc: false

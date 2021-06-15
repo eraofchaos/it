@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 29 - 29-3  Carica temeraria"
 permalink: /Underground/Chapter 29_3/
 excerpt: "Capitolo 29 - 3. Era of Chaos  Sottosuolo - Capitolo 29_3. 29-3  Carica temeraria"
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Chapter 29_3.md"
 toc: false

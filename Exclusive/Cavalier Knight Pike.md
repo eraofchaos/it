@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Cavalier)"
 permalink: /Exclusive/Cavalier Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Catafratto Esclusivo."
-last_modified_at: 2021-06-08
+last_modified_at: 2021-06-15
 locale: it
 ref: "Cavalier Carica impetuosa.md"
 toc: false
