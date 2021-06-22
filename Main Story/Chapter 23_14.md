@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-14 L'odore dello zolfo"
 permalink: /Main Story/Chapter 23_14/
 excerpt: "Capitolo 23 - 14. Era of Chaos  Storia principale - Capitolo 23_14. 23-14 L'odore dello zolfo"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 23_14.md"
 toc: false

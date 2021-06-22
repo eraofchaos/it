@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-8 Immensa catasta di massi"
 permalink: /Main Story/Chapter 28_8/
 excerpt: "Capitolo 28 - 8. Era of Chaos  Storia principale - Capitolo 28_8. 28-8 Immensa catasta di massi"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 28_8.md"
 toc: false

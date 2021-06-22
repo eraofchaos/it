@@ -2,7 +2,7 @@
 title: "Backup - Cerchio magico"
 permalink: /Backup/Spell Commandment/
 excerpt: "Era of Chaos  Cerchio magico"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Spell Commandment.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-2 Le crudeltà dell'impero"
 permalink: /Main Story/Chapter 19_2/
 excerpt: "Capitolo 19 - 2. Era of Chaos  Storia principale - Capitolo 19_2. 19-2 Le crudeltà dell'impero"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 19_2.md"
 toc: false

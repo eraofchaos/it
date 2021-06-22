@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Vampire)"
 permalink: /Exclusive/Vampire Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Vampiro Esclusivo."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Vampire Carica impetuosa.md"
 toc: false

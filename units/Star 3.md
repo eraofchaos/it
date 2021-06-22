@@ -2,7 +2,7 @@
 title: "Era of Chaos - Star 3 -  Units"
 permalink: /units/Star 3/
 excerpt: "Era of Chaos Star 3. Star 3. List of Star 3in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Star 3"
 toc: false
@@ -25,13 +25,13 @@ classes: wide
   | 11 | ![Berserker](/images/u/ti_kuangzhanshi.jpg) | [Berserker](/it/units/Berserker/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 678.8 | 5317 |  Messaggero di morte  |
   | 12 | ![Leprecauno](/images/u/ti_conglinyaojing.jpg) | [Leprecauno](/it/units/Leprechaun/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |
   | 13 | ![Troll](/images/u/ti_suoerjuren.jpg) | [Troll](/it/units/Troll/) | A distanza | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1018.3 | 9051 |   -   |
-  | 14 | ![Arciere di Regna](/images/u/ti_ruigenanushou.jpg) | [Arciere di Regna](/it/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 14 | ![Arciere di Regna](/images/u/ti_ruigenanushou.jpg) | [Arciere di Regna](/it/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Cecchino di Regna  |
   | 15 | ![Diavolo](/images/u/ti_daemo.jpg) | [Diavolo](/it/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcidiavolo  |
-  | 16 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 16 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Guardiano delle Maree  |
   | 17 | ![Incubo](/images/u/ti_mengyanshou.jpg) | [Incubo](/it/units/Nightmare/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Signore degli Incubi  |
   | 18 | ![Genio](/images/u/ti_shenguai.jpg) | [Genio](/it/units/Genie/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
   | 19 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
-  | 20 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 20 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 21 | ![Osservatore](/images/u/ti_xieyan.jpg) | [Osservatore](/it/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
   | 22 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/it/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Regina delle Naga  |
   | 23 | ![Tartaruga draconica](/images/u/ti_longgui.jpg) | [Tartaruga draconica](/it/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tartaruga draconica primordiale  |

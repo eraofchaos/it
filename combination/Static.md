@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Folgorazione"
 permalink: /combination/Static/
 excerpt: "Informazioni combinazione - Folgorazione. Units and Heroes Formation."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Folgorazione.md"
 toc: false

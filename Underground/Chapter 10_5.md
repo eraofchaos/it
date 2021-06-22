@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 10 - 10-5 La rinascita del re"
 permalink: /Underground/Chapter 10_5/
 excerpt: "Capitolo 10 - 5. Era of Chaos  Sottosuolo - Capitolo 10_5. 10-5 La rinascita del re"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 10_5.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-6 Fuggire in cerca di aiuto"
 permalink: /Main Story/Chapter 13_6/
 excerpt: "Capitolo 13 - 6. Era of Chaos  Storia principale - Capitolo 13_6. 13-6 Fuggire in cerca di aiuto"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 13_6.md"
 toc: false

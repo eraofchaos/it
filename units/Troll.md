@@ -3,7 +3,7 @@ title: "Troll"
 permalink: /units/Troll/
 excerpt: "Era of Chaos Troll. Troll Unità. null. Era of Chaos I Troll sono creature estremamente intelligenti che combattono usando pesanti massi. Preferiscono occupare la prima fila, per spazzare via i nemici con possenti attacchi."
 unitID: 409
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Troll"
 toc: true

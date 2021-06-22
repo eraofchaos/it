@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-4 Il pozzo magico"
 permalink: /Main Story/Chapter 2_4/
 excerpt: "Capitolo 2 - 4. Era of Chaos  Storia principale - Capitolo 2_4. 2-4 Il pozzo magico"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 2_4.md"
 toc: false

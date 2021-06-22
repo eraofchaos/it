@@ -2,7 +2,7 @@
 title: "Avatar - Quadrifoglio fortunato"
 permalink: /Avatars/Clover of Fortune/
 excerpt: "Era of Chaos  Quadrifoglio fortunato"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Clover of Fortune.md"
 toc: false

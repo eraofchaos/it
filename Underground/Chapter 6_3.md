@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 6 - 6-3 Un'avanzata rapida"
 permalink: /Underground/Chapter 6_3/
 excerpt: "Capitolo 6 - 3. Era of Chaos  Sottosuolo - Capitolo 6_3. 6-3 Un'avanzata rapida"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 6_3.md"
 toc: false

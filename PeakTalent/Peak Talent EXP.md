@@ -2,7 +2,7 @@
 title: "Talento Apice EXP"
 permalink: /PeakTalent/Peak Talent EXP/
 excerpt: "Era of Chaos Talento Apice EXP. Talento Apice EXP"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Peak Talent EXP.md"
 toc: false

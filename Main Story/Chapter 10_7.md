@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 - 10-7 Il ciondolo della tranquillità"
 permalink: /Main Story/Chapter 10_7/
 excerpt: "Capitolo 10 - 7. Era of Chaos  Storia principale - Capitolo 10_7. 10-7 Il ciondolo della tranquillità"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 10_7.md"
 toc: false

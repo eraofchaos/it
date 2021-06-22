@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 22 La strada verso casa"
 permalink: /Underground/Chapter 22/
 excerpt: "Capitolo 22 La strada verso casa. Era of Chaos  Sottosuolo - Capitolo 22. La strada verso casa"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 22.md"
 toc: false

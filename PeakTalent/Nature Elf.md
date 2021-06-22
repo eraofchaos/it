@@ -2,7 +2,7 @@
 title: "Elfo silvano. Talento Apice - Elfo silvano"
 permalink: /PeakTalent/Nature Elf/
 excerpt: "Era of Chaos Talento Apice Elfo silvano. Talento Apice Elfo silvano. Elfo silvano"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Nature Elf.md"
 toc: false

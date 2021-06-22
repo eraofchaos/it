@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-15 La venuta dell'angelo"
 permalink: /Main Story/Chapter 9_15/
 excerpt: "Capitolo 9 - 15. Era of Chaos  Storia principale - Capitolo 9_15. 9-15 La venuta dell'angelo"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 9_15.md"
 toc: false

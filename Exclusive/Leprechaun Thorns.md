@@ -2,7 +2,7 @@
 title: "Esclusivo - Rovi (Leprechaun)"
 permalink: /Exclusive/Leprechaun Thorns/
 excerpt: "Era of Chaos Rovi. Rovi. Era of Chaos Esclusivo Rovi. Leprecauno Esclusivo."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Leprechaun Rovi.md"
 toc: false

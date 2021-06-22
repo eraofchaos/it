@@ -2,7 +2,7 @@
 title: "Avatar - Ponte degli innamorati"
 permalink: /Avatars/Starry Lovers' Bridge/
 excerpt: "Era of Chaos  Ponte degli innamorati"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Starry Lovers' Bridge.md"
 toc: false

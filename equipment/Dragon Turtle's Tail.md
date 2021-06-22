@@ -2,7 +2,7 @@
 title: "Coda di Tartaruga draconica"
 permalink: /equipment/Dragon Turtle's Tail/
 excerpt: "Era of Chaos Coda di Tartaruga draconica. Coda di Tartaruga draconica"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Dragon Turtle's Tail.md"
 toc: false

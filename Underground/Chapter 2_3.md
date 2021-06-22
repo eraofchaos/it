@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 2 - 2-3 Un'altra crisi"
 permalink: /Underground/Chapter 2_3/
 excerpt: "Capitolo 2 - 3. Era of Chaos  Sottosuolo - Capitolo 2_3. 2-3 Un'altra crisi"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 2_3.md"
 toc: false

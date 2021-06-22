@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x4 -  Units"
 permalink: /units/Unit Member x4/
 excerpt: "Era of Chaos Unit Member x4. Unit Member x4. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Unit Member x4"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Demone dell'abisso](/images/u/ti_diyulingzhu.jpg) | [Demone dell'abisso](/it/units/Pit Fiend/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Signore dell'abisso  |
   | 9 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
   | 10 | ![Arcimago](/images/u/ti_dafashi.jpg) | [Arcimago](/it/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arcimago  |
-  | 11 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 11 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Guardiano delle Maree  |
   | 12 | ![Incubo](/images/u/ti_mengyanshou.jpg) | [Incubo](/it/units/Nightmare/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Signore degli Incubi  |
   | 13 | ![Genio](/images/u/ti_shenguai.jpg) | [Genio](/it/units/Genie/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
   | 14 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |

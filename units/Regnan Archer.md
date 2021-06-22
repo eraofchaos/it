@@ -1,9 +1,9 @@
 ---
 title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
-excerpt: "Era of Chaos Arciere di Regna. Arciere di Regna Unità. null. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
+excerpt: "Era of Chaos Arciere di Regna. Arciere di Regna Unità. Cecchino di Regna. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Arciere di Regna"
 toc: true
@@ -184,12 +184,12 @@ toc: true
 
 ## Awaking
 
-  ![null](/images/u/tia_baozang.jpg)
+  ![Cecchino di Regna](/images/u/tia_baozang.jpg)
 
 ### Awaking Dettagli
  **Is it possible right now?** NO
 
- **Awaking Name:** null
+ **Awaking Name:** Cecchino di Regna
 
  **Awaking Descrizione:** Gli occhi rossi delle piratesse incutono un grande terrore nel cuore degli uomini. Gli stolti ne sono subito irretiti, ma coloro che dimostrano di essere veramente intelligenti non si lasciano mai catturare dal loro terribile sguardo.
 
@@ -204,23 +204,23 @@ toc: true
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): null
- **Descrizione:** 
+### 1st Skill (or 2nd): Dardo strappa-anima
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Freccia letale&gt;</span><span style="color: #645252;font-size:18px"> 8 secondi dopo l'inizio della battaglia, infligge danni pari al 500% dell'ATT all'unità bersaglio e applica &lt;Sanguinamento&gt;, che infligge danni pari all'1% dei PF massimi ogni secondo. Durata: 10 secondi. Può infliggere danni ai bersagli immuni al &lt;Sanguinamento&gt;. Recupero: 20 secondi.</span>
 
-### 2nd Skill (or 1st): null
- **Descrizione:** 
+### 2nd Skill (or 1st): Dardo prosciugante
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Freccia letale&gt;</span><span style="color: #645252;font-size:18px"> 8 secondi dopo l'inizio della battaglia, infligge danni pari al 500% dell'ATT all'unità bersaglio e applica &lt;Rallentamento&gt;, che infligge danni pari all'1% dei PF massimi ogni secondo. Durata: 10 secondi. Può infliggere danni ai bersagli immuni al &lt;Rallentamento&gt;. Recupero: 20 secondi.</span>
 
-### 3rd Skill (or 4th): null
- **Descrizione:** 
+### 3rd Skill (or 4th): Schivata tattica
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Addestramento tattico&gt;</span><span style="color: #645252;font-size:18px"> Se affetto da &lt;Stordimento&gt;, &lt;Pietrificazione&gt;, &lt;Cristallizzazione&gt;, &lt;Congelamento&gt; o &lt;Blocco temporale&gt;, riceve una &lt;bolla&gt; pari al 30% dei PF massimi e gode di DIF aumentata del 15%. Durata: 6 secondi. Recupero: 12 secondi. (questa tecnica non ha effetto se non è equipaggiato lo Splendore)</span>
 
-### 4th Skill (or 3rd): null
- **Descrizione:** 
+### 4th Skill (or 3rd): Attrezzatura tattica
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Addestramento tattico&gt;</span><span style="color: #645252;font-size:18px"> Se affetto da &lt;Silenzio&gt;, &lt;Morale basso&gt;, &lt;Paralisi&gt;, &lt;Impedimento&gt; o &lt;Cecità&gt;, gode di Vel ATT aumentata del 30% e DAN CRIT aumentato del 15%. Durata: 6 secondi. Recupero: 12 secondi. (questa tecnica non ha effetto se non è equipaggiato lo Splendore)</span>
 
-### 5th Skill (or 6th): null
- **Descrizione:** 
+### 5th Skill (or 6th): Colpo a bruciapelo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Supporto a distanza&gt;</span><span style="color: #645252;font-size:18px"> Lancia &lt;Colpo a bruciapelo&gt; contro l'unità nemica più vicina ogni 13 secondi, infliggendo danni pari al 230% del proprio ATT. Danno raddoppiato contro unità &lt;spossate&gt;.</span>
 
-### 6th Skill (or 5th): null
- **Descrizione:** 
+### 6th Skill (or 5th): Supporto esplosivo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Supporto a distanza&gt;</span><span style="color: #645252;font-size:18px"> Quando un'unità alleata subisce danni superiori al 20% dei PF massimi, l'Arciere di Regna lancia &lt;Supporto esplosivo&gt;, aumentando il proprio CRIT di 200 e il proprio ATT del 40%. Durata: 5 secondi. Cumulabile fino a 2 volte.</span>
 
 ## Technical info
  **runart:** 0

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 10 Le Terre paludose"
 permalink: /Main Story/Chapter 10/
 excerpt: "Capitolo 10. Era of Chaos  Storia principale - Capitolo 10. Le Terre paludose"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 10.md"
 toc: false

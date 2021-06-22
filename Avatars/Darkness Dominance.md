@@ -2,7 +2,7 @@
 title: "Avatar - Dominio oscuro"
 permalink: /Avatars/Darkness Dominance/
 excerpt: "Era of Chaos  Dominio oscuro"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Darkness Dominance.md"
 toc: false

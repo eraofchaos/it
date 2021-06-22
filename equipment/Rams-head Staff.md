@@ -2,7 +2,7 @@
 title: "Bordone testa d'ariete"
 permalink: /equipment/Rams-head Staff/
 excerpt: "Era of Chaos Bordone testa d'ariete. Bordone testa d'ariete"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Rams-head Staff.md"
 toc: false

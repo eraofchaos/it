@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Centaur)"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Centauro Esclusivo."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Centaur Scudo dell'Iride.md"
 toc: false

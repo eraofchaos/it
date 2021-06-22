@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 12 Punizione corporale"
 permalink: /Underground/Chapter 12/
 excerpt: "Capitolo 12 Punizione corporale. Era of Chaos  Sottosuolo - Capitolo 12. Punizione corporale"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 12.md"
 toc: false

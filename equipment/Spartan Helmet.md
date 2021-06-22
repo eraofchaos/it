@@ -2,7 +2,7 @@
 title: "Elmo spartano"
 permalink: /equipment/Spartan Helmet/
 excerpt: "Era of Chaos Elmo spartano. Elmo spartano"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Spartan Helmet.md"
 toc: false

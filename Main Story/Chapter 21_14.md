@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-14 Antiche tradizioni"
 permalink: /Main Story/Chapter 21_14/
 excerpt: "Capitolo 21 - 14. Era of Chaos  Storia principale - Capitolo 21_14. 21-14 Antiche tradizioni"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 21_14.md"
 toc: false

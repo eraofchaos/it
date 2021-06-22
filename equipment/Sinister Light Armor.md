@@ -2,7 +2,7 @@
 title: "Armatura leggera sinistra"
 permalink: /equipment/Sinister Light Armor/
 excerpt: "Era of Chaos Armatura leggera sinistra. Armatura leggera sinistra"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Sinister Light Armor.md"
 toc: false

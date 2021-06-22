@@ -2,7 +2,7 @@
 title: "Emblema sacro - Luce nell'oscurità"
 permalink: /Emblem/Darkness Enlightenment/
 excerpt: "Era of Chaos Luce nell'oscurità. Luce nell'oscurità. Era of Chaos Emblema sacro Luce nell'oscurità. Era of Chaos Malvagio Luce nell'oscurità"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Darkness Enlightenment.md"
 toc: false

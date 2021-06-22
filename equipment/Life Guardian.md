@@ -2,7 +2,7 @@
 title: "Guardiano della vita"
 permalink: /equipment/Life Guardian/
 excerpt: "Era of Chaos Guardiano della vita. Guardiano della vita"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Life Guardian.md"
 toc: false

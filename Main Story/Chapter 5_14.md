@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-14 L'armatura del drago"
 permalink: /Main Story/Chapter 5_14/
 excerpt: "Capitolo 5 - 14. Era of Chaos  Storia principale - Capitolo 5_14. 5-14 L'armatura del drago"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 5_14.md"
 toc: false

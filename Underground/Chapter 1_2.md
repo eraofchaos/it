@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 1 - 1-2 Tracce d'ombra"
 permalink: /Underground/Chapter 1_2/
 excerpt: "Capitolo 1 - 2. Era of Chaos  Sottosuolo - Capitolo 1_2. 1-2 Tracce d'ombra"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 1_2.md"
 toc: false

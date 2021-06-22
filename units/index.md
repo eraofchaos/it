@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "index.md"
 toc: false
@@ -24,7 +24,7 @@ classes: wide
   | 2 | ![Aeronave magica](/images/u/ti_reqiqiu.jpg) | [Aeronave magica](/it/units/Magic Airship/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 208.5 | 1715 |   -   |
   | 3 | ![Angelo](/images/u/ti_datianshi.jpg) | [Angelo](/it/units/Angel/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcangelo  |
   | 4 | ![Anima](/images/u/ti_youling.jpg) | [Anima](/it/units/Wight/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 107.5 | 662 |  Spettro  |
-  | 5 | ![Arciere di Regna](/images/u/ti_ruigenanushou.jpg) | [Arciere di Regna](/it/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |   -   |
+  | 5 | ![Arciere di Regna](/images/u/ti_ruigenanushou.jpg) | [Arciere di Regna](/it/units/Regnan Archer/) | A distanza | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Cecchino di Regna  |
   | 6 | ![Arcimago](/images/u/ti_dafashi.jpg) | [Arcimago](/it/units/Arch Mage/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Arcimago  |
   | 7 | ![Arpia](/images/u/ti_yingshenren.jpg) | [Arpia](/it/units/Harpy/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Arpia deforme  |
   | 8 | ![Assassino](/images/u/ti_cishazhe.jpg) | [Assassino](/it/units/Assassin/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 269.0 | 2119 |   -   |
@@ -93,12 +93,12 @@ classes: wide
   | 71 | ![Pegaso](/images/u/ti_feima.jpg) | [Pegaso](/it/units/Pegasus/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 195.1 | 1144 |  Pegaso Argenteo  |
   | 72 | ![Picchiere](/images/u/ti_jibing.jpg) | [Picchiere](/it/units/Pikeman/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |  Alabardiere  |
   | 73 | ![Pirati di Regna](/images/u/ti_haidao.jpg) | [Pirati di Regna](/it/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Re dei Pirati  |
-  | 74 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 74 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 75 | ![Rapace di fuoco](/images/u/ti_fenghuang.jpg) | [Rapace di fuoco](/it/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
   | 76 | ![Roc](/images/u/ti_leiniao.jpg) | [Roc](/it/units/Roc/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 4978 |  Uccello del Tuono  |
   | 77 | ![Scheletro](/images/u/ti_kulouzhanshi.jpg) | [Scheletro](/it/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Scheletro guerriero  |
   | 78 | ![Segugio infernale](/images/u/ti_santouquan.jpg) | [Segugio infernale](/it/units/Hell Hound/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
-  | 79 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 79 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Guardiano delle Maree  |
   | 80 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
   | 81 | ![Spadaccino](/images/u/ti_shizijun.jpg) | [Spadaccino](/it/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crociato  |
   | 82 | ![Strega malvagia](/images/u/ti_xiemonv.jpg) | [Strega malvagia](/it/units/Evil Sorceress/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 550.0 | 6000 |   -   |

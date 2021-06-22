@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 18 - 18-2 Fiamma infernale"
 permalink: /Underground/Chapter 18_2/
 excerpt: "Capitolo 18 - 2. Era of Chaos  Sottosuolo - Capitolo 18_2. 18-2 Fiamma infernale"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 18_2.md"
 toc: false

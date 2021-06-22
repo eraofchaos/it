@@ -4,7 +4,7 @@ permalink: /heroes/Solmyr/
 excerpt: "Era of Chaos Solmyr. Solmyr. Solmyr ha vissuto intrappolato in una lampada magica per più di mille anni. Ha giurato fedeltà eterna al proprio salvatore Gavin Magnus, immortale dominatore delle Highlands di Bracada."
 heroID: 61201
 QR: hero_61201
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Solmyr"
 toc: true

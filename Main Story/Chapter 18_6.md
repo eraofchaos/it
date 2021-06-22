@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-6 Pietre mostruose"
 permalink: /Main Story/Chapter 18_6/
 excerpt: "Capitolo 18 - 6. Era of Chaos  Storia principale - Capitolo 18_6. 18-6 Pietre mostruose"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 18_6.md"
 toc: false

@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 27  Settimana della Baia
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **5 Jul** | **3x [Elementale del mare](/ItemsIT/unt_275/)**  | Un gruppo di Elementali del mare è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **6 Jul** | **3x [Pirati di Regna](/ItemsIT/unt_273/)**  | Un gruppo di Pirati di Regna è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **7 Jul** | **100x <i class="fas fa-gem"/>**  | Le creature del covo dei pirati ti fanno omaggio di un mucchietto di Diamanti! |
+  | **8 Jul** | **3x [Scrigno Baia](/ItemsIT/con_1278/)**  | Le tue truppe della Baia ti portano in dono un gran numero di scrigni del tesoro preziosi! |
+  | **9 Jul** | **3x [Rune roster Baia](/ItemsIT/con_868/)**  | Le tue truppe della Baia ti portano in dono un gran numero di rune preziose! |
+  | **10 Jul** | **1x [Tartaruga draconica](/ItemsIT/unt_278/)**  | Un gruppo di Tartarughe draconiche è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **11 Jul** | **1x [Token Eroe universali](/ItemsIT/her_358/)**  | Gli abitanti della Baia dei Pirati ti offrono un token (eroe) universale! |
+
 
 #### 2021 Week 26  Settimana della Fortezza
 

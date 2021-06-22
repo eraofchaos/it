@@ -1,9 +1,9 @@
 ---
 title: "Serpente di Regna"
 permalink: /units/Regnan Serpent/
-excerpt: "Era of Chaos Serpente di Regna. Serpente di Regna Unità. . Era of Chaos Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
+excerpt: "Era of Chaos Serpente di Regna. Serpente di Regna Unità. Guardiano delle Maree. Era of Chaos Il più fedele servitore del regno dei mari. Fa suo il potere delle maree per difendere l'onore del Re dei mari."
 unitID: 9904
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Serpente di Regna"
 toc: true
@@ -192,43 +192,43 @@ toc: true
 
 ## Awaking
 
-  ![](/images/u/tia_yurenyongshi.jpg)
+  ![Guardiano delle Maree](/images/u/tia_yurenyongshi.jpg)
 
 ### Awaking Dettagli
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** 
+ **Awaking Name:** Guardiano delle Maree
 
- **Awaking Descrizione:** 
+ **Awaking Descrizione:** La pioggia e le onde scroscianti costringono i pescatori a restare in porto, ma per i Serpenti di Regna è un'occasione unica. Salgono in superficie in grandi banchi e scorrazzano sulle onde, godendo del potere naturale dell'acqua che li pervade. È il rituale del risveglio dei Serpenti di Regna.
 
 ### Awaking Tasks
- 1. 
+ 1. <span style="color: #876741;font-size:18px">Schiera un Serpente di Regna con almeno </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #876741;font-size:18px"> unità Baia e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. 
+ 2. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">2</span><span style="color: #876741;font-size:18px"> pezzi di equipaggiamento nell'Avventura della Gilda.</span>
 
- 3. 
+ 3. <span style="color: #876741;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #876741;font-size:18px"> anime di Guardiano delle Maree nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. 
+ 4. <span style="color: #876741;font-size:18px">Schiera un Serpente di Regna e vinci </span><span style="color: #1ca216;font-size:18px">1</span><span style="color: #876741;font-size:18px"> battaglia del Duello dei Campioni.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): 
- **Descrizione:** 
+### 1st Skill (or 2nd): Sisma abissale
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Schiacciata abissale&gt;</span><span style="color: #645252;font-size:18px"> Danno raddoppiato; riduce il DAN delle unità nemiche del 20% per 5 secondi.</span>
 
-### 2nd Skill (or 1st): 
- **Descrizione:** 
+### 2nd Skill (or 1st): Sisma dei mari lontani
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Schiacciata abissale&gt;</span><span style="color: #645252;font-size:18px"> Danno raddoppiato; riduce la Rid DAN delle unità nemiche del 20% per 5 secondi.</span>
 
-### 3rd Skill (or 4th): 
- **Descrizione:** 
+### 3rd Skill (or 4th): Protezione delle maree
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Guida delle maree&gt;</span><span style="color: #645252;font-size:18px"> Il buff di questa tecnica è cumulabile 2 volte in più.</span>
 
-### 4th Skill (or 3rd): 
- **Descrizione:** 
+### 4th Skill (or 3rd): Guida della risacca
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Guida delle maree&gt;</span><span style="color: #645252;font-size:18px"> Il buff applicato da ciascuna carica di questa tecnica è aumentato del 50%.</span>
 
-### 5th Skill (or 6th): 
- **Descrizione:** 
+### 5th Skill (or 6th): Corno dello Squalo guardiano
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Corno da battaglia&gt;</span><span style="color: #645252;font-size:18px"> Riduce la DIF e la Tenacia delle unità nemiche in un'ampia area circostante rispettivamente del 20% e di 100 per 7 secondi. L'effetto aumenta del 50% contro unità nemiche affette da &lt;Rallentamento&gt;.</span>
 
-### 6th Skill (or 5th): 
- **Descrizione:** 
+### 6th Skill (or 5th): Corno della Sirena
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Corno da battaglia&gt;</span><span style="color: #645252;font-size:18px"> Riduce la Vel ATT e il CRIT delle unità nemiche in un'ampia area circostante rispettivamente del 20% e di 100 per 7 secondi. L'effetto aumenta del 50% contro unità nemiche affette da &lt;Rallentamento&gt;.</span>
 
 ## Technical info
  **runart:** 1

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Defense -  Units"
 permalink: /units/Unit Class Defense/
 excerpt: "Era of Chaos Unit Class Defense. Unit Class Defense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Unit Class Defense"
 toc: false
@@ -19,9 +19,9 @@ classes: wide
   | 5 | ![Behemoth](/images/u/ti_bimeng.jpg) | [Behemoth](/it/units/Behemoth/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 407.3 | 10182 |  Behemoth antico  |
   | 6 | ![Leprecauno](/images/u/ti_conglinyaojing.jpg) | [Leprecauno](/it/units/Leprechaun/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |
   | 7 | ![Golem di ferro](/images/u/ti_tieren.jpg) | [Golem di ferro](/it/units/Iron Golem/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Golem d'oro  |
-  | 8 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |    |
+  | 8 | ![Serpente di Regna](/images/u/ti_yurenyongshi.jpg) | [Serpente di Regna](/it/units/Regnan Serpent/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 100.9 | 3027 |  Guardiano delle Maree  |
   | 9 | ![Incubo](/images/u/ti_mengyanshou.jpg) | [Incubo](/it/units/Nightmare/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Signore degli Incubi  |
-  | 10 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 10 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
   | 11 | ![Spadaccino](/images/u/ti_shizijun.jpg) | [Spadaccino](/it/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crociato  |
   | 12 | ![Tartaruga draconica](/images/u/ti_longgui.jpg) | [Tartaruga draconica](/it/units/Dragon Turtle/) | Difesa | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 362.0 | 12000 |  Tartaruga draconica primordiale  |
   | 13 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/it/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitano Centauro  |

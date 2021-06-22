@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-2 Gloria passeggera"
 permalink: /Main Story/Chapter 21_2/
 excerpt: "Capitolo 21 - 2. Era of Chaos  Storia principale - Capitolo 21_2. 21-2 Gloria passeggera"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Chapter 21_2.md"
 toc: false

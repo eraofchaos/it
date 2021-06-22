@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Inferno -  Units"
 permalink: /units/Faction Inferno/
 excerpt: "Era of Chaos Faction Inferno. Faction Inferno. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-15
+last_modified_at: 2021-06-22
 locale: it
 ref: "Faction Inferno"
 toc: false
@@ -22,4 +22,4 @@ classes: wide
   | 6 | ![Efreet](/images/u/ti_liehuojingling.jpg) | [Efreet](/it/units/Efreeti/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 225.4 | 1446 |  Efreet Sultano  |
   | 7 | ![Diavolo](/images/u/ti_daemo.jpg) | [Diavolo](/it/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcidiavolo  |
   | 8 | ![Incubo](/images/u/ti_mengyanshou.jpg) | [Incubo](/it/units/Nightmare/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Signore degli Incubi  |
-  | 9 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 13350 |   -   |
+  | 9 | ![Progenie velenosa](/images/u/ti_yanmo.jpg) | [Progenie velenosa](/it/units/Venom Spawn/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 375.0 | 14000 |   -   |
