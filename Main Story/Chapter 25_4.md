@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-4 I custodi dei draghi"
 permalink: /Main Story/Chapter 25_4/
 excerpt: "Capitolo 25 - 4. Era of Chaos  Storia principale - Capitolo 25_4. 25-4 I custodi dei draghi"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 25_4.md"
 toc: false

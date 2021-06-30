@@ -2,7 +2,7 @@
 title: "Occhio del fulmine"
 permalink: /equipment/Beholder of Lightning/
 excerpt: "Era of Chaos Occhio del fulmine. Occhio del fulmine"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Beholder of Lightning.md"
 toc: false

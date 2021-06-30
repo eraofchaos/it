@@ -2,7 +2,7 @@
 title: "Scudo del regno. Talento Apice - Scudo del regno"
 permalink: /PeakTalent/Shield of Kingdom/
 excerpt: "Era of Chaos Talento Apice Scudo del regno. Talento Apice Scudo del regno. Scudo del regno"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Shield of Kingdom.md"
 toc: false

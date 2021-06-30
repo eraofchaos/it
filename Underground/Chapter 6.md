@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 6 La caduta della capitale"
 permalink: /Underground/Chapter 6/
 excerpt: "Capitolo 6 La caduta della capitale. Era of Chaos  Sottosuolo - Capitolo 6. La caduta della capitale"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 6.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-15 A difesa degli Gnomi"
 permalink: /Main Story/Chapter 16_15/
 excerpt: "Capitolo 16 - 15. Era of Chaos  Storia principale - Capitolo 16_15. 16-15 A difesa degli Gnomi"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 16_15.md"
 toc: false

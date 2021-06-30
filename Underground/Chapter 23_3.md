@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 23 - 23-3 Caos tonante"
 permalink: /Underground/Chapter 23_3/
 excerpt: "Capitolo 23 - 3. Era of Chaos  Sottosuolo - Capitolo 23_3. 23-3 Caos tonante"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 23_3.md"
 toc: false

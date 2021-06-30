@@ -2,7 +2,7 @@
 title: "Medaglia della gloria. Talento Apice - Medaglia della gloria"
 permalink: /PeakTalent/Medal of Glory/
 excerpt: "Era of Chaos Talento Apice Medaglia della gloria. Talento Apice Medaglia della gloria. Medaglia della gloria"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Medal of Glory.md"
 toc: false

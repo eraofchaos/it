@@ -2,7 +2,7 @@
 title: "Artigli della fiamma furente"
 permalink: /equipment/Claws of Raging Flame/
 excerpt: "Era of Chaos Artigli della fiamma furente. Artigli della fiamma furente"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Claws of Raging Flame.md"
 toc: false

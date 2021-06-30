@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 17 - 17-4 La lampada del genio"
 permalink: /Underground/Chapter 17_4/
 excerpt: "Capitolo 17 - 4. Era of Chaos  Sottosuolo - Capitolo 17_4. 17-4 La lampada del genio"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 17_4.md"
 toc: false

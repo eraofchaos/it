@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-11 L'Osservatore"
 permalink: /Main Story/Chapter 26_11/
 excerpt: "Capitolo 26 - 11. Era of Chaos  Storia principale - Capitolo 26_11. 26-11 L'Osservatore"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 26_11.md"
 toc: false

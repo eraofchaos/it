@@ -2,7 +2,7 @@
 title: "Tentacoli abissali"
 permalink: /equipment/Tentacles from the Abyss/
 excerpt: "Era of Chaos Tentacoli abissali. Tentacoli abissali"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Tentacles from the Abyss.md"
 toc: false

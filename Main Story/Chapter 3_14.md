@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-14 Il laboratorio dell'alchimista"
 permalink: /Main Story/Chapter 3_14/
 excerpt: "Capitolo 3 - 14. Era of Chaos  Storia principale - Capitolo 3_14. 3-14 Il laboratorio dell'alchimista"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 3_14.md"
 toc: false

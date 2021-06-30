@@ -2,7 +2,7 @@
 title: "Esclusivo - Maree diurne (Regnan Serpent)"
 permalink: /Exclusive/Regnan Serpent Day Tides/
 excerpt: "Era of Chaos Maree diurne. Maree diurne. Era of Chaos Esclusivo Maree diurne. Serpente di Regna Esclusivo."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Regnan Serpent Maree diurne.md"
 toc: false

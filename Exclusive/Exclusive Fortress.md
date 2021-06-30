@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Fortress"
 permalink: /Exclusive/Exclusive Fortress/
 excerpt: "Era of Chaos Esclusivo Fortress. Esclusivo Fortress. List of Esclusivo Fortress in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Exclusive Fortress"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Gnoll](/it/units/Gnoll/) | [Spada](/it/Exclusive/Gnoll Sword/) | - | Carica | [Token della Spada](/ItemsIT/con_912/) | - |
+  | 1  | [Gnoll](/it/units/Gnoll/) | [Spada](/it/Exclusive/Gnoll Sword/) | + | Carica | [Token della Spada](/ItemsIT/con_912/) | - |
   | 2  | [Uomo lucertola](/it/units/Lizardman/) | [Arco lungo](/it/Exclusive/Lizardman Long Bow/) | + | Carica | [Token Arco lungo](/ItemsIT/con_914/) | - |
   | 3  | [Mosca serpente](/it/units/Serpent Fly/) | [Cantico arcano](/it/Exclusive/Serpent Fly Arcane Chant/) | + | Carica | [Token Cantico arcano](/ItemsIT/con_915/) | - |
   | 4  | [Basilisco](/it/units/Basilisk/) | [Coda di Basilisco](/it/Exclusive/Basilisk Basilisk's Tail/) | - | A distanza | [Token Coda di Basilisco](/ItemsIT/con_994/) | [Skin speciale Energia del Fuoco](/ItemsIT/con_662/) |

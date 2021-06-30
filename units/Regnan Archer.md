@@ -3,7 +3,7 @@ title: "Arciere di Regna"
 permalink: /units/Regnan Archer/
 excerpt: "Era of Chaos Arciere di Regna. Arciere di Regna Unità. Cecchino di Regna. Era of Chaos Il suo destino è la ricchezza. Ovunque punti la sua freccia, quello è il suo bersaglio."
 unitID: 9902
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Arciere di Regna"
 toc: true

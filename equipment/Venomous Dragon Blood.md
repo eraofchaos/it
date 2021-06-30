@@ -2,7 +2,7 @@
 title: "Sangue draconico velenoso"
 permalink: /equipment/Venomous Dragon Blood/
 excerpt: "Era of Chaos Sangue draconico velenoso. Sangue draconico velenoso"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Venomous Dragon Blood.md"
 toc: false

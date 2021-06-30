@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-13 Verso l'obiettivo"
 permalink: /Main Story/Chapter 7_13/
 excerpt: "Capitolo 7 - 13. Era of Chaos  Storia principale - Capitolo 7_13. 7-13 Verso l'obiettivo"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 7_13.md"
 toc: false

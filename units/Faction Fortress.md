@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Fortress -  Units"
 permalink: /units/Faction Fortress/
 excerpt: "Era of Chaos Faction Fortress. Faction Fortress. List of Faction in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Faction Fortress"
 toc: false
@@ -15,7 +15,7 @@ classes: wide
   | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Tigre bianca](/images/u/ti_baihu.jpg) | [Tigre bianca](/it/units/White Tiger/) | Incursione | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1078.2 | 6138 |   -   |
-  | 2 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerriero gnoll  |
+  | 2 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerriero gnoll  |
   | 3 | ![Uomo lucertola](/images/u/ti_xiyiren.jpg) | [Uomo lucertola](/it/units/Lizardman/) | A distanza | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1144 |   -   |
   | 4 | ![Mosca serpente](/images/u/ti_longying.jpg) | [Mosca serpente](/it/units/Serpent Fly/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 178.3 | 1615 |  Mosca drago  |
   | 5 | ![Basilisco](/images/u/ti_xiyi.jpg) | [Basilisco](/it/units/Basilisk/) | Difesa | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 2859 |   -   |

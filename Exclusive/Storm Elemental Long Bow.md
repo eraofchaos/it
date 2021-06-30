@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Storm Elemental)"
 permalink: /Exclusive/Storm Elemental Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Elementale tempesta Esclusivo."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Storm Elemental Arco lungo.md"
 toc: false

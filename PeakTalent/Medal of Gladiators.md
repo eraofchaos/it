@@ -2,7 +2,7 @@
 title: "Medaglia dei gladiatori. Talento Apice - Medaglia dei gladiatori"
 permalink: /PeakTalent/Medal of Gladiators/
 excerpt: "Era of Chaos Talento Apice Medaglia dei gladiatori. Talento Apice Medaglia dei gladiatori. Medaglia dei gladiatori"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Medal of Gladiators.md"
 toc: false

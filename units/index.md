@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "index.md"
 toc: false
@@ -61,7 +61,7 @@ classes: wide
   | 39 | ![Genio](/images/u/ti_shenguai.jpg) | [Genio](/it/units/Genie/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
   | 40 | ![Gigante](/images/u/ti_taitan.jpg) | [Gigante](/it/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titano  |
   | 41 | ![Giudice](/images/u/ti_shenpanguan.jpg) | [Giudice](/it/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
-  | 42 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerriero gnoll  |
+  | 42 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerriero gnoll  |
   | 43 | ![Gnomo](/images/u/ti_airen.jpg) | [Gnomo](/it/units/Dwarf/) | Difesa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 44 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/it/units/Goblin/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 45 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/it/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |

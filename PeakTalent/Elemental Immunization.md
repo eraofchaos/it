@@ -2,7 +2,7 @@
 title: "Immunizzazione elementale. Talento Apice - Immunizzazione elementale"
 permalink: /PeakTalent/Elemental Immunization/
 excerpt: "Era of Chaos Talento Apice Immunizzazione elementale. Talento Apice Immunizzazione elementale. Immunizzazione elementale"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Elemental Immunization.md"
 toc: false

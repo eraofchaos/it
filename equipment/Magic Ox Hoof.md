@@ -2,7 +2,7 @@
 title: "Zoccolo magico di bue"
 permalink: /equipment/Magic Ox Hoof/
 excerpt: "Era of Chaos Zoccolo magico di bue. Zoccolo magico di bue"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Magic Ox Hoof.md"
 toc: false

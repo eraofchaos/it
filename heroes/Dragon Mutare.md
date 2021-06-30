@@ -4,7 +4,7 @@ permalink: /heroes/Dragon Mutare/
 excerpt: "Era of Chaos Mutare (drago). Mutare (drago). Dopo aver bevuto dalla Fiala del Sangue di drago, Mutare si è trasformata in un Drago dotato di coscienza umana. Alcuni ipotizzano che tale trasformazione sia un presagio della venuta del Padre dei Draghi."
 heroID: 61302
 QR: hero_61302
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Dragon Mutare"
 toc: true

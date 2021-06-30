@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 6 - 6-2 Un nuovo obiettivo"
 permalink: /Underground/Chapter 6_2/
 excerpt: "Capitolo 6 - 2. Era of Chaos  Sottosuolo - Capitolo 6_2. 6-2 Un nuovo obiettivo"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 6_2.md"
 toc: false

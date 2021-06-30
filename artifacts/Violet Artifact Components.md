@@ -2,7 +2,7 @@
 title: "Violet Artifact Components"
 permalink: /artifacts/Violet Artifact Components/
 excerpt: "Era of Chaos  List of all Violet Artifact Components . I manufatti possono migliorare gli attributi degli eroi e sbloccare tecniche più potenti."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Violet Artifact Components.md"
 toc: false

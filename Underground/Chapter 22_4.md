@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 22 - 22-4 Gli inganni degli dei"
 permalink: /Underground/Chapter 22_4/
 excerpt: "Capitolo 22 - 4. Era of Chaos  Sottosuolo - Capitolo 22_4. 22-4 Gli inganni degli dei"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 22_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Pelliccia"
 permalink: /equipment/Thick Fur Hide/
 excerpt: "Era of Chaos Pelliccia. Pelliccia"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Thick Fur Hide.md"
 toc: false

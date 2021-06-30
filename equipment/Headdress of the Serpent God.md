@@ -2,7 +2,7 @@
 title: "Copricapo del Serpente divino"
 permalink: /equipment/Headdress of the Serpent God/
 excerpt: "Era of Chaos Copricapo del Serpente divino. Copricapo del Serpente divino"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Headdress of the Serpent God.md"
 toc: false

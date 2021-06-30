@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 8 - 8-3 In visita dal negromante"
 permalink: /Underground/Chapter 8_3/
 excerpt: "Capitolo 8 - 3. Era of Chaos  Sottosuolo - Capitolo 8_3. 8-3 In visita dal negromante"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 8_3.md"
 toc: false

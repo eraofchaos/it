@@ -2,7 +2,7 @@
 title: "Scudo dei Signori. Talento Apice - Scudo dei Signori"
 permalink: /PeakTalent/Shield of Lords/
 excerpt: "Era of Chaos Talento Apice Scudo dei Signori. Talento Apice Scudo dei Signori. Scudo dei Signori"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Shield of Lords.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-14 Il tempio eccelso"
 permalink: /Main Story/Chapter 29_14/
 excerpt: "Capitolo 29 - 14. Era of Chaos  Storia principale - Capitolo 29_14. 29-14 Il tempio eccelso"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 29_14.md"
 toc: false

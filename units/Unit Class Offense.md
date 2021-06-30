@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Offense -  Units"
 permalink: /units/Unit Class Offense/
 excerpt: "Era of Chaos Unit Class Offense. Unit Class Offense. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Unit Class Offense"
 toc: false
@@ -22,7 +22,7 @@ classes: wide
   | 8 | ![Diavolo](/images/u/ti_daemo.jpg) | [Diavolo](/it/units/Devil/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcidiavolo  |
   | 9 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/it/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita oscuro  |
   | 10 | ![Naga](/images/u/ti_shenv.jpg) | [Naga](/it/units/Naga/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 79.4 | 811 |  Regina delle Naga  |
-  | 11 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerriero gnoll  |
+  | 11 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerriero gnoll  |
   | 12 | ![Angelo](/images/u/ti_datianshi.jpg) | [Angelo](/it/units/Angel/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Arcangelo  |
   | 13 | ![Pirati di Regna](/images/u/ti_haidao.jpg) | [Pirati di Regna](/it/units/Regnan Pirates/) | Attacco | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 99.3 | 695 |  Re dei Pirati  |
   | 14 | ![Drago rosso](/images/u/ti_chilong.jpg) | [Drago rosso](/it/units/Red Dragon/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5431 |   -   |

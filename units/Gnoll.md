@@ -3,7 +3,7 @@ title: "Gnoll"
 permalink: /units/Gnoll/
 excerpt: "Era of Chaos Gnoll. Gnoll Unità. Guerriero gnoll. Era of Chaos Un sanguinario abitante delle paludi. Caccia in gruppo, circondando e soverchiando numericamente le prede più deboli."
 unitID: 801
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Gnoll"
 toc: true
@@ -82,7 +82,7 @@ toc: true
 
  **Nome:** [Spada](/it/Exclusive/Gnoll Sword/) 
 
- **Is Open:** - 
+ **Is Open:** + 
 
  **Item to Rango ↑:** [Token della Spada](/ItemsIT/con_912/)
 

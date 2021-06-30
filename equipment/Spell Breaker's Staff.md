@@ -2,7 +2,7 @@
 title: "Bordone dello Spezzaincantesimi"
 permalink: /equipment/Spell Breaker's Staff/
 excerpt: "Era of Chaos Bordone dello Spezzaincantesimi. Bordone dello Spezzaincantesimi"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Spell Breaker's Staff.md"
 toc: false

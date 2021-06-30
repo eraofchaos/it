@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Member x9 -  Units"
 permalink: /units/Unit Member x9/
 excerpt: "Era of Chaos Unit Member x9. Unit Member x9. List of Unit Member in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Unit Member x9"
 toc: false
@@ -26,7 +26,7 @@ classes: wide
   | 12 | ![Grifone](/images/u/ti_shijiu.jpg) | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifone reale  |
   | 13 | ![Osservatore](/images/u/ti_xieyan.jpg) | [Osservatore](/it/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
   | 14 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/it/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitano Centauro  |
-  | 15 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerriero gnoll  |
+  | 15 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerriero gnoll  |
   | 16 | ![Gnomo](/images/u/ti_airen.jpg) | [Gnomo](/it/units/Dwarf/) | Difesa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
   | 17 | ![Elfo del bosco](/images/u/ti_mujingling.jpg) | [Elfo del bosco](/it/units/Wood Elf/) | A distanza | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 92.4 | 438 |  Elfo Gigante  |
   | 18 | ![Scheletro](/images/u/ti_kulouzhanshi.jpg) | [Scheletro](/it/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Scheletro guerriero  |

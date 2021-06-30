@@ -2,7 +2,7 @@
 title: "Festa delle barche drago"
 permalink: /Dragon Boat Festival/
 excerpt: "Era of Chaos  Festa delle barche drago - Missione Barche drago"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "index.md"
 toc: false

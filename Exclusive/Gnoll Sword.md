@@ -2,7 +2,7 @@
 title: "Esclusivo - Spada (Gnoll)"
 permalink: /Exclusive/Gnoll Sword/
 excerpt: "Era of Chaos Spada. Spada. Era of Chaos Esclusivo Spada. Gnoll Esclusivo."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Gnoll Spada.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carica
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 

@@ -2,7 +2,7 @@
 title: "Coda fiammeggiante"
 permalink: /equipment/Tail of Flame/
 excerpt: "Era of Chaos Coda fiammeggiante. Coda fiammeggiante"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Tail of Flame.md"
 toc: false

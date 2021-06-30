@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 28  Settimana del Baluardo
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **12 Jul** | **5x [Centauro](/ItemsIT/unt_199/)**  | Un gruppo di Centauri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **13 Jul** | **3x [Elfo del bosco](/ItemsIT/unt_201/)**  | Un gruppo di Elfi del bosco è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **14 Jul** | **3x [Pegaso](/ItemsIT/unt_202/)**  | Un gruppo di Pegasi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **15 Jul** | **3x [Unicorno](/ItemsIT/unt_204/)**  | Un gruppo di Unicorni è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **16 Jul** | **3x [Gnomo](/ItemsIT/unt_200/)**  | Un gruppo di Gnomi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **17 Jul** | **3x [Guardia Dendroide](/ItemsIT/unt_203/)**  | Un gruppo di Guardie Dendroidi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **18 Jul** | **5x [Ryland](/ItemsIT/her_368/)**  | L'eroe Ryland ammira ciò che hai fatto per proteggere la natura e ha deciso di mettersi al tuo servizio! |
+
 
 #### 2021 Week 27  Settimana della Baia
 

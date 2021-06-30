@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-10 La Città di Fortuna"
 permalink: /Main Story/Chapter 29_10/
 excerpt: "Capitolo 29 - 10. Era of Chaos  Storia principale - Capitolo 29_10. 29-10 La Città di Fortuna"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 29_10.md"
 toc: false

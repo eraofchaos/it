@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 24 - 24-3 Il potere del fulmine"
 permalink: /Underground/Chapter 24_3/
 excerpt: "Capitolo 24 - 3. Era of Chaos  Sottosuolo - Capitolo 24_3. 24-3 Il potere del fulmine"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 24_3.md"
 toc: false

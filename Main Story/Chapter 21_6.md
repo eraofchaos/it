@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-6 Coltelli per il re"
 permalink: /Main Story/Chapter 21_6/
 excerpt: "Capitolo 21 - 6. Era of Chaos  Storia principale - Capitolo 21_6. 21-6 Coltelli per il re"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 21_6.md"
 toc: false

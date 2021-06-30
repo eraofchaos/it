@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-10 Magia mnemonica"
 permalink: /Main Story/Chapter 19_10/
 excerpt: "Capitolo 19 - 10. Era of Chaos  Storia principale - Capitolo 19_10. 19-10 Magia mnemonica"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 19_10.md"
 toc: false

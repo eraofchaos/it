@@ -2,7 +2,7 @@
 title: "Veste della Furia tempestosa"
 permalink: /equipment/Robe of Storm Rage/
 excerpt: "Era of Chaos Veste della Furia tempestosa. Veste della Furia tempestosa"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Robe of Storm Rage.md"
 toc: false

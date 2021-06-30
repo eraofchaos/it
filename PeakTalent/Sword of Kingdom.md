@@ -2,7 +2,7 @@
 title: "Spada del regno. Talento Apice - Spada del regno"
 permalink: /PeakTalent/Sword of Kingdom/
 excerpt: "Era of Chaos Talento Apice Spada del regno. Talento Apice Spada del regno. Spada del regno"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Sword of Kingdom.md"
 toc: false

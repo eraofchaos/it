@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-13 L'esercito del regno"
 permalink: /Main Story/Chapter 9_13/
 excerpt: "Capitolo 9 - 13. Era of Chaos  Storia principale - Capitolo 9_13. 9-13 L'esercito del regno"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 9_13.md"
 toc: false

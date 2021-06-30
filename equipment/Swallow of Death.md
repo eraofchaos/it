@@ -2,7 +2,7 @@
 title: "Rondine della morte"
 permalink: /equipment/Swallow of Death/
 excerpt: "Era of Chaos Rondine della morte. Rondine della morte"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Swallow of Death.md"
 toc: false

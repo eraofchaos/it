@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 - 22-12 La magia dei draghi"
 permalink: /Main Story/Chapter 22_12/
 excerpt: "Capitolo 22 - 12. Era of Chaos  Storia principale - Capitolo 22_12. 22-12 La magia dei draghi"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Chapter 22_12.md"
 toc: false

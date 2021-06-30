@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank R -  Units"
 permalink: /units/Unit Rank R/
 excerpt: "Era of Chaos Unit Rank R. Unit Rank R. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Unit Rank R"
 toc: false
@@ -20,7 +20,7 @@ classes: wide
   | 6 | ![Tiratore scelto](/images/u/ti_nushou.jpg) | [Tiratore scelto](/it/units/Marksman/) | A distanza | + | R | x9 | <i class="fas fa-star"/> | + | 85.3 | 438 |  Maestro arciere  |
   | 7 | ![Troglodita](/images/u/ti_dongxueren.jpg) | [Troglodita](/it/units/Troglodyte/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 86.0 | 744 |  Troglodita oscuro  |
   | 8 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/it/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitano Centauro  |
-  | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 761 |  Guerriero gnoll  |
+  | 9 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerriero gnoll  |
   | 10 | ![Scheletro](/images/u/ti_kulouzhanshi.jpg) | [Scheletro](/it/units/Skeleton/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 57.9 | 1158 |  Scheletro guerriero  |
   | 11 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mago elfico  |
   | 12 | ![Morto vivente](/images/u/ti_jiangshi.jpg) | [Morto vivente](/it/units/Walking Dead/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | + | 117.7 | 2758 |  Zombi  |

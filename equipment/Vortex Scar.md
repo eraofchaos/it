@@ -2,7 +2,7 @@
 title: "Cicatrice del Vortice"
 permalink: /equipment/Vortex Scar/
 excerpt: "Era of Chaos Cicatrice del Vortice. Cicatrice del Vortice"
-last_modified_at: 2021-06-22
+last_modified_at: 2021-06-30
 locale: it
 ref: "Vortex Scar.md"
 toc: false
