@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 21 - 21-5 Destino e distruzione"
 permalink: /Underground/Chapter 21_5/
 excerpt: "Capitolo 21 - 5. Era of Chaos  Sottosuolo - Capitolo 21_5. 21-5 Destino e distruzione"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 21_5.md"
 toc: false

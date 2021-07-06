@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Neutral Army"
 permalink: /Exclusive/Exclusive Neutral Army/
 excerpt: "Era of Chaos Esclusivo Neutral Army. Esclusivo Neutral Army. List of Esclusivo Neutral Army in Era of Chaos"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Exclusive Neutral Army"
 toc: false
@@ -17,5 +17,5 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Assassino](/it/units/Assassin/) | - | - | - | none | none |
+  | 1  | [Assassino](/it/units/Assassin/) | [Lama celata](/it/Exclusive/Assassin Hidden Blade/) | + | Supporto | [Token Lama celata](/it/Items/con_2200/) | [Skin speciale Lama celata](/it/Items/con_2199/) |
   | 2  | [Guerrieri spartani](/it/units/Spartan Warriors/) | - | - | - | none | none |

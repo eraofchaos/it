@@ -2,7 +2,7 @@
 title: "Cintura dell'assassino"
 permalink: /equipment/Assassin's Belt/
 excerpt: "Era of Chaos Cintura dell'assassino. Cintura dell'assassino"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Assassin's Belt.md"
 toc: false

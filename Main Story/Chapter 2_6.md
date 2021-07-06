@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-6 Il discorso della regina"
 permalink: /Main Story/Chapter 2_6/
 excerpt: "Capitolo 2 - 6. Era of Chaos  Storia principale - Capitolo 2_6. 2-6 Il discorso della regina"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 2_6.md"
 toc: false

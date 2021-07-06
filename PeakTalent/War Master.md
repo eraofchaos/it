@@ -2,7 +2,7 @@
 title: "Maestro di guerra. Talento Apice - Maestro di guerra"
 permalink: /PeakTalent/War Master/
 excerpt: "Era of Chaos Talento Apice Maestro di guerra. Talento Apice Maestro di guerra. Maestro di guerra"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "War Master.md"
 toc: false

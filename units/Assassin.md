@@ -3,7 +3,7 @@ title: "Assassino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassino. Assassino Unità. null. Era of Chaos Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Assassino"
 toc: true
@@ -75,6 +75,14 @@ toc: true
   |  | [Stivali di cuoio](/it/equipment/Leather Boots/) | **PF** | **DIF** | 
 
 ## Esclusivo
+
+ **Nome:** [Lama celata](/it/Exclusive/Assassin Hidden Blade/) 
+
+ **Is Open:** + 
+
+ **Item to Rango ↑:** [Token Lama celata](/it/Items/con_2200/)
+
+ **Skin:** [Skin speciale Lama celata](/it/Items/con_2199/)
 
 
 ## Emblemi sacri consigliati

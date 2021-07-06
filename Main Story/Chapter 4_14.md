@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-14 Il santuario"
 permalink: /Main Story/Chapter 4_14/
 excerpt: "Capitolo 4 - 14. Era of Chaos  Storia principale - Capitolo 4_14. 4-14 Il santuario"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 4_14.md"
 toc: false

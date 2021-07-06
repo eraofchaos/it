@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-3 A pranzo con il Morto vivente"
 permalink: /Main Story/Chapter 17_3/
 excerpt: "Capitolo 17 - 3. Era of Chaos  Storia principale - Capitolo 17_3. 17-3 A pranzo con il Morto vivente"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 17_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Pietra runica Antimagia - Ornamento dell'Interferenza"
 permalink: /artifacts/Garniture of Interference/
 excerpt: "Era of Chaos  Pietra runica Antimagia - Ornamento dell'Interferenza. Una collana con il simbolo dello yin e dello yang. Uno dei componenti della Pietra runica Antimagia."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Garniture of Interference.md"
 toc: false

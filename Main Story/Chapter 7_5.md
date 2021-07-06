@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-5 Un territorio in guerra"
 permalink: /Main Story/Chapter 7_5/
 excerpt: "Capitolo 7 - 5. Era of Chaos  Storia principale - Capitolo 7_5. 7-5 Un territorio in guerra"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 7_5.md"
 toc: false

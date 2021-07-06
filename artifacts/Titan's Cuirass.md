@@ -2,7 +2,7 @@
 title: "Manufatti - Tuono del Titano - Corazza del Titano"
 permalink: /artifacts/Titan's Cuirass/
 excerpt: "Era of Chaos  Tuono del Titano - Corazza del Titano. Una corazza realizzata con polvere di meteora. Uno dei componenti del Tuono del Titano."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Titan's Cuirass.md"
 toc: false

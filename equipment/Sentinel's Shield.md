@@ -2,7 +2,7 @@
 title: "Scudo della Sentinella"
 permalink: /equipment/Sentinel's Shield/
 excerpt: "Era of Chaos Scudo della Sentinella. Scudo della Sentinella"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Sentinel's Shield.md"
 toc: false

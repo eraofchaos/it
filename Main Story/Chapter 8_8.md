@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 - 8-8 Strategie di battaglia"
 permalink: /Main Story/Chapter 8_8/
 excerpt: "Capitolo 8 - 8. Era of Chaos  Storia principale - Capitolo 8_8. 8-8 Strategie di battaglia"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 8_8.md"
 toc: false

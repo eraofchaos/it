@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-12 Scontro sulla pianura"
 permalink: /Main Story/Chapter 13_12/
 excerpt: "Capitolo 13 - 12. Era of Chaos  Storia principale - Capitolo 13_12. 13-12 Scontro sulla pianura"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 13_12.md"
 toc: false

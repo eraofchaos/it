@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-11 Il palazzo sotterraneo"
 permalink: /Main Story/Chapter 18_11/
 excerpt: "Capitolo 18 - 11. Era of Chaos  Storia principale - Capitolo 18_11. 18-11 Il palazzo sotterraneo"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 18_11.md"
 toc: false

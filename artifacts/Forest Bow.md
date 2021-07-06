@@ -2,7 +2,7 @@
 title: "Manufatti - Spada dell'Armageddon - Arco della Foresta"
 permalink: /artifacts/Forest Bow/
 excerpt: "Era of Chaos  Spada dell'Armageddon - Arco della Foresta. Un arco usato dagli Elfi del bosco. Uno dei componenti della Spada dell'Armageddon."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Forest Bow.md"
 toc: false

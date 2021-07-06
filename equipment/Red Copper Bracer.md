@@ -2,7 +2,7 @@
 title: "Bracciali di rame rosso"
 permalink: /equipment/Red Copper Bracer/
 excerpt: "Era of Chaos Bracciali di rame rosso. Bracciali di rame rosso"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Red Copper Bracer.md"
 toc: false

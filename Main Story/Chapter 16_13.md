@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-13 La bestia intrappolata"
 permalink: /Main Story/Chapter 16_13/
 excerpt: "Capitolo 16 - 13. Era of Chaos  Storia principale - Capitolo 16_13. 16-13 La bestia intrappolata"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 16_13.md"
 toc: false

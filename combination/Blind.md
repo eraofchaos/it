@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Cecità"
 permalink: /combination/Blind/
 excerpt: "Informazioni combinazione - Cecità. Units and Heroes Formation."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Cecità.md"
 toc: false

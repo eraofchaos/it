@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 1 - 1-1 I custodi dell'isola"
 permalink: /Main Story/Chapter 1_1/
 excerpt: "Capitolo 1 - 1. Era of Chaos  Storia principale - Capitolo 1_1. 1-1 I custodi dell'isola"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 1_1.md"
 toc: false

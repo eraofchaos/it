@@ -2,7 +2,7 @@
 title: "Manufatti - Alleanza Angelica - Sandali del Santo"
 permalink: /artifacts/Sandals of the Saint/
 excerpt: "Era of Chaos  Alleanza Angelica - Sandali del Santo. Reliquia sacra che celebra l'unificazione dell'Erathia. Uno dei componenti dell'Alleanza Angelica."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Sandals of the Saint.md"
 toc: false

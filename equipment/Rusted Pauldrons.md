@@ -2,7 +2,7 @@
 title: "Spallacci arrugginiti"
 permalink: /equipment/Rusted Pauldrons/
 excerpt: "Era of Chaos Spallacci arrugginiti. Spallacci arrugginiti"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Rusted Pauldrons.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 28 - 28-3  Voglia di cielo"
 permalink: /Underground/Chapter 28_3/
 excerpt: "Capitolo 28 - 3. Era of Chaos  Sottosuolo - Capitolo 28_3. 28-3  Voglia di cielo"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 28_3.md"
 toc: false

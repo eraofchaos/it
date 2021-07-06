@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-3 Stagioni nel Sottosuolo"
 permalink: /Main Story/Chapter 25_3/
 excerpt: "Capitolo 25 - 3. Era of Chaos  Storia principale - Capitolo 25_3. 25-3 Stagioni nel Sottosuolo"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 25_3.md"
 toc: false

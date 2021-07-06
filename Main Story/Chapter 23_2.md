@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-2 L'oggetto luccicante"
 permalink: /Main Story/Chapter 23_2/
 excerpt: "Capitolo 23 - 2. Era of Chaos  Storia principale - Capitolo 23_2. 23-2 L'oggetto luccicante"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 23_2.md"
 toc: false

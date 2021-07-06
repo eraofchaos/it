@@ -2,7 +2,7 @@
 title: "Scudo ribollente"
 permalink: /equipment/Boiling Shield/
 excerpt: "Era of Chaos Scudo ribollente. Scudo ribollente"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Boiling Shield.md"
 toc: false

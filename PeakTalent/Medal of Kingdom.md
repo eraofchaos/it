@@ -2,7 +2,7 @@
 title: "Medaglia del regno. Talento Apice - Medaglia del regno"
 permalink: /PeakTalent/Medal of Kingdom/
 excerpt: "Era of Chaos Talento Apice Medaglia del regno. Talento Apice Medaglia del regno. Medaglia del regno"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Medal of Kingdom.md"
 toc: false

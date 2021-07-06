@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-6 Il Signore più anziano"
 permalink: /Main Story/Chapter 25_6/
 excerpt: "Capitolo 25 - 6. Era of Chaos  Storia principale - Capitolo 25_6. 25-6 Il Signore più anziano"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 25_6.md"
 toc: false

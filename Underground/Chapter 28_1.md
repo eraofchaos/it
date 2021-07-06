@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 28 - 28-1  La festa dell'ascia"
 permalink: /Underground/Chapter 28_1/
 excerpt: "Capitolo 28 - 1. Era of Chaos  Sottosuolo - Capitolo 28_1. 28-1  La festa dell'ascia"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 28_1.md"
 toc: false

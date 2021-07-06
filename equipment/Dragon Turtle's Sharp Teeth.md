@@ -2,7 +2,7 @@
 title: "Denti di Tartaruga draconica"
 permalink: /equipment/Dragon Turtle's Sharp Teeth/
 excerpt: "Era of Chaos Denti di Tartaruga draconica. Denti di Tartaruga draconica"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Dragon Turtle's Sharp Teeth.md"
 toc: false

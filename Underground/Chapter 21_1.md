@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 21 - 21-1 Dono di guerra"
 permalink: /Underground/Chapter 21_1/
 excerpt: "Capitolo 21 - 1. Era of Chaos  Sottosuolo - Capitolo 21_1. 21-1 Dono di guerra"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 21_1.md"
 toc: false

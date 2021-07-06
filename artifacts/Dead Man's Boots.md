@@ -2,7 +2,7 @@
 title: "Manufatti - Mantello del Re Non Morto - Stivali del Morto"
 permalink: /artifacts/Dead Man's Boots/
 excerpt: "Era of Chaos  Mantello del Re Non Morto - Stivali del Morto. Stivali che rendono veloci come il vento. Uno dei componenti del Mantello del Re Non Morto."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Dead Man's Boots.md"
 toc: false

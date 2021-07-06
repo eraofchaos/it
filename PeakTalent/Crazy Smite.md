@@ -2,7 +2,7 @@
 title: "Colpo brutale. Talento Apice - Colpo brutale"
 permalink: /PeakTalent/Crazy Smite/
 excerpt: "Era of Chaos Talento Apice Colpo brutale. Talento Apice Colpo brutale. Colpo brutale"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Crazy Smite.md"
 toc: false

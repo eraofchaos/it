@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 - 22-8 Draghi arcobaleno"
 permalink: /Main Story/Chapter 22_8/
 excerpt: "Capitolo 22 - 8. Era of Chaos  Storia principale - Capitolo 22_8. 22-8 Draghi arcobaleno"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 22_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 Il ritorno della Regina"
 permalink: /Main Story/Chapter 2/
 excerpt: "Capitolo 2. Era of Chaos  Storia principale - Capitolo 2. Il ritorno della Regina"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Chapter 2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Emblema sacro - Testimonianza"
 permalink: /Emblem/Witness/
 excerpt: "Era of Chaos Testimonianza. Testimonianza. Era of Chaos Emblema sacro Testimonianza. Era of Chaos Bontà Testimonianza"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Witness.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Armatura mistica"
 permalink: /equipment/Mystic Armor/
 excerpt: "Era of Chaos Armatura mistica. Armatura mistica"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Mystic Armor.md"
 toc: false

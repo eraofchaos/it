@@ -2,7 +2,7 @@
 title: "Stivali della guarnigione"
 permalink: /equipment/Garrison Boots/
 excerpt: "Era of Chaos Stivali della guarnigione. Stivali della guarnigione"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Garrison Boots.md"
 toc: false

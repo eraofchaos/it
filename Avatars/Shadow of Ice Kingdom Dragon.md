@@ -2,7 +2,7 @@
 title: "Avatar - Drago Ombra del Regno di Ghiaccio"
 permalink: /Avatars/Shadow of Ice Kingdom Dragon/
 excerpt: "Era of Chaos  Drago Ombra del Regno di Ghiaccio"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Shadow of Ice Kingdom Dragon.md"
 toc: false

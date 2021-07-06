@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 29  Settimana della Necropoli
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **19 Jul** | **3x [Scheletro](/ItemsIT/unt_208/)**  | Un gruppo di Scheletri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **20 Jul** | **3x [Morto vivente](/ItemsIT/unt_209/)**  | Un gruppo di Morti viventi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **21 Jul** | **100x <i class="fas fa-gem"/>**  | Le tue truppe hanno trovato diversi tesori all'interno della tomba antica profanata! |
+  | **22 Jul** | **2x [Vampiro](/ItemsIT/unt_211/)**  | Un gruppo di Vampiri è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **23 Jul** | **2x [Anima](/ItemsIT/unt_210/)**  | Un gruppo di Anime è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **24 Jul** | **5x [Scrigno Unità Necropoli](/ItemsIT/con_1271/)**  | Le tue unità Necropoli ti donano numerosi scrigni del tesoro! |
+  | **25 Jul** | **3x [Vidomina](/ItemsIT/her_372/)**  | Vidomina nutre un certo interesse per i tuoi guerrieri non morti e ha intenzione di unirsi alla tua squadra! |
+
 
 #### 2021 Week 28  Settimana del Baluardo
 

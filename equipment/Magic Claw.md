@@ -2,7 +2,7 @@
 title: "Artiglio magico"
 permalink: /equipment/Magic Claw/
 excerpt: "Era of Chaos Artiglio magico. Artiglio magico"
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Magic Claw.md"
 toc: false

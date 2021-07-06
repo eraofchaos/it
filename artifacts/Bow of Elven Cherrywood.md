@@ -2,7 +2,7 @@
 title: "Manufatti - Arco del Tiratore esperto - Arco di ciliegio degli Elfi"
 permalink: /artifacts/Bow of Elven Cherrywood/
 excerpt: "Era of Chaos  Arco del Tiratore esperto - Arco di ciliegio degli Elfi. Un arco di legno realizzato dagli Elfi. Uno dei componenti dell'Arco del Tiratore esperto."
-last_modified_at: 2021-06-30
+last_modified_at: 2021-07-06
 locale: it
 ref: "Bow of Elven Cherrywood.md"
 toc: false
