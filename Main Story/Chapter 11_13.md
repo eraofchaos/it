@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-13 Un simbolo di coraggio"
 permalink: /Main Story/Chapter 11_13/
 excerpt: "Capitolo 11 - 13. Era of Chaos  Storia principale - Capitolo 11_13. 11-13 Un simbolo di coraggio"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 11_13.md"
 toc: false

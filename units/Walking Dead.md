@@ -3,7 +3,7 @@ title: "Morto vivente"
 permalink: /units/Walking Dead/
 excerpt: "Era of Chaos Morto vivente. Morto vivente Unità. Zombi. Era of Chaos Corpi marcescenti rianimati da negromanti per combattere senza sosta ciecamente. Le loro membra rigonfie e putrescenti esplodono con effetti disastrosi quando vengono distrutte."
 unitID: 302
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Morto vivente"
 toc: true
@@ -125,7 +125,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">La Rid DAN dei Morti viventi aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str4"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se l'unità attaccante ha </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Morale basso&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Difesa funerea
- **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. La loro Rid DAN aumenta quando affrontano unità che soffrono di &lt;Morale basso&gt; (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str5"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Armonia magica
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black">).

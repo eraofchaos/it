@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 - 14-6 La bestia"
 permalink: /Main Story/Chapter 14_6/
 excerpt: "Capitolo 14 - 6. Era of Chaos  Storia principale - Capitolo 14_6. 14-6 La bestia"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 14_6.md"
 toc: false

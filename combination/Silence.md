@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Silenzio"
 permalink: /combination/Silence/
 excerpt: "Informazioni combinazione - Silenzio. Units and Heroes Formation."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Silenzio.md"
 toc: false

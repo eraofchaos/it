@@ -2,7 +2,7 @@
 title: "Medaglia dei Signori. Talento Apice - Medaglia dei Signori"
 permalink: /PeakTalent/Medal of Lords/
 excerpt: "Era of Chaos Talento Apice Medaglia dei Signori. Talento Apice Medaglia dei Signori. Medaglia dei Signori"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Medal of Lords.md"
 toc: false

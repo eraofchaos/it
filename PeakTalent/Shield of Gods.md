@@ -2,7 +2,7 @@
 title: "Scudo degli dei. Talento Apice - Scudo degli dei"
 permalink: /PeakTalent/Shield of Gods/
 excerpt: "Era of Chaos Talento Apice Scudo degli dei. Talento Apice Scudo degli dei. Scudo degli dei"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Shield of Gods.md"
 toc: false

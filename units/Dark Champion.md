@@ -3,7 +3,7 @@ title: "Campione oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Campione oscuro. Campione oscuro Unità. null. Era of Chaos Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime."
 unitID: 309
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Campione oscuro"
 toc: true
@@ -113,7 +113,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">Danno dell'unità aumentato (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). I PF ottenuti tramite &lt;Destino finale&gt; aumentano di un ulteriore 4% per ogni unità Necropoli sul campo di battaglia. I PF ottenuti tramite &lt;Destino finale&gt; aumentano di un ulteriore 1% per ogni unità Necropoli evocata sul campo di battaglia. &lt;Destino finale&gt; può aumentare i PF fino a un massimo di 25%. Quando un eroe alleato lancia un incantesimo di tipo Terra, riduce di 4 secondi il recupero di 1 incantesimo casuale.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Difesa funerea
- **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. La loro Rid DAN aumenta quando affrontano unità che soffrono di &lt;Morale basso&gt; (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Armonia magica
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">).

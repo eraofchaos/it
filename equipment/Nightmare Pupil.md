@@ -2,7 +2,7 @@
 title: "Pupilla dell'Incubo"
 permalink: /equipment/Nightmare Pupil/
 excerpt: "Era of Chaos Pupilla dell'Incubo. Pupilla dell'Incubo"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Nightmare Pupil.md"
 toc: false

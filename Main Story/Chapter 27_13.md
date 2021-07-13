@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-13 Il potere del Sangue di drago"
 permalink: /Main Story/Chapter 27_13/
 excerpt: "Capitolo 27 - 13. Era of Chaos  Storia principale - Capitolo 27_13. 27-13 Il potere del Sangue di drago"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 27_13.md"
 toc: false

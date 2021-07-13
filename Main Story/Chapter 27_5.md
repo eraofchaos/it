@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-5 Amplificazione sensoriale"
 permalink: /Main Story/Chapter 27_5/
 excerpt: "Capitolo 27 - 5. Era of Chaos  Storia principale - Capitolo 27_5. 27-5 Amplificazione sensoriale"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 27_5.md"
 toc: false

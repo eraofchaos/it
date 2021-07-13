@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Rampart"
 permalink: /Exclusive/Exclusive Rampart/
 excerpt: "Era of Chaos Esclusivo Rampart. Esclusivo Rampart. List of Esclusivo Rampart in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Exclusive Rampart"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
 
   | Nr |         Unit        | Esclusivo | Open  |    Type   |  Item to Rank UP      |  Skin   |
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
-  | 1  | [Centauro](/it/units/Centaur/) | [Scudo dell'Iride](/it/Exclusive/Centaur Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
+  | 1  | [Centauro](/it/units/Centaur/) | [Scudo dell'Iride](/it/Exclusive/Centaur Iris Shield/) | + | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
   | 2  | [Gnomo](/it/units/Dwarf/) | [Scudo dell'Iride](/it/Exclusive/Dwarf Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
   | 3  | [Elfo del bosco](/it/units/Wood Elf/) | [Arco lungo](/it/Exclusive/Wood Elf Long Bow/) | - | Carica | [Token Arco lungo](/ItemsIT/con_914/) | - |
   | 4  | [Pegaso](/it/units/Pegasus/) | [Arco lungo](/it/Exclusive/Pegasus Long Bow/) | + | Carica | [Token Arco lungo](/ItemsIT/con_914/) | - |

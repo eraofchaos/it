@@ -1,9 +1,9 @@
 ---
 title: "Gnomo"
 permalink: /units/Dwarf/
-excerpt: "Era of Chaos Gnomo. Gnomo Unità. null. Era of Chaos Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli."
+excerpt: "Era of Chaos Gnomo. Gnomo Unità. Gnomo guerriero. Era of Chaos Gli Gnomi contrappongono una difesa impenetrabile a chiunque li attacchi. Rapidi all'ira, brandiscono martelli i cui rintocchi seminano il terrore nel cuore di chiunque debba affrontarli."
 unitID: 202
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Gnomo"
 toc: true
@@ -186,41 +186,43 @@ toc: true
 
 ## Awaking
 
+  ![Gnomo guerriero](/images/u/unknown.png)
+
 ### Awaking Dettagli
- **Is it possible right now?** NO
+ **Is it possible right now?** YES
 
- **Awaking Name:** null
+ **Awaking Name:** Gnomo guerriero
 
- **Awaking Descrizione:** null
+ **Awaking Descrizione:** Ero uno Gnomo, un tempo. Ho 333 anni e vivo ad AvLee. Non sono sposato. Passo le giornate a massacrare gente nella Tesoreria degli gnomi e faccio gli straordinari fino alle 5 del mattino prima di tornare finalmente a casa. Meno di un minuto più tardi, mi tocca ricominciare.
 
 ### Awaking Tasks
- 1. <span style="color: #3c2a1e;font-size:18px">Schiera i Picchieri e un minimo di </span><span style="color: #1ca216;font-size:18px">3</span><span style="color: #3c2a1e;font-size:18px"> unità Castello e uccidi </span><span style="color: #1ca216;font-size:18px">1000</span><span style="color: #3c2a1e;font-size:18px"> Gnomi in un singolo attacco alla Tesoreria degli gnomi. (I raid non sono considerati nel conteggio della missione.)</span>
+ 1. <span style="color: #3c2a1e;font-size:18px">Schiera uno Gnomo con almeno 3 unità Baluardo e completa l'Utopia dei Dragoni 1 volta a livello Spietato o superiore. (Le pulizie non sono considerate nel conteggio della missione.)</span>
 
- 2. <span style="color: #3c2a1e;font-size:18px">Uccidi </span><span style="color: #1ca216;font-size:18px">5</span><span style="color: #3c2a1e;font-size:18px"> mostri durante un'Avventura della Gilda.</span>
+ 2. <span style="color: #3c2a1e;font-size:18px">Ottieni 5 risorse durante un'Avventura della Gilda.</span>
 
- 3. <span style="color: #3c2a1e;font-size:18px">Ottieni </span><span style="color: #1ca216;font-size:18px">100</span><span style="color: #3c2a1e;font-size:18px"> anime di Alabardiere nei livelli del Sottosuolo 14-2 e 14-4.</span>
+ 3. <span style="color: #3c2a1e;font-size:18px">Ottieni 100 anime di Gnomo guerriero nei livelli del Sottosuolo 15-2 e 15-4.</span>
 
- 4. null
+ 4. <span style="color: #3c2a1e;font-size:18px">Schiera uno Gnomo e vinci 1 battaglia del Duello dei Campioni.</span>
 
 ## Awaken Skills
 
-### 1st Skill (or 2nd): Spazzata Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px"> ora colpisce le unità più grandi</span>
+### 1st Skill (or 2nd): Urlo disperato
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Urlo disperato&gt;</span><span style="color: #645252;font-size:18px"> &lt;Urlo dello Gnomo&gt; colpisce l'intero campo di battaglia e aumenta del 10% il DAN delle unità alleate.</span>
 
-### 2nd Skill (or 1st): Colpo Muro di lance
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di lance&gt;</span><span style="color: #645252;font-size:18px">: DAN aumentato al 150%, durata &lt;Stordimento&gt; aumentata a 4,5 secondi</span>
+### 2nd Skill (or 1st): Urlo del Baluardo
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Urlo del Baluardo&gt;</span><span style="color: #645252;font-size:18px"> &lt;Urlo dello Gnomo&gt; protegge inoltre le unità alleate nelle vicinanze con uno &lt;scudo&gt; pari al 15% dei PF massimi. Durata: 20 secondi.</span>
 
-### 3rd Skill (or 4th): Muro impenetrabile
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la Rid DAN delle unità aumenta del 30% per 10 secondi</span>
+### 3rd Skill (or 4th): Esplosione di spine
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Esplosione di spine&gt;</span><span style="color: #645252;font-size:18px"> Quando viene attivata, riduce la Rid DAN dell'unità bersaglio di un ulteriore 20% per 5 secondi.</span>
 
-### 4th Skill (or 3rd): Muro cavo
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Comando&gt;</span><span style="color: #645252;font-size:18px">: con &lt;Morale alto&gt;, la resistenza magica aumenta del 30% per 10 secondi</span>
+### 4th Skill (or 3rd): Elisir dell'emicrania
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Elisir dell'emicrania&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la durata dello &lt;stordimento&gt; inflitto di 4 secondi. Se l'unità bersaglio è affetta da &lt;sanguinamento&gt;, inoltre, il suo DAN si riduce del 10%. Durata: 8 secondi.</span>
 
-### 5th Skill (or 6th): Infiltrazione
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, causa &lt;Impedimento&gt; al bersaglio. &lt;Impedimento&gt;: riduce il CRIT del bersaglio di 300.</span>
+### 5th Skill (or 6th): Barricata di legno
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Barricata di legno&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la Tenacia delle unità alleate protette dal &lt;velo&gt; di 300 punti aggiuntivi.</span>
 
-### 6th Skill (or 5th): Assalto estenuante
- **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Caccia al Drago&gt;</span><span style="color: #645252;font-size:18px">: contro unità da 1 o 4 membri, riduce la Schivata del bersaglio di 300.</span>
+### 6th Skill (or 5th): Muro di betulla
+ **Descrizione:** <span style="color: #48b946;font-size:18px">&lt;Muro di betulla&gt;</span><span style="color: #645252;font-size:18px"> Aumenta la Rid DAN CRIT delle unità alleate protette dal &lt;velo&gt; di un ulteriore 20%.</span>
 
 ## Technical info
  **runart:** 1

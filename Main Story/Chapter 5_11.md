@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-11 La venuta dell'angelo"
 permalink: /Main Story/Chapter 5_11/
 excerpt: "Capitolo 5 - 11. Era of Chaos  Storia principale - Capitolo 5_11. 5-11 La venuta dell'angelo"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 5_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-15 L'unificazione di Nighon"
 permalink: /Main Story/Chapter 27_15/
 excerpt: "Capitolo 27 - 15. Era of Chaos  Storia principale - Capitolo 27_15. 27-15 L'unificazione di Nighon"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 27_15.md"
 toc: false

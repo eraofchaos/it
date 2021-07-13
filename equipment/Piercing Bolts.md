@@ -2,7 +2,7 @@
 title: "Quadrelli perforanti"
 permalink: /equipment/Piercing Bolts/
 excerpt: "Era of Chaos Quadrelli perforanti. Quadrelli perforanti"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Piercing Bolts.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Aiutante Sephinroth"
 permalink: /heroes/Adjutant Sephinroth/
 excerpt: "Era of Chaos  Aiutante Sephinroth"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Adjutant Sephinroth.md"
 QR: adhero_61402

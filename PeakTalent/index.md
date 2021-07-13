@@ -2,7 +2,7 @@
 title: "Talento Apice"
 permalink: /PeakTalent/
 excerpt: "Era of Chaos Talento Apice. Talento Apice. I Talenti Apice saranno disponibili a partire dal liv. 110"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "index.md"
 toc: false

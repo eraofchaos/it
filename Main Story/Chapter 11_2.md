@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-2 Resistenza solitaria"
 permalink: /Main Story/Chapter 11_2/
 excerpt: "Capitolo 11 - 2. Era of Chaos  Storia principale - Capitolo 11_2. 11-2 Resistenza solitaria"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 11_2.md"
 toc: false

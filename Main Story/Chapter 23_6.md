@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-6 La tana nella miniera"
 permalink: /Main Story/Chapter 23_6/
 excerpt: "Capitolo 23 - 6. Era of Chaos  Storia principale - Capitolo 23_6. 23-6 La tana nella miniera"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 23_6.md"
 toc: false

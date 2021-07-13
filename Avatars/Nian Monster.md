@@ -2,7 +2,7 @@
 title: "Avatar - Unknown Avatar Frame 1056"
 permalink: /Avatars/Nian Monster/
 excerpt: "Era of Chaos  Unknown Avatar Frame 1056"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Nian Monster.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "index.md"
 toc: false
@@ -34,7 +34,7 @@ classes: wide
   | 12 | ![Campione oscuro](/images/u/ti_sishen.jpg) | [Campione oscuro](/it/units/Dark Champion/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1029.5 | 9504 |   -   |
   | 13 | ![Catafratto](/images/u/ti_qishi.jpg) | [Catafratto](/it/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Cavalieri campioni  |
   | 14 | ![Cavaliere nero](/images/u/ti_siwangqishi.jpg) | [Cavaliere nero](/it/units/Black Knight/) | Incursione | + | SSR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 115.8 | 910 |  Terrore in marcia  |
-  | 15 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/it/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | - | 111.0 | 2691 |  Capitano Centauro  |
+  | 15 | ![Centauro](/images/u/ti_banrenma.jpg) | [Centauro](/it/units/Centaur/) | Difesa | + | R | x9 | <i class="fas fa-star"/> | + | 111.0 | 2691 |  Capitano Centauro  |
   | 16 | ![Ciclope](/images/u/ti_duyanjuren.jpg) | [Ciclope](/it/units/Cyclops/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Re Ciclope  |
   | 17 | ![Demone](/images/u/ti_changjiaoemo.jpg) | [Demone](/it/units/Demon/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia infernale  |
   | 18 | ![Demone dell'abisso](/images/u/ti_diyulingzhu.jpg) | [Demone dell'abisso](/it/units/Pit Fiend/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Signore dell'abisso  |
@@ -62,7 +62,7 @@ classes: wide
   | 40 | ![Gigante](/images/u/ti_taitan.jpg) | [Gigante](/it/units/Giant/) | Incantatore | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5431 |  Titano  |
   | 41 | ![Giudice](/images/u/ti_shenpanguan.jpg) | [Giudice](/it/units/Judicator/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 565.7 | 6109 |   -   |
   | 42 | ![Gnoll](/images/u/ti_langren.jpg) | [Gnoll](/it/units/Gnoll/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | + | 84.4 | 761 |  Guerriero gnoll  |
-  | 43 | ![Gnomo](/images/u/ti_airen.jpg) | [Gnomo](/it/units/Dwarf/) | Difesa | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |   -   |
+  | 43 | ![Gnomo](/images/u/ti_airen.jpg) | [Gnomo](/it/units/Dwarf/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Gnomo guerriero  |
   | 44 | ![Goblin](/images/u/ti_shourenzhanshi.jpg) | [Goblin](/it/units/Goblin/) | Attacco | + | R | x9 | <i class="fas fa-star"/> | - | 82.7 | 761 |  Hobgoblin  |
   | 45 | ![Gog](/images/u/ti_touhuoguai.jpg) | [Gog](/it/units/Gog/) | Incantatore | + | R | x9 | <i class="fas fa-star"/> | - | 102.6 | 629 |  Magog  |
   | 46 | ![Golem di ferro](/images/u/ti_tieren.jpg) | [Golem di ferro](/it/units/Iron Golem/) | Difesa | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Golem d'oro  |

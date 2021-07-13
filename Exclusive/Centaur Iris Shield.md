@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Centaur)"
 permalink: /Exclusive/Centaur Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Centauro Esclusivo."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Centaur Scudo dell'Iride.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carica
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1440
 
@@ -29,13 +29,13 @@ classes: wide
 
   |     Stars    |  Required to Up | Effetto |
   |:-------------|:---------------:|:---------------:|
-  |  Risveglio  | **100x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Onda d'urto devastante> Quando lancia <Schiacciata>, il Centauro emette un'immane onda d'urto, <rallentando> i nemici circostanti e riducendone il DAN del 20% per 10 secondi. |
-  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | All'inizio della battaglia, il Centauro protegge tutte le unità alleate nella prima fila con uno <scudo> pari al 20% dei PF massimi per 20 secondi. |
+  |  Risveglio  | **100x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Onda d'urto devastante> Quando lancia <Schiacciata>, il Centauro emette un'immane onda d'urto, <rallentando> i nemici circostanti e riducendone il DAN del 15% per 8 secondi. |
+  | **1x** <i class="fas fa-star"/> | **50x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | All'inizio della battaglia, il Centauro protegge tutte le unità alleate nella prima fila con uno <scudo> pari al 15% dei PF massimi per 15 secondi. |
   | **2x** <i class="fas fa-star"/> | **90x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Quando il Centauro è protetto da uno <scudo>, la sua DIF aumenta del 20% per 10 secondi. Questo effetto non è cumulabile. |
   | **3x** <i class="fas fa-star"/> | **130x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Onda d'urto devastante> La durata aumenta di 10 secondi; infligge danni alle unità nemiche pari al 10% dell'ATT ogni 0,5 secondi. |
   | **4x** <i class="fas fa-star"/> | **170x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Ogni volta che viene schierata un'unità Baluardo, i PF del Centauro aumentano del 10%. |
   | **5x** <i class="fas fa-star"/> | **210x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | Ogni volta che viene schierata un'unità Baluardo, la Rid DAN del Centauro aumenta del 3%. |
-  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Zoccoli feroci> Quando il Centauro è protetto da uno <scudo> lancia immediatamente <Zoccoli feroci>, infliggendo danni pari al 100% dell'ATT ai nemici nell'area e <stordendo> i nemici <rallentati> per 1-3 secondi. Recupero: 5 secondi. |
+  | **6x** <i class="fas fa-star"/> | **250x** [Token Scudo dell'Iride](/ItemsIT/con_913/) | <Zoccoli feroci> Quando il Centauro è protetto da uno <scudo> lancia immediatamente <Zoccoli feroci>, infliggendo danni pari al 100% dell'ATT ai nemici nell'area e <stordendo> i nemici <rallentati> per 1-3 secondi. Recupero: 9 secondi. |
 
 
 ## Livello ↑

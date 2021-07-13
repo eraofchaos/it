@@ -2,7 +2,7 @@
 title: "Ascia delle terre selvagge"
 permalink: /equipment/Battleaxe of the Wild/
 excerpt: "Era of Chaos Ascia delle terre selvagge. Ascia delle terre selvagge"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Battleaxe of the Wild.md"
 toc: false

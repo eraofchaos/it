@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 27 - 27-4 Il poeta folle "
 permalink: /Underground/Chapter 27_4/
 excerpt: "Capitolo 27 - 4. Era of Chaos  Sottosuolo - Capitolo 27_4. 27-4 Il poeta folle "
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 27_4.md"
 toc: false

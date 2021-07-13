@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-7 Orgoglio"
 permalink: /Main Story/Chapter 7_7/
 excerpt: "Capitolo 7 - 7. Era of Chaos  Storia principale - Capitolo 7_7. 7-7 Orgoglio"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 7_7.md"
 toc: false

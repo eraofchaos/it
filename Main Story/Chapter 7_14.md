@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-14 Cuore infranto"
 permalink: /Main Story/Chapter 7_14/
 excerpt: "Capitolo 7 - 14. Era of Chaos  Storia principale - Capitolo 7_14. 7-14 Cuore infranto"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 7_14.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Corno da battaglia. Talento Apice - Corno da battaglia"
 permalink: /PeakTalent/Battle Horn/
 excerpt: "Era of Chaos Talento Apice Corno da battaglia. Talento Apice Corno da battaglia. Corno da battaglia"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Battle Horn.md"
 toc: false

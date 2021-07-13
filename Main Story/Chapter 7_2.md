@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-2 Una cospirazione viene a galla"
 permalink: /Main Story/Chapter 7_2/
 excerpt: "Capitolo 7 - 2. Era of Chaos  Storia principale - Capitolo 7_2. 7-2 Una cospirazione viene a galla"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 7_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 25 - 25-2 Burattino di ferro"
 permalink: /Underground/Chapter 25_2/
 excerpt: "Capitolo 25 - 2. Era of Chaos  Sottosuolo - Capitolo 25_2. 25-2 Burattino di ferro"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 25_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 13 - 13-2 Un potere malvagio"
 permalink: /Underground/Chapter 13_2/
 excerpt: "Capitolo 13 - 2. Era of Chaos  Sottosuolo - Capitolo 13_2. 13-2 Un potere malvagio"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 13_2.md"
 toc: false

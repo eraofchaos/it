@@ -2,7 +2,7 @@
 title: "Freccia d'acciaio"
 permalink: /equipment/Steel Arrow/
 excerpt: "Era of Chaos Freccia d'acciaio. Freccia d'acciaio"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Steel Arrow.md"
 toc: false

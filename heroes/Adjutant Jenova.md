@@ -2,7 +2,7 @@
 title: "Aiutante Jenova"
 permalink: /heroes/Adjutant Jenova/
 excerpt: "Era of Chaos  Aiutante Jenova"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Adjutant Jenova.md"
 QR: adhero_60202

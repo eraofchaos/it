@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-4 Per la giustizia"
 permalink: /Main Story/Chapter 13_4/
 excerpt: "Capitolo 13 - 4. Era of Chaos  Storia principale - Capitolo 13_4. 13-4 Per la giustizia"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 13_4.md"
 toc: false

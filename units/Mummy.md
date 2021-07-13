@@ -3,7 +3,7 @@ title: "Mummia"
 permalink: /units/Mummy/
 excerpt: "Era of Chaos Mummia. Mummia Unità. Re delle Mummie. Era of Chaos I non morti riposano nel loro antichissimo mausoleo. Tremende maledizioni aspettano gli ignari intrusi."
 unitID: 308
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Mummia"
 toc: true
@@ -119,7 +119,7 @@ toc: true
  **Descrizione:** <span style="color: #645252;font-size:20px">DIF della Mummia aumentata (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str6"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">). Effetto raddoppiato se l'unità attaccante è affetta da </span><span style="color: black"><span style="color: #48b946;font-size:20px">&lt;Malattia&gt;</span><span style="color: black"><span style="color: #645252;font-size:20px">.</span><span style="color: black">
 
 ### Tecnica speciale fazione I : Difesa funerea
- **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. Quando affrontano unità affette da &lt;Morale basso&gt;, il loro danno aumenta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
+ **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli si nutrono della disperazione dei nemici. La loro Rid DAN aumenta quando affrontano unità che soffrono di &lt;Morale basso&gt; (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str7"></span>%</span><span style="color: black"><span style="color: #645252;font-size:20px">).</span><span style="color: black">
 
 ### Tecnica speciale fazione II : Armonia magica
  **Descrizione:** <span style="color: #645252;font-size:20px">Le unità Necropoli sono esperte nella soppressione degli incantesimi. Se sono sul campo di battaglia, la resistenza magica di tutte le unità nemiche è ridotta (</span><span style="color: black"><span style="color: #48b946;font-size:20px"><span id="str8"></span>%</span><span style="color: black">).

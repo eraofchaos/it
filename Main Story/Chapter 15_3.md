@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-3 Cercando la pace"
 permalink: /Main Story/Chapter 15_3/
 excerpt: "Capitolo 15 - 3. Era of Chaos  Storia principale - Capitolo 15_3. 15-3 Cercando la pace"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 15_3.md"
 toc: false

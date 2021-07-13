@@ -2,7 +2,7 @@
 title: "Lama affilata"
 permalink: /equipment/Razor-bladed Sabre/
 excerpt: "Era of Chaos Lama affilata. Lama affilata"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Razor-bladed Sabre.md"
 toc: false

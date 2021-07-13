@@ -2,7 +2,7 @@
 title: "Artigli magici di Drago"
 permalink: /equipment/Magic Dragon Claws/
 excerpt: "Era of Chaos Artigli magici di Drago. Artigli magici di Drago"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Magic Dragon Claws.md"
 toc: false

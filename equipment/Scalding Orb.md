@@ -2,7 +2,7 @@
 title: "Sfera ustionante"
 permalink: /equipment/Scalding Orb/
 excerpt: "Era of Chaos Sfera ustionante. Sfera ustionante"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Scalding Orb.md"
 toc: false

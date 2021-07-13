@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 19 - 19-1 Sangue e ferro"
 permalink: /Underground/Chapter 19_1/
 excerpt: "Capitolo 19 - 1. Era of Chaos  Sottosuolo - Capitolo 19_1. 19-1 Sangue e ferro"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 19_1.md"
 toc: false

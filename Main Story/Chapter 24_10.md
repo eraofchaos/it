@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-10 La maledizione dell'ammazzadraghi"
 permalink: /Main Story/Chapter 24_10/
 excerpt: "Capitolo 24 - 10. Era of Chaos  Storia principale - Capitolo 24_10. 24-10 La maledizione dell'ammazzadraghi"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 24_10.md"
 toc: false

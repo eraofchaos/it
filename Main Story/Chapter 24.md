@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 Drago fatato"
 permalink: /Main Story/Chapter 24/
 excerpt: "Capitolo 24. Era of Chaos  Storia principale - Capitolo 24. Drago fatato"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 24.md"
 toc: false

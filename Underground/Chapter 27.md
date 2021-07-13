@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 27 La via del pellegrino"
 permalink: /Underground/Chapter 27/
 excerpt: "Capitolo 27 La via del pellegrino. Era of Chaos  Sottosuolo - Capitolo 27. La via del pellegrino"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 27.md"
 toc: false

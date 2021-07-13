@@ -2,7 +2,7 @@
 title: "Manufatti - Spada dell'Armageddon - Spada da Cavaliere"
 permalink: /artifacts/Knight Sword/
 excerpt: "Era of Chaos  Spada dell'Armageddon - Spada da Cavaliere. Spada usata dagli eroi a difesa dei castelli. Uno dei componenti della Spada dell'Armageddon."
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Knight Sword.md"
 toc: false

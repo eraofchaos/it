@@ -2,7 +2,7 @@
 title: "Armatura leggera stregata"
 permalink: /equipment/Charmed Light Armor/
 excerpt: "Era of Chaos Armatura leggera stregata. Armatura leggera stregata"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Charmed Light Armor.md"
 toc: false

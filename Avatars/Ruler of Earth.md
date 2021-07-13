@@ -2,7 +2,7 @@
 title: "Avatar - Dominatore della terra"
 permalink: /Avatars/Ruler of Earth/
 excerpt: "Era of Chaos  Dominatore della terra"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Ruler of Earth.md"
 toc: false

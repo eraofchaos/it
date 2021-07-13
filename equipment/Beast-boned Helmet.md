@@ -2,7 +2,7 @@
 title: "Elmo d'ossa di bestia"
 permalink: /equipment/Beast-boned Helmet/
 excerpt: "Era of Chaos Elmo d'ossa di bestia. Elmo d'ossa di bestia"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Beast-boned Helmet.md"
 toc: false

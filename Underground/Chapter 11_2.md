@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 11 - 11-2 Protagonisti"
 permalink: /Underground/Chapter 11_2/
 excerpt: "Capitolo 11 - 2. Era of Chaos  Sottosuolo - Capitolo 11_2. 11-2 Protagonisti"
-last_modified_at: 2021-07-06
+last_modified_at: 2021-07-13
 locale: it
 ref: "Chapter 11_2.md"
 toc: false
