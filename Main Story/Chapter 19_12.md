@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 19 - 19-12 I prodotti della magia"
 permalink: /Main Story/Chapter 19_12/
 excerpt: "Capitolo 19 - 12. Era of Chaos  Storia principale - Capitolo 19_12. 19-12 I prodotti della magia"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 19_12.md"
 toc: false

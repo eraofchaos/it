@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-3 Un mago in viaggio"
 permalink: /Main Story/Chapter 16_3/
 excerpt: "Capitolo 16 - 3. Era of Chaos  Storia principale - Capitolo 16_3. 16-3 Un mago in viaggio"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 16_3.md"
 toc: false

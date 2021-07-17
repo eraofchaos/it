@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-3 Scontro di confine"
 permalink: /Main Story/Chapter 7_3/
 excerpt: "Capitolo 7 - 3. Era of Chaos  Storia principale - Capitolo 7_3. 7-3 Scontro di confine"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 7_3.md"
 toc: false

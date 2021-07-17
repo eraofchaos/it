@@ -2,7 +2,7 @@
 title: "Arte delle Unità. Talento Apice - Arte delle Unità"
 permalink: /PeakTalent/The Art of Unit/
 excerpt: "Era of Chaos Talento Apice Arte delle Unità. Talento Apice Arte delle Unità. Arte delle Unità"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "The Art of Unit.md"
 toc: false

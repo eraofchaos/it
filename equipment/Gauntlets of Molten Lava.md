@@ -2,7 +2,7 @@
 title: "Guanti di lava"
 permalink: /equipment/Gauntlets of Molten Lava/
 excerpt: "Era of Chaos Guanti di lava. Guanti di lava"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Gauntlets of Molten Lava.md"
 toc: false

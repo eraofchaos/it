@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-8 I boschi avvizziti"
 permalink: /Main Story/Chapter 29_8/
 excerpt: "Capitolo 29 - 8. Era of Chaos  Storia principale - Capitolo 29_8. 29-8 I boschi avvizziti"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 29_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 - 14-14 La fortezza del Domatore"
 permalink: /Main Story/Chapter 14_14/
 excerpt: "Capitolo 14 - 14. Era of Chaos  Storia principale - Capitolo 14_14. 14-14 La fortezza del Domatore"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 14_14.md"
 toc: false

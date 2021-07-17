@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 21 - 21-11 Pelle verde"
 permalink: /Main Story/Chapter 21_11/
 excerpt: "Capitolo 21 - 11. Era of Chaos  Storia principale - Capitolo 21_11. 21-11 Pelle verde"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 21_11.md"
 toc: false

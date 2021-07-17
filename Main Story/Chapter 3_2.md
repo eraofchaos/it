@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-2 Il tempio maledetto"
 permalink: /Main Story/Chapter 3_2/
 excerpt: "Capitolo 3 - 2. Era of Chaos  Storia principale - Capitolo 3_2. 3-2 Il tempio maledetto"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 3_2.md"
 toc: false

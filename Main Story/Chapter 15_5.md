@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 15 - 15-5 Sforzi di pace"
 permalink: /Main Story/Chapter 15_5/
 excerpt: "Capitolo 15 - 5. Era of Chaos  Storia principale - Capitolo 15_5. 15-5 Sforzi di pace"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 15_5.md"
 toc: false

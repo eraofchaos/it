@@ -2,7 +2,7 @@
 title: "Esclusivo - Coda di Viverna (Wyvern)"
 permalink: /Exclusive/Wyvern Wyvern's Tail/
 excerpt: "Era of Chaos Coda di Viverna. Coda di Viverna. Era of Chaos Esclusivo Coda di Viverna. Viverna Esclusivo."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Wyvern Coda di Viverna.md"
 toc: false

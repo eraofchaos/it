@@ -2,7 +2,7 @@
 title: "Esclusivo - Scudo dell'Iride (Ogre)"
 permalink: /Exclusive/Ogre Iris Shield/
 excerpt: "Era of Chaos Scudo dell'Iride. Scudo dell'Iride. Era of Chaos Esclusivo Scudo dell'Iride. Ogre Esclusivo."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Ogre Scudo dell'Iride.md"
 toc: false

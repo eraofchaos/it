@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-12 Avanzata trionfale"
 permalink: /Main Story/Chapter 9_12/
 excerpt: "Capitolo 9 - 12. Era of Chaos  Storia principale - Capitolo 9_12. 9-12 Avanzata trionfale"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 9_12.md"
 toc: false

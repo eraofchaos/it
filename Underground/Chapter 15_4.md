@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 15 - 15-4 Corridoio infernale"
 permalink: /Underground/Chapter 15_4/
 excerpt: "Capitolo 15 - 4. Era of Chaos  Sottosuolo - Capitolo 15_4. 15-4 Corridoio infernale"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 15_4.md"
 toc: false

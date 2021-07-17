@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 29 - 29-3 Biblioteca abbandonata"
 permalink: /Main Story/Chapter 29_3/
 excerpt: "Capitolo 29 - 3. Era of Chaos  Storia principale - Capitolo 29_3. 29-3 Biblioteca abbandonata"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 29_3.md"
 toc: false

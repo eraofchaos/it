@@ -2,7 +2,7 @@
 title: "Avatar - Condottiero del mare"
 permalink: /Avatars/Warlord of the Sea/
 excerpt: "Era of Chaos  Condottiero del mare"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Warlord of the Sea.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Pietra runica Antimagia"
 permalink: /artifacts/Antimagic Runestone/
 excerpt: "Era of Chaos  Pietra runica Antimagia. Pietra runica Antimagia Pietra runica Antimagia realizzata usando oggetti incantati. Può aumentare la resistenza al danno magico."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Antimagic Runestone.md"
 toc: false

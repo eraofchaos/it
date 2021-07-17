@@ -2,7 +2,7 @@
 title: "Tocco immortale"
 permalink: /equipment/Immortal Touch/
 excerpt: "Era of Chaos Tocco immortale. Tocco immortale"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Immortal Touch.md"
 toc: false

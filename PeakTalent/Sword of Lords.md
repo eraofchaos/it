@@ -2,7 +2,7 @@
 title: "Spada dei Signori. Talento Apice - Spada dei Signori"
 permalink: /PeakTalent/Sword of Lords/
 excerpt: "Era of Chaos Talento Apice Spada dei Signori. Talento Apice Spada dei Signori. Spada dei Signori"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Sword of Lords.md"
 toc: false

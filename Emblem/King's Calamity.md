@@ -2,7 +2,7 @@
 title: "Emblema sacro - Calamità del Re"
 permalink: /Emblem/King's Calamity/
 excerpt: "Era of Chaos Calamità del Re. Calamità del Re. Era of Chaos Emblema sacro Calamità del Re. Era of Chaos Malvagio Calamità del Re"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "King's Calamity.md"
 toc: false

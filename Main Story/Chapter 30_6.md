@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-6 L'albero morto e la tavoletta di pietra"
 permalink: /Main Story/Chapter 30_6/
 excerpt: "Capitolo 30 - 6. Era of Chaos  Storia principale - Capitolo 30_6. 30-6 L'albero morto e la tavoletta di pietra"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 30_6.md"
 toc: false

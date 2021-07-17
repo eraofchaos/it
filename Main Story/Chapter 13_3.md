@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-3 Un valido aiuto"
 permalink: /Main Story/Chapter 13_3/
 excerpt: "Capitolo 13 - 3. Era of Chaos  Storia principale - Capitolo 13_3. 13-3 Un valido aiuto"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 13_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-5 Soffio del drago"
 permalink: /Main Story/Chapter 23_5/
 excerpt: "Capitolo 23 - 5. Era of Chaos  Storia principale - Capitolo 23_5. 23-5 Soffio del drago"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 23_5.md"
 toc: false

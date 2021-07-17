@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-4 Intolleranza"
 permalink: /Main Story/Chapter 12_4/
 excerpt: "Capitolo 12 - 4. Era of Chaos  Storia principale - Capitolo 12_4. 12-4 Intolleranza"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 12_4.md"
 toc: false

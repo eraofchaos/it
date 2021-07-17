@@ -2,7 +2,7 @@
 title: "Spallacci del navigatore"
 permalink: /equipment/Seafaring Pauldrons/
 excerpt: "Era of Chaos Spallacci del navigatore. Spallacci del navigatore"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Seafaring Pauldrons.md"
 toc: false

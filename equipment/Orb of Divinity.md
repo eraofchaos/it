@@ -2,7 +2,7 @@
 title: "Sfera della Divinità"
 permalink: /equipment/Orb of Divinity/
 excerpt: "Era of Chaos Sfera della Divinità. Sfera della Divinità"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Orb of Divinity.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 8 Pensieri deliranti"
 permalink: /Underground/Chapter 8/
 excerpt: "Capitolo 8 Pensieri deliranti. Era of Chaos  Sottosuolo - Capitolo 8. Pensieri deliranti"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 8.md"
 toc: false

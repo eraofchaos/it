@@ -2,7 +2,7 @@
 title: "Timone gelido"
 permalink: /equipment/Frigid Helm/
 excerpt: "Era of Chaos Timone gelido. Timone gelido"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Frigid Helm.md"
 toc: false

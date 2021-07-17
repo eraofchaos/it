@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-1 Quel che resta degli Elfi"
 permalink: /Main Story/Chapter 9_1/
 excerpt: "Capitolo 9 - 1. Era of Chaos  Storia principale - Capitolo 9_1. 9-1 Quel che resta degli Elfi"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 9_1.md"
 toc: false

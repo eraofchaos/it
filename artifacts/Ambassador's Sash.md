@@ -2,7 +2,7 @@
 title: "Manufatti - Penna dell'emissario - Fascia dell'ambasciatore"
 permalink: /artifacts/Ambassador's Sash/
 excerpt: "Era of Chaos  Penna dell'emissario - Fascia dell'ambasciatore. Hai aiutato l'ambasciatore a riparare l'assale. Per sdebitarsi, ti dona una medaglia. \"Ti aiuterà a convincere gli altri\", aggiunge. È uno dei componenti della Penna dell'emissario."
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Ambassador's Sash.md"
 toc: false

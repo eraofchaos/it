@@ -2,7 +2,7 @@
 title: "Colpo preciso. Talento Apice - Colpo preciso"
 permalink: /PeakTalent/Precise Strike/
 excerpt: "Era of Chaos Talento Apice Colpo preciso. Talento Apice Colpo preciso. Colpo preciso"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Precise Strike.md"
 toc: false

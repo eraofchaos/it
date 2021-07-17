@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 12 - 12-4 Angeli e luce sacra"
 permalink: /Underground/Chapter 12_4/
 excerpt: "Capitolo 12 - 4. Era of Chaos  Sottosuolo - Capitolo 12_4. 12-4 Angeli e luce sacra"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Chapter 12_4.md"
 toc: false

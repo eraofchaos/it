@@ -2,7 +2,7 @@
 title: "Emblema sacro - Nucleo della Rete Globale"
 permalink: /Emblem/Core of the Global Network/
 excerpt: "Era of Chaos Nucleo della Rete Globale. Nucleo della Rete Globale. Era of Chaos Emblema sacro Nucleo della Rete Globale. Era of Chaos Neutrale Nucleo della Rete Globale"
-last_modified_at: 2021-07-13
+last_modified_at: 2021-07-14
 locale: it
 ref: "Core of the Global Network.md"
 toc: false
