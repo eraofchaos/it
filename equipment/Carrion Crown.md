@@ -2,7 +2,7 @@
 title: "Corona cadaverica"
 permalink: /equipment/Carrion Crown/
 excerpt: "Era of Chaos Corona cadaverica. Corona cadaverica"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Carrion Crown.md"
 toc: false

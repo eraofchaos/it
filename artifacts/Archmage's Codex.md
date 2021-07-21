@@ -2,7 +2,7 @@
 title: "Manufatti - Codice dell'Arcimago"
 permalink: /artifacts/Archmage's Codex/
 excerpt: "Era of Chaos  Codice dell'Arcimago. Codice dell'Arcimago Un registro di incantesimi arcani. Potenzia unità a distanza e incantatori."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Archmage's Codex.md"
 toc: false

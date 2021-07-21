@@ -2,7 +2,7 @@
 title: "Spallacci chiodati"
 permalink: /equipment/Spiked Pauldrons/
 excerpt: "Era of Chaos Spallacci chiodati. Spallacci chiodati"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Spiked Pauldrons.md"
 toc: false

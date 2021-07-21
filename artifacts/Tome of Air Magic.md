@@ -2,7 +2,7 @@
 title: "Manufatti - Cappello dell'Incantatore - Tomo della Magia dell'Aria"
 permalink: /artifacts/Tome of Air Magic/
 excerpt: "Era of Chaos  Cappello dell'Incantatore - Tomo della Magia dell'Aria. Un libro di incantesimi sulla Magia dell'Aria di livello avanzato. Sfogliando le sue pagine, avverti il potere degli Elementali dell'aria. Uno dei componenti del Cappello dell'Incantatore."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Tome of Air Magic.md"
 toc: false

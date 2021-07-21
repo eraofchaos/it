@@ -2,7 +2,7 @@
 title: "Regione selvaggia. Talento Apice - Regione selvaggia"
 permalink: /PeakTalent/Wild Region/
 excerpt: "Era of Chaos Talento Apice Regione selvaggia. Talento Apice Regione selvaggia. Regione selvaggia"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Wild Region.md"
 toc: false

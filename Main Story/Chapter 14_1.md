@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 - 14-1 Nell'ombra"
 permalink: /Main Story/Chapter 14_1/
 excerpt: "Capitolo 14 - 1. Era of Chaos  Storia principale - Capitolo 14_1. 14-1 Nell'ombra"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 14_1.md"
 toc: false

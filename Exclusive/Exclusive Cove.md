@@ -2,13 +2,13 @@
 title: "Era of Chaos - Esclusivo Cove"
 permalink: /Exclusive/Exclusive Cove/
 excerpt: "Era of Chaos Esclusivo Cove. Esclusivo Cove. List of Esclusivo Cove in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Exclusive Cove"
 toc: false
 classes: wide
 ---
- [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Neutrale](/it/Exclusive/Exclusive Neutral/){: .btn .btn--primary} [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--success} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--warning} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--danger} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--info} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--primary} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--success} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--warning} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--danger} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 **Warning** You can get more information about Unit's Exclusive by clicking on Exclusive link. 
 {: .notice--danger}
@@ -24,5 +24,5 @@ classes: wide
   | 5  | [Sirena](/it/units/Mermaid/) | [Maree notturne](/it/Exclusive/Mermaid Night Tides/) | - | A distanza | [Token Maree notturne](/ItemsIT/con_1004/) | [Skin speciale Maree notturne](/ItemsIT/con_672/) |
   | 6  | [Tartaruga draconica](/it/units/Dragon Turtle/) | [Obbedienza](/it/Exclusive/Dragon Turtle Obedience/) | - | Supporto | [Token Obbedienza](/ItemsIT/con_1005/) | [Skin speciale Obbedienza](/ItemsIT/con_673/) |
   | 7  | [Veggente di Regna](/it/units/Regnan Seer/) | [](/it/Exclusive/Regnan Seer /) | - | Capitale | [Anima di stendardo La città sull'oceano](/ItemsIT/con_1006/) | [Tool_2990709](/ItemsIT/con_674/) |
-  | 8  | [Leviatano](/it/units/Revyaratan/) | [Maree tenebrose](/it/Exclusive/Revyaratan Gloom Tides/) | - | A distanza | - | - |
-  | 9  | [Addestratore di squali](/it/units/Shark Trainer/) | [Onde di risacca](/it/Exclusive/Shark Trainer Break Waves/) | - | Supporto | - | - |
+  | 8  | [Leviatano](/it/units/Revyaratan/) | [Maree tenebrose](/it/Exclusive/Revyaratan Gloom Tides/) | + | A distanza | [Token Maree tenebrose](/it/Items/con_2224/) | [Skin speciale Maree tenebrose](/it/Items/con_2222/) |
+  | 9  | [Addestratore di squali](/it/units/Shark Trainer/) | [Onde di risacca](/it/Exclusive/Shark Trainer Break Waves/) | - | Supporto | [Token Onde di risacca](/it/Items/con_2225/) | [Skin speciale Onde di risacca](/it/Items/con_2223/) |

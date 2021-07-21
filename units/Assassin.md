@@ -3,7 +3,7 @@ title: "Assassino"
 permalink: /units/Assassin/
 excerpt: "Era of Chaos Assassino. Assassino Unità. null. Era of Chaos Agiamo nell'ombra per servire la luce. Nulla è reale, tutto è lecito."
 unitID: 9701
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Assassino"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Classe Descrizione:** Incursione: Le unità d'incursione attaccano le retrovie nemiche e godono di DAN CRIT aumentato contro le unità a distanza e gli incantatori.
 
- **Fazione:** [Esercito neutrale](/it/units/Faction Neutral Army/)
+ **Fazione:** [Neutrale](/it/units/Faction Neutral/)
 
  **Race:** Gilda degli Assassini
 

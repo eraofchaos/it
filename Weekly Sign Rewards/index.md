@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 31  Settimana della Roccaforte
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **2 Aug** | **5x [Goblin](/ItemsIT/unt_217/)**  | Un gruppo di Goblin è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **3 Aug** | **5x [Domatore di lupi](/ItemsIT/unt_218/)**  | Un gruppo di Domatori di lupi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **4 Aug** | **100x <i class="fas fa-gem"/>**  | Gli Orchi al tuo comando hanno recuperato un cumulo di Diamanti! |
+  | **5 Aug** | **5x [Orco](/ItemsIT/unt_219/)**  | Un gruppo di Orchi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **6 Aug** | **3x [Ogre](/ItemsIT/unt_220/)**  | Un gruppo di Ogre è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **7 Aug** | **3x [Ciclopi](/ItemsIT/unt_222/)**  | Un gruppo di Ciclopi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **8 Aug** | **5x [Crag Hack](/ItemsIT/her_375/)**  | Le tue avventurose spedizioni hanno catturato l'interesse di Crag Hack, che ha deciso di unirsi al tuo esercito! |
+
 
 #### 2021 Week 30  Settimana del Castello
 

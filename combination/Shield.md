@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Scudo"
 permalink: /combination/Shield/
 excerpt: "Informazioni combinazione - Scudo. Units and Heroes Formation."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Scudo.md"
 toc: false

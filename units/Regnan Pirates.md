@@ -3,7 +3,7 @@ title: "Pirati di Regna"
 permalink: /units/Regnan Pirates/
 excerpt: "Era of Chaos Pirati di Regna. Pirati di Regna Unità. Re dei Pirati. Era of Chaos Creature scaltre e brutali. Le navi che hanno la sfortuna di incontrarle diventano presto relitti sul fondo del mare."
 unitID: 9901
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Pirati di Regna"
 toc: true

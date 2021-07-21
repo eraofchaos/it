@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-13 Il segreto recondito"
 permalink: /Main Story/Chapter 12_13/
 excerpt: "Capitolo 12 - 13. Era of Chaos  Storia principale - Capitolo 12_13. 12-13 Il segreto recondito"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 12_13.md"
 toc: false

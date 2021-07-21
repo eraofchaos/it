@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 20 Tunnel e trogloditi"
 permalink: /Underground/Chapter 20/
 excerpt: "Capitolo 20 Tunnel e trogloditi. Era of Chaos  Sottosuolo - Capitolo 20. Tunnel e trogloditi"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 20.md"
 toc: false

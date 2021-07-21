@@ -2,7 +2,7 @@
 title: "Manufatti - Mantello del Re Non Morto - Cappa del Vampiro"
 permalink: /artifacts/Vampire's Cowl/
 excerpt: "Era of Chaos  Mantello del Re Non Morto - Cappa del Vampiro. La preziosa cappa di un Vampiro. Uno dei componenti del Mantello del Re Non Morto."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Vampire's Cowl.md"
 toc: false

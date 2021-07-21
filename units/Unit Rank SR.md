@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Unit Rank SR"
 toc: false
@@ -17,7 +17,7 @@ classes: wide
   | 3 | ![Ogre](/images/u/ti_shirenmo.jpg) | [Ogre](/it/units/Ogre/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 107.6 | 2523 |  Ogre mago  |
   | 4 | ![Ciclope](/images/u/ti_duyanjuren.jpg) | [Ciclope](/it/units/Cyclops/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 678.8 | 5091 |  Re Ciclope  |
   | 5 | ![Rapace di fuoco](/images/u/ti_fenghuang.jpg) | [Rapace di fuoco](/it/units/Firebird/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 848.5 | 4525 |  Fenice  |
-  | 6 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Antico mostro marino  |
+  | 6 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Antico mostro marino  |
   | 7 | ![Demone](/images/u/ti_changjiaoemo.jpg) | [Demone](/it/units/Demon/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 114.4 | 2489 |  Guardia infernale  |
   | 8 | ![Segugio infernale](/images/u/ti_santouquan.jpg) | [Segugio infernale](/it/units/Hell Hound/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 9 | ![Demone dell'abisso](/images/u/ti_diyulingzhu.jpg) | [Demone dell'abisso](/it/units/Pit Fiend/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 174.9 | 1850 |  Signore dell'abisso  |

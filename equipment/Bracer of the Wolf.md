@@ -2,7 +2,7 @@
 title: "Bracciali del lupo"
 permalink: /equipment/Bracer of the Wolf/
 excerpt: "Era of Chaos Bracciali del lupo. Bracciali del lupo"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Bracer of the Wolf.md"
 toc: false

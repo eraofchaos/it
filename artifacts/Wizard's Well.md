@@ -2,7 +2,7 @@
 title: "Manufatti - Fonte del Mago"
 permalink: /artifacts/Wizard's Well/
 excerpt: "Era of Chaos  Fonte del Mago. Fonte del Mago Oggetto magico utile a combattere i Demoni. Può aumentare la velocità di rigenerazione del mana."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Wizard's Well.md"
 toc: false

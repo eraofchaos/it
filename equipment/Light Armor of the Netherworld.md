@@ -2,7 +2,7 @@
 title: "Armatura leggera dell'aldilà"
 permalink: /equipment/Light Armor of the Netherworld/
 excerpt: "Era of Chaos Armatura leggera dell'aldilà. Armatura leggera dell'aldilà"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Light Armor of the Netherworld.md"
 toc: false

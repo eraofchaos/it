@@ -2,7 +2,7 @@
 title: "Avatar - Cristallo congelato"
 permalink: /Avatars/Deep Ice Crystal/
 excerpt: "Era of Chaos  Cristallo congelato"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Deep Ice Crystal.md"
 toc: false

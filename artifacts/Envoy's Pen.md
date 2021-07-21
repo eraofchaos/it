@@ -2,7 +2,7 @@
 title: "Manufatti - Penna dell'emissario"
 permalink: /artifacts/Envoy's Pen/
 excerpt: "Era of Chaos  Penna dell'emissario. Penna dell'emissario Un simbolo di forza e potere. Questa illustre reliquia è riservata ai vincitori."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Envoy's Pen.md"
 toc: false

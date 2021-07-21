@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 13 - 13-1 Le sorti della guerra"
 permalink: /Underground/Chapter 13_1/
 excerpt: "Capitolo 13 - 1. Era of Chaos  Sottosuolo - Capitolo 13_1. 13-1 Le sorti della guerra"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 13_1.md"
 toc: false

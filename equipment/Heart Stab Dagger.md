@@ -2,7 +2,7 @@
 title: "Pugnale trafiggi-cuore"
 permalink: /equipment/Heart Stab Dagger/
 excerpt: "Era of Chaos Pugnale trafiggi-cuore. Pugnale trafiggi-cuore"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Heart Stab Dagger.md"
 toc: false

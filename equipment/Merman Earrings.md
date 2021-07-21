@@ -2,7 +2,7 @@
 title: "Orecchini da Tritone"
 permalink: /equipment/Merman Earrings/
 excerpt: "Era of Chaos Orecchini da Tritone. Orecchini da Tritone"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Merman Earrings.md"
 toc: false

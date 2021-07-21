@@ -2,7 +2,7 @@
 title: "Ali di pietra"
 permalink: /equipment/Stone Wings/
 excerpt: "Era of Chaos Ali di pietra. Ali di pietra"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Stone Wings.md"
 toc: false

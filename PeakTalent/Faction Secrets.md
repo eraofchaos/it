@@ -2,7 +2,7 @@
 title: "Segreti delle Fazioni. Talento Apice - Segreti delle Fazioni"
 permalink: /PeakTalent/Faction Secrets/
 excerpt: "Era of Chaos Talento Apice Segreti delle Fazioni. Talento Apice Segreti delle Fazioni. Segreti delle Fazioni"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Faction Secrets.md"
 toc: false

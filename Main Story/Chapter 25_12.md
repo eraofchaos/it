@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-12 Scuola di combattimento"
 permalink: /Main Story/Chapter 25_12/
 excerpt: "Capitolo 25 - 12. Era of Chaos  Storia principale - Capitolo 25_12. 25-12 Scuola di combattimento"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 25_12.md"
 toc: false

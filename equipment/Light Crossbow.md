@@ -2,7 +2,7 @@
 title: "Balestra di luce"
 permalink: /equipment/Light Crossbow/
 excerpt: "Era of Chaos Balestra di luce. Balestra di luce"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Light Crossbow.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - Profession Unknown -  Heroes"
 permalink: /heroes/Profession Unknown/
 excerpt: "Era of Chaos Profession Unknown. Profession Unknown. List of Profession  in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Profession Unknown"
 toc: false
@@ -12,5 +12,5 @@ classes: wide
 
   | Nr |  I |    Nome    |  Fazione  |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|
-  | 1 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/it/heroes/Ezio/) | Esercito neutrale |  | **SSR** |  Confraternita | R+ |
-  | 2 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/it/heroes/Kassandra/) | Esercito neutrale |  | **SSR-** |  Legione spartana | R |
+  | 1 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/it/heroes/Ezio/) | Neutrale |  | **SSR** |  Confraternita | R+ |
+  | 2 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/it/heroes/Kassandra/) | Neutrale |  | **SSR-** |  Legione spartana | R |

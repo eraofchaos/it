@@ -2,7 +2,7 @@
 title: "Incantesimo arcano. Talento Apice - Incantesimo arcano"
 permalink: /PeakTalent/Arcane Spell/
 excerpt: "Era of Chaos Talento Apice Incantesimo arcano. Talento Apice Incantesimo arcano. Incantesimo arcano"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Arcane Spell.md"
 toc: false

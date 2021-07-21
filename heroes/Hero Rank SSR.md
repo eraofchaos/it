@@ -2,7 +2,7 @@
 title: "Era of Chaos - Hero Rank SSR -  Heroes"
 permalink: /heroes/Hero Rank SSR/
 excerpt: "Era of Chaos Hero Rank SSR. Hero Rank SSR. List of Hero Rank  in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Hero Rank SSR"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 4 | ![Gem](/images/h/h_Gem.jpg) | [Gem](/it/heroes/Gem/) | Baluardo | Druido | **SSR** |  Guarigione naturale | SSR |
   | 5 | ![Xeron](/images/h/h_Xeron.jpg) | [Xeron](/it/heroes/Xeron/) | Inferno | Demoniaco | **SSR** |  Arcidiavolo | SSR |
   | 6 | ![Lord Haart](/images/h/h_LordHaart.jpg) | [Lord Haart](/it/heroes/Lord Haart/) | Necropoli | Cavaliere della Morte | **SSR** |  Cavaliere della Morte | SR- |
-  | 7 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/it/heroes/Ezio/) | Esercito neutrale |  | **SSR** |  Confraternita | R+ |
+  | 7 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/it/heroes/Ezio/) | Neutrale |  | **SSR** |  Confraternita | R+ |
   | 8 | ![Tazar](/images/h/h_Tazar.jpg) | [Tazar](/it/heroes/Tazar/) | Fortezza | Domatore | **SSR** |  Furia sanguinaria | SSR |
   | 9 | ![Sandro](/images/h/h_Sandro.jpg) | [Sandro](/it/heroes/Sandro/) | Necropoli | Negromante | **SSR** |  Calar delle tenebre | SSR |
   | 10 | ![Astral](/images/h/h_Astral.jpg) | [Astral](/it/heroes/Astral/) | Torre | Mago | **SSR** |  Amplificazione magica | SSR |

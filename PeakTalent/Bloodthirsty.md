@@ -2,7 +2,7 @@
 title: "Sete di sangue. Talento Apice - Sete di sangue"
 permalink: /PeakTalent/Bloodthirsty/
 excerpt: "Era of Chaos Talento Apice Sete di sangue. Talento Apice Sete di sangue. Sete di sangue"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Bloodthirsty.md"
 toc: false

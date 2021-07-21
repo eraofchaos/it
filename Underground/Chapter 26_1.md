@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 26 - 26-1 Arpia"
 permalink: /Underground/Chapter 26_1/
 excerpt: "Capitolo 26 - 1. Era of Chaos  Sottosuolo - Capitolo 26_1. 26-1 Arpia"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 26_1.md"
 toc: false

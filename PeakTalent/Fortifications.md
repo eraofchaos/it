@@ -2,7 +2,7 @@
 title: "Fortificazioni. Talento Apice - Fortificazioni"
 permalink: /PeakTalent/Fortifications/
 excerpt: "Era of Chaos Talento Apice Fortificazioni. Talento Apice Fortificazioni. Fortificazioni"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Fortifications.md"
 toc: false

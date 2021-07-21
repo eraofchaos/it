@@ -2,7 +2,7 @@
 title: "Fulmine globulare scintillante"
 permalink: /equipment/Flickering Lightning Ball/
 excerpt: "Era of Chaos Fulmine globulare scintillante. Fulmine globulare scintillante"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Flickering Lightning Ball.md"
 toc: false

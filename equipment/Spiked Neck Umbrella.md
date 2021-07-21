@@ -2,7 +2,7 @@
 title: "Ala collare appuntita"
 permalink: /equipment/Spiked Neck Umbrella/
 excerpt: "Era of Chaos Ala collare appuntita. Ala collare appuntita"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Spiked Neck Umbrella.md"
 toc: false

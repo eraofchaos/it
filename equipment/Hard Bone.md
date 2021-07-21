@@ -2,7 +2,7 @@
 title: "Osso rinforzato"
 permalink: /equipment/Hard Bone/
 excerpt: "Era of Chaos Osso rinforzato. Osso rinforzato"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Hard Bone.md"
 toc: false

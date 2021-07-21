@@ -2,7 +2,7 @@
 title: "Vecchia cicatrice. Talento Apice - Vecchia cicatrice"
 permalink: /PeakTalent/Veteran Scar/
 excerpt: "Era of Chaos Talento Apice Vecchia cicatrice. Talento Apice Vecchia cicatrice. Vecchia cicatrice"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Veteran Scar.md"
 toc: false

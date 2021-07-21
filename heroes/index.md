@@ -2,14 +2,14 @@
 title: "Era of Chaos - List of Heroes"
 permalink: /heroes/
 excerpt: "List of ALL Heroes in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "index.md"
 QR: heroes
 toc: false
 classes: wide
 ---
-  by Fazione: [Confluenza](/it/heroes/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/heroes/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/heroes/Faction Dungeon/){: .btn .btn--warning} [Baluardo](/it/heroes/Faction Rampart/){: .btn .btn--danger} [Fortezza](/it/heroes/Faction Fortress/){: .btn .btn--info} [Castello](/it/heroes/Faction Castle/){: .btn .btn--primary} [Torre](/it/heroes/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/heroes/Faction Stronghold/){: .btn .btn--warning} [Esercito neutrale](/it/heroes/Faction Neutral Army/){: .btn .btn--danger} [Baia](/it/heroes/Faction Cove/){: .btn .btn--info} [Necropoli](/it/heroes/Faction Necropolis/){: .btn .btn--primary} 
+  by Fazione: [Neutrale](/it/heroes/Faction Neutral/){: .btn .btn--primary} [Confluenza](/it/heroes/Faction Conflux/){: .btn .btn--success} [Inferno](/it/heroes/Faction Inferno/){: .btn .btn--warning} [Dungeon](/it/heroes/Faction Dungeon/){: .btn .btn--danger} [Baluardo](/it/heroes/Faction Rampart/){: .btn .btn--info} [Fortezza](/it/heroes/Faction Fortress/){: .btn .btn--primary} [Castello](/it/heroes/Faction Castle/){: .btn .btn--success} [Torre](/it/heroes/Faction Tower/){: .btn .btn--warning} [Roccaforte](/it/heroes/Faction Stronghold/){: .btn .btn--danger} [Baia](/it/heroes/Faction Cove/){: .btn .btn--info} [Necropoli](/it/heroes/Faction Necropolis/){: .btn .btn--primary} 
 
   by Classe: [Creature oceaniche](/it/heroes/Profession Ocean Creatures/){: .btn .btn--primary} [Ranger](/it/heroes/Profession Ranger/){: .btn .btn--success} [Cavaliere della Morte](/it/heroes/Profession Death Knight/){: .btn .btn--warning} [Signore Supremo](/it/heroes/Profession Overlord/){: .btn .btn--danger} [Eretico](/it/heroes/Profession Heretic/){: .btn .btn--info} [Stregone](/it/heroes/Profession Warlock/){: .btn .btn--primary} [Druido](/it/heroes/Profession Druid/){: .btn .btn--success} [Barbaro](/it/heroes/Profession Barbarian/){: .btn .btn--warning} [Chierico](/it/heroes/Profession Clerics/){: .btn .btn--danger} [Unknown](/it/heroes/Profession Unknown/){: .btn .btn--info} [Demoniaco](/it/heroes/Profession Demoniac/){: .btn .btn--primary} [Viaggiatore planare](/it/heroes/Profession Planeswalker/){: .btn .btn--success} [Cavaliere](/it/heroes/Profession Knight/){: .btn .btn--warning} [Domatore](/it/heroes/Profession Beast Master/){: .btn .btn--danger} [Pirata](/it/heroes/Profession Pirate/){: .btn .btn--info} [Elementalista](/it/heroes/Profession Elementalist/){: .btn .btn--primary} [Negromante](/it/heroes/Profession Necromancer/){: .btn .btn--success} [Mago](/it/heroes/Profession Wizard/){: .btn .btn--warning} 
 
@@ -25,13 +25,13 @@ classes: wide
   | 6 | ![Crag Hack](/images/h/h_CragHack.jpg) | [Crag Hack](/it/heroes/Crag Hack/) | Roccaforte | Barbaro | **SR** |  Attacco | R+ |
   | 7 | ![Dracon](/images/h/h_Dracon.jpg) | [Dracon](/it/heroes/Dracon/) | Torre | Mago | **SR+** |  Arcistregone | R |
   | 8 | ![Erdamon](/images/h/h_Erdamon.jpg) | [Erdamon](/it/heroes/Erdamon/) | Confluenza | Viaggiatore planare | **R** |  Re delle Rocce | R |
-  | 9 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/it/heroes/Ezio/) | Esercito neutrale |  | **SSR** |  Confraternita | R+ |
+  | 9 | ![Ezio](/images/h/h_Ezio.jpg) | [Ezio](/it/heroes/Ezio/) | Neutrale |  | **SSR** |  Confraternita | R+ |
   | 10 | ![Fiur](/images/h/h_Fiur.jpg) | [Fiur](/it/heroes/Fiur/) | Confluenza | Viaggiatore planare | **R** |  Elementale del fuoco | R |
   | 11 | ![Gelu](/images/h/h_Gelu.jpg) | [Gelu](/it/heroes/Gelu/) | Baluardo | Ranger | **SR+** |  Tiratore esperto | SR+ |
   | 12 | ![Gem](/images/h/h_Gem.jpg) | [Gem](/it/heroes/Gem/) | Baluardo | Druido | **SSR** |  Guarigione naturale | SSR |
   | 13 | ![Jeddite](/images/h/h_Jeddite.jpg) | [Jeddite](/it/heroes/Jeddite/) | Dungeon | Stregone | **SR** |  Ciclo vitale | SR |
   | 14 | ![Jenova](/images/h/h_Ylthin.jpg) | [Jenova](/it/heroes/Jenova/) | Baluardo | Ranger | **R** |  Fanciulla degli Unicorni | R |
-  | 15 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/it/heroes/Kassandra/) | Esercito neutrale |  | **SSR-** |  Legione spartana | R |
+  | 15 | ![Kassandra](/images/h/h_kashandela.jpg) | [Kassandra](/it/heroes/Kassandra/) | Neutrale |  | **SSR-** |  Legione spartana | R |
   | 16 | ![Kendal](/images/h/h_Kendel.jpg) | [Kendal](/it/heroes/Kendal/) | Castello | Cavaliere | **SR** |  Maestro stratega | R |
   | 17 | ![Kilgor](/images/h/h_Kilgor.jpg) | [Kilgor](/it/heroes/Kilgor/) | Roccaforte | Barbaro | **SSR** |  Behemoth da guerra | SSR |
   | 18 | ![Korbac](/images/h/h_Korbac.jpg) | [Korbac](/it/heroes/Korbac/) | Fortezza | Domatore | **R** |  Sciame di mosche | R |

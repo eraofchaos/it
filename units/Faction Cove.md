@@ -2,7 +2,7 @@
 title: "Era of Chaos - Faction Cove -  Units"
 permalink: /units/Faction Cove/
 excerpt: "Era of Chaos Faction Cove. Faction Cove. List of Faction in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Faction Cove"
 toc: false
@@ -13,12 +13,12 @@ classes: wide
 
   [Formazione di battaglia](/it/Battle Formation/Battle Formation Faction Cove)
 
- [Confluenza](/it/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--info} [Castello](/it/units/Faction Castle/){: .btn .btn--primary} [Torre](/it/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/it/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/it/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
+ [Neutrale](/it/units/Faction Neutral/){: .btn .btn--primary} [Confluenza](/it/units/Faction Conflux/){: .btn .btn--success} [Inferno](/it/units/Faction Inferno/){: .btn .btn--warning} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--danger} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--info} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--primary} [Castello](/it/units/Faction Castle/){: .btn .btn--success} [Torre](/it/units/Faction Tower/){: .btn .btn--warning} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--danger} [Baia](/it/units/Faction Cove/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr | I |         Name        |   Type   | Awake | Rango |   Members     |  Stars  | Exclusive | Attack  |     HP    |  Awaken Name  |
   |:---|:-:|:--------------------|:--------:|:-----:|:---------:|:-------------:|:-------:|:---------:|:-------:|:---------:|:--------------|
   | 1 | ![Veggente di Regna](/images/u/ti_haihou.jpg) | [Veggente di Regna](/it/units/Regnan Seer/) | Incantatore | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1006.9 | 5091 |  Elementale delle maree  |
-  | 2 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Antico mostro marino  |
+  | 2 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Antico mostro marino  |
   | 3 | ![Addestratore di squali](/images/u/ti_xunshashi.jpg) | [Addestratore di squali](/it/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Cavalcasquali  |
   | 4 | ![Arciere di Regna](/images/u/ti_ruigenanushou.jpg) | [Arciere di Regna](/it/units/Regnan Archer/) | A distanza | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 235.5 | 1245 |  Cecchino di Regna  |
   | 5 | ![Elementale del mare](/images/u/ti_haiyuansu.jpg) | [Elementale del mare](/it/units/Sea Elemental/) | Incantatore | - | R | x9 | <i class="fas fa-star"/> | + | 201.8 | 1446 |  Elementale delle maree  |

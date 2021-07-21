@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-1 La tenda blu"
 permalink: /Main Story/Chapter 4_1/
 excerpt: "Capitolo 4 - 1. Era of Chaos  Storia principale - Capitolo 4_1. 4-1 La tenda blu"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 4_1.md"
 toc: false

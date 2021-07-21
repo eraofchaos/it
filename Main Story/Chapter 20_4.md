@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-4 Solcare i cieli"
 permalink: /Main Story/Chapter 20_4/
 excerpt: "Capitolo 20 - 4. Era of Chaos  Storia principale - Capitolo 20_4. 20-4 Solcare i cieli"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 20_4.md"
 toc: false

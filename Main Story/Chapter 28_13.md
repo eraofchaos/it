@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-13 La bottega"
 permalink: /Main Story/Chapter 28_13/
 excerpt: "Capitolo 28 - 13. Era of Chaos  Storia principale - Capitolo 28_13. 28-13 La bottega"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 28_13.md"
 toc: false

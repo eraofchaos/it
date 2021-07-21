@@ -2,7 +2,7 @@
 title: "Avatar - Dominatore dell'Inferno"
 permalink: /Avatars/Inferno Ruler/
 excerpt: "Era of Chaos  Dominatore dell'Inferno"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Inferno Ruler.md"
 toc: false

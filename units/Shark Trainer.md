@@ -3,7 +3,7 @@ title: "Addestratore di squali"
 permalink: /units/Shark Trainer/
 excerpt: "Era of Chaos Addestratore di squali. Addestratore di squali Unità. Cavalcasquali. Era of Chaos L'Incubo fatale si aggira per gli oceani in sella a uno squalo e brandendo una scimitarra."
 unitID: 9909
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Addestratore di squali"
 toc: true
@@ -80,9 +80,9 @@ toc: true
 
  **Is Open:** - 
 
- **Item to Rango ↑:** -
+ **Item to Rango ↑:** [Token Onde di risacca](/it/Items/con_2225/)
 
- **Skin:** -
+ **Skin:** [Skin speciale Onde di risacca](/it/Items/con_2223/)
 
 
 ## Emblemi sacri consigliati

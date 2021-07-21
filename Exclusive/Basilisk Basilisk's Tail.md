@@ -2,13 +2,13 @@
 title: "Esclusivo - Coda di Basilisco (Basilisk)"
 permalink: /Exclusive/Basilisk Basilisk's Tail/
 excerpt: "Era of Chaos Coda di Basilisco. Coda di Basilisco. Era of Chaos Esclusivo Coda di Basilisco. Basilisco Esclusivo."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Basilisk Coda di Basilisco.md"
 toc: false
 classes: wide
 ---
- [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--primary} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--success} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--warning} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--danger} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--info} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--primary} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--success} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--warning} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--danger} [Esercito neutrale](/it/Exclusive/Exclusive Neutral Army/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
+ [Neutrale](/it/Exclusive/Exclusive Neutral/){: .btn .btn--primary} [Confluenza](/it/Exclusive/Exclusive Conflux/){: .btn .btn--success} [Inferno](/it/Exclusive/Exclusive Inferno/){: .btn .btn--warning} [Dungeon](/it/Exclusive/Exclusive Dungeon/){: .btn .btn--danger} [Fortezza](/it/Exclusive/Exclusive Fortress/){: .btn .btn--info} [Baluardo](/it/Exclusive/Exclusive Rampart/){: .btn .btn--primary} [Castello](/it/Exclusive/Exclusive Castle/){: .btn .btn--success} [Torre](/it/Exclusive/Exclusive Tower/){: .btn .btn--warning} [Roccaforte](/it/Exclusive/Exclusive Stronghold/){: .btn .btn--danger} [Baia](/it/Exclusive/Exclusive Cove/){: .btn .btn--info} [Necropoli](/it/Exclusive/Exclusive Necropolis/){: .btn .btn--primary} 
 
 ### Dettagli
  **Nome: Coda di Basilisco** 

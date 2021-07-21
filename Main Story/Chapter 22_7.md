@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 22 - 22-7 La voce dei draghi"
 permalink: /Main Story/Chapter 22_7/
 excerpt: "Capitolo 22 - 7. Era of Chaos  Storia principale - Capitolo 22_7. 22-7 La voce dei draghi"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 22_7.md"
 toc: false

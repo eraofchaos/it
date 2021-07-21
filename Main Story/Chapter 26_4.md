@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-4 La valle delle tenebre"
 permalink: /Main Story/Chapter 26_4/
 excerpt: "Capitolo 26 - 4. Era of Chaos  Storia principale - Capitolo 26_4. 26-4 La valle delle tenebre"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 26_4.md"
 toc: false

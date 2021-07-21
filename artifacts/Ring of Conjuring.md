@@ -2,7 +2,7 @@
 title: "Manufatti - Anello del Mago - Anello della Congiura"
 permalink: /artifacts/Ring of Conjuring/
 excerpt: "Era of Chaos  Anello del Mago - Anello della Congiura. Un misterioso anello dotato di un forte potere magico. Uno dei componenti dell'Anello del Mago."
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Ring of Conjuring.md"
 toc: false

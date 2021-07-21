@@ -2,7 +2,7 @@
 title: "Avatar - Fiamma eterna"
 permalink: /Avatars/Everlasting Flame/
 excerpt: "Era of Chaos  Fiamma eterna"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Everlasting Flame.md"
 toc: false

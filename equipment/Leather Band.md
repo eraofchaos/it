@@ -2,7 +2,7 @@
 title: "Fascia di cuoio"
 permalink: /equipment/Leather Band/
 excerpt: "Era of Chaos Fascia di cuoio. Fascia di cuoio"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Leather Band.md"
 toc: false

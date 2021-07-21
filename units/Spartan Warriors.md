@@ -3,7 +3,7 @@ title: "Guerrieri spartani"
 permalink: /units/Spartan Warriors/
 excerpt: "Era of Chaos Guerrieri spartani. Guerrieri spartani Unità. null. Era of Chaos Guerrieri delle Termopili, qui è dove ergeremo l'ultima linea di difesa contro gli invasori. Per Sparta!"
 unitID: 9702
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Guerrieri spartani"
 toc: true
@@ -17,7 +17,7 @@ toc: true
 
  **Classe Descrizione:** Le unità d'attacco possono ridurre la percentuale di armatura dei bersagli. Questo effetto non è cumulabile.
 
- **Fazione:** [Esercito neutrale](/it/units/Faction Neutral Army/)
+ **Fazione:** [Neutrale](/it/units/Faction Neutral/)
 
  **Race:** Gilda degli Assassini
 

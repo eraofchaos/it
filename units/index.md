@@ -2,13 +2,13 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "index.md"
 toc: false
 classes: wide
 ---
-  by Fazione: [Confluenza](/it/units/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/units/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--warning} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--danger} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--info} [Castello](/it/units/Faction Castle/){: .btn .btn--primary} [Torre](/it/units/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--warning} [Baia](/it/units/Faction Cove/){: .btn .btn--danger} [Esercito neutrale](/it/units/Faction Neutral Army/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
+  by Fazione: [Neutrale](/it/units/Faction Neutral/){: .btn .btn--primary} [Confluenza](/it/units/Faction Conflux/){: .btn .btn--success} [Inferno](/it/units/Faction Inferno/){: .btn .btn--warning} [Dungeon](/it/units/Faction Dungeon/){: .btn .btn--danger} [Fortezza](/it/units/Faction Fortress/){: .btn .btn--info} [Baluardo](/it/units/Faction Rampart/){: .btn .btn--primary} [Castello](/it/units/Faction Castle/){: .btn .btn--success} [Torre](/it/units/Faction Tower/){: .btn .btn--warning} [Roccaforte](/it/units/Faction Stronghold/){: .btn .btn--danger} [Baia](/it/units/Faction Cove/){: .btn .btn--info} [Necropoli](/it/units/Faction Necropolis/){: .btn .btn--primary} 
 
   by Classe: [A distanza](/it/units/Unit Class Ranged/){: .btn .btn--primary} [Incursione](/it/units/Unit Class Charging/){: .btn .btn--success} [Incantatore](/it/units/Unit Class Caster/){: .btn .btn--warning} [Attacco](/it/units/Unit Class Offense/){: .btn .btn--danger} [Difesa](/it/units/Unit Class Defense/){: .btn .btn--info} 
 
@@ -75,7 +75,7 @@ classes: wide
   | 53 | ![Idra](/images/u/ti_duotoulong.jpg) | [Idra](/it/units/Hydra/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Idra del Caos  |
   | 54 | ![Incubo](/images/u/ti_mengyanshou.jpg) | [Incubo](/it/units/Nightmare/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 84.1 | 2691 |  Signore degli Incubi  |
   | 55 | ![Leprecauno](/images/u/ti_conglinyaojing.jpg) | [Leprecauno](/it/units/Leprechaun/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 134.5 | 3162 |  Leprecauno maggiore  |
-  | 56 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1267.1 | 7128 |  Antico mostro marino  |
+  | 56 | ![Leviatano](/images/u/ti_haiguai.jpg) | [Leviatano](/it/units/Revyaratan/) | Attacco | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 1267.1 | 7128 |  Antico mostro marino  |
   | 57 | ![Lich](/images/u/ti_wuyao.jpg) | [Lich](/it/units/Lich/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 228.7 | 1581 |  Lich potenziato  |
   | 58 | ![Manticora](/images/u/ti_shixie.jpg) | [Manticora](/it/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicora  |
   | 59 | ![Mantide](/images/u/ti_tanglang.jpg) | [Mantide](/it/units/Mantis/) | Attacco | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 1140.4 | 6336 |   -   |

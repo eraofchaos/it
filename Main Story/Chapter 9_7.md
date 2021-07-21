@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 9 - 9-7 Posa vittoriosa"
 permalink: /Main Story/Chapter 9_7/
 excerpt: "Capitolo 9 - 7. Era of Chaos  Storia principale - Capitolo 9_7. 9-7 Posa vittoriosa"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 9_7.md"
 toc: false

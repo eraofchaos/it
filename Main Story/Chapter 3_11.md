@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-11 La Pietra della sapienza"
 permalink: /Main Story/Chapter 3_11/
 excerpt: "Capitolo 3 - 11. Era of Chaos  Storia principale - Capitolo 3_11. 3-11 La Pietra della sapienza"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 3_11.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Vecchio cacciatore. Talento Apice - Vecchio cacciatore"
 permalink: /PeakTalent/Old Hunter/
 excerpt: "Era of Chaos Talento Apice Vecchio cacciatore. Talento Apice Vecchio cacciatore. Vecchio cacciatore"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Old Hunter.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-14 Ali di farfalla"
 permalink: /Main Story/Chapter 24_14/
 excerpt: "Capitolo 24 - 14. Era of Chaos  Storia principale - Capitolo 24_14. 24-14 Ali di farfalla"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 24_14.md"
 toc: false

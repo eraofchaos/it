@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-5 Il muro della sapienza"
 permalink: /Main Story/Chapter 20_5/
 excerpt: "Capitolo 20 - 5. Era of Chaos  Storia principale - Capitolo 20_5. 20-5 Il muro della sapienza"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 20_5.md"
 toc: false

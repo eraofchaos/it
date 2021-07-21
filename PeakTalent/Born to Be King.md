@@ -2,7 +2,7 @@
 title: "Erede al Trono. Talento Apice - Erede al Trono"
 permalink: /PeakTalent/Born to Be King/
 excerpt: "Era of Chaos Talento Apice Erede al Trono. Talento Apice Erede al Trono. Erede al Trono"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Born to Be King.md"
 toc: false

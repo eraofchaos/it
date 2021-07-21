@@ -2,7 +2,7 @@
 title: "Cornice Avatar e Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cornice Avatar e Avatar. Cornice Avatar e Avatar"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "index.md"
 toc: false
@@ -87,7 +87,7 @@ classes: wide
   | 74 | ![Presagio del Monolito](/images/a/avatarFrame_85.png) | [Presagio del Monolito](/it/Avatars/Monolith Omen/) | - | Cornice avatar Presagio del Monolito |
   | 75 | ![Quadrifoglio fortunato](/images/a/avatarFrame_96.png) | [Quadrifoglio fortunato](/it/Avatars/Clover of Fortune/) | + | Cornice avatar Quadrifoglio fortunato |
   | 76 | ![Re dell'abisso](/images/a/avatarFrame_36.png) | [Re dell'abisso](/it/Avatars/King of Abyss/) | + | Cornice avatar Re dell'abisso |
-  | 77 | ![Regno della morte](/images/a/avatarFrame_86.png) | [Regno della morte](/it/Avatars/Death Kingdom/) | - | Cornice avatar Regno della morte |
+  | 77 | ![Regno della morte](/images/a/avatarFrame_86.png) | [Regno della morte](/it/Avatars/Death Kingdom/) | + | Cornice avatar Regno della morte |
   | 78 | ![Roccaforte](/images/a/avatarFrame_4.png) | [Roccaforte](/it/Avatars/Stronghold/) | - | Cornice avatar Roccaforte |
   | 79 | ![Segreti della Sfinge](/images/a/avatarFrame_25.png) | [Segreti della Sfinge](/it/Avatars/Sphinx's Secrets/) | + | Cornice avatar Segreti della Sfinge |
   | 80 | ![Sentinella del mare](/images/a/avatarFrame_102.png) | [Sentinella del mare](/it/Avatars/Patroller of the Sea/) | + | Cornice avatar Sentinella del mare |
@@ -113,6 +113,7 @@ classes: wide
   | 100 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/it/Avatars/Unknown Avatar Frame 1066/) | - |  |
   | 101 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/it/Avatars/Unknown Avatar Frame 1067/) | - |  |
   | 102 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/it/Avatars/Unknown Avatar Frame 1069/) | - |  |
-  | 103 | ![Viticci portafortuna](/images/a/avatarFrame_92.png) | [Viticci portafortuna](/it/Avatars/Vines of Fortune/) | + | Cornice avatar Viticci del Destino |
-  | 104 | ![Viveur](/images/a/avatarFrame_31.png) | [Viveur](/it/Avatars/Social Butterfly/) | - |  |
-  | 105 | ![Volontà degli Dei](/images/a/avatarFrame_30.png) | [Volontà degli Dei](/it/Avatars/Will of the Gods/) | + | Cornice avatar Volontà degli Dei |
+  | 103 | ![Unknown Avatar Frame 1126](/images/a/avatarFrame_126.png) | [Unknown Avatar Frame 1126](/it/Avatars/Unknown Avatar Frame 1126/) | + |  |
+  | 104 | ![Viticci portafortuna](/images/a/avatarFrame_92.png) | [Viticci portafortuna](/it/Avatars/Vines of Fortune/) | + | Cornice avatar Viticci del Destino |
+  | 105 | ![Viveur](/images/a/avatarFrame_31.png) | [Viveur](/it/Avatars/Social Butterfly/) | - |  |
+  | 106 | ![Volontà degli Dei](/images/a/avatarFrame_30.png) | [Volontà degli Dei](/it/Avatars/Will of the Gods/) | + | Cornice avatar Volontà degli Dei |

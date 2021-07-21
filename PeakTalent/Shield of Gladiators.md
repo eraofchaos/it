@@ -2,7 +2,7 @@
 title: "Scudo dei gladiatori. Talento Apice - Scudo dei gladiatori"
 permalink: /PeakTalent/Shield of Gladiators/
 excerpt: "Era of Chaos Talento Apice Scudo dei gladiatori. Talento Apice Scudo dei gladiatori. Scudo dei gladiatori"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Shield of Gladiators.md"
 toc: false

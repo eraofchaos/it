@@ -2,7 +2,7 @@
 title: "Residuo fiammeggiante"
 permalink: /equipment/Remnant of Flames/
 excerpt: "Era of Chaos Residuo fiammeggiante. Residuo fiammeggiante"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Remnant of Flames.md"
 toc: false

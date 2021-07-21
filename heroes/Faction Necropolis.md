@@ -2,13 +2,13 @@
 title: "Era of Chaos - Faction Necropolis -  Heroes"
 permalink: /heroes/Faction Necropolis/
 excerpt: "Era of Chaos Faction Necropolis. Faction Necropolis. List of Faction  in Era of Chaos"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Faction Necropolis"
 toc: false
 classes: wide
 ---
- [Confluenza](/it/heroes/Faction Conflux/){: .btn .btn--primary} [Inferno](/it/heroes/Faction Inferno/){: .btn .btn--success} [Dungeon](/it/heroes/Faction Dungeon/){: .btn .btn--warning} [Baluardo](/it/heroes/Faction Rampart/){: .btn .btn--danger} [Fortezza](/it/heroes/Faction Fortress/){: .btn .btn--info} [Castello](/it/heroes/Faction Castle/){: .btn .btn--primary} [Torre](/it/heroes/Faction Tower/){: .btn .btn--success} [Roccaforte](/it/heroes/Faction Stronghold/){: .btn .btn--warning} [Esercito neutrale](/it/heroes/Faction Neutral Army/){: .btn .btn--danger} [Baia](/it/heroes/Faction Cove/){: .btn .btn--info} [Necropoli](/it/heroes/Faction Necropolis/){: .btn .btn--primary} 
+ [Neutrale](/it/heroes/Faction Neutral/){: .btn .btn--primary} [Confluenza](/it/heroes/Faction Conflux/){: .btn .btn--success} [Inferno](/it/heroes/Faction Inferno/){: .btn .btn--warning} [Dungeon](/it/heroes/Faction Dungeon/){: .btn .btn--danger} [Baluardo](/it/heroes/Faction Rampart/){: .btn .btn--info} [Fortezza](/it/heroes/Faction Fortress/){: .btn .btn--primary} [Castello](/it/heroes/Faction Castle/){: .btn .btn--success} [Torre](/it/heroes/Faction Tower/){: .btn .btn--warning} [Roccaforte](/it/heroes/Faction Stronghold/){: .btn .btn--danger} [Baia](/it/heroes/Faction Cove/){: .btn .btn--info} [Necropoli](/it/heroes/Faction Necropolis/){: .btn .btn--primary} 
 
   | Nr |  I |    Nome    |  Fazione  |  Profession   |  Rango  |    Specialty     | User Rate  | 
   |:---|:--:|:-----------|:-------:|:-------------:|:------:|:-----------------|:----:|

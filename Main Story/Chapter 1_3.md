@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 1 - 1-3 La fontana della giovinezza"
 permalink: /Main Story/Chapter 1_3/
 excerpt: "Capitolo 1 - 3. Era of Chaos  Storia principale - Capitolo 1_3. 1-3 La fontana della giovinezza"
-last_modified_at: 2021-07-14
+last_modified_at: 2021-07-21
 locale: it
 ref: "Chapter 1_3.md"
 toc: false
