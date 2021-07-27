@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-12 Il Padre dei Draghi"
 permalink: /Main Story/Chapter 27_12/
 excerpt: "Capitolo 27 - 12. Era of Chaos  Storia principale - Capitolo 27_12. 27-12 Il Padre dei Draghi"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 27_12.md"
 toc: false

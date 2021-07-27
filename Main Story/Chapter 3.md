@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 Angelo custode"
 permalink: /Main Story/Chapter 3/
 excerpt: "Capitolo 3. Era of Chaos  Storia principale - Capitolo 3. Angelo custode"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Era of Chaos - List of Unità"
 permalink: /units/
 excerpt: "Era of Chaos Unità. List of ALL Unità in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "index.md"
 toc: false
@@ -69,7 +69,7 @@ classes: wide
   | 47 | ![Golem draconico](/images/u/ti_kuileilong.jpg) | [Golem draconico](/it/units/Dragon Golem/) | Difesa | - | Comandante | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 9616 |   -   |
   | 48 | ![Gorgone](/images/u/ti_manniu.jpg) | [Gorgone](/it/units/Gorgon/) | Difesa | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 121.1 | 3094 |  Gorgone Invincibile  |
   | 49 | ![Gremlin](/images/u/ti_xiaoyaojing.jpg) | [Gremlin](/it/units/Gremlin/) | A distanza | - | R | x9 | <i class="fas fa-star"/> | - | 84.4 | 645 |   -   |
-  | 50 | ![Grifone](/images/u/ti_shijiu.jpg) | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifone reale  |
+  | 50 | ![Grifone](/images/u/ti_shijiu.jpg) | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  Grifone reale  |
   | 51 | ![Guardia Dendroide](/images/u/ti_shuyao.jpg) | [Guardia Dendroide](/it/units/Dendroid Guard/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 396.0 | 10182 |  Soldato Dendroide  |
   | 52 | ![Guerrieri spartani](/images/u/ti_sibada.jpg) | [Guerrieri spartani](/it/units/Spartan Warriors/) | Attacco | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 216.0 | 2825 |   -   |
   | 53 | ![Idra](/images/u/ti_duotoulong.jpg) | [Idra](/it/units/Hydra/) | Attacco | + | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 769.3 | 5770 |  Idra del Caos  |

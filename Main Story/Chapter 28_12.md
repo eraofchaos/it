@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-12 Il tempio abbandonato"
 permalink: /Main Story/Chapter 28_12/
 excerpt: "Capitolo 28 - 12. Era of Chaos  Storia principale - Capitolo 28_12. 28-12 Il tempio abbandonato"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 28_12.md"
 toc: false

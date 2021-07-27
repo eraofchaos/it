@@ -2,7 +2,7 @@
 title: "Cerchietto dello Splendore"
 permalink: /equipment/Radiance Headband/
 excerpt: "Era of Chaos Cerchietto dello Splendore. Cerchietto dello Splendore"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Radiance Headband.md"
 toc: false

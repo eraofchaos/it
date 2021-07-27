@@ -2,7 +2,7 @@
 title: "Esclusivo - Coda di scorpione (Manticore)"
 permalink: /Exclusive/Manticore Scorpion Tail/
 excerpt: "Era of Chaos Coda di scorpione. Coda di scorpione. Era of Chaos Esclusivo Coda di scorpione. Manticora Esclusivo."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Manticore Coda di scorpione.md"
 toc: false

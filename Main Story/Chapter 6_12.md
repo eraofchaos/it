@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 6 - 6-12 La presa della capitale"
 permalink: /Main Story/Chapter 6_12/
 excerpt: "Capitolo 6 - 12. Era of Chaos  Storia principale - Capitolo 6_12. 6-12 La presa della capitale"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 6_12.md"
 toc: false

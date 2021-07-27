@@ -2,7 +2,7 @@
 title: "Esclusivo - Arco lungo (Pegasus)"
 permalink: /Exclusive/Pegasus Long Bow/
 excerpt: "Era of Chaos Arco lungo. Arco lungo. Era of Chaos Esclusivo Arco lungo. Pegaso Esclusivo."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Pegasus Arco lungo.md"
 toc: false

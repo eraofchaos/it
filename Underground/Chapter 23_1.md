@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 23 - 23-1 Tiratore scelto"
 permalink: /Underground/Chapter 23_1/
 excerpt: "Capitolo 23 - 1. Era of Chaos  Sottosuolo - Capitolo 23_1. 23-1 Tiratore scelto"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 23_1.md"
 toc: false

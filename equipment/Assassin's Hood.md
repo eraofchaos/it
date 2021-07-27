@@ -2,7 +2,7 @@
 title: "Cappuccio da Assassino"
 permalink: /equipment/Assassin's Hood/
 excerpt: "Era of Chaos Cappuccio da Assassino. Cappuccio da Assassino"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Assassin's Hood.md"
 toc: false

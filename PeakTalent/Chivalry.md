@@ -2,7 +2,7 @@
 title: "Cavalleria. Talento Apice - Cavalleria"
 permalink: /PeakTalent/Chivalry/
 excerpt: "Era of Chaos Talento Apice Cavalleria. Talento Apice Cavalleria. Cavalleria"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chivalry.md"
 toc: false

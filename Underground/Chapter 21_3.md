@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 21 - 21-3 Schiavi di guerra"
 permalink: /Underground/Chapter 21_3/
 excerpt: "Capitolo 21 - 3. Era of Chaos  Sottosuolo - Capitolo 21_3. 21-3 Schiavi di guerra"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 21_3.md"
 toc: false

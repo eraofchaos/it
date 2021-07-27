@@ -2,7 +2,7 @@
 title: "Spina tetra"
 permalink: /equipment/Bleak Barb/
 excerpt: "Era of Chaos Spina tetra. Spina tetra"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Bleak Barb.md"
 toc: false

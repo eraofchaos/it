@@ -2,7 +2,7 @@
 title: "Artigli assassini"
 permalink: /equipment/Claw Killer/
 excerpt: "Era of Chaos Artigli assassini. Artigli assassini"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Claw Killer.md"
 toc: false

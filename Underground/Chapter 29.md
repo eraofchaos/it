@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 29 Un patto col Demone"
 permalink: /Underground/Chapter 29/
 excerpt: "Capitolo 29 Un patto col Demone. Era of Chaos  Sottosuolo - Capitolo 29. Un patto col Demone"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 29.md"
 toc: false

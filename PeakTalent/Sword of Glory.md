@@ -2,7 +2,7 @@
 title: "Spada della gloria. Talento Apice - Spada della gloria"
 permalink: /PeakTalent/Sword of Glory/
 excerpt: "Era of Chaos Talento Apice Spada della gloria. Talento Apice Spada della gloria. Spada della gloria"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Sword of Glory.md"
 toc: false

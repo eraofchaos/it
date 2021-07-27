@@ -2,7 +2,7 @@
 title: "Coda incantata"
 permalink: /equipment/Enchanted Tail/
 excerpt: "Era of Chaos Coda incantata. Coda incantata"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Enchanted Tail.md"
 toc: false

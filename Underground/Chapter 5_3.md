@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 5 - 5-3 Lunga vita alla Regina!"
 permalink: /Underground/Chapter 5_3/
 excerpt: "Capitolo 5 - 3. Era of Chaos  Sottosuolo - Capitolo 5_3. 5-3 Lunga vita alla Regina!"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 5_3.md"
 toc: false

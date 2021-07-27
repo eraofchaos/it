@@ -3,7 +3,7 @@ title: "Arcimago"
 permalink: /units/Arch Mage/
 excerpt: "Era of Chaos Arcimago. Arcimago Unità. Arcimago. Era of Chaos Solo gli incantatori più potenti possono fregiarsi del titolo di Mago. I loro incantesimi danno un vantaggio notevole ai loro alleati."
 unitID: 604
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Arcimago"
 toc: true

@@ -2,7 +2,7 @@
 title: "Zanna avvelenata"
 permalink: /equipment/Fatal Poison Fang/
 excerpt: "Era of Chaos Zanna avvelenata. Zanna avvelenata"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Fatal Poison Fang.md"
 toc: false

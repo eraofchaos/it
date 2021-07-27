@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-7 Scacciare il nemico"
 permalink: /Main Story/Chapter 12_7/
 excerpt: "Capitolo 12 - 7. Era of Chaos  Storia principale - Capitolo 12_7. 12-7 Scacciare il nemico"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 12_7.md"
 toc: false

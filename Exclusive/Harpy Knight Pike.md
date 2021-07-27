@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Harpy)"
 permalink: /Exclusive/Harpy Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Arpia Esclusivo."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Harpy Carica impetuosa.md"
 toc: false

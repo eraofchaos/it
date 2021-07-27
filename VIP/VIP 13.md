@@ -2,7 +2,7 @@
 title: "VIP - VIP 13"
 permalink: /VIP/VIP 13/
 excerpt: "Era of Chaos  Sistema VIP. VIP 13"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "VIP 13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Esclusivo - Lama celata (Assassin)"
 permalink: /Exclusive/Assassin Hidden Blade/
 excerpt: "Era of Chaos Lama celata. Lama celata. Era of Chaos Esclusivo Lama celata. Assassino Esclusivo."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Assassin Lama celata.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-6 Negromanzia"
 permalink: /Main Story/Chapter 20_6/
 excerpt: "Capitolo 20 - 6. Era of Chaos  Storia principale - Capitolo 20_6. 20-6 Negromanzia"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 20_6.md"
 toc: false

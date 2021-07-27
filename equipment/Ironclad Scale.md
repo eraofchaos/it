@@ -2,7 +2,7 @@
 title: "Scaglia ferrea"
 permalink: /equipment/Ironclad Scale/
 excerpt: "Era of Chaos Scaglia ferrea. Scaglia ferrea"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Ironclad Scale.md"
 toc: false

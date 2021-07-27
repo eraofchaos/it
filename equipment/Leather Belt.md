@@ -2,7 +2,7 @@
 title: "Cintura di cuoio"
 permalink: /equipment/Leather Belt/
 excerpt: "Era of Chaos Cintura di cuoio. Cintura di cuoio"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Leather Belt.md"
 toc: false

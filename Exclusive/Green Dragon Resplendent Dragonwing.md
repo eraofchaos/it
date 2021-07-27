@@ -2,7 +2,7 @@
 title: "Esclusivo - Ala di drago splendente (Green Dragon)"
 permalink: /Exclusive/Green Dragon Resplendent Dragonwing/
 excerpt: "Era of Chaos Ala di drago splendente. Ala di drago splendente. Era of Chaos Esclusivo Ala di drago splendente. Drago verde Esclusivo."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Green Dragon Ala di drago splendente.md"
 toc: false

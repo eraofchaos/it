@@ -2,7 +2,7 @@
 title: "Maestro pescatore"
 permalink: /Fishing Master/
 excerpt: "Era of Chaos  Maestro pescatore - []　　Egregio Signore, ecco le tue ricompense per il completamento di una partita a Maestro pescatore. Controlla che sia tutto in regola.[]"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "index.md"
 toc: false

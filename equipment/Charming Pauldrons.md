@@ -2,7 +2,7 @@
 title: "Spallacci stregati"
 permalink: /equipment/Charming Pauldrons/
 excerpt: "Era of Chaos Spallacci stregati. Spallacci stregati"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Charming Pauldrons.md"
 toc: false

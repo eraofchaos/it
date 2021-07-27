@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 32  Settimana della Torre
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **9 Aug** | **5x [Gremlin](/ItemsIT/unt_235/)**  | Un gruppo di Gremlin è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **10 Aug** | **3x [Gargolla di pietra](/ItemsIT/unt_236/)**  | Un gruppo di Gargolle di pietra è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **11 Aug** | **100x <i class="fas fa-gem"/>**  | I tuoi studi alchemici ti hanno riservato delle sorprese inaspettate! |
+  | **12 Aug** | **3x [Golem di ferro](/ItemsIT/unt_237/)**  | Un gruppo di Golem di ferro è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **13 Aug** | **3x [Scrigno Unità Torre](/ItemsIT/con_1274/)**  | Hai scoperto una serie di splendidi scrigni nel laboratorio arcano della Torre! |
+  | **14 Aug** | **3x [Mago](/ItemsIT/unt_238/)**  | Un gruppo di Maghi è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **15 Aug** | **5x [Solmyr](/ItemsIT/her_386/)**  | I tuoi studi sulle arti arcane hanno incuriosito Solmyr, che ha deciso di unirsi al tuo esercito! |
+
 
 #### 2021 Week 31  Settimana della Roccaforte
 

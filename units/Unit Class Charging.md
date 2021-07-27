@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Class Charging -  Units"
 permalink: /units/Unit Class Charging/
 excerpt: "Era of Chaos Unit Class Charging. Unit Class Charging. List of Unit Class in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Unit Class Charging"
 toc: false
@@ -16,7 +16,7 @@ classes: wide
   | 2 | ![Segugio infernale](/images/u/ti_santouquan.jpg) | [Segugio infernale](/it/units/Hell Hound/) | Incursione | - | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 77.8 | 827 |   -   |
   | 3 | ![Addestratore di squali](/images/u/ti_xunshashi.jpg) | [Addestratore di squali](/it/units/Shark Trainer/) | Incursione | - | SSR | x1 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 792.0 | 5430 |  Cavalcasquali  |
   | 4 | ![Arpia](/images/u/ti_yingshenren.jpg) | [Arpia](/it/units/Harpy/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Arpia deforme  |
-  | 5 | ![Grifone](/images/u/ti_shijiu.jpg) | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifone reale  |
+  | 5 | ![Grifone](/images/u/ti_shijiu.jpg) | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  Grifone reale  |
   | 6 | ![Catafratto](/images/u/ti_qishi.jpg) | [Catafratto](/it/units/Cavalier/) | Incursione | + | SR | x4 | <i class="fas fa-star"/> | + | 79.4 | 811 |  Cavalieri campioni  |
   | 7 | ![Manticora](/images/u/ti_shixie.jpg) | [Manticora](/it/units/Manticore/) | Incursione | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 174.9 | 1917 |  Scorpicora  |
   | 8 | ![Driade](/images/u/ti_mofaxianling.jpg) | [Driade](/it/units/Sprite/) | Incursione | + | R | x4 | <i class="fas fa-star"/> | - | 69.5 | 993 |  Mago elfico  |

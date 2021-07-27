@@ -2,7 +2,7 @@
 title: "Esclusivo - Carica impetuosa (Griffin)"
 permalink: /Exclusive/Griffin Knight Pike/
 excerpt: "Era of Chaos Carica impetuosa. Carica impetuosa. Era of Chaos Esclusivo Carica impetuosa. Grifone Esclusivo."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Griffin Carica impetuosa.md"
 toc: false
@@ -21,7 +21,7 @@ classes: wide
 
  **Type:** Carica
 
- **Open:** -
+ **Open:** +
 
  **Power:** 1510
 

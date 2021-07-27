@@ -2,7 +2,7 @@
 title: "Apice degli Eroi. Talento Apice - Apice degli Eroi"
 permalink: /PeakTalent/Peak of Heroes/
 excerpt: "Era of Chaos Talento Apice Apice degli Eroi. Talento Apice Apice degli Eroi. Apice degli Eroi"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Peak of Heroes.md"
 toc: false

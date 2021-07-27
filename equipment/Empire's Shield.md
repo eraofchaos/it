@@ -2,7 +2,7 @@
 title: "Scudo dell'Impero"
 permalink: /equipment/Empire's Shield/
 excerpt: "Era of Chaos Scudo dell'Impero. Scudo dell'Impero"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Empire's Shield.md"
 toc: false

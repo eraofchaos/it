@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-1 Il regime di Nighon"
 permalink: /Main Story/Chapter 25_1/
 excerpt: "Capitolo 25 - 1. Era of Chaos  Storia principale - Capitolo 25_1. 25-1 Il regime di Nighon"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 25_1.md"
 toc: false

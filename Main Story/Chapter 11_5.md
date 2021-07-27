@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-5 Castello sotto assedio"
 permalink: /Main Story/Chapter 11_5/
 excerpt: "Capitolo 11 - 5. Era of Chaos  Storia principale - Capitolo 11_5. 11-5 Castello sotto assedio"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 11_5.md"
 toc: false

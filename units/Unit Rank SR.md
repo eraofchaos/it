@@ -2,7 +2,7 @@
 title: "Era of Chaos - Unit Rank SR -  Units"
 permalink: /units/Unit Rank SR/
 excerpt: "Era of Chaos Unit Rank SR. Unit Rank SR. List of Unit Rank in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Unit Rank SR"
 toc: false
@@ -30,7 +30,7 @@ classes: wide
   | 16 | ![Arpia](/images/u/ti_yingshenren.jpg) | [Arpia](/it/units/Harpy/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 74.0 | 860 |  Arpia deforme  |
   | 17 | ![Genio](/images/u/ti_shenguai.jpg) | [Genio](/it/units/Genie/) | Incantatore | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 102.6 | 662 |  Genio superiore  |
   | 18 | ![Sirena](/images/u/ti_meirenyu.jpg) | [Sirena](/it/units/Mermaid/) | Incantatore | - | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 185.0 | 1648 |   -   |
-  | 19 | ![Grifone](/images/u/ti_shijiu.jpg) | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 151.4 | 1850 |  Grifone reale  |
+  | 19 | ![Grifone](/images/u/ti_shijiu.jpg) | [Grifone](/it/units/Griffin/) | Incursione | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/> | + | 151.4 | 1850 |  Grifone reale  |
   | 20 | ![Osservatore](/images/u/ti_xieyan.jpg) | [Osservatore](/it/units/Beholder/) | Incantatore | + | SR | x9 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | - | 115.8 | 744 |  Occhio del Diavolo  |
   | 21 | ![Spadaccino](/images/u/ti_shizijun.jpg) | [Spadaccino](/it/units/Swordsman/) | Difesa | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/> | - | 54.6 | 1324 |  Crociato  |
   | 22 | ![Medusa](/images/u/ti_meidusha.jpg) | [Medusa](/it/units/Medusa/) | A distanza | + | SR | x4 | <i class="fas fa-star"/><i class="fas fa-star"/><i class="fas fa-star"/> | + | 202.0 | 1144 |  Regina Medusa  |

@@ -3,7 +3,7 @@ title: "Campione oscuro"
 permalink: /units/Dark Champion/
 excerpt: "Era of Chaos Campione oscuro. Campione oscuro Unità. null. Era of Chaos Il Re Immortale, nonché Signore dell'Oscurità. Dimentico di ogni pietà, massacra gli esseri viventi per mieterne le anime."
 unitID: 309
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Campione oscuro"
 toc: true
@@ -229,7 +229,7 @@ toc: true
 
  **Rush:** 1
 
- **Speedattack:** 120
+ **Speedattack:** 100
 
  **Attack Show:** 8.0
 
@@ -253,7 +253,7 @@ toc: true
 
  **label1:** 1
 
- **speedmove:** 100
+ **speedmove:** 50
 
  **posclass:** 1
 

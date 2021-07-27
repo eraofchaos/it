@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 28 - 28-2  Progettare e creare"
 permalink: /Underground/Chapter 28_2/
 excerpt: "Capitolo 28 - 2. Era of Chaos  Sottosuolo - Capitolo 28_2. 28-2  Progettare e creare"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 28_2.md"
 toc: false

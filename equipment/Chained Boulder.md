@@ -2,7 +2,7 @@
 title: "Cascata di massi"
 permalink: /equipment/Chained Boulder/
 excerpt: "Era of Chaos Cascata di massi. Cascata di massi"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chained Boulder.md"
 toc: false

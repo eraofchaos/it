@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Castle"
 permalink: /Exclusive/Exclusive Castle/
 excerpt: "Era of Chaos Esclusivo Castle. Esclusivo Castle. List of Esclusivo Castle in Era of Chaos"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Exclusive Castle"
 toc: false
@@ -19,7 +19,7 @@ classes: wide
   |:---|:--------------------|:-------------:|:-----:|:---------:|:---------------------:|:-------:|
   | 1  | [Picchiere](/it/units/Pikeman/) | [Spada](/it/Exclusive/Pikeman Sword/) | - | Carica | [Token della Spada](/ItemsIT/con_912/) | - |
   | 2  | [Tiratore scelto](/it/units/Marksman/) | [Arco lungo](/it/Exclusive/Marksman Long Bow/) | + | Carica | [Token Arco lungo](/ItemsIT/con_914/) | - |
-  | 3  | [Grifone](/it/units/Griffin/) | [Carica impetuosa](/it/Exclusive/Griffin Knight Pike/) | - | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |
+  | 3  | [Grifone](/it/units/Griffin/) | [Carica impetuosa](/it/Exclusive/Griffin Knight Pike/) | + | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |
   | 4  | [Spadaccino](/it/units/Swordsman/) | [Scudo dell'Iride](/it/Exclusive/Swordsman Iris Shield/) | - | Carica | [Token Scudo dell'Iride](/ItemsIT/con_913/) | - |
   | 5  | [Monaco](/it/units/Monk/) | [Cantico arcano](/it/Exclusive/Monk Arcane Chant/) | + | Carica | [Token Cantico arcano](/ItemsIT/con_915/) | - |
   | 6  | [Catafratto](/it/units/Cavalier/) | [Carica impetuosa](/it/Exclusive/Cavalier Knight Pike/) | + | Carica | [Token Carica impetuosa](/ItemsIT/con_916/) | - |

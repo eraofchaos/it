@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 8 Terre di confine"
 permalink: /Main Story/Chapter 8/
 excerpt: "Capitolo 8. Era of Chaos  Storia principale - Capitolo 8. Terre di confine"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 8.md"
 toc: false

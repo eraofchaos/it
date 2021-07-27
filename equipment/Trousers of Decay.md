@@ -2,7 +2,7 @@
 title: "Pantaloni della Rovina"
 permalink: /equipment/Trousers of Decay/
 excerpt: "Era of Chaos Pantaloni della Rovina. Pantaloni della Rovina"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Trousers of Decay.md"
 toc: false

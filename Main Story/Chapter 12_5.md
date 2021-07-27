@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 12 - 12-5 L'esercito avanza"
 permalink: /Main Story/Chapter 12_5/
 excerpt: "Capitolo 12 - 5. Era of Chaos  Storia principale - Capitolo 12_5. 12-5 L'esercito avanza"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 12_5.md"
 toc: false

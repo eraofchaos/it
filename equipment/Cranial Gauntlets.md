@@ -2,7 +2,7 @@
 title: "Guanti cranici"
 permalink: /equipment/Cranial Gauntlets/
 excerpt: "Era of Chaos Guanti cranici. Guanti cranici"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Cranial Gauntlets.md"
 toc: false

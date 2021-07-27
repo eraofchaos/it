@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 28 - 28-4 La mangia-uomini"
 permalink: /Main Story/Chapter 28_4/
 excerpt: "Capitolo 28 - 4. Era of Chaos  Storia principale - Capitolo 28_4. 28-4 La mangia-uomini"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 28_4.md"
 toc: false

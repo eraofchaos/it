@@ -2,7 +2,7 @@
 title: "Manufatti - Cappello dell'Incantatore - Tomo della Magia dell'Acqua"
 permalink: /artifacts/Tome of Water Magic/
 excerpt: "Era of Chaos  Cappello dell'Incantatore - Tomo della Magia dell'Acqua. Un libro di incantesimi sulla Magia dell'Acqua di livello avanzato. Un dono per te da parte di Adelaide. Uno dei componenti del Cappello dell'Incantatore."
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Tome of Water Magic.md"
 toc: false

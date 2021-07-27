@@ -2,7 +2,7 @@
 title: "Sistema VIP"
 permalink: /VIP/
 excerpt: "Era of Chaos  Sistema VIP - Sono in arrivo diversi benefici permanenti!"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "index.md"
 toc: false
@@ -18,7 +18,7 @@ classes: wide
   | 3 | ![VIP 3](/images/x/chatPri_vipLv3.png) | [VIP 3](/it/VIP/VIP 3/) | **500** | **1x** [Pacchetto premium V3](/ItemsIT/con_1299/) |
   | 4 | ![VIP 4](/images/x/chatPri_vipLv4.png) | [VIP 4](/it/VIP/VIP 4/) | **1000** | **1x** [Pacchetto premium V4](/ItemsIT/con_1300/) |
   | 5 | ![VIP 5](/images/x/chatPri_vipLv5.png) | [VIP 5](/it/VIP/VIP 5/) | **2000** | **1x** [Pacchetto premium V5](/ItemsIT/con_1301/) |
-  | 6 | ![VIP 6](/images/x/chatPri_vipLv6.png) | [VIP 6](/it/VIP/VIP 6/) | **3000** | **1x** [Pacchetto premium V6](/ItemsIT/con_1302/) |
+  | 6 | ![VIP 6](/images/x/chatPri_vipLv6.png) | [VIP 6](/it/VIP/VIP 6/) | **3000** | **1x** [Pacchetto premium V6](/it/Items/con_2225/) |
   | 7 | ![VIP 7](/images/x/chatPri_vipLv7.png) | [VIP 7](/it/VIP/VIP 7/) | **5000** | **1x** [Pacchetto premium V7](/ItemsIT/con_1303/) |
   | 8 | ![VIP 8](/images/x/chatPri_vipLv8.png) | [VIP 8](/it/VIP/VIP 8/) | **7000** | **1x** [Pacchetto premium V8](/ItemsIT/con_1304/) |
   | 9 | ![VIP 9](/images/x/chatPri_vipLv9.png) | [VIP 9](/it/VIP/VIP 9/) | **10000** | **1x** [Pacchetto premium V9](/ItemsIT/con_1305/) |

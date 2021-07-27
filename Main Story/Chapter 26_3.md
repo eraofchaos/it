@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 26 - 26-3 Laghi oscuri"
 permalink: /Main Story/Chapter 26_3/
 excerpt: "Capitolo 26 - 3. Era of Chaos  Storia principale - Capitolo 26_3. 26-3 Laghi oscuri"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 26_3.md"
 toc: false

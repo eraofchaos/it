@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 25 - 25-4 Guarigione"
 permalink: /Underground/Chapter 25_4/
 excerpt: "Capitolo 25 - 4. Era of Chaos  Sottosuolo - Capitolo 25_4. 25-4 Guarigione"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Chapter 25_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Squama indistruttibile"
 permalink: /equipment/Adamantine Scale/
 excerpt: "Era of Chaos Squama indistruttibile. Squama indistruttibile"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Adamantine Scale.md"
 toc: false

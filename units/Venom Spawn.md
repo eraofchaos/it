@@ -3,7 +3,7 @@ title: "Progenie velenosa"
 permalink: /units/Venom Spawn/
 excerpt: "Era of Chaos Progenie velenosa. Progenie velenosa Unità. null. Era of Chaos Questi demoni sono nati tra le ombre e le fiamme delle profondità dell'inferno. Secondo le leggende, essi rappresentano gli incubi più terrificanti, e inceneriscono i campi di battaglia con le fiamme del peccato."
 unitID: 509
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Progenie velenosa"
 toc: true

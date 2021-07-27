@@ -2,7 +2,7 @@
 title: "Addestramento balistico. Talento Apice - Addestramento balistico"
 permalink: /PeakTalent/Gunnery Training/
 excerpt: "Era of Chaos Talento Apice Addestramento balistico. Talento Apice Addestramento balistico. Addestramento balistico"
-last_modified_at: 2021-07-21
+last_modified_at: 2021-07-27
 locale: it
 ref: "Gunnery Training.md"
 toc: false
