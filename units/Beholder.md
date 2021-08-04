@@ -3,7 +3,7 @@ title: "Osservatore"
 permalink: /units/Beholder/
 excerpt: "Era of Chaos Osservatore. Osservatore Unità. Occhio del Diavolo. Era of Chaos Intelligentissimi mostri dai numerosi occhi. Per loro, ogni essere vivente è un potenziale schiavo."
 unitID: 703
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Osservatore"
 toc: true

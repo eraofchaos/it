@@ -2,7 +2,7 @@
 title: "Backup - Assalto caric."
 permalink: /Backup/Charge Offensive/
 excerpt: "Era of Chaos  Assalto caric."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Charge Offensive.md"
 toc: false

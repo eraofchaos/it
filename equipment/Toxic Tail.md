@@ -2,7 +2,7 @@
 title: "Coda velenosa"
 permalink: /equipment/Toxic Tail/
 excerpt: "Era of Chaos Coda velenosa. Coda velenosa"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Toxic Tail.md"
 toc: false

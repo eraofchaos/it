@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 17 - 17-12 Indole maligna"
 permalink: /Main Story/Chapter 17_12/
 excerpt: "Capitolo 17 - 12. Era of Chaos  Storia principale - Capitolo 17_12. 17-12 Indole maligna"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 17_12.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 23 - 23-7 L'ammazzadraghi"
 permalink: /Main Story/Chapter 23_7/
 excerpt: "Capitolo 23 - 7. Era of Chaos  Storia principale - Capitolo 23_7. 23-7 L'ammazzadraghi"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 23_7.md"
 toc: false

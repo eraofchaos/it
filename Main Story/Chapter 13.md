@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 Dal giorno alla notte"
 permalink: /Main Story/Chapter 13/
 excerpt: "Capitolo 13. Era of Chaos  Storia principale - Capitolo 13. Dal giorno alla notte"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Manufatti - Ferro Portafortuna"
 permalink: /artifacts/Lucky Horseshoe/
 excerpt: "Era of Chaos  Ferro Portafortuna. Ferro Portafortuna Reliquia sacra ricolma di forza. Può aumentare il valore d'attacco di un esercito."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Lucky Horseshoe.md"
 toc: false

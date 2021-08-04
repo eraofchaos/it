@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 20 - 20-3 Il discepolo di Dio"
 permalink: /Underground/Chapter 20_3/
 excerpt: "Capitolo 20 - 3. Era of Chaos  Sottosuolo - Capitolo 20_3. 20-3 Il discepolo di Dio"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 20_3.md"
 toc: false

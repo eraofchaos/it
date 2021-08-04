@@ -2,7 +2,7 @@
 title: "Cintura resistente e flessibile"
 permalink: /equipment/Strong and Flexible Waistplate/
 excerpt: "Era of Chaos Cintura resistente e flessibile. Cintura resistente e flessibile"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Strong and Flexible Waistplate.md"
 toc: false

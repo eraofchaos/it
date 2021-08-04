@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-1 Guerra di Restaurazione"
 permalink: /Main Story/Chapter 11_1/
 excerpt: "Capitolo 11 - 1. Era of Chaos  Storia principale - Capitolo 11_1. 11-1 Guerra di Restaurazione"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 11_1.md"
 toc: false

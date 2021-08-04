@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 4 - 4-11 Torre Silverwing"
 permalink: /Main Story/Chapter 4_11/
 excerpt: "Capitolo 4 - 11. Era of Chaos  Storia principale - Capitolo 4_11. 4-11 Torre Silverwing"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 4_11.md"
 toc: false

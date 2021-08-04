@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 3 - 3-5 Illuminazione"
 permalink: /Underground/Chapter 3_5/
 excerpt: "Capitolo 3 - 5. Era of Chaos  Sottosuolo - Capitolo 3_5. 3-5 Illuminazione"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 3_5.md"
 toc: false

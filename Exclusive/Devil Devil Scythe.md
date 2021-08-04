@@ -2,7 +2,7 @@
 title: "Esclusivo - Falce diabolica (Devil)"
 permalink: /Exclusive/Devil Devil Scythe/
 excerpt: "Era of Chaos Falce diabolica. Falce diabolica. Era of Chaos Esclusivo Falce diabolica. Diavolo Esclusivo."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Devil Falce diabolica.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 22 - 22-3 Carne da macello"
 permalink: /Underground/Chapter 22_3/
 excerpt: "Capitolo 22 - 3. Era of Chaos  Sottosuolo - Capitolo 22_3. 22-3 Carne da macello"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 22_3.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 3 - 3-4 La cripta dell'eroe"
 permalink: /Main Story/Chapter 3_4/
 excerpt: "Capitolo 3 - 4. Era of Chaos  Storia principale - Capitolo 3_4. 3-4 La cripta dell'eroe"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 3_4.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Corno letale di bue"
 permalink: /equipment/Deadly Ox Horn/
 excerpt: "Era of Chaos Corno letale di bue. Corno letale di bue"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Deadly Ox Horn.md"
 toc: false

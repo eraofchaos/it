@@ -2,7 +2,7 @@
 title: "Occhio bestiale"
 permalink: /equipment/Beastly Eye/
 excerpt: "Era of Chaos Occhio bestiale. Occhio bestiale"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Beastly Eye.md"
 toc: false

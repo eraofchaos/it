@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 7 - 7-1 Una minaccia nascosta"
 permalink: /Main Story/Chapter 7_1/
 excerpt: "Capitolo 7 - 1. Era of Chaos  Storia principale - Capitolo 7_1. 7-1 Una minaccia nascosta"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 7_1.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Corno a conchiglia"
 permalink: /equipment/Shell Horn/
 excerpt: "Era of Chaos Corno a conchiglia. Corno a conchiglia"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Shell Horn.md"
 toc: false

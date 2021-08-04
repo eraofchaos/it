@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 11 - 11-3 Una strada difficile"
 permalink: /Main Story/Chapter 11_3/
 excerpt: "Capitolo 11 - 3. Era of Chaos  Storia principale - Capitolo 11_3. 11-3 Una strada difficile"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 11_3.md"
 toc: false

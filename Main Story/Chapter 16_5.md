@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-5 La collina del Gremlin"
 permalink: /Main Story/Chapter 16_5/
 excerpt: "Capitolo 16 - 5. Era of Chaos  Storia principale - Capitolo 16_5. 16-5 La collina del Gremlin"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 16_5.md"
 toc: false

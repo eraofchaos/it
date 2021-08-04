@@ -2,7 +2,7 @@
 title: "Ponte d'osservazione"
 permalink: /equipment/Observation Deck/
 excerpt: "Era of Chaos Ponte d'osservazione. Ponte d'osservazione"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Observation Deck.md"
 toc: false

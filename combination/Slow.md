@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Rallentamento"
 permalink: /combination/Slow/
 excerpt: "Informazioni combinazione - Rallentamento. Units and Heroes Formation."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Rallentamento.md"
 toc: false

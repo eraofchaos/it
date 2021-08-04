@@ -2,7 +2,7 @@
 title: "Corno infuocato"
 permalink: /equipment/Horn of Scorching/
 excerpt: "Era of Chaos Corno infuocato. Corno infuocato"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Horn of Scorching.md"
 toc: false

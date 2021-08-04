@@ -2,11 +2,24 @@
 title: "Ricompense giornaliere"
 permalink: /Weekly Sign Rewards/
 excerpt: "Era of Chaos  Weekly Ricompense giornaliere."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "index.md"
 toc: true
 ---
+
+#### 2021 Week 33  Settimana della Fortezza
+
+  |  Date  |  Ricompensa  |  Ricompensa Descrizione    |
+  |:-------|:---------------|:------------------------:|
+  | **16 Aug** | **5x [Gnoll](/ItemsIT/unt_253/)**  | Un gruppo di Gnoll è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **17 Aug** | **5x [Scrigno Fortezza](/ItemsIT/con_1277/)**  | Le tue truppe della Fortezza ti portano in dono un gran numero di scrigni del tesoro preziosi! |
+  | **18 Aug** | **100x <i class="fas fa-gem"/>**  | Le tue truppe hanno trovato un gran numero di tesori nelle torbide acque della palude! |
+  | **19 Aug** | **3x [Uomo lucertola](/ItemsIT/unt_254/)**  | Un gruppo di Uomini lucertola è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **20 Aug** | **5x [Rune roster Fortezza](/ItemsIT/con_818/)**  | Le tue truppe dell'Inferno ti portano in dono un gran numero di rune preziose! |
+  | **21 Aug** | **3x [Mosca serpente](/ItemsIT/unt_255/)**  | Un gruppo di Mosche serpente è entrato a far parte del tuo esercito, rendendolo più forte! |
+  | **22 Aug** | **5x [Korbac](/ItemsIT/her_394/)**  | Un coraggioso Domatore ha fatto visita ai tuoi territori! |
+
 
 #### 2021 Week 32  Settimana della Torre
 

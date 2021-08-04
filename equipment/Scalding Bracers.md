@@ -2,7 +2,7 @@
 title: "Bracciali ustionanti"
 permalink: /equipment/Scalding Bracers/
 excerpt: "Era of Chaos Bracciali ustionanti. Bracciali ustionanti"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Scalding Bracers.md"
 toc: false

@@ -3,7 +3,7 @@ title: "Mantide"
 permalink: /units/Mantis/
 excerpt: "Era of Chaos Mantide. Mantide Unità. null. Era of Chaos Le sue immense, affilatissime lame la distinguono come una vera creatura leggendaria. Gli elfi di Vori hanno donato una resistenza preternaturale alla Mantide."
 unitID: 209
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Mantide"
 toc: true

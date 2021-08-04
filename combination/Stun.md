@@ -2,7 +2,7 @@
 title: "Informazioni combinazione for Stordimento"
 permalink: /combination/Stun/
 excerpt: "Informazioni combinazione - Stordimento. Units and Heroes Formation."
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Stordimento.md"
 toc: false

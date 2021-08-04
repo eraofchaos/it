@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 16 - 16-2 Cacciatore di taglie"
 permalink: /Main Story/Chapter 16_2/
 excerpt: "Capitolo 16 - 2. Era of Chaos  Storia principale - Capitolo 16_2. 16-2 Cacciatore di taglie"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 16_2.md"
 toc: false

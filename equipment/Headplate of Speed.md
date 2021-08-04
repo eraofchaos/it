@@ -2,7 +2,7 @@
 title: "Copricapo della velocità"
 permalink: /equipment/Headplate of Speed/
 excerpt: "Era of Chaos Copricapo della velocità. Copricapo della velocità"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Headplate of Speed.md"
 toc: false

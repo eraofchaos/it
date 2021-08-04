@@ -2,7 +2,7 @@
 title: "Elmo cornuto"
 permalink: /equipment/Horned Helmet/
 excerpt: "Era of Chaos Elmo cornuto. Elmo cornuto"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Horned Helmet.md"
 toc: false

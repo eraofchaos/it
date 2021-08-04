@@ -2,7 +2,7 @@
 title: "Avatar - Signore Supremo dell'abisso"
 permalink: /Avatars/Overlord of the Deep/
 excerpt: "Era of Chaos  Signore Supremo dell'abisso"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Overlord of the Deep.md"
 toc: false

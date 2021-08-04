@@ -2,7 +2,7 @@
 title: "Era of Chaos - Esclusivo Stronghold"
 permalink: /Exclusive/Exclusive Stronghold/
 excerpt: "Era of Chaos Esclusivo Stronghold. Esclusivo Stronghold. List of Esclusivo Stronghold in Era of Chaos"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Exclusive Stronghold"
 toc: false
@@ -24,5 +24,5 @@ classes: wide
   | 5  | [Roc](/it/units/Roc/) | [Cantico arcano](/it/Exclusive/Roc Arcane Chant/) | - | Carica | [Token Cantico arcano](/ItemsIT/con_915/) | - |
   | 6  | [Ciclope](/it/units/Cyclops/) | [Arco lungo](/it/Exclusive/Cyclops Long Bow/) | + | Carica | [Token Arco lungo](/ItemsIT/con_914/) | - |
   | 7  | [Behemoth](/it/units/Behemoth/) | [Spirito sanguinario](/it/Exclusive/Behemoth Bloodthirsty Spirit/) | - | Supporto | [Token Spirito sanguinario](/ItemsIT/con_982/) | [Skin speciale Spirito sanguinario](/ItemsIT/con_650/) |
-  | 8  | [Berserker](/it/units/Berserker/) | [Ascia del Berserker](/it/Exclusive/Berserker Berserker's Axe/) | - | Supporto | [Token Ascia del Berserker](/ItemsIT/con_983/) | [Skin speciale Ascia del Berserker](/ItemsIT/con_651/) |
+  | 8  | [Berserker](/it/units/Berserker/) | [Ascia del Berserker](/it/Exclusive/Berserker Berserker's Axe/) | + | Supporto | [Token Ascia del Berserker](/ItemsIT/con_983/) | [Skin speciale Ascia del Berserker](/ItemsIT/con_651/) |
   | 9  | [Troll](/it/units/Troll/) | - | - | - | none | none |

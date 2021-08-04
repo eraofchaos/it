@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 13 - 13-10 Rinforzi"
 permalink: /Main Story/Chapter 13_10/
 excerpt: "Capitolo 13 - 10. Era of Chaos  Storia principale - Capitolo 13_10. 13-10 Rinforzi"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 13_10.md"
 toc: false

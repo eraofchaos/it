@@ -2,7 +2,7 @@
 title: "Avatar - Nata dalle ceneri"
 permalink: /Avatars/Born from the Ashes/
 excerpt: "Era of Chaos  Nata dalle ceneri"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Born from the Ashes.md"
 toc: false

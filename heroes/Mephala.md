@@ -4,7 +4,7 @@ permalink: /heroes/Mephala/
 excerpt: "Era of Chaos Mephala. Mephala. Cresciuta come guerriera nell'esercito dell'Erathia, Mephala ha un talento naturale per utilizzare il terreno a proprio vantaggio. Pur preferendo la quiete del suo pacifico villaggio, continua a combattere per proteggere la propria terra. "
 heroID: 60302
 QR: hero_60302
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Mephala"
 toc: true

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 25 - 25-10 Funghi"
 permalink: /Main Story/Chapter 25_10/
 excerpt: "Capitolo 25 - 10. Era of Chaos  Storia principale - Capitolo 25_10. 25-10 Funghi"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 25_10.md"
 toc: false

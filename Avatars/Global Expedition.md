@@ -2,7 +2,7 @@
 title: "Avatar - Spedizione globale"
 permalink: /Avatars/Global Expedition/
 excerpt: "Era of Chaos  Spedizione globale"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Global Expedition.md"
 toc: false

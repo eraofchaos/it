@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 24 - 24-15 Il regno incantato"
 permalink: /Main Story/Chapter 24_15/
 excerpt: "Capitolo 24 - 15. Era of Chaos  Storia principale - Capitolo 24_15. 24-15 Il regno incantato"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 24_15.md"
 toc: false

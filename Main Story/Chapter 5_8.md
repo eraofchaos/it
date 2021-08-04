@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-8 Una stretta via di fuga"
 permalink: /Main Story/Chapter 5_8/
 excerpt: "Capitolo 5 - 8. Era of Chaos  Storia principale - Capitolo 5_8. 5-8 Una stretta via di fuga"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 5_8.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Intento omicida. Talento Apice - Intento omicida"
 permalink: /PeakTalent/Murder Intent/
 excerpt: "Era of Chaos Talento Apice Intento omicida. Talento Apice Intento omicida. Intento omicida"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Murder Intent.md"
 toc: false

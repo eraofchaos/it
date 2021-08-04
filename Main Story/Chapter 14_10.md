@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 14 - 14-10 Il manipolatore nascosto"
 permalink: /Main Story/Chapter 14_10/
 excerpt: "Capitolo 14 - 10. Era of Chaos  Storia principale - Capitolo 14_10. 14-10 Il manipolatore nascosto"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 14_10.md"
 toc: false

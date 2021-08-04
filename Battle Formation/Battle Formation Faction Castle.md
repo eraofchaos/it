@@ -2,7 +2,7 @@
 title: "Formazione di battaglia Castello"
 permalink: /Battle Formation/Battle Formation Faction Castle
 excerpt: "Formazione di battaglia Castello"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "BattleFormationFactionCastle"
 toc: false

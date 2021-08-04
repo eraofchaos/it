@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 5 - 5-13 Un'impetuosa vendetta"
 permalink: /Main Story/Chapter 5_13/
 excerpt: "Capitolo 5 - 13. Era of Chaos  Storia principale - Capitolo 5_13. 5-13 Un'impetuosa vendetta"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 5_13.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 30 - 30-12 Il poligono delle palle di fuoco"
 permalink: /Main Story/Chapter 30_12/
 excerpt: "Capitolo 30 - 12. Era of Chaos  Storia principale - Capitolo 30_12. 30-12 Il poligono delle palle di fuoco"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 30_12.md"
 toc: false

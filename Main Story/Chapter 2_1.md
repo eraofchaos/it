@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 2 - 2-1 Mulini rossi"
 permalink: /Main Story/Chapter 2_1/
 excerpt: "Capitolo 2 - 1. Era of Chaos  Storia principale - Capitolo 2_1. 2-1 Mulini rossi"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 2_1.md"
 toc: false

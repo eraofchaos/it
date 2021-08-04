@@ -2,7 +2,7 @@
 title: "Elmo arrugginito"
 permalink: /equipment/Rusted Helmet/
 excerpt: "Era of Chaos Elmo arrugginito. Elmo arrugginito"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Rusted Helmet.md"
 toc: false

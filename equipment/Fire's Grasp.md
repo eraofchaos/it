@@ -2,7 +2,7 @@
 title: "Stretta del fuoco"
 permalink: /equipment/Fire's Grasp/
 excerpt: "Era of Chaos Stretta del fuoco. Stretta del fuoco"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Fire's Grasp.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Aiutante Mullich"
 permalink: /heroes/Adjutant Mullich/
 excerpt: "Era of Chaos  Aiutante Mullich"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Adjutant Mullich.md"
 QR: adhero_60101

@@ -2,7 +2,7 @@
 title: "Pelle ferrea"
 permalink: /equipment/Ironclad Skin/
 excerpt: "Era of Chaos Pelle ferrea. Pelle ferrea"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Ironclad Skin.md"
 toc: false

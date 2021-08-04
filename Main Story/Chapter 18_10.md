@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 18 - 18-10 Il passato"
 permalink: /Main Story/Chapter 18_10/
 excerpt: "Capitolo 18 - 10. Era of Chaos  Storia principale - Capitolo 18_10. 18-10 Il passato"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 18_10.md"
 toc: false

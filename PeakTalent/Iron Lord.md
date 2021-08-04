@@ -2,7 +2,7 @@
 title: "Signore del ferro. Talento Apice - Signore del ferro"
 permalink: /PeakTalent/Iron Lord/
 excerpt: "Era of Chaos Talento Apice Signore del ferro. Talento Apice Signore del ferro. Signore del ferro"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Iron Lord.md"
 toc: false

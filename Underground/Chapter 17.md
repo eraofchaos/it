@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 17 La liberazione dell'impero"
 permalink: /Underground/Chapter 17/
 excerpt: "Capitolo 17 La liberazione dell'impero. Era of Chaos  Sottosuolo - Capitolo 17. La liberazione dell'impero"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 17.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Avatar - Estate al fresco"
 permalink: /Avatars/Chilled-out Summer/
 excerpt: "Era of Chaos  Estate al fresco"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chilled-out Summer.md"
 toc: false

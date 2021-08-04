@@ -2,7 +2,7 @@
 title: "Cornice Avatar e Avatar"
 permalink: /Avatars/
 excerpt: "Era of Chaos  Cornice Avatar e Avatar. Cornice Avatar e Avatar"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "index.md"
 toc: false
@@ -102,18 +102,19 @@ classes: wide
   | 89 | ![Spedizione globale](/images/a/avatarFrame_201.png) | [Spedizione globale](/it/Avatars/Global Expedition/) | + | Cornice avatar Spedizione globale |
   | 90 | ![Tocco di un Dio Malvagio](/images/a/avatarFrame_88.png) | [Tocco di un Dio Malvagio](/it/Avatars/Evil God's Touch/) | + | Cornice avatar Tocco di un Dio Malvagio |
   | 91 | ![Torre](/images/a/avatarFrame_5.png) | [Torre](/it/Avatars/Tower/) | - | Cornice avatar Torre |
-  | 92 |  | [Tutto secondo i tuoi desideri](/it/Avatars/All Goes as You Wish/) | - | Cornice avatar Tutto secondo i tuoi desideri |
-  | 93 | ![Unknown Avatar Frame 1007](/images/a/avatarFrame_7.png) | [Unknown Avatar Frame 1007](/it/Avatars/Unknown Avatar Frame 1007/) | - |  |
-  | 94 | ![Unknown Avatar Frame 1008](/images/a/avatarFrame_8.png) | [Unknown Avatar Frame 1008](/it/Avatars/Unknown Avatar Frame 1008/) | - |  |
-  | 95 | ![Unknown Avatar Frame 1016](/images/a/avatarFrame_16.png) | [Unknown Avatar Frame 1016](/it/Avatars/Unknown Avatar Frame 1016/) | - |  |
-  | 96 | ![Unknown Avatar Frame 1022](/images/a/avatarFrame_22.png) | [Unknown Avatar Frame 1022](/it/Avatars/Unknown Avatar Frame 1022/) | - |  |
-  | 97 | ![Unknown Avatar Frame 1024](/images/a/avatarFrame_24.png) | [Unknown Avatar Frame 1024](/it/Avatars/Unknown Avatar Frame 1024/) | - |  |
-  | 98 | ![Unknown Avatar Frame 1035](/images/a/avatarFrame_35.png) | [Unknown Avatar Frame 1035](/it/Avatars/Unknown Avatar Frame 1035/) | - |  |
-  | 99 | ![Unknown Avatar Frame 1055](/images/a/avatarFrame_55.png) | [Unknown Avatar Frame 1055](/it/Avatars/Lucky Dog/) | - |  |
-  | 100 | ![Unknown Avatar Frame 1056](/images/a/avatarFrame_56.png) | [Unknown Avatar Frame 1056](/it/Avatars/Nian Monster/) | - |  |
-  | 101 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/it/Avatars/Unknown Avatar Frame 1066/) | - |  |
-  | 102 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/it/Avatars/Unknown Avatar Frame 1067/) | - |  |
-  | 103 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/it/Avatars/Unknown Avatar Frame 1069/) | - |  |
-  | 104 | ![Viticci portafortuna](/images/a/avatarFrame_92.png) | [Viticci portafortuna](/it/Avatars/Vines of Fortune/) | + | Cornice avatar Viticci del Destino |
-  | 105 | ![Viveur](/images/a/avatarFrame_31.png) | [Viveur](/it/Avatars/Social Butterfly/) | - |  |
-  | 106 | ![Volontà degli Dei](/images/a/avatarFrame_30.png) | [Volontà degli Dei](/it/Avatars/Will of the Gods/) | + | Cornice avatar Volontà degli Dei |
+  | 92 |  | [Tramontana impetuosa](/it/Avatars/Raging Northern Wind/) | + | Cornice avatar Tramontana impetuosa |
+  | 93 |  | [Tutto secondo i tuoi desideri](/it/Avatars/All Goes as You Wish/) | - | Cornice avatar Tutto secondo i tuoi desideri |
+  | 94 | ![Unknown Avatar Frame 1007](/images/a/avatarFrame_7.png) | [Unknown Avatar Frame 1007](/it/Avatars/Unknown Avatar Frame 1007/) | - |  |
+  | 95 | ![Unknown Avatar Frame 1008](/images/a/avatarFrame_8.png) | [Unknown Avatar Frame 1008](/it/Avatars/Unknown Avatar Frame 1008/) | - |  |
+  | 96 | ![Unknown Avatar Frame 1016](/images/a/avatarFrame_16.png) | [Unknown Avatar Frame 1016](/it/Avatars/Unknown Avatar Frame 1016/) | - |  |
+  | 97 | ![Unknown Avatar Frame 1022](/images/a/avatarFrame_22.png) | [Unknown Avatar Frame 1022](/it/Avatars/Unknown Avatar Frame 1022/) | - |  |
+  | 98 | ![Unknown Avatar Frame 1024](/images/a/avatarFrame_24.png) | [Unknown Avatar Frame 1024](/it/Avatars/Unknown Avatar Frame 1024/) | - |  |
+  | 99 | ![Unknown Avatar Frame 1035](/images/a/avatarFrame_35.png) | [Unknown Avatar Frame 1035](/it/Avatars/Unknown Avatar Frame 1035/) | - |  |
+  | 100 | ![Unknown Avatar Frame 1055](/images/a/avatarFrame_55.png) | [Unknown Avatar Frame 1055](/it/Avatars/Lucky Dog/) | - |  |
+  | 101 | ![Unknown Avatar Frame 1056](/images/a/avatarFrame_56.png) | [Unknown Avatar Frame 1056](/it/Avatars/Nian Monster/) | - |  |
+  | 102 | ![Unknown Avatar Frame 1066](/images/a/avatarFrame_66.png) | [Unknown Avatar Frame 1066](/it/Avatars/Unknown Avatar Frame 1066/) | - |  |
+  | 103 | ![Unknown Avatar Frame 1067](/images/a/avatarFrame_67.png) | [Unknown Avatar Frame 1067](/it/Avatars/Unknown Avatar Frame 1067/) | - |  |
+  | 104 | ![Unknown Avatar Frame 1069](/images/a/avatarFrame_69.png) | [Unknown Avatar Frame 1069](/it/Avatars/Unknown Avatar Frame 1069/) | - |  |
+  | 105 | ![Viticci portafortuna](/images/a/avatarFrame_92.png) | [Viticci portafortuna](/it/Avatars/Vines of Fortune/) | + | Cornice avatar Viticci del Destino |
+  | 106 | ![Viveur](/images/a/avatarFrame_31.png) | [Viveur](/it/Avatars/Social Butterfly/) | - |  |
+  | 107 | ![Volontà degli Dei](/images/a/avatarFrame_30.png) | [Volontà degli Dei](/it/Avatars/Will of the Gods/) | + | Cornice avatar Volontà degli Dei |

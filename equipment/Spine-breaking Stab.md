@@ -2,7 +2,7 @@
 title: "Spina dorsale spezzata"
 permalink: /equipment/Spine-breaking Stab/
 excerpt: "Era of Chaos Spina dorsale spezzata. Spina dorsale spezzata"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Spine-breaking Stab.md"
 toc: false

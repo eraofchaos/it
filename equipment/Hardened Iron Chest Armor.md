@@ -2,7 +2,7 @@
 title: "Corazza di ferro temprato"
 permalink: /equipment/Hardened Iron Chest Armor/
 excerpt: "Era of Chaos Corazza di ferro temprato. Corazza di ferro temprato"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Hardened Iron Chest Armor.md"
 toc: false

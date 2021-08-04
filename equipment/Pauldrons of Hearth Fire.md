@@ -2,7 +2,7 @@
 title: "Spallacci del Focolare"
 permalink: /equipment/Pauldrons of Hearth Fire/
 excerpt: "Era of Chaos Spallacci del Focolare. Spallacci del Focolare"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Pauldrons of Hearth Fire.md"
 toc: false

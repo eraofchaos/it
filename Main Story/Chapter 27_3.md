@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 27 - 27-3 La sala della quiescenza"
 permalink: /Main Story/Chapter 27_3/
 excerpt: "Capitolo 27 - 3. Era of Chaos  Storia principale - Capitolo 27_3. 27-3 La sala della quiescenza"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 27_3.md"
 toc: false

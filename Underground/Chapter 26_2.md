@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 26 - 26-2 Ardente gelosia"
 permalink: /Underground/Chapter 26_2/
 excerpt: "Capitolo 26 - 2. Era of Chaos  Sottosuolo - Capitolo 26_2. 26-2 Ardente gelosia"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 26_2.md"
 toc: false

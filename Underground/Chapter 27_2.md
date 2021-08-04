@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 27 - 27-2 Lo Gnomo artigiano"
 permalink: /Underground/Chapter 27_2/
 excerpt: "Capitolo 27 - 2. Era of Chaos  Sottosuolo - Capitolo 27_2. 27-2 Lo Gnomo artigiano"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 27_2.md"
 toc: false

@@ -2,7 +2,7 @@
 title: "Sottosuolo - Capitolo 19 Terreno neutrale"
 permalink: /Underground/Chapter 19/
 excerpt: "Capitolo 19 Terreno neutrale. Era of Chaos  Sottosuolo - Capitolo 19. Terreno neutrale"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 19.md"
 toc: false

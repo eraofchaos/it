@@ -2,7 +2,7 @@
 title: "Storia principale - Capitolo 20 - 20-2 Le tentazioni della magia"
 permalink: /Main Story/Chapter 20_2/
 excerpt: "Capitolo 20 - 2. Era of Chaos  Storia principale - Capitolo 20_2. 20-2 Le tentazioni della magia"
-last_modified_at: 2021-07-27
+last_modified_at: 2021-08-04
 locale: it
 ref: "Chapter 20_2.md"
 toc: false
